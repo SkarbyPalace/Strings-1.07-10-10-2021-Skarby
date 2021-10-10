@@ -20419,15 +20419,15 @@ my_function
 obj_darkcontroller_slash_Draw_0_gml_118_0
 DERECHA
 obj_darkcontroller_slash_Draw_0_gml_119_0
-UP
+ARRIBA
 obj_darkcontroller_slash_Draw_0_gml_120_0
-LEFT
+IZQUIERDA
 obj_darkcontroller_slash_Draw_0_gml_121_0
-CONFIRM
+CONFIRMAR
 obj_darkcontroller_slash_Draw_0_gml_122_0
 CANCELAR
 obj_darkcontroller_slash_Draw_0_gml_123_0
-MENU
+MENÚ
 obj_darkcontroller_slash_Draw_0_gml_124_0
 Resetear por defecto
 obj_darkcontroller_slash_Draw_0_gml_125_0
