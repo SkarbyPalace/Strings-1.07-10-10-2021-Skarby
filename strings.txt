@@ -14548,7 +14548,7 @@ startNextChapter
 continueChapter
 Capítulo 
  fue completado.
-Jugar Capítulo
+Jugar Capítulo 
 stringset2
 はクリア済みです。
 をプレイ
