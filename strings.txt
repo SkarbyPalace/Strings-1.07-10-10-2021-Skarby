@@ -7280,11 +7280,11 @@ scr_monstersetup_slash_scr_monstersetup_gml_953_0
 Maus
 scr_monstersetup_slash_scr_monstersetup_gml_965_0
 scr_monstersetup_slash_scr_monstersetup_gml_968_0
-TrapOne
+Atrapa uno
 scr_monstersetup_slash_scr_monstersetup_gml_974_0
-Upgrade
+Potenciar
 scr_monstersetup_slash_scr_monstersetup_gml_980_0
-TrapAll
+Atrapar a todos
 scr_monstersetup_slash_scr_monstersetup_gml_987_0
 Fear
 scr_monstersetup_slash_scr_monstersetup_gml_987_1
@@ -23814,19 +23814,19 @@ obj_maus_enemy_slash_Step_0_gml_134_0
 obj_maus_enemy_slash_Step_0_gml_135_0
 * Maus is keenly aware of the fear it invokes.
 obj_maus_enemy_slash_Step_0_gml_159_0
-* MAUS - It's just a little mouse living in a little house./%
+* MAUS - Es solo un ratoncito que vive en una casita./%
 obj_maus_enemy_slash_Step_0_gml_166_0
-* Press ~1 To Trap!!!
+* Presiona ~1 para atrapar!!!
 obj_maus_enemy_slash_Step_0_gml_177_0
-\E5* There's only one solution for a mouse!!/
+\E5* ¡¡¡Sólo hay una solución para un ratón!!/
 obj_maus_enemy_slash_Step_0_gml_178_0
-\EH* Here^1, kitty kitty!!/%
+\EH* Aquí^1, gatito gatito!!/%
 obj_maus_enemy_slash_Step_0_gml_188_0_b
-* Noelle complimented the enemies!/
+* ¡Noelle felicitó a los enemigos!/
 obj_maus_enemy_slash_Step_0_gml_190_0
-\E3* They're..^1. kind of cute^1, right...?/%
+\E3* Son..^1. algo lindos^1, cierto...?/%
 obj_maus_enemy_slash_Step_0_gml_188_0
-\EE* Th-the way it moves is just so..^1. so scary!/
+\EE* L-la forma en la que se mueve es tan..^1. tan aterrador!/
 obj_maus_enemy_slash_Step_0_gml_189_0
 \EE* It's disgusting!/
 obj_maus_enemy_slash_Step_0_gml_191_0
@@ -23838,39 +23838,39 @@ obj_maus_enemy_slash_Step_0_gml_197_0
 currentX
 currentY
 obj_maus_enemy_slash_Step_0_gml_251_0
-\EK* ...don't we just have to fight the cat now?/
+\EK* ...No tenemos que luchar contra el gato ahora?/
 obj_maus_enemy_slash_Step_0_gml_253_0
 obj_maus_enemy_slash_Step_0_gml_269_0
-* Press ~1 to trap all the enemies!
+* Presiona ~1 para atrapar a todos los enemigos!
 cancatch
 caught
 caughtamount
 obj_maus_enemy_slash_Step_0_gml_304_0
-* Didn't catch anything.../%
+* No atrapaste nada.../%
 obj_maus_enemy_slash_Step_0_gml_305_0
-* Caught the enemy!/%
+* ¡Atrapaste al enemigo!/%
 obj_maus_enemy_slash_Step_0_gml_306_0
-* Caught ~1 enemies!/%
+* ¡Atrapaste ~1 enemigos!/%
 obj_maus_enemy_slash_Step_0_gml_322_0
-* Susie got on all fours and chased the mouse around the room like an animal!!/%
+* Susie se puso a cuatro patas y persiguió al ratón por la habitación como un animal!!/%
 obj_maus_enemy_slash_Step_0_gml_322_1
-* Susie chased on all fours!!/%
+* Susie persiguio al ratón a cuatro patas!!/%
 obj_maus_enemy_slash_Step_0_gml_343_0
-* Ralsei started putting peanut butter on a spoon and put it in a trap!!/%
+* Ralsei empezó a poner mantequilla de maní en una cuchara y ponerla en ¡¡una trampa!!/%
 obj_maus_enemy_slash_Step_0_gml_352_0
-* Ralsei sang a song about mice!!/%
+* Ralsei cantó una canción sobre ratones!!/%
 obj_maus_enemy_slash_Step_0_gml_352_1
-* Ralsei sang a mouse song!/%
+* Ralsei cantó una canción de ratón!/%
 obj_maus_enemy_slash_Step_0_gml_422_0
-* Susie was captured!!/%
+* Susie fue capturada!!/%
 obj_maus_enemy_slash_Step_0_gml_444_0
 \EN* Susie!!!/
 obj_maus_enemy_slash_Step_0_gml_383_0
-\E5* The hell you blaming ME for!^1! YOU made the trap!!/%
+\E5* Diablos ME culpas por esto!^1! ¡¡Tu hiciste la trampa!!/%
 obj_maus_enemy_slash_Step_0_gml_391_0
-* Noelle screamed quietly!/%
+* Noelle gritó en voz baja!/%
 obj_maus_enemy_slash_Step_0_gml_408_0
-* Noelle cheered brightly!/%
+* Noelle aplaudió alegremente/%
 newtasque
 mymonster
 biggestwidth
