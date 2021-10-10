@@ -7896,65 +7896,65 @@ scr_spelltext_slash_scr_spelltext_gml_200_0_b
 scr_spelltext_slash_scr_spelltext_gml_201_0
  became sentimental!&
 scr_spelltext_slash_scr_spelltext_gml_179_0
-* ~1 used the BROKEN CAKE!/%
+* ~1 uso una BROKEN CAKE!/%
 scr_spelltext_slash_scr_spelltext_gml_183_0
-* ~1 used the TOPCAKE!/%
+* ~1 uso un TOPCAKE!/%
 scr_spelltext_slash_scr_spelltext_gml_187_0
-* ~1 used the SPINCAKE!/%
+* ~1 uso un SPINCAKE!/%
 scr_spelltext_slash_scr_spelltext_gml_191_0
-* ~1 usastes la HAMBURGUESAOSC!/%
+* ~1 usaste la HAMBURGUESAOSC!/%
 scr_spelltext_slash_scr_spelltext_gml_194_0
-* ~1 used the LANCERCOOKIE!/%
+* ~1 uso una LANCERCOOKIE!/%
 scr_spelltext_slash_scr_spelltext_gml_197_0
-* ~1 used the GIGASALAD!/%
+* ~1 uso una GIGASALAD!/%
 scr_spelltext_slash_scr_spelltext_gml_200_0
-* ~1 used the CLUBS SANDWICH!/%
+* ~1 uso un CLUBS SANDWICH!/%
 scr_spelltext_slash_scr_spelltext_gml_203_0
-* ~1 used the HEARTS DONUT!/%
+* ~1 uso un HEARTS DONUT!/%
 scr_spelltext_slash_scr_spelltext_gml_206_0
-* ~1 used the CHOCO DIAMOND!/%
+* ~1 uso un CHOCO DIAMOND!/%
 scr_spelltext_slash_scr_spelltext_gml_209_0
-* ~1 used the FAV SANDWICH!/%
+* ~1 uso un FAV SANDWICH!/%
 scr_spelltext_slash_scr_spelltext_gml_230_0
-* ~1 used the ROUXLS ROUX!/%
+* ~1 uso un ROUXLS ROUX!/%
 scr_spelltext_slash_scr_spelltext_gml_233_0
-* ~1 used the CD BAGEL!/%
+* ~1 uso el CD BAGEL!/%
 scr_spelltext_slash_scr_spelltext_gml_236_0
-* ~1 used the CLOTHESDOLL!/
+* ~1 uso un CLOTHESDOLL!/
 scr_spelltext_slash_scr_spelltext_gml_237_0
-* ... but nothing happened!/%
+* ... pero no sucedió nada!/%
 scr_spelltext_slash_scr_spelltext_gml_240_0
-* ~1 used the KRIS TEA!/%
+* ~1 uso un KRIS TEA!/%
 scr_spelltext_slash_scr_spelltext_gml_243_0
-* ~1 used the NOELLE TEA!/%
+* ~1 uso un NOELLE TEA!/%
 scr_spelltext_slash_scr_spelltext_gml_246_0
-* ~1 used the RALSEI TEA!/%
+* ~1 uso un RALSEI TEA!/%
 scr_spelltext_slash_scr_spelltext_gml_249_0
-* ~1 used the SUSIE TEA!/%
+* ~1 uso un SUSIE TEA!/%
 scr_spelltext_slash_scr_spelltext_gml_252_0
-* ~1 used the DD-BURGER!/%
+* ~1 uso un DD-BURGER!/%
 scr_spelltext_slash_scr_spelltext_gml_255_0
-* ~1 used the LIGHTCANDY!/%
+* ~1 uso un LIGHTCANDY!/%
 scr_spelltext_slash_scr_spelltext_gml_258_0
-* ~1 used the BUTJUICE!/%
+* ~1 uso un BUTJUICE!/%
 scr_spelltext_slash_scr_spelltext_gml_261_0
-* ~1 used the SPAGHETTICODE!/%
+* ~1 uso un SPAGHETTICODE!/%
 scr_spelltext_slash_scr_spelltext_gml_264_0
-* ~1 used the JAVACOOKIE!/%
+* ~1 uso un JAVACOOKIE!/%
 scr_spelltext_slash_scr_spelltext_gml_267_0
 * ~1 uso el TrozoTenso!&* La tensión aumento recientemente./%
 scr_spelltext_slash_scr_spelltext_gml_270_0
-* ~1 used the TENSIONGEM!/%
+* ~1 uso un TENSIONGEM!/%
 scr_spelltext_slash_scr_spelltext_gml_273_0
-* ~1 used the TENSIONMAX!/%
+* ~1 uso un TENSIONMAX!/%
 scr_spelltext_slash_scr_spelltext_gml_276_0
-* ~1 used the REVIVEDUST!/%
+* ~1 uso un REVIVEDUST!/%
 scr_spelltext_slash_scr_spelltext_gml_279_0
-* ~1 used the REVIVEBRIGHT!/%
+* ~1 uso un REVIVEBRIGHT!/%
 scr_spelltext_slash_scr_spelltext_gml_282_0
-* ~1 administered S.POISON!/%
+* ~1 administró S.POISON!/%
 scr_spelltext_slash_scr_spelltext_gml_298_0
-* ~1 admired DOGDOLLAR!/%
+* ~1 admiro un DOGDOLLAR!/%
 gml_Script_scr_spelltext
 scr_spelltext
 keyitemid
@@ -8069,7 +8069,7 @@ itemtarget
 scr_iteminfo_slash_scr_iteminfo_gml_15_0
 Dulce Oscuro
 scr_iteminfo_slash_scr_iteminfo_gml_16_0
-Heals#40HP
+Cura#40HP
 scr_iteminfo_slash_scr_iteminfo_gml_22_0
 ReviveMenta
 scr_iteminfo_slash_scr_iteminfo_gml_23_0
@@ -8100,7 +8100,7 @@ Heals#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_72_0
 LancerCookie
 scr_iteminfo_slash_scr_iteminfo_gml_73_0
-Heals#50HP
+Cura#50 HP
 scr_iteminfo_slash_scr_iteminfo_gml_79_0
 GigaSalad
 scr_iteminfo_slash_scr_iteminfo_gml_80_0
@@ -23125,7 +23125,7 @@ obj_virovirokun_enemy_slash_Step_0_gml_507_0
 obj_virovirokun_enemy_slash_Step_0_gml_512_0
 * Ralsei intento rehabilitar!/%
 obj_virovirokun_enemy_slash_Step_0_gml_527_0
-* Noelle offered a cold compress!/%
+* ¡Noelle ofreció una compresa fría!!/%
 obj_virovirokun_enemy_slash_Step_0_gml_532_0
 * Noelle tried her best!/%
 obj_virovirokun_enemy_slash_Step_0_gml_540_0
@@ -23986,7 +23986,7 @@ obj_werewire_enemy_slash_Step_0_gml_469_0
 obj_werewire_enemy_slash_Step_0_gml_469_1
 * Ralsei charmed the wire!/%
 obj_werewire_enemy_slash_Step_0_gml_481_0
-* Noelle pulled out the plug like a fairy light!/%
+* Noelle sacó el enchufe como una luz de hadas!/%
 obj_werewire_enemy_slash_Step_0_gml_481_1
 * Noelle pulled on the plug!/%
 kx
@@ -24115,7 +24115,7 @@ obj_berdlyb_enemy_slash_Step_0_gml_163_0
 obj_berdlyb_enemy_slash_Step_0_gml_167_0_b
 * El carro ese de Berdly se ve enfermo.
 obj_berdlyb_enemy_slash_Step_0_gml_171_0
-* Berdly asks Queen for healing!&* She says "You're Doing Great Honey"
+* Berdly llama a Queen por ayuda!&* Ella dice "Estás haciendolo genial cariño!"
 obj_berdlyb_enemy_slash_Step_0_gml_123_0
 * BERDLY - Vamos! Usa tu coche para jugar "botar al pájaro"!/%
 obj_berdlyb_enemy_slash_Step_0_gml_130_0
@@ -28298,11 +28298,11 @@ obj_shop2_slash_Draw_0_gml_416_0
 obj_shop2_slash_Draw_0_gml_482_0
 obj_shop2_slash_Draw_0_gml_481_0
 obj_shop_ch2_music_slash_Create_0_gml_79_0
-Comida musical#con un#toque crujiente#Cura 80HP
+Comida musical#con un toque #crujiente.#Cura 80HP
 obj_shop_ch2_music_slash_Create_0_gml_80_0
 ARMADURA#Hecha de#cables verdes
 obj_shop_ch2_music_slash_Create_0_gml_81_0
-ARMA#Presionala para#extenderla
+ARMA#Presiona para#extenderla
 obj_shop_ch2_music_slash_Create_0_gml_82_0
 ARMA#Asegúrate de#cargarla
 shopchary
@@ -28343,11 +28343,11 @@ obj_shop_ch2_music_slash_Draw_0_gml_267_0
 obj_shop_ch2_music_slash_Draw_0_gml_270_0
 \m3		*No te&	acobardes!
 obj_shop_ch2_music_slash_Draw_0_gml_271_0
-\m3		*Not&	enough&	cash!
+\m3		*No&	tienes&	dinero!
 obj_shop_ch2_music_slash_Draw_0_gml_272_0
 \m3		*Your&	pockets&	are&	full.
 obj_shop_ch2_music_slash_Draw_0_gml_273_0
-\m3		*Cool!&	It's in&	your&	STORAGE.
+\m3		*Genial!&	Está&	en tú&	ALMAC.
 obj_shop_ch2_music_slash_Draw_0_gml_291_0
 obj_shop_ch2_music_slash_Draw_0_gml_343_0
 Acerca de ustedes
@@ -28368,13 +28368,13 @@ obj_shop_ch2_music_slash_Draw_0_gml_400_0
 obj_shop_ch2_music_slash_Draw_0_gml_401_0
 \m2		*You&	got&	nothin!
 obj_shop_ch2_music_slash_Draw_0_gml_487_0
-\m1		*OK,&	hit us&	with an&	ITEM!
+\m1		*OK,&	y nos golpea&	con un&	ITEM!
 obj_shop_ch2_music_slash_Draw_0_gml_488_0
 \m1		*OK,&	show us&	your&	WEAPON!
 obj_shop_ch2_music_slash_Draw_0_gml_489_0
 \m1		*OK,&	hit us&	with an&	ARMOR!
 obj_shop_ch2_music_slash_Draw_0_gml_490_0
-\m1		*Sweet!&	This'll&	be great&	scrap!
+\m1		*Dulce!&	Esto&	será&	genial!
 obj_shop_ch2_music_slash_Draw_0_gml_491_0
 \m1		*OK,&	hold&	onto&	that.
 obj_shop_ch2_music_slash_Draw_0_gml_492_0
