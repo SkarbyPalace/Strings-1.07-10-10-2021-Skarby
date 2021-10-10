@@ -26395,7 +26395,7 @@ dancedwithsusie
 ishealing
 obj_hatguy_enemy_slash_Step_0_gml_4_0
 obj_hatguy_enemy_slash_Step_0_gml_29_0
-Qué, quieres ver&mis movimientos?
+Que, quieres ver&mis movimientos?
 obj_hatguy_enemy_slash_Step_0_gml_30_0
 Ah-ha, si es&una damizela...
 obj_hatguy_enemy_slash_Step_0_gml_33_0
@@ -30923,66 +30923,66 @@ trashpile_collider
 trash
 trash_actor
 obj_ch2_scene11b_slash_Step_0_gml_76_0
-\E0* L..^1. Looks like this trash saved us./%
+\E0* P..^1. Parece que esta basura nos salvó./%
 obj_ch2_scene11b_slash_Step_0_gml_115_0
-\E1* C'mon.../%
+\E1* Vámonos.../%
 obj_ch2_scene11b_slash_Step_0_gml_183_0
-\E2* Haha^1, who's king of the trash pile now!?/%
+\E2* Jaja^1, quién es el rey de la basura ahora!?/%
 obj_ch2_scene11b_slash_Step_0_gml_251_0
 \EZ* O..^1. Ow...!/
 obj_ch2_scene11b_slash_Step_0_gml_253_0
-* Susie^1, are you alright?/%
+* Susie^1, estás bien?/%
 obj_ch2_scene11b_slash_Step_0_gml_272_0
-\EQ* ..^1. Heh^1, it's nothing./
+\EQ* ..^1. Heh^1, no es nada./
 obj_ch2_scene11b_slash_Step_0_gml_273_0
-\EQ* I just.../%
+\EQ* Yo solo.../%
 obj_ch2_scene11b_slash_Step_0_gml_279_0
 \EV* O... ow./%
 obj_ch2_scene11b_slash_Step_0_gml_289_0
-\EB* ... sure you don't want me to look?/
+\EB* ... segura que no quieres que vea?/
 obj_ch2_scene11b_slash_Step_0_gml_291_0
-\E5* L-look at what? I'm fine!/%
+\E5* V-ver qué? Estoy bien!/%
 obj_ch2_scene11b_slash_Step_0_gml_316_0
-\EH* WOAH HEY WHAT THE HECK ARE YOU--/%
+\EH* WOAH HEY QUÉ RAYOS ESTÁS--/%
 obj_ch2_scene11b_slash_Step_0_gml_355_0
-\E2* Feel better?/%
+\E2* Te sientes mejor?/%
 obj_ch2_scene11b_slash_Step_0_gml_362_0
-\EH* FEEL BETTER!^1? AFTER YOU JUST CAME UP AND--/%
+\EH* MEJOR!^1? DESPUÉS DE QUE VINIERAS Y LUEGO--/%
 obj_ch2_scene11b_slash_Step_0_gml_372_0
-\EM* Umm..^1. doesn't feel WORSE^1, I guess./
+\EM* Umm..^1. no se siente PEOR^1, supongo./
 obj_ch2_scene11b_slash_Step_0_gml_373_0
 \EV* .../%
 obj_ch2_scene11b_slash_Step_0_gml_383_0
-\E0* How do you do that^1, anyway?/
+\E0* Cómo haces eso^1, de todos modos?/
 obj_ch2_scene11b_slash_Step_0_gml_384_0
-\E1* That..^1. healing..^1. thingy./
+\E1* Esa..^1. cosa de..^1. curar./
 obj_ch2_scene11b_slash_Step_0_gml_386_0
-\E2* Oh^1, healing magic? It's simple^1, Susie. Anyone can do it./
+\E2* Oh^1, magia de curación? Es simple Susie.^1 Cualquiera puede hacerlo./
 obj_ch2_scene11b_slash_Step_0_gml_387_0
-\EG* ..^1. I could even teach you^1, if you're interested./%
+\EG* ..^1. Hasta te podría enseñar^1, por si te interesa./%
 obj_ch2_scene11b_slash_Step_0_gml_395_0
-\EA* Heh^1, ask me again when it's^1, like^1, blood explosion magic./%
+\EA* Heh^1, preguntame de nuevo cuando sea^1, magia de sangre que explota./%
 obj_ch2_scene11b_slash_Step_0_gml_403_0
 obj_ch2_scene11b_slash_Step_0_gml_413_0
-\EQ* But^1, um^1, if you WANTED^1, I guess I could learn it./
+\EQ* Pero^1, um^1, si tú QUIERES^1, supongo que puedo aprender./
 obj_ch2_scene11b_slash_Step_0_gml_414_0
-\EK* Then you wouldn't^1, y'know^1, have to annoy me with it anymore./
+\EK* Así no tendrías que^1, ya sabes^1, molestarme más con eso./
 obj_ch2_scene11b_slash_Step_0_gml_416_0
-\EG* Sure^1, Susie. Next time we have a break!/%
+\EG* Claro^1, Susie. La próxima vez que tengamos un descanso!/%
 obj_ch2_scene11b_slash_Step_0_gml_434_0
-\E1* (Let's just go already^1, Kris...)/%
+\E1* (Ya vámonos^1, Kris...)/%
 obj_ch2_scene11b_slash_Step_0_gml_483_0
-\E0* By the way Kris^1, I just remembered!/
+\E0* por cierto Kris^1, acabo de recordad!/
 obj_ch2_scene11b_slash_Step_0_gml_484_0
-\E0* Although you can only carry 12 ITEMs around.../
+\E0* Aunque puedas cargar solo 12 ITEMs.../
 obj_ch2_scene11b_slash_Step_0_gml_485_0
-\E0* Your STORAGE will hold any extra items you pick up./
+\E0* Tu ALMAC. va a almacenar Items extra que recogas./
 obj_ch2_scene11b_slash_Step_0_gml_486_0
-\EG* You can access it where you check Recruits!/
+\EG* Puedes acceder ahí cuando mires tu RECLUTAS!/
 obj_ch2_scene11b_slash_Step_0_gml_497_0
-\E2* (Enemies you SPARE get RECRUITed to our town, remember?)/
+\E2* (Los enemigos que PERDONES serán RECLUTADOS a tu ciudad, recuerdas?)/
 obj_ch2_scene11b_slash_Step_0_gml_488_0
-\E6* Woah^1, that seems like pretty useful information./%
+\E6* Woah^1, esa parece ser información muy útil./%
 dogcone1
 dogcone2
 dogcone3
