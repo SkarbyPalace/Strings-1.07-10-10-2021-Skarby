@@ -4156,17 +4156,17 @@ scr_text_slash_scr_text_gml_4163_0
 scr_text_slash_scr_text_gml_4169_0
 * Then leave^1! Leave^1! LEAVE!!!/%
 scr_text_slash_scr_text_gml_4174_0
-#Go with#Ralsei
+#Ir con#Ralsei
 scr_text_slash_scr_text_gml_4175_0
-#Go with#Susie
+#Ir con#Susie
 scr_text_slash_scr_text_gml_4176_0
 scr_text_slash_scr_text_gml_4177_0
 scr_text_slash_scr_text_gml_4179_0
-\EA* There's a fork in the path..^1. Kris^1, it seems like.../
+\EA* Hay una bifuración en el camino..^1. Kris^1, parece que.../
 scr_text_slash_scr_text_gml_4180_0
-\EI* It might be advantageous if we split up./
+\EI* Sería ventajoso si nos dividimos./
 scr_text_slash_scr_text_gml_4181_0
-\E2* Who do you want to go with?/
+\E2* Con quieres ir?/
 scr_text_slash_scr_text_gml_4182_0
 scr_text_slash_scr_text_gml_4186_0
 scr_text_slash_scr_text_gml_4191_0
@@ -14548,7 +14548,7 @@ startNextChapter
 continueChapter
 Capítulo 
  fue completado.
-Jugar Capítulo 
+Jugar Capítulo
 stringset2
 はクリア済みです。
 をプレイ
@@ -16775,9 +16775,9 @@ obj_npc_room_slash_Other_10_gml_2255_0
 obj_npc_room_slash_Other_10_gml_2256_0
 * You got Nubert./%
 obj_npc_room_slash_Other_10_gml_2262_0
-* I'm Nubert. Everybody loves me./
+* Soy Nubert. Todo el mundo me ama./
 obj_npc_room_slash_Other_10_gml_2263_0
-* That's why I live in the trash./%
+* Es por ese que vivo en la basura./%
 obj_npc_room_slash_Other_10_gml_2269_0
 * Nuelle^1, eh? Not a bad name^1, says Nubert./%
 obj_npc_room_slash_Other_10_gml_2278_0
@@ -17882,25 +17882,25 @@ obj_npc_room_animated_slash_Other_10_gml_475_0
 * It's in a better place now./%
 nubert_check
 obj_npc_room_animated_slash_Other_10_gml_489_0
-Really, where!?
+Enserio, donde!?
 obj_npc_room_animated_slash_Other_10_gml_492_0
-* Oh boy^1, oh boy^1! I'm \cBTrashy\cW!/
+* Oh chico^1, oh chico^1! Soy \cBTrashy\cW!/
 obj_npc_room_animated_slash_Other_10_gml_493_0
-* Did you know about adjusting your INVENTORY?/
+* Sabías acerca de ajustar tu INVENTORIO?/
 obj_npc_room_animated_slash_Other_10_gml_494_0
-* Trashcans like me can HOLD all sorts of things./
+* Tachos de basura como yo podemos SOSTENER todo tipo de cosas./
 obj_npc_room_animated_slash_Other_10_gml_495_0
-* Just like your STORAGE^1, if you get more than 12 ITEMs!/
+* Justo como tu ALMAC.^1, si recoges más de 12 ITEMs!/
 obj_npc_room_animated_slash_Other_10_gml_497_0
-\E4* Uh..^1. yeah^1, not now dude./
+\E4* Uh..^1. si^1, no ahora amigo./
 obj_npc_room_animated_slash_Other_10_gml_499_0
-\EQ* It was sort of an emotional moment.../
+\EQ* Era un tanto un momento emocional.../
 obj_npc_room_animated_slash_Other_10_gml_501_0
-* Oh..^1. Oh^1, that's okay...~1
+* Oh..^1. Oh^1, está bien...~1
 obj_npc_room_animated_slash_Other_10_gml_506_0
-\E7* Oh hell^1, is that Nubert over there!?\f0/%
+\E7* Oh diablos^1, es ese Nubert el que está ahí!?\f0/%
 obj_npc_room_animated_slash_Other_10_gml_511_0
-* No time for this guy./%
+* No hay tiempo para este chico./%
 obj_npc_room_animated_slash_Other_10_gml_518_0
 * You can hold a lot more in your STORAGE^1, you know./
 obj_npc_room_animated_slash_Other_10_gml_519_0
@@ -19111,7 +19111,7 @@ obj_readable_room1_slash_Other_10_gml_2075_0
 obj_readable_room1_slash_Other_10_gml_2093_0
 \Ee* .../%
 obj_readable_room1_slash_Other_10_gml_2101_0
-* (The door is locked.)~1
+* (La puerta está bloqueada.)~1
 obj_readable_room1_slash_Other_10_gml_2106_0
 \EB* Kris...? Wh-why did you bring me here...?/
 obj_readable_room1_slash_Other_10_gml_2107_0
@@ -21155,13 +21155,13 @@ barsiner
 minitimerthreshold
 timerthreshold
 obj_cybercity_trashcan_slash_Other_10_gml_5_0
-* (You dug through the trash...)/
+* (Cavastes a través de la basura...)/
 obj_cybercity_trashcan_slash_Other_10_gml_16_0
-* (And found $~1!)/
+* (Y encontraste $~1!)/
 obj_cybercity_trashcan_slash_Other_10_gml_23_0
-* (And found a ~1!)/
+* (Y encontraste un ~1!)/
 obj_cybercity_trashcan_slash_Other_10_gml_35_0
-* (And found trash!)/%
+* (Y encontraste basura!)/%
 flip_timer
 remcameray
 breakable
@@ -21182,9 +21182,9 @@ fade_counter
 layer_amount
 current_index
 obj_city_trashbag_slash_Other_10_gml_3_0
-* (It's a trashbag that looks like an eggplant.)/%
+* (Es un saco de basura que parece una berenjena.)/%
 obj_city_trashbag_slash_Other_10_gml_7_0
-* (It's an eggplant that looks like a trashbag.)/%
+* (Es una berenjena que parece un saco de basura.)/%
 shovel_start
 shovel_time
 shovel_timer
@@ -30957,7 +30957,7 @@ obj_ch2_scene11b_slash_Step_0_gml_383_0
 obj_ch2_scene11b_slash_Step_0_gml_384_0
 \E1* Esa..^1. cosa de..^1. curar./
 obj_ch2_scene11b_slash_Step_0_gml_386_0
-\E2* Oh^1, magia de curación? Es simple Susie.^1 Cualquiera puede hacerlo./
+\E2* Oh^1, magia de cura? Es simple Susie.^1 Cualquiera puede hacerlo./
 obj_ch2_scene11b_slash_Step_0_gml_387_0
 \EG* ..^1. Hasta te podría enseñar^1, por si te interesa./%
 obj_ch2_scene11b_slash_Step_0_gml_395_0
@@ -30987,11 +30987,11 @@ dogcone1
 dogcone2
 dogcone3
 obj_ch2_scene12_slash_Step_0_gml_85_0
-\EH* Hey^1, why does Kris get to choose all the time!?/%
+\EH* Hey^1, porque Kris es quien elige todo el tiempo!?/%
 obj_ch2_scene12_slash_Step_0_gml_100_0
-\E2* Ralsei^1, you're going with me!/%
+\E2* Ralsei^1, tu vas conmigo!/%
 obj_ch2_scene12_slash_Step_0_gml_104_0
-\EU* H-huh!? K-Kris^1, I...!!/%
+\EU* H-huh!? K-Kris^1, Yo...!!/%
 statuenpc
 swatchling_npc_a
 swatchling_npc_b
