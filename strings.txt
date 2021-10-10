@@ -215,14 +215,14 @@ phonename
 phone
 itemid
 scr_phonename_slash_scr_phonename_gml_17_0
-Llamar a Casa
+Llamar a Casa.
 plot
 scr_phonename_slash_scr_phonename_gml_18_0
-Llamar a Toriel
+Llamar a Toriel.
 scr_phonename_slash_scr_phonename_gml_21_0
-Sans's Number
+Número de Sans
 scr_phonename_slash_scr_phonename_gml_22_0
-Not Sans's Number
+NO número de Sans
 gml_Script_scr_phonename
 scr_phonename
 fc
@@ -14557,7 +14557,7 @@ Select. Capítulo
 select_text
 highestUncompletedChapter=
 highestCompletedChapter=
-Continuar desde el Capítulo 
+¿Continuar desde el Capítulo 
 から続けますか？
 Salir
 とじる
@@ -16450,9 +16450,9 @@ obj_npc_room_slash_Other_10_gml_1504_0
 obj_npc_room_slash_Other_10_gml_1505_0
 * O así es como escuché que se llamaba./%
 obj_npc_room_slash_Other_10_gml_1509_0
-* Oho. Welcome home./
+* Oho. Bienvenido a casa./
 obj_npc_room_slash_Other_10_gml_1510_0
-* Things have changed again here in&~1Town!/%
+* Las cosas han cambiado de nuevo aquí en&~1Town!/%
 obj_npc_room_slash_Other_10_gml_1517_0
 * Ahora que lo pienso^1,/
 obj_npc_room_slash_Other_10_gml_1518_0
@@ -16460,28 +16460,28 @@ obj_npc_room_slash_Other_10_gml_1518_0
 obj_npc_room_slash_Other_10_gml_1519_0
 * Creo que vamos a vivir aquí!/%
 obj_npc_room_slash_Other_10_gml_1523_0
-* This is a dream that grows with love and care./
+* Este es un sueño que crece con amor y cuidado./
 obj_npc_room_slash_Other_10_gml_1524_0
-* Don't be afraid to dream!/%
+* No tengas miedo de soñar!/%
 obj_npc_room_slash_Other_10_gml_1541_0
-* Ha ha^1! That's right^1! They took so long on their turn.../
+* ¡Ja ja^1! ¡Así es^1! Tardaron tanto en su turno....../
 obj_npc_room_slash_Other_10_gml_1542_0
-* What!? A horned girl? I never got to see her!/%
+* ¿Qué? ¿Una chica caliente? ¡Nunca llegué a verla!/%
 obj_npc_room_slash_Other_10_gml_1535_0
 * Este chico parece que disfruta su vida mas que yo./
 obj_npc_room_slash_Other_10_gml_1536_0
 * Será por qué el es un rango mayor...?/%
 obj_npc_room_slash_Other_10_gml_1574_0_b
-* Este tipo ya te está chupando seriamente^1? Aunque nos hagas daño?/
+* Este tipo ya te está chupando seriamente^1? ¿Aunque nos haga daño?/
 obj_npc_room_slash_Other_10_gml_1575_0_b
-* Podría por lo menos esperar hasta más tarde hoy!/%
+* ¡Podría por lo menos esperar hasta más tarde hoy!/%
 obj_npc_room_slash_Other_10_gml_1560_0
-* (Seems like Hathy likes this place.)/
+* (Parece que a Hathy le gusta este lugar.)/
 obj_npc_room_slash_Other_10_gml_1561_0
-* (She hopes you'll like it too.)/%
+* (Ella espera que a ti también te guste.)/%
 obj_npc_room_slash_Other_10_gml_1594_0
 obj_npc_room_slash_Other_10_gml_1595_0_b
-* (You feel an aura of forgiveness...)/%
+* (Sientes un aura de perdón...)/%
 obj_npc_room_slash_Other_10_gml_1554_0
 * (Parece que a Hathy le gusta este lugar.)/
 obj_npc_room_slash_Other_10_gml_1555_0
@@ -16489,7 +16489,7 @@ obj_npc_room_slash_Other_10_gml_1555_0
 obj_npc_room_slash_Other_10_gml_1556_0
 * (Perderá su título de inspector de camas si no inspecciona suficientes camas.)/%
 obj_npc_room_slash_Other_10_gml_1566_0
-* (Hathy's happy to see so many new faces.)/
+* (Hathy está feliz de ver tantas caras nuevas.)/
 obj_npc_room_slash_Other_10_gml_1567_0
 * (Happy's hathy.)/%
 obj_npc_room_slash_Other_10_gml_1574_0
@@ -16497,17 +16497,17 @@ obj_npc_room_slash_Other_10_gml_1574_0
 obj_npc_room_slash_Other_10_gml_1575_0
 * (Sukkiri...)/%
 obj_npc_room_slash_Other_10_gml_1581_0
-* Thanks for getting rid of Queen!/
+* ¡Gracias por deshacerse de Queen!/
 obj_npc_room_slash_Other_10_gml_1582_0
-* ..^1. yeah^1, this form is much cooler^1, so I'm keeping it.../%
+* ..^1. sí^1, esta forma es mucho más fresca^1, así que la mantengo.../%
 obj_npc_room_slash_Other_10_gml_1588_0
 * Gracias a ti^1, comandante^1, hemos sido liberados!/
 obj_npc_room_slash_Other_10_gml_1589_0
 * ¡Declaro este día como el Día Nacional de Sanduche con Jamón de la Independencia!/%
 obj_npc_room_slash_Other_10_gml_1595_0
-* Wh..^1. what a wonderful place..^1. thank you.../
+* Qu..^1. qué lugar tan maravilloso..^1. gracias.../
 obj_npc_room_slash_Other_10_gml_1596_0
-* This town^1, not that restaurant. It looks weird. I'm not going in.../%
+* Esta ciudad^1, no ese restaurante. Se ve raro. No voy a entrar.../%
 obj_npc_room_slash_Other_10_gml_1604_0
 * Inclinense inclinense./
 obj_npc_room_slash_Other_10_gml_1605_0
@@ -17717,7 +17717,7 @@ obj_npc_room_animated_slash_Other_10_gml_106_0
 obj_npc_room_animated_slash_Other_10_gml_112_0
 \E7* Que tal un pastel de fresa como un regalo caliente de habitacion?/
 obj_npc_room_animated_slash_Other_10_gml_114_0
-\EQ* Hay un pedazo de pastel en tu refrigerador^1, Susie!/
+\EQ* ¡Hay un pedazo de pastel en tu refrigerador^1 Susie!/
 obj_npc_room_animated_slash_Other_10_gml_116_0
 \EM* Pero no está recién salido de el caldero!/%
 obj_npc_room_animated_slash_Other_10_gml_130_0
@@ -19003,17 +19003,17 @@ obj_readable_room1_slash_Other_10_gml_1861_0
 obj_readable_room1_slash_Other_10_gml_1863_0
 \E2* Pensé que querrías dejarlo aquí en caso de que quieras leerlo!/%
 obj_readable_room1_slash_Other_10_gml_1875_0
-* It's a bed that's been carefully crafted./
+* Es una cama que ha sido cuidadosamente elaborada./
 obj_readable_room1_slash_Other_10_gml_1876_0
-* It's suitable for a bed inspector./%
+* Es adecuado para un inspector de camas./%
 obj_readable_room1_slash_Other_10_gml_1880_0
 * Es tu cama./
 obj_readable_room1_slash_Other_10_gml_1881_0
 * Se siente increiblemente suave. Como si estuvieras durmiendo.../%
 obj_readable_room1_slash_Other_10_gml_1921_0_b
-* It's some decorative mossx|. Looks delicious.~1
+* Es un poco de musgo decorativo. Se ve delicioso.~1
 obj_readable_room1_slash_Other_10_gml_1925_0_b
-\EK* Why the hell does YOUR room get moss!?/%
+\EK* ¿¡Por qué demonios TU habitación recibe musgo!?/%
 obj_readable_room1_slash_Other_10_gml_1896_0
 \E2* Genial^1, cama con púas./
 obj_readable_room1_slash_Other_10_gml_1897_0
@@ -19045,10 +19045,10 @@ obj_readable_room1_slash_Other_10_gml_1933_0
 obj_readable_room1_slash_Other_10_gml_1935_0
 \E2* Claro que si!!^1! Celoso^1, Kris!?/%
 obj_readable_room1_slash_Other_10_gml_1943_0
-* (2P : VIVIENDAS)/%
+* (2NDO PISO : VIVIENDAS)/%
 obj_readable_room1_slash_Other_10_gml_1948_0
 obj_readable_room1_slash_Other_10_gml_1953_0
-* (SUBT : VIVIENDAS PARA LOS MALOS)/%
+* (SUBTERRANEO : VIVIENDAS PARA LOS MALOS)/%
 obj_readable_room1_slash_Other_10_gml_1964_0
 \EA* Hey Ralsei^1, que hay arriba?/
 obj_readable_room1_slash_Other_10_gml_1966_0
@@ -20469,13 +20469,13 @@ LV1 Human#Body contains a#human SOUL.
 obj_darkcontroller_slash_Draw_0_gml_240_0
 LV1 Lider#Dirige la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_241_0
-LV1 Bed Inspector#Inspects all beds#inexplicably.
+LV1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_272_0_b
 LV~1 Lider#Dirige la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_273_0
 LV~1 Tactician#Commands the party#by ACTs. Sometimes.
 obj_darkcontroller_slash_Draw_0_gml_274_0
-LV~1 Bed Inspector#Inspects all beds#inexplicably.
+LV~1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_275_0_b
 LV~1 Moss Finder#Basic moss-finding#abilities.
 obj_darkcontroller_slash_Draw_0_gml_276_0
@@ -20588,11 +20588,11 @@ USAR
 obj_darkcontroller_slash_Draw_0_gml_839_0
 TIRAR
 obj_darkcontroller_slash_Draw_0_gml_841_0
-KEY
+OBJ. CLAVE
 yheart
 xheart
 obj_darkcontroller_slash_Draw_0_gml_956_0
-Enserio tirar#~1?
+¿Tirar ~1?
 kill
 obj_healwriter_slash_Draw_0_gml_4_0
 +~1
@@ -29419,7 +29419,7 @@ DEVICE_MENU_slash_Draw_0_gml_285_0
 Fin. Programa
 QUITTEXT
 日本語
-English
+Español
 LANGUAGETEXT
 DEVICE_MENU_slash_Draw_0_gml_201_0
 Copiar
@@ -30142,11 +30142,11 @@ obj_ch2_scene4_slash_Step_0_gml_73_0
 obj_ch2_scene4_slash_Step_0_gml_74_0
 \E2* Apuesto a que Lancer también quiere vernos^1, verdad?/%
 obj_ch2_scene4_slash_Step_0_gml_90_0
-\E0* Hey^1... aguanta un rato./
+\E0* Hey^1... espera un momento./
 obj_ch2_scene4_slash_Step_0_gml_91_0
-\EZ* DONDE está Lancer?/%
+\EZ* ¿DONDE está Lancer?/%
 obj_ch2_scene4_slash_Step_0_gml_119_0
-\EZ* Donde están^1... TODOS?/%
+\EZ* Donde están^1... ¿TODOS?/%
 obj_ch2_scene4_slash_Step_0_gml_134_0
 \E2* No te preocupes^1, Susie^1. Los verás en un momento./
 obj_ch2_scene4_slash_Step_0_gml_135_0
@@ -30192,15 +30192,15 @@ sw_actor
 la_card
 ro_card
 obj_ch2_scene6_slash_Step_0_gml_84_0
-\E6* Espera^1, Kris^1, nos vamos!? Pero si recién llegamos!/
+\E6* Espera^1, Kris^1, ¿¡nos vamos!? ¡Pero si recién llegamos!/
 obj_ch2_scene6_slash_Step_0_gml_85_0
 \EK* Hombre^1, no quiero ir a hacer nuestro proyecto grupal.../%
 obj_ch2_scene6_slash_Step_0_gml_93_0
-\EK* Oh^1... Los dos tienen tarea?/%
+\EK* Oh^1... ¿Los dos tienen tarea?/%
 obj_ch2_scene6_slash_Step_0_gml_101_0
-\EK* Uhh^1, pues^1,/%
+\EK* Uhh^1, pues^1.../%
 obj_ch2_scene6_slash_Step_0_gml_106_0
-\EN* Susie^1, Kris^1, se van a hacerla ahora^1! La escuela es importante!/
+\EN* Susie^1, Kris^1, ¡Van a ir a hacerla ahora^1! ¡La escuela es importante!/
 obj_ch2_scene6_slash_Step_0_gml_107_0
 \EN* Quedan baneados de este reino hasta que comienzen su proyecto!/%
 obj_ch2_scene6_slash_Step_0_gml_116_0
@@ -30212,9 +30212,9 @@ obj_ch2_scene6_slash_Step_0_gml_130_0
 obj_ch2_scene6_slash_Step_0_gml_132_0
 * Muy tarde^1, chico amable!^1! Forma de la Amistad!!/%
 obj_ch2_scene6_slash_Step_0_gml_161_0
-* (LANCER fue agregado a tus Key Items.)/
+* (LANCER fue agregado a tus OBJETOS CLAVES.)/
 obj_ch2_scene6_slash_Step_0_gml_163_0
-* ..^1. Qué? A donde te fuistes...?/
+* ..^1. ¿Qué? ¿A donde te metiste...?/
 obj_ch2_scene6_slash_Step_0_gml_165_0
 * No te preocupes!^1! Solo entre a tu INVENTARIO!!/
 obj_ch2_scene6_slash_Step_0_gml_166_0
@@ -30226,9 +30226,9 @@ obj_ch2_scene6_slash_Step_0_gml_180_0
 obj_ch2_scene6_slash_Step_0_gml_182_0
 \E4* Uh^1, estamos bien./
 obj_ch2_scene6_slash_Step_0_gml_184_0
-\E3* Ahah^1, silencio!^1! Nosotros^1, como un equipot ^1- somost Buenos!!!/%
+\E3* Ahah^1, silencio!^1! Nosotros^1, como un equipo^1 somos Buenos!/%
 obj_ch2_scene6_slash_Step_0_gml_201_0
-* (ROUXLS se convirtió en un Key Item aunque nadie se lo pidió.)/%
+* (ROUXLS se agrego a tus OBJETOS CLAVE aunque nadie se lo pidió.)/%
 obj_ch2_scene6_slash_Step_0_gml_214_0
 * \cYI\cW will also \cYjoin\cW/%
 obj_ch2_scene6_slash_Step_0_gml_238_0
@@ -30238,7 +30238,7 @@ obj_ch2_scene6_slash_Step_0_gml_243_0
 obj_ch2_scene6_slash_Step_0_gml_250_0
 \E0* Okay^1, ya es suficiente. Continuemos./%
 obj_ch2_scene6_slash_Step_0_gml_276_0
-\E2* Suerte para hoy^1, Kris. Los veo luego!/%
+\E2* Te deseo suerte para hoy^1 Kris. Los veo luego!/%
 shrinkValue
 morphTime
 growValue
@@ -30251,13 +30251,13 @@ hathy
 rabbick
 blockler
 obj_ch2_scene6_slash_Step_0_gml_543_0
-\E1* Adivinen quién regreso^1, payasos!?/
+\E1* ¿¡Adivinen quién regreso^1 payasos!?/
 obj_ch2_scene6_slash_Step_0_gml_545_0
 \E7* Lancer!!!/%
 obj_ch2_scene6_slash_Step_0_gml_566_0
-\E2* Hey^1, Kris^1, no se que hiciste^1, pero, al diablo que si!/%
+\E2* Hey^1, Kris^1, no se que hiciste^1, pero, ¡al diablo que si!/%
 obj_ch2_scene6_slash_Step_0_gml_570_0
-\E9* Todos están aquí!/%
+\E9* ¿Todos están aquí!/%
 obj_ch2_scene6_slash_Step_0_gml_591_0
 \EK* Uh^1, hey. Espera. Creo que derrotamos a algunos de estos sujetos./
 obj_ch2_scene6_slash_Step_0_gml_592_0
@@ -30293,7 +30293,7 @@ obj_ch2_scene6_slash_Step_0_gml_604_0
 obj_ch2_scene6_slash_Step_0_gml_605_0
 \E1* Nos adueñaremos del castillo de Ralsei para nosotros!!/%
 obj_ch2_scene6_slash_Step_0_gml_622_0
-\E3* (Kris^1, cuando tragiste a lo Habitantes del Mundo Oscuro...)/
+\E3* (Kris^1, cuando trajiste a lo Habitantes del Mundo Oscuro...)/
 obj_ch2_scene6_slash_Step_0_gml_623_0
 \EI* (El poder de nuestra Fuente...)/
 obj_ch2_scene6_slash_Step_0_gml_624_0
@@ -30303,7 +30303,7 @@ obj_ch2_scene6_slash_Step_0_gml_625_0
 obj_ch2_scene6_slash_Step_0_gml_626_0
 \E0* (Serán RECLUTADOS a nuestra ciudad.)/
 obj_ch2_scene6_slash_Step_0_gml_627_0
-\E2* (Asi que sigamos PERDONANDO enemigos^1, okay?)/%
+\E2* (Asi que sigamos PERDONANDO enemigos^1, entendido?)/%
 obj_ch2_scene6_slash_Step_0_gml_637_0
 \E3* De cualquier modo^1, por qué no le damos todos un vistazo?/
 obj_ch2_scene6_slash_Step_0_gml_638_0
@@ -30315,7 +30315,7 @@ obj_ch2_scene6_slash_Step_0_gml_644_0
 obj_ch2_scene6_slash_Step_0_gml_645_0
 \E2* El último en llegar es un huevo fresco y fragante!!/%
 obj_ch2_scene6_slash_Step_0_gml_662_0
-\E2* Vamos^1, Kris! Vas a dejar que él nos gane!?/%
+\E2* Vamos^1, ¡Kris! ¿¡Vas a dejar que él nos gane!?/%
 lancer_npc
 obj_ch2_scene7_slash_Step_0_gml_31_0
 \E0* Bueno^1, diablos. CREO que tenemos que hacer nuestro proyecto./
@@ -30704,9 +30704,9 @@ particletimer
 toppart
 me
 obj_dw_leave_slash_Step_0_gml_71_0
-\EN* Vuelvan cuando hayan acabado su tarea!/
+\EN* ¡Vuelvan cuando hayan acabado su tarea!/
 obj_dw_leave_slash_Step_0_gml_73_0
-\EK* (Para que tener un cuarto si no puedo hechárme en el?)/%
+\EK* (¿Para que tener un cuarto si no puedo hechárme en el?)/%
 alphadist
 sinoff
 alphab
@@ -35476,11 +35476,11 @@ _remsprite
 obj_ch2_room_castle_2f_slash_Step_0_gml_26_0
 \E1* Yo..^1. tengo una sorpresa para los dos...!/
 obj_ch2_room_castle_2f_slash_Step_0_gml_27_0
-\E2* ..^1. Hice cuartos para ustedes en el castillo!/
+\E2* ..^1. ¡Hice cuartos para ustedes en el castillo!/
 obj_ch2_room_castle_2f_slash_Step_0_gml_29_0
 \E6* ..^1. Cuartos?/
 obj_ch2_room_castle_2f_slash_Step_0_gml_31_0
-\E2* Así se pueden quedar aquí cuando quieran!/
+\E2* ¡Así se pueden quedar aquí cuando quieran!/
 obj_ch2_room_castle_2f_slash_Step_0_gml_32_0
 \E1* Ummm^1, estaría feliz si este lugar.../
 obj_ch2_room_castle_2f_slash_Step_0_gml_33_0
@@ -35499,11 +35499,11 @@ obj_ch2_room_castle_2f_slash_Step_0_gml_58_0
 obj_ch2_room_castle_2f_slash_Step_0_gml_60_0
 \EX* (..^1. es esa una proyeccion?)/%
 obj_ch2_room_castle_2f_slash_Step_0_gml_75_0
-\EK* Asi que^1, qué hacemos ahora?/
+\EK* Asi que^1, ¿Qué hacemos ahora?/
 obj_ch2_room_castle_2f_slash_Step_0_gml_77_0
-\E2* Sean libres de explorar la ciudad hasta que esten listos para \cYsalir\c0!/
+\E2* ¡Ser libres de explorar la ciudad hasta que esten listos para \cYsalir\c0!/
 obj_ch2_room_castle_2f_slash_Step_0_gml_79_0
-\E2* Ja^1! Como si fueramos a \cYsalir\c0 ahora^1, cierto^1, Kris?/%
+\E2* ¡Ja^1! Como si fueramos a \cYsalir\c0 ahora^1, cierto^1, ¿Kris?/%
 susiewaiting
 susxpos
 susypos
@@ -35732,13 +35732,13 @@ obj_ch2_room_town_hospital_slash_Step_0_gml_404_0
 * (Guess I'll be a sec^1, Kris...?)/%
 susie_plush
 obj_ch2_room_castle_susie_slash_Step_0_gml_49_0
-\E2* Y Susie^1, este es tu cuarto!/
+\E2* Y Susie^1, ¡este es tu cuarto!/
 obj_ch2_room_castle_susie_slash_Step_0_gml_50_0
 \E1* Umm^1, Intente hacer algo que te gustará^1, pero.../
 obj_ch2_room_castle_susie_slash_Step_0_gml_51_0
-\E2* Puedes poner lo que quieras aquí^1, también!/
+\E2* ¡Puedes poner lo que quieras aquí^1 también!/
 obj_ch2_room_castle_susie_slash_Step_0_gml_52_0
-\EH* Enserio espero que te guste!/%
+\EH* ¡Espero que te guste!/%
 obj_ch2_room_castle_susie_slash_Step_0_gml_74_0
 obj_ch2_room_castle_susie_slash_Step_0_gml_75_0
 \ED* ..^1. Mi propio cuarto^1, huh./%
@@ -35757,7 +35757,7 @@ obj_ch2_room_castle_susie_slash_Step_0_gml_126_0
 obj_ch2_room_castle_susie_slash_Step_0_gml_139_0
 \E2* (Creo que a ella le gusta^1, Kris!)/
 obj_ch2_room_castle_susie_slash_Step_0_gml_141_0
-\E2* (JaJa^1, celoso de que tengo un cuarto GENIAL? MIRA^1, Kris!)/%
+\E2* (JaJa^1, ¿Celoso de que tengo un cuarto GENIAL? ¡MIRA^1 Kris!)/%
 moss_readable
 moss
 manual_stand
@@ -36915,7 +36915,7 @@ obj_overworldc_slash_Draw_0_gml_81_0_b
 obj_overworldc_slash_Draw_0_gml_81_0
 ARMA: ~1
 obj_overworldc_slash_Draw_0_gml_82_0
-PROTE: ~1
+PROTECCIÓN: ~1
 obj_overworldc_slash_Draw_0_gml_83_0
 DINERO: ~1
 obj_overworldc_slash_Draw_0_gml_88_0
