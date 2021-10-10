@@ -3403,7 +3403,7 @@ scr_text_slash_scr_text_gml_3384_0
 scr_text_slash_scr_text_gml_3385_0
 \E7* Y Solo Será Un Cincuenta Porciento De Que Reprogame Sus Caras/
 scr_text_slash_scr_text_gml_3386_0
-\E1* Porfavor Has Tu Elección/
+\E1* Por favor, Haz Tu Elección/
 scr_text_slash_scr_text_gml_3387_0
 \E7* Perecer En La Calma De La Destrucción Completa/
 scr_text_slash_scr_text_gml_3388_0
@@ -4675,20 +4675,20 @@ scr_text_slash_scr_text_gml_5225_0
 scr_text_slash_scr_text_gml_5226_0
 * No voy a hablar acerca de NUESTRO HOYO./%
 scr_text_slash_scr_text_gml_5230_0
-* We reached our monthly FUNDING GOAL./
+* Alcanzamos nuestra META mensual de FINANCIAMIENTO./
 scr_text_slash_scr_text_gml_5231_0
-* I will now talk about OUR HOLE./
+* Ahora hablaré de NUESTRO AGUJERO./
 scr_text_slash_scr_text_gml_5232_0
-* It was dark^1, filled with darker dollawers/
+* Era oscuro^1, lleno de muñecos oscuros/
 scr_text_slash_scr_text_gml_5233_0
-* Fed from subscription by our followers/
+* Alimentado por la suscripción de nuestros seguidores/
 scr_text_slash_scr_text_gml_5234_0
-* Working hard no bank no lender/
+* Trabajar duro, sin banco, sin prestamistas/
 scr_text_slash_scr_text_gml_5235_0
-* We received one unit of legal tender/
+* Recibimos una unidad de moneda de curso legal/
 scr_text_slash_scr_text_gml_5236_0
 scr_text_slash_scr_text_gml_5237_0
-* Thanks for donating./%
+* Gracias por donar./%
 scr_text_slash_scr_text_gml_5244_0
 * Okay./%
 scr_text_slash_scr_text_gml_5249_0
@@ -5976,7 +5976,7 @@ scr_text_slash_scr_text_gml_7674_0
 \EQ* Kris^1, want to re-read my editable CYBERPEDIA entry?/
 scr_text_slash_scr_text_gml_7676_0
 scr_text_slash_scr_text_gml_7680_0
-Si lo hicistes.
+Si lo hiciste.
 small_text
 scr_text_slash_scr_text_gml_7685_0
 * De ahora en adelante^1, ralsay babea Susie manda/
@@ -9333,41 +9333,41 @@ right_bracket
 asc_def
 scr_get_input_name
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_5_0
-Backspace
+Retroceso
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_6_0
-Tab
+Tabulador
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_7_0
 Numpad 5 (nmlk off)
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_8_0
 Enter
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_9_0
-Pause
+Pausa
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_10_0
-Caps lock
+Bloq Mayús
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_11_0
 Escape
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_12_0
 Espacio
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_13_0
-Page up
+Página arriba
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_14_0
-Page down
+Página abajo
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_15_0
 Fin
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_16_0
 Home
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_17_0
-Left
+Botón Izquierdo
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_18_0
-Arriba
+Botón Arriba
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_19_0
-Right
+Botón Derecha
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_20_0
-Abajo
+Botón Abajo
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_21_0
-Insert
+Insertar
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_22_0
-Delete
+Borrar
 1
 7
 8
@@ -10434,7 +10434,7 @@ Hacha de Susie
 scr_recruit_info_slash_scr_recruit_info_gml_107_0
 MOUSE:PUZZ
 scr_recruit_info_slash_scr_recruit_info_gml_108_0
-* Limonada? ..^1. Porfavor./%
+* Limonada? ..^1. Por favor./%
 scr_recruit_info_slash_scr_recruit_info_gml_113_0
 scr_recruit_info_slash_scr_recruit_info_gml_114_0
 An agent of CHAOS, he became DEVILSKNIFE to the pocket.
@@ -14546,9 +14546,9 @@ gameload
 chapterselect
 startNextChapter
 continueChapter
-Capítulo 
+El Capítulo 
  fue completado.
-Jugar Capítulo
+Jugar Capítulo 
 stringset2
 はクリア済みです。
 をプレイ
@@ -14557,7 +14557,7 @@ Select. Capítulo
 select_text
 highestUncompletedChapter=
 highestCompletedChapter=
-Continuar desde Capítulo
+Continuar desde el Capítulo 
 から続けますか？
 Salir
 とじる
@@ -14983,7 +14983,7 @@ obj_classscene_slash_Step_0_gml_567_0
 obj_classscene_slash_Step_0_gml_568_0
 \E3* (No hubiera llegado a tiempo.)/%
 obj_classscene_slash_Step_0_gml_574_0
-\E9* Susie^1, no golpees tu pupitre porfavor./
+\E9* Susie^1, no golpees tu pupitre por favor./
 obj_classscene_slash_Step_0_gml_575_0
 \E4* Trata a la propiedad de la escuela^1, como tratas a las personas./%
 obj_classscene_slash_Step_0_gml_579_0
@@ -15356,7 +15356,7 @@ obj_krisroom_slash_Step_0_gml_394_0
 obj_krisroom_slash_Step_0_gml_399_0
 \E4* Tendré que bloquear el horno de nuevo?/%
 obj_krisroom_slash_Step_0_gml_406_0
-\E1* Bueno^1, apura saliendo de la cama^1. Es hora de ir a la escuela./%
+\E1* Bueno^1, apurate saliendo de la cama^1. Es hora de ir a la escuela./%
 hitmode
 ITEM
 item1
@@ -16422,7 +16422,7 @@ obj_npc_room_slash_Other_10_gml_1435_0
 obj_npc_room_slash_Other_10_gml_1445_0
 * Príncipe Ralsei^1, mantendré su sombrero hasta que lo necesite!/%
 obj_npc_room_slash_Other_10_gml_1449_0
-* Hasta ese entonces^1, porfavor permitame pretender ser un hechizero^1! Hi-ya!/%
+* Hasta ese entonces^1, por favor permitame pretender ser un hechizero^1! Hi-ya!/%
 obj_npc_room_slash_Other_10_gml_1455_0
 * Ho ho!^1! Who is this guy!^1! He's scary!!/%
 obj_npc_room_slash_Other_10_gml_1462_0
@@ -16472,9 +16472,9 @@ obj_npc_room_slash_Other_10_gml_1535_0
 obj_npc_room_slash_Other_10_gml_1536_0
 * Será por qué el es un rango mayor...?/%
 obj_npc_room_slash_Other_10_gml_1574_0_b
-* Is this guy seriously sucking up to you already^1? Even though you hurt us?/
+* Este tipo ya te está chupando seriamente^1? Aunque nos hagas daño?/
 obj_npc_room_slash_Other_10_gml_1575_0_b
-* He could at least wait until later today!/%
+* Podría por lo menos esperar hasta más tarde hoy!/%
 obj_npc_room_slash_Other_10_gml_1560_0
 * (Seems like Hathy likes this place.)/
 obj_npc_room_slash_Other_10_gml_1561_0
@@ -16483,11 +16483,11 @@ obj_npc_room_slash_Other_10_gml_1594_0
 obj_npc_room_slash_Other_10_gml_1595_0_b
 * (You feel an aura of forgiveness...)/%
 obj_npc_room_slash_Other_10_gml_1554_0
-* (Seems Hathy likes this place.)/
+* (Parece que a Hathy le gusta este lugar.)/
 obj_npc_room_slash_Other_10_gml_1555_0
-* (She hopes you'll find enough beds to inspect.)/
+* (Espera que encuentres suficientes camas para inspeccionar.)/
 obj_npc_room_slash_Other_10_gml_1556_0
-* (You'll lose your bed inspector title if you don't inspect enough beds.)/%
+* (Perderá su título de inspector de camas si no inspecciona suficientes camas.)/%
 obj_npc_room_slash_Other_10_gml_1566_0
 * (Hathy's happy to see so many new faces.)/
 obj_npc_room_slash_Other_10_gml_1567_0
@@ -16503,7 +16503,7 @@ obj_npc_room_slash_Other_10_gml_1582_0
 obj_npc_room_slash_Other_10_gml_1588_0
 * Gracias a ti^1, comandante^1, hemos sido liberados!/
 obj_npc_room_slash_Other_10_gml_1589_0
-* Declaro este día como el Día Nacional de Sanduche con Jamón de la Independencia!/%
+* ¡Declaro este día como el Día Nacional de Sanduche con Jamón de la Independencia!/%
 obj_npc_room_slash_Other_10_gml_1595_0
 * Wh..^1. what a wonderful place..^1. thank you.../
 obj_npc_room_slash_Other_10_gml_1596_0
@@ -17552,7 +17552,7 @@ obj_npc_sign_slash_Other_10_gml_1160_0
 obj_npc_sign_slash_Other_10_gml_1184_0
 Umm, Kris, tu puedes hacerlo!
 obj_npc_sign_slash_Other_10_gml_1165_0
-\E2* Kris^1, porfavor deletrea palabras bonitas!/%
+\E2* Kris^1, por favor deletrea palabras bonitas!/%
 obj_npc_sign_slash_Other_10_gml_1175_0
 \EA* Heh^1, sería gracioso si el acertijo^1, pues.../
 obj_npc_sign_slash_Other_10_gml_1176_0
@@ -18262,7 +18262,7 @@ obj_readable_room1_slash_Other_10_gml_226_0
 obj_readable_room1_slash_Other_10_gml_231_0
 * Es un tacho de basura^1.&* De alguna manera^1, emite un agradable aroma a flores./%
 obj_readable_room1_slash_Other_10_gml_234_0
-* Es un tacho de basura^1.&* De alguna manera^1, su esencia floral a incrementado./%
+* Es un tacho de basura^1.&* De alguna manera^1, su esencia floral ha incrementado./%
 obj_readable_room1_slash_Other_10_gml_240_0
 * Es un teléfono fijo^1.&* Pero tu ya tienes un teléfono celular./%
 obj_readable_room1_slash_Other_10_gml_245_0
@@ -20404,13 +20404,13 @@ Sony DualShock 4
 _yOffset
 _headerOffset
 obj_darkcontroller_slash_Draw_0_gml_113_0
-Funcion
+Función
 buttonXPos
 buttonYPos
 obj_darkcontroller_slash_Draw_0_gml_147_0
 Button
 obj_darkcontroller_slash_Draw_0_gml_114_0
-Key
+Tecla
 obj_darkcontroller_slash_Draw_0_gml_115_0
 Gamepad
 obj_darkcontroller_slash_Draw_0_gml_117_0
@@ -22856,7 +22856,7 @@ Que bueno es&volverte&a ver!
 obj_clubsenemy_slash_Step_0_gml_20_0
 Es hora&de que&mueras!
 obj_clubsenemy_slash_Step_0_gml_21_0
-Porfavor&ignoralas.
+Por favor&ignoralas.
 obj_clubsenemy_slash_Step_0_gml_26_0
 Que tan&bien nos&conoces?
 obj_clubsenemy_slash_Step_0_gml_27_0
@@ -22868,7 +22868,7 @@ Bonito&dojo&hoy día.
 obj_clubsenemy_slash_Step_0_gml_34_0
 Que?&solo es&terrible!
 obj_clubsenemy_slash_Step_0_gml_35_0
-Porfavor&paren,&las dos...
+Por favor&paren,&las dos...
 obj_clubsenemy_slash_Step_0_gml_139_0
 * Clover muestra un trío de sonrisas terribles.
 obj_clubsenemy_slash_Step_0_gml_140_0
@@ -23234,11 +23234,11 @@ obj_poppup_enemy_slash_Step_0_gml_176_0
 obj_poppup_enemy_slash_Step_0_gml_192_0
 * You just kept clicking and clicking on ads!!/%
 obj_poppup_enemy_slash_Step_0_gml_198_0
-* Inconscientemente hicistes click en un anuncio acerca de "monstruos para humanos" "en tu área,"/%
+* Inconscientemente hiciste click en un anuncio acerca de "monstruos para humanos" "en tu área,"/%
 obj_poppup_enemy_slash_Step_0_gml_199_0
-* Inconscientemente hicistes click en un anuncio acerca de como hacer cuchillos con espagetis./%
+* Inconscientemente hiciste click en un anuncio acerca de como hacer cuchillos con espagetis./%
 obj_poppup_enemy_slash_Step_0_gml_200_0
-* Inconscientemente hicistes click en un anuncio acerca de clases para invocar demonios para jóvenes./%
+* Inconscientemente hiciste click en un anuncio acerca de clases para invocar demonios para jóvenes./%
 overload
 obj_poppup_enemy_slash_Step_0_gml_239_0
 * Los Poppups se crashearon!/%
@@ -26067,7 +26067,7 @@ WHAT'S SHE GONNA&DO, MAKE ME AN&[Ice Cream]!?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_739_0
 HEY, IS IT COLD&IN HERE OR IS IT&JUST ME?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_531_0
-* Kris used X-Slash!/%
+* Kris uso X-Slash!/%
 krs
 att
 dam
@@ -27580,7 +27580,7 @@ obj_dojo_spareenemy_slash_Step_0_gml_19_0
 obj_dojo_spareenemy_slash_Step_0_gml_23_0
 Ohhhh, jefe,&me esta&perdonando!?/%
 obj_dojo_spareenemy_slash_Step_0_gml_27_0
-Lo hicistes, Jefe!^1&Si puedes PERDONAR a los enemigos de inmediato.../
+Lo hiciste, Jefe!^1&Si puedes PERDONAR a los enemigos de inmediato.../
 obj_dojo_spareenemy_slash_Step_0_gml_28_0
 Las batallas irán&mucho mas rápido!&Eso es todo!/%
 obj_dojo_spareenemy_slash_Step_0_gml_32_0
@@ -28412,7 +28412,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_571_0
 obj_shop_ch2_music_slash_Draw_0_gml_572_0
 \m1		*No fue hasta que apareció esa &FUENTE OSCURA apareció&\m3	Que se comenzó a volver&	loca./
 obj_shop_ch2_music_slash_Draw_0_gml_573_0
-\m1		*"Caballero" aquí^1, "Caballero" allá^1. Que esto la "Fuente"...&\m3	Oséa, que tiene ese Caballero& que yo no tenga!?& Porfavor!!/
+\m1		*"Caballero" aquí^1, "Caballero" allá^1. Que esto la "Fuente"...&\m3	Oséa, que tiene ese Caballero& que yo no tenga!?& Por favor!!/
 obj_shop_ch2_music_slash_Draw_0_gml_574_0
 \m1		*Pero como dije. Ella no fue& SIEMPRE mala. Ella solía darme&	dulces. Por ser muy dulce!&\m3	H... huh!? Nunca me dieron eso!!/
 obj_shop_ch2_music_slash_Draw_0_gml_575_0
@@ -29397,7 +29397,7 @@ DEVICE_MENU_slash_Draw_0_gml_165_0
 DEVICE_MENU_slash_Draw_0_gml_166_0
 NOWPLACE
 DEVICE_MENU_slash_Draw_0_gml_194_0
-Tu Habitacion [FIN Cap. 1]
+Tu Habitación [FINAL Cap. 1]
 DEVICE_MENU_slash_Draw_0_gml_195_0
 [Hecho en creditos visibles.]
 DEVICE_MENU_slash_Draw_0_gml_189_0
@@ -29437,7 +29437,7 @@ DEVICE_MENU_slash_Draw_0_gml_218_0
 DEVICE_MENU_slash_Draw_0_gml_219_0
 SELECT THE ONE TO ERASE.
 DEVICE_MENU_slash_Draw_0_gml_223_0
-Porfavor selecciona un archivo.
+Por favor, selecciona un archivo.
 DEVICE_MENU_slash_Draw_0_gml_224_0
 Escoge un archivo para copiar.
 DEVICE_MENU_slash_Draw_0_gml_225_0
@@ -30010,7 +30010,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_191_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_199_0
 * (No puedes dejar que mamá te vea balanceando una orbe gigante de basura!)/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_222_0
-\E6* Todo esta en órden./
+\E6* Todo está en orden./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_224_0
 \E0* Bueno^1, eso me alivia. Yo he estado.../
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_225_0
@@ -30255,25 +30255,25 @@ obj_ch2_scene6_slash_Step_0_gml_543_0
 obj_ch2_scene6_slash_Step_0_gml_545_0
 \E7* Lancer!!!/%
 obj_ch2_scene6_slash_Step_0_gml_566_0
-\E2* Hey^1, Kris^1, no se que hicistes^1, pero, al diablo que si!/%
+\E2* Hey^1, Kris^1, no se que hiciste^1, pero, al diablo que si!/%
 obj_ch2_scene6_slash_Step_0_gml_570_0
 \E9* Todos están aquí!/%
 obj_ch2_scene6_slash_Step_0_gml_591_0
 \EK* Uh^1, hey. Espera. Creo que derrotamos a algunos de estos sujetos./
 obj_ch2_scene6_slash_Step_0_gml_592_0
-\EC* Are they not gonna like..^1. gang up on us now?/
+\EC* Ellos no van a..^1. a unirse en contra de nosotros ahora?/
 obj_ch2_scene6_slash_Step_0_gml_594_0
-\E3* Don't worry^1, Susie!/%
+\E3* No te preoucupes^1, Susie!/%
 obj_ch2_scene6_slash_Step_0_gml_600_0_b
-\E1* Pop-pop got trapped in a hamster cage^1, making me Prince King./
+\E1* Pop-pop se atrapo en una jaula de hámster^1, Haciendome un Principe Rey./
 obj_ch2_scene6_slash_Step_0_gml_601_0
-\E2* And with my new dad-like powers^1, I declared you forgiven!/
+\E2* Y con el poder de papá^1, te declaré perdonado!/
 obj_ch2_scene6_slash_Step_0_gml_603_0
-\E3* Cool^1, well^1, guess I won't beat anyone up here^1, either./
+\E3* Genial^1, bueno^1, supongo que no golpeare a nadie aquí.^1, aún./
 obj_ch2_scene6_slash_Step_0_gml_605_0_b
-\E3* Yep^1! Now all that's left is for everyone to enjoy the new home!/%
+\E3* Si^1! Ahora todo lo que queda es para que todos disfruten del nuevo hogar!/%
 obj_ch2_scene6_slash_Step_0_gml_614_0
-\EC* Wait^1, new home? Where's your..^1. OLD home?/%
+\EC* Espera^1, nuevo hogar? Donde está..^1. Tú antiguo hogar?/%
 obj_ch2_scene6_slash_Step_0_gml_576_0
 \E0* .. pero^1, uh^1, que le paso al^1, uh^1, castillo de Lancer?/%
 obj_ch2_scene6_slash_Step_0_gml_587_0
@@ -30293,7 +30293,7 @@ obj_ch2_scene6_slash_Step_0_gml_604_0
 obj_ch2_scene6_slash_Step_0_gml_605_0
 \E1* Nos adueñaremos del castillo de Ralsei para nosotros!!/%
 obj_ch2_scene6_slash_Step_0_gml_622_0
-\E3* (Kris^1, cuando tragistes a lo Habitantes del Mundo Oscuro...)/
+\E3* (Kris^1, cuando tragiste a lo Habitantes del Mundo Oscuro...)/
 obj_ch2_scene6_slash_Step_0_gml_623_0
 \EI* (El poder de nuestra Fuente...)/
 obj_ch2_scene6_slash_Step_0_gml_624_0
@@ -30315,7 +30315,7 @@ obj_ch2_scene6_slash_Step_0_gml_644_0
 obj_ch2_scene6_slash_Step_0_gml_645_0
 \E2* El último en llegar es un huevo fresco y fragante!!/%
 obj_ch2_scene6_slash_Step_0_gml_662_0
-\E2* Vamos^1, Kris! Vas a dejar que él nos venza!?/%
+\E2* Vamos^1, Kris! Vas a dejar que él nos gane!?/%
 lancer_npc
 obj_ch2_scene7_slash_Step_0_gml_31_0
 \E0* Bueno^1, diablos. CREO que tenemos que hacer nuestro proyecto./
@@ -30408,7 +30408,7 @@ wire2_actor
 obj_ch2_scene9_slash_Step_0_gml_74_0
 * Alguien ayudeme.../%
 obj_ch2_scene9_slash_Step_0_gml_93_0
-* Alguien, porfavor.../%
+* Alguien, por favor.../%
 obj_ch2_scene9_slash_Step_0_gml_104_0
 \EE* Susie!?/%
 obj_ch2_scene9_slash_Step_0_gml_107_0
@@ -30560,7 +30560,7 @@ obj_ch2_scene10_slash_Step_0_gml_102_0
 obj_ch2_scene10_slash_Step_0_gml_104_0
 \EE* No!^1! Es todo lo demás lo que me da miedo!!/
 obj_ch2_scene10_slash_Step_0_gml_106_0
-\ED* Porfavor Aborta Tu Protocólo De Tristeza/
+\ED* Por favor Aborta Tu Protocólo De Tristeza/
 obj_ch2_scene10_slash_Step_0_gml_107_0
 \E1* Te Dije Que Ser Un Peón Sería Genial/%
 obj_ch2_scene10_slash_Step_0_gml_124_0
@@ -38020,7 +38020,7 @@ unlocked
 obj_mansion_keygen_lock_slash_Other_10_gml_5_0
 * It has a lock that seems impossible to open./%
 obj_mansion_keygen_lock_slash_Other_10_gml_9_0
-* (Kris used the KEYGEN.)/%
+* (Kris uso un KEYGEN.)/%
 closed_door
 TILES_Door_Closed
 interactable
