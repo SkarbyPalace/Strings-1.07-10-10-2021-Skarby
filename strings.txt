@@ -3687,22 +3687,22 @@ scr_text_slash_scr_text_gml_3678_0
 scr_text_slash_scr_text_gml_3683_0
 #Vamos!#Vamos!
 scr_text_slash_scr_text_gml_3684_0
-Podemos usar#la computadora#de mi#casa
+Podemos usar#la computadora#de mi casa
 scr_text_slash_scr_text_gml_3685_0
 scr_text_slash_scr_text_gml_3686_0
 scr_text_slash_scr_text_gml_3689_0
-* ... Así que, qué hacemos^1, Kris?/
+* ... Así que, ¿qué hacemos^1 Kris?/
 scr_text_slash_scr_text_gml_3690_0
 scr_text_slash_scr_text_gml_3697_0
-\E2* Si^1, demosle de una vez!/
+\E2* Si^1, ¡demosle de una vez!/
 scr_text_slash_scr_text_gml_3698_0
-\E9* Nuestra última aventura fue genial^1, cierto?!/
+\E9* Nuestra última aventura fue genial^1, ¿¡cierto?!/
 scr_text_slash_scr_text_gml_3699_0
-\EY* No podía dejar de pensar en tener otra!/
+\EY* ¡No podía dejar de pensar en tener otra!/
 scr_text_slash_scr_text_gml_3700_0
 \EQ* No sé que habrá ahí^1, pero.../
 scr_text_slash_scr_text_gml_3701_0
-\EY* No podremos vivir si no lo sabemos^1, verdad!?/%
+\EY* No podremos vivir si no lo sabemos^1, ¿¡verdad!?/%
 scr_text_slash_scr_text_gml_3706_0
 \EV* .../
 scr_text_slash_scr_text_gml_3707_0
@@ -7608,7 +7608,7 @@ scr_encountersetup_slash_scr_encountersetup_gml_568_0
 scr_encountersetup_slash_scr_encountersetup_gml_585_0
 * Tasques se cruzaron en tu camino!
 scr_encountersetup_slash_scr_encountersetup_gml_603_0
-* WereWires se balancean hacia ti!!
+* ¡¡WereWires se balancean hacia ti!!
 scr_encountersetup_slash_scr_encountersetup_gml_620_0
 * Maice blocked the way! 
 scr_encountersetup_slash_scr_encountersetup_gml_637_0
@@ -7846,12 +7846,12 @@ scr_spelltext_slash_scr_spelltext_gml_63_0
 scr_spelltext_slash_scr_spelltext_gml_67_0
 * ~1 cast ULTIMATEHEAL!/%
 scr_spelltext_slash_scr_spelltext_gml_58_0
-* ~1 perdonó a ~2!/%
+* ¡~1 perdonó a ~2!/%
 scr_spelltext_slash_scr_spelltext_gml_62_0
 scr_spelltext_slash_scr_spelltext_gml_66_0
-* ~1 perdonó a ~2^2!&* Pero su nombre no estaba \cYAMARILLO\cW.../%
+* ¡~1 perdonó a ~2^2!&* Pero su nombre no estaba \cYAMARILLO\cW.../%
 scr_spelltext_slash_scr_spelltext_gml_69_0
-* ~1 perdonó a ~2^2!&* Pero su nombre no estaba \cYAMARILLO\cW.../
+* ¡~1 perdonó a ~2^2!&* Pero su nombre no estaba \cYAMARILLO\cW.../
 scr_spelltext_slash_scr_spelltext_gml_70_0
 * (Intenta usando \cBPACIFICAR\cW!)/%
 scr_spelltext_slash_scr_spelltext_gml_94_0
@@ -10801,7 +10801,7 @@ checker
 _rreturn
 scr_havechar
 scr_roomname_slash_scr_roomname_gml_1_0
-Mundo Oscuro?
+¿Mundo Oscuro?
 roomname
 scr_roomname_slash_scr_roomname_gml_2_0
 scr_roomname_slash_scr_roomname_gml_3_0
@@ -18304,7 +18304,7 @@ obj_readable_room1_slash_Other_10_gml_339_0
 obj_readable_room1_slash_Other_10_gml_344_0
 * (El casillero está cubierto de recuerdos en Jockington.)/%
 obj_readable_room1_slash_Other_10_gml_349_0
-* (Estas listo para ir al baile de Sadie Hawkman?)/
+* (¿Estas listo para ir al baile de Sadie Hawkman?)/
 obj_readable_room1_slash_Other_10_gml_350_0
 * (En este baile^1, todos los chaperones traerán puestos unas cabezas de halcón...)/
 obj_readable_room1_slash_Other_10_gml_351_0
@@ -18326,19 +18326,19 @@ obj_readable_room1_slash_Other_10_gml_370_0
 obj_readable_room1_slash_Other_10_gml_375_0
 * That wasn't ENCOURAGEMENT^1, dumbass!/%
 obj_readable_room1_slash_Other_10_gml_382_0
-* Te gusta^1, respirar^1? Ir rápido^1, con o sin^1, piernas?/
+* Te gusta^1, ¿respirar^1? Ir rápido^1, con o sin^1, ¿piernas?/
 obj_readable_room1_slash_Other_10_gml_383_0
-* Pero usualmente^1, con piernas?/
+* Pero usualmente^1, ¿con piernas?/
 obj_readable_room1_slash_Other_10_gml_384_0
-* Únete al Equipo Cross Country con Jockington^1, y Noelle!/%
+* ¡Únete al Equipo Cross Country con Jockington^1, y Noelle!/%
 obj_readable_room1_slash_Other_10_gml_390_0
 * (Casillero^1. Está bloqueado.)/%
 obj_readable_room1_slash_Other_10_gml_396_0
-* (This used to be your brother's locker.)/%
+* (Este solía ser el casillero de tu hermano.)/%
 obj_readable_room1_slash_Other_10_gml_400_0
-* (It's your locker.^1)&* (It's empty.)/%
+* (Es tú casillero.^1)&* (Esta vacio.)/%
 obj_readable_room1_slash_Other_10_gml_409_0
-* (Revisastes la hora.)/
+* (Revisaste la hora.)/
 obj_readable_room1_slash_Other_10_gml_410_0
 * (... It seems to be time for class.)/%
 obj_readable_room1_slash_Other_10_gml_414_0
@@ -21447,13 +21447,13 @@ gigaqueentimer
 gigaqueencon
 lastbattlewriter
 obj_battlecontroller_slash_Step_0_gml_42_0
-* Ganaste^1!&* Obtienes ~1 EXP y ~2 D$./%
+* ¡Ganaste^1!&* Obtienes ~1 EXP y ~2 D$./%
 obj_battlecontroller_slash_Step_0_gml_43_0
-* Ganastes la batalla!/%
+* ¡Ganaste la batalla!/%
 obj_battlecontroller_slash_Step_0_gml_46_0
-* Ganastes^1!&* Obtienes ~1 D$^1.&* Te volvistes mas fuerte./%
+* ¡Ganaste^1!&* Obtienes ~1 D$^1.&* Te hiciste más fuerte./%
 obj_battlecontroller_slash_Step_0_gml_69_0
-* You won^1!&* Got ~1 D$^1.&* Noelle became stronger./%
+* ¡Ganaste^1!&* Obtienes ~1 D$^1.&* Noelle se hizo más fuerte./%
 lvsnd
 victortimer
 defender
@@ -23972,23 +23972,23 @@ bullet_angle
 obj_werewire_enemy_slash_Step_0_gml_393_0
 * WEREWIRE - controlado por el cable de Queen, esta en sonambulismo de una pesadilla!/%
 obj_werewire_enemy_slash_Step_0_gml_399_0
-* Sacudiste tu cuerpo. el cable se aflojó a su vez!/%
+* Sacudiste tu cuerpo. ¡el cable se aflojó a su vez!/%
 obj_werewire_enemy_slash_Step_0_gml_399_1
 * Te sacudistes!/%
 obj_werewire_enemy_slash_Step_0_gml_425_0
-* Presiona ~1 para lanzar, apunta hacia el punto débil!
+* Presiona ~1 para lanzar, ¡apunta hacia el punto débil!
 obj_werewire_enemy_slash_Step_0_gml_457_0
-* Susie arrancó el cable! Se aflojó un poco./%
+* ¡Susie arrancó el cable! Se aflojó un poco./%
 obj_werewire_enemy_slash_Step_0_gml_457_1
-* Susie arrancó el cable!/%
+* ¡Susie arrancó el cable!/%
 obj_werewire_enemy_slash_Step_0_gml_469_0
 * Ralsei cantó una tonada para serpientes al cable! Se aflojó un poco./%
 obj_werewire_enemy_slash_Step_0_gml_469_1
-* Ralsei charmed the wire!/%
+* Ralsei encantó el cable!/%
 obj_werewire_enemy_slash_Step_0_gml_481_0
 * Noelle sacó el enchufe como una luz de hadas!/%
 obj_werewire_enemy_slash_Step_0_gml_481_1
-* Noelle pulled on the plug!/%
+* Noelle tiró del enchufe!/%
 kx
 ky
 krisyoff
@@ -30273,13 +30273,13 @@ obj_ch2_scene6_slash_Step_0_gml_603_0
 obj_ch2_scene6_slash_Step_0_gml_605_0_b
 \E3* ¡Si^1! ¡Todo lo que ven es para que todos disfruten del hogar!/%
 obj_ch2_scene6_slash_Step_0_gml_614_0
-\EC* Espera^1, nuevo hogar? Donde está..^1. Tú antiguo hogar?/%
+\EC* Espera^1, ¿Nuevo hogar? Donde está..^1. ¿Tú antiguo hogar?/%
 obj_ch2_scene6_slash_Step_0_gml_576_0
 \E0* .. pero^1, uh^1, que le paso al^1, uh^1, castillo de Lancer?/%
 obj_ch2_scene6_slash_Step_0_gml_587_0
 \E3* Desapareció tooodo!/
 obj_ch2_scene6_slash_Step_0_gml_589_0
-\E6* Desapareció?/%
+\E6* ¿Desapareció?/%
 obj_ch2_scene6_slash_Step_0_gml_598_0
 \EA* Cierto..^1. Cuando Kris sello la fuente^1,/
 obj_ch2_scene6_slash_Step_0_gml_599_0
@@ -30287,11 +30287,11 @@ obj_ch2_scene6_slash_Step_0_gml_599_0
 obj_ch2_scene6_slash_Step_0_gml_600_0
 \EI* ..^1. Y se transformó de vuelta a un aula normal./
 obj_ch2_scene6_slash_Step_0_gml_602_0
-\E0* ..^1. Entonces donde va a vivir Lancer ahora?/
+\E0* ..^1. ¿Entonces donde va a vivir Lancer ahora?/
 obj_ch2_scene6_slash_Step_0_gml_604_0
-\E2* No te preocupes^1, Susie!!/
+\E2* ¡¡No te preocupes^1 Susie!!/
 obj_ch2_scene6_slash_Step_0_gml_605_0
-\E1* Nos adueñaremos del castillo de Ralsei para nosotros!!/%
+\E1* ¡¡Nos adueñaremos del castillo de Ralsei para nosotros!!/%
 obj_ch2_scene6_slash_Step_0_gml_622_0
 \E3* (Kris^1, cuando trajiste a lo Habitantes del Mundo Oscuro...)/
 obj_ch2_scene6_slash_Step_0_gml_623_0
@@ -30303,15 +30303,15 @@ obj_ch2_scene6_slash_Step_0_gml_625_0
 obj_ch2_scene6_slash_Step_0_gml_626_0
 \E0* (Serán RECLUTADOS a nuestra ciudad.)/
 obj_ch2_scene6_slash_Step_0_gml_627_0
-\E2* (Asi que sigamos PERDONANDO enemigos^1, entendido?)/%
+\E2* (Asi que sigamos PERDONANDO enemigos^1, ¿entendido?)/%
 obj_ch2_scene6_slash_Step_0_gml_637_0
-\E3* De cualquier modo^1, por qué no le damos todos un vistazo?/
+\E3* De cualquier modo^1, ¿por qué no le damos todos un vistazo?/
 obj_ch2_scene6_slash_Step_0_gml_638_0
 \E2* Podemos ir hacia el NORTE del CASTILLO./
 obj_ch2_scene6_slash_Step_0_gml_639_0
-\E2* Tengo una sopresa especial para mostrarles!/%
+\E2* ¡Tengo una sopresa especial para mostrarles!/%
 obj_ch2_scene6_slash_Step_0_gml_644_0
-\E3* Ajaja!^1! No si yo me soprendo primero!!/
+\E3* ¡¡Ajaja!^1! ¡¡No si yo me soprendo primero!!/
 obj_ch2_scene6_slash_Step_0_gml_645_0
 \E2* El último en llegar es un huevo fresco y fragante!!/%
 obj_ch2_scene6_slash_Step_0_gml_662_0
@@ -30320,19 +30320,19 @@ lancer_npc
 obj_ch2_scene7_slash_Step_0_gml_31_0
 \E0* Bueno^1, diablos. CREO que tenemos que hacer nuestro proyecto./
 obj_ch2_scene7_slash_Step_0_gml_32_0
-\EB* (Sigh...)/%
+\EB* (Suspira...)/%
 obj_ch2_scene7_slash_Step_0_gml_39_0
-\E9* Al menos tenemos a Lancer^1, verdad!?/%
+\E9* Al menos tenemos a Lancer^1, ¿¡verdad!?/%
 obj_ch2_scene7_slash_Step_0_gml_58_0
-\E6* ..^1. Lancer? Donde estás?/%
+\E6* ..^1. ¿Lancer? ¿Donde estás?/%
 obj_ch2_scene7_slash_Step_0_gml_66_0
-\EK* Diablos^1, creo que nos dejo después de todo^1, huh./%
+\EK* Diablos^1, creo que nos dejo después de todo^1, eh./%
 obj_ch2_scene7_slash_Step_0_gml_76_0
-* Hmm..^1. entonces^1, donde hacemos esto?/%
+* Hmm..^1. entonces^1, ¿donde hacemos esto?/%
 obj_ch2_scene7_slash_Step_0_gml_85_0
-\E1* ..^1. qué? La Librería?/%
+\E1* ..^1. ¿qué? ¿La Librería?/%
 obj_ch2_scene7_slash_Step_0_gml_92_0
-\E0* Ugh..^1. Bueno^1, está bien./%
+\E0* Ummm..^1. Bueno^1, está bien./%
 layer_get_id_at_depth
 foreground
 drawdoor
@@ -30345,17 +30345,17 @@ obj_ch2_scene8_slash_Step_0_gml_48_0
 \EA* Mal. Ditos. Libros. Me vuelven loca./%
 obj_ch2_scene8_slash_Step_0_gml_55_0
 obj_ch2_scene8_slash_Step_0_gml_63_0
-\EK* Hey^1, Kris^1, donde diablos ESTÁN todos?/%
+\EK* Oye^1, Kris^1, ¿en donde diablos ESTÁN todos?/%
 obj_ch2_scene8_slash_Step_0_gml_71_0
 \E0* Hay algo que no..^1. cuadra./%
 obj_ch2_scene8_slash_Step_0_gml_80_0
 \E5* Al carajo vamos a jugar Pinball Espacial en el laboratorio/%
 obj_ch2_scene8_slash_Step_0_gml_97_0
-\E6* H..^1. huh...?/
+\E6* E..^1. ¿Ehh...?/
 obj_ch2_scene8_slash_Step_0_gml_98_0
 * Es como.../%
 obj_ch2_scene8_slash_Step_0_gml_108_0
-\EC* ..^1. el interior de el closet?/%
+\EC* ..^1. ¿el interior de el closet?/%
 obj_ch2_scene8_slash_Step_0_gml_119_0
 \E1* Kris^1, no crees que este pueda ser.../%
 obj_ch2_scene8_slash_Step_0_gml_134_0
@@ -30376,7 +30376,7 @@ obj_ch2_scene8_slash_Step_0_gml_148_0
 obj_ch2_scene8_slash_Step_0_gml_149_0
 \EQ* Y volverá a ser un laboratorio de computadoras^1, verdad?/%
 obj_ch2_scene8_slash_Step_0_gml_157_0
-\E2* Vamos^1, Kris!!/%
+\E2* ¡¡Vamos^1 Kris!!/%
 trans
 skiprunback
 nextroom
@@ -30410,38 +30410,38 @@ obj_ch2_scene9_slash_Step_0_gml_74_0
 obj_ch2_scene9_slash_Step_0_gml_93_0
 * Alguien, por favor.../%
 obj_ch2_scene9_slash_Step_0_gml_104_0
-\EE* Susie!?/%
+\EE* ¿¡Susie!?/%
 obj_ch2_scene9_slash_Step_0_gml_107_0
 \E3* Que genial que estés aquí, solo.../%
 obj_ch2_scene9_slash_Step_0_gml_110_0
-\EB* Espera, escapa antes de que sea muy tarde!/%
+\EB* Espera, ¡escapa antes de que sea muy tarde!/%
 obj_ch2_scene9_slash_Step_0_gml_120_0
-\EZ* NOELLE!/%
+\EZ* ¡NOELLE!/%
 queen_intro.ogg
 obj_ch2_scene9_slash_Step_0_gml_151_0
 \E0* Que Infierno De Sesion De Estudio/
 obj_ch2_scene9_slash_Step_0_gml_153_0
-\EH* Quién diablos eres tú!?/
+\EH* ¿¡Quién diablos eres tú!?/
 obj_ch2_scene9_slash_Step_0_gml_155_0
-\E2* Soy Conocida Como Número Serial Q5U4EX7YY2E9N/
+\E2* Soy Conocida Como Número Serial Q5U4EX7YY2E9N./
 obj_ch2_scene9_slash_Step_0_gml_156_0
 \E0* Pero Ustedes Niños Tontos Me Pueden Llamar/%
 obj_ch2_scene9_slash_Step_0_gml_172_0
 \E1* "Queen"/%
 obj_ch2_scene9_slash_Step_0_gml_181_0
-\E2* Heh^1, como si te fueramos a llamar a TI "Queen^1,"/%
+\E2* Ja^1, como si te fueramos a llamar a TI "Queen^1"/%
 obj_ch2_scene9_slash_Step_0_gml_184_0
 \EK* "Q5U....3...7..." uh^1,/%
 obj_ch2_scene9_slash_Step_0_gml_192_0
 \E0* "Queen"/%
 obj_ch2_scene9_slash_Step_0_gml_200_0
-\E5* pues MIRA^1, "Queen. "No somos "niños!"/%
+\E5* pues MIRA^1 "Queen" No somos "niños"!/%
 obj_ch2_scene9_slash_Step_0_gml_208_0
 Y Los Adultos Son Niños Aún Más Grandes
 obj_ch2_scene9_slash_Step_0_gml_209_0
 \E1* Adolescentes Son Como Niños Grandes \f0 /%
 obj_ch2_scene9_slash_Step_0_gml_213_0
-\EK* ..^1. no te hace eso una niña a ti también?/%
+\EK* ..^1. ¿no te hace eso una niña a ti también?/%
 obj_ch2_scene9_slash_Step_0_gml_220_0
 \EQ* No Yo Soy: Una Computadora (Inteligente)/%
 obj_ch2_scene9_slash_Step_0_gml_225_0
@@ -30449,74 +30449,74 @@ obj_ch2_scene9_slash_Step_0_gml_225_0
 obj_ch2_scene9_slash_Step_0_gml_233_0
 \ED* Bueno Gracias Por El Estímulo Pero Debo Irme Ahora (Adiós)/%
 obj_ch2_scene9_slash_Step_0_gml_243_0
-\E5* Espera^1! ESPERA!^1! Por qué capturastes a Noelle!?/%
+\E5* ¡Espera^1! ¡¡ESPERA!^1! ¿¡Por qué capturastes a Noelle!?/%
 obj_ch2_scene9_slash_Step_0_gml_252_0
 \EO* Los Hubiera Capturado A Ustedes También Pero Me Quedé Sin Jaulas/%
 obj_ch2_scene9_slash_Step_0_gml_258_0
-\EH* Por qué la CAPTURA!?/%
+\EH* ¿¡Por qué la CAPTURA!?/%
 obj_ch2_scene9_slash_Step_0_gml_264_0
 \E0* Para Que Ella Se Convierta En Mi Peón Dispuesto/%
 obj_ch2_scene9_slash_Step_0_gml_267_0
 \E6* En Mi Mision Para La Dominación Mundial/%
 obj_ch2_scene9_slash_Step_0_gml_271_0
-\E9* Debería Convertir Su Cara En Una De Robot?/%
+\E9* ¿Debería Convertir Su Cara En Una De Robot?/%
 obj_ch2_scene9_slash_Step_0_gml_278_0
-\E5* Que!? Por qué!?/%
+\E5* ¿¡Que!? ¿¡Por qué!?/%
 obj_ch2_scene9_slash_Step_0_gml_285_0
 \EQ* Parece Genial/
 obj_ch2_scene9_slash_Step_0_gml_287_0
 \E4* Bueno^1, OLVIDALO^1, viejo./%
 obj_ch2_scene9_slash_Step_0_gml_297_0
-\E4* Nadie convertirá la cara de alguien en robot!/
+\E4* ¡Nadie convertirá la cara de alguien en robot!/
 obj_ch2_scene9_slash_Step_0_gml_299_0
 \EE* Puede Ser Esa Una Declaración De Disensión Anónima/
 obj_ch2_scene9_slash_Step_0_gml_301_0
-\E6* Huh?/
+\E6* ¿Eh?/
 obj_ch2_scene9_slash_Step_0_gml_303_0
 \E1* Quieres Pelear^1, Perdedora/%
 obj_ch2_scene9_slash_Step_0_gml_310_0
-\EH* SI!!^1! PORFIN SI^1, SI!!!/%
+\EH* ¡¡SI!!^1! PORFIN SI^1, ¡¡SI!!!/%
 obj_ch2_scene9_slash_Step_0_gml_318_0
 \E1* Oh Entonces Adiós/%
 obj_ch2_scene9_slash_Step_0_gml_327_0
-\E5* ESPERA^1! UN MALDITO^1! SEGUNDO!!/
+\E5* ¡ESPERA^1! ¡UN MALDITO^1! ¡¡SEGUNDO!!/
 obj_ch2_scene9_slash_Step_0_gml_329_0
-* No Tengo Tiempo Para Esas Tonterías (Aparte Te Rompería El Culo)/
+* No Tengo Tiempo Para Esas Tonterías (Aparte te rompería en 2)/
 obj_ch2_scene9_slash_Step_0_gml_330_0
 \E1* Pero Quizas Alguien Mas Te Puede Entretener/%
 obj_ch2_scene9_slash_Step_0_gml_415_0
 * Disfruta: Tu Asimilación/%
 obj_ch2_scene9_slash_Step_0_gml_639_0
-\E9* Phew^1, buena pelea después de tanto tiempo!/%
+\E9* Phew^1, ¡Buena pelea después de tanto tiempo!/%
 obj_ch2_scene9_slash_Step_0_gml_645_0
-\E2* Ahora alcanzemos a Queen!/%
+\E2* ¡Ahora debemos alcanzar a Queen!/%
 obj_ch2_scene9_slash_Step_0_gml_657_0
 \EZ* ..^1. o no!/%
 obj_ch2_scene9_slash_Step_0_gml_663_0
-\E6* Huh? Se calmaron...?/%
+\E6* ¿Eh? ¿Se calmaron...?/%
 obj_ch2_scene9_slash_Step_0_gml_675_0
-\EH* Solo use mi hechizo PACIFICAR para ponerlos en "Modo Dormir"!/
+\EH* ¡Solo use mi hechizo PACIFICAR para ponerlos en "Modo Reposo"!/
 obj_ch2_scene9_slash_Step_0_gml_677_0
-\E7* Ralsei! Estás aquí!/%
+\E7* ¡Ralsei! ¡Estás aquí!/%
 obj_ch2_scene9_slash_Step_0_gml_692_0
-\E0* Sentí una presencia oscura y vine en cuanto antes!/%
+\E0* ¡Sentí una presencia oscura y vine en cuanto antes!/%
 obj_ch2_scene9_slash_Step_0_gml_695_0
 \E9* Parece que una nueva Fuente Oscura ha aparecido.../%
 obj_ch2_scene9_slash_Step_0_gml_704_0
-\ER* Ralsei..^1. tienen a Noelle!/%
+\ER* Ralsei..^1. ¡tienen a Noelle!/%
 obj_ch2_scene9_slash_Step_0_gml_710_0
-\EN* Diablos^1, por qué se le OCURRIÓ venir a nuestro Mundo Oscuro!?/%
+\EN* Diablos^1, ¿¡por qué se le OCURRIÓ venir a nuestro Mundo Oscuro!?/%
 obj_ch2_scene9_slash_Step_0_gml_714_0
 \EO* Si no hacemos algo^1, puede que ella.../%
 obj_ch2_scene9_slash_Step_0_gml_719_0
-\E0* No te preocupes^1, Susie^1! Lo que hay que hacer es sellar la Fuente!/
+\E0* ¡No te preocupes^1 Susie^1! ¡Lo que hay que hacer es sellar la Fuente!/
 obj_ch2_scene9_slash_Step_0_gml_721_0
-\EQ* ..^1. si. Si!/%
+\EQ* ..^1. si. ¡Si!/%
 susiehappy
 obj_ch2_scene9_slash_Step_0_gml_726_0
-\EA* No me puedo enojar por tener otra aventura^1, cierto!?/%
+\EA* No me puedo enojar por tener otra aventura^1, ¿¡cierto!?/%
 obj_ch2_scene9_slash_Step_0_gml_735_0
-\E9* Vamos^1, Kris!/%
+\E9* ¡Vamos^1 Kris!/%
 obj_ch2_scene9_slash_Step_0_gml_778_0
 monster1
 monster2
