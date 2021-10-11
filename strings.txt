@@ -17405,7 +17405,7 @@ fireworks_con
 obj_npc_sign_slash_Other_10_gml_864_0
 * Wow^1, I'm the Hacker and you found all 3 checkmarks!/
 obj_npc_sign_slash_Other_10_gml_783_0
-* You found 3 checkmarks?^1! Elite..^1. I will now live in your city./
+* Encontraste 3 marcas de verificación^1? Élite..^1. Ahora viviré en tu ciudad./
 obj_npc_sign_slash_Other_10_gml_784_0
 * Maybe our cyber paths will cyber cross once more in Queen's Mansion./
 obj_npc_sign_slash_Other_10_gml_785_0
@@ -19163,7 +19163,7 @@ obj_readable_room1_slash_Other_10_gml_2284_0
 obj_readable_room1_slash_Other_10_gml_2285_0
 * (Looks like Nubert's screen is moving up in the world...)/%
 obj_readable_room1_slash_Other_10_gml_2291_0
-* (It seems to be stuck.)/%
+* (Parece estar atascado.)/%
 obj_readable_room1_slash_Other_10_gml_2367_0_b
 * (It seems to be stupid.)/%
 obj_readable_room1_slash_Other_10_gml_2373_0
@@ -27785,7 +27785,7 @@ obj_shop1_slash_Draw_0_gml_139_0
 obj_shop1_slash_Draw_0_gml_148_0
 \E0Que te&gustaria&comprar?
 obj_shop1_slash_Draw_0_gml_149_0
-\E2Thanks for&that.
+\E2Gracias por&eso.
 obj_shop1_slash_Draw_0_gml_150_0
 \E0Que,&no es&suficiente?
 obj_shop1_slash_Draw_0_gml_151_0
@@ -27843,9 +27843,9 @@ sidemessage1
 obj_shop1_slash_Draw_0_gml_347_0
 \E0Está bien,&dame un&ITEM.
 obj_shop1_slash_Draw_0_gml_348_0
-\E0What WEAPON&will you&give me?
+\E0Que ARMA&me&daras?
 obj_shop1_slash_Draw_0_gml_349_0
-\E0What ARMOR&will you&give me?
+\E0Que ARMA&me&daras?
 obj_shop1_slash_Draw_0_gml_350_0
 obj_shop1_slash_Draw_0_gml_351_0
 \E0No?
@@ -28000,17 +28000,17 @@ obj_shop1_slash_Draw_0_gml_574_0
 obj_shop1_slash_Draw_0_gml_575_0
 \E2* Pero si tienes un momento^1, te ofreceré una galleta y una pista!/%
 obj_shop1_slash_Draw_0_gml_582_0
-\E1* So we are here now^1, in a new world./
+\E1* Así que estamos aquí ahora^1, en un mundo nuevo./
 obj_shop1_slash_Draw_0_gml_583_0
-\E2* And right off the heels of defeating that clown..^1. Incredible./
+\E2* Y justo después de derrotar a ese payaso..^1. Increíble./
 obj_shop1_slash_Draw_0_gml_601_0_b
-\E1* Ah^1, yes^1, that's right^1. It didn't occur to me until just now^1, but.../
+\E1* Ah^1, sí ^1, correcto ^1. No se me ocurrió hasta ahora ^1, pero.../
 obj_shop1_slash_Draw_0_gml_602_0_b
-\E2* You three defeated that clown last time^1, didn't you^1?/
+\E2* Ustedes tres derrotaron a ese payaso la última vez^1, ¿verdad^1?/
 obj_shop1_slash_Draw_0_gml_674_0
-* If you can defeat more strong adversaries^1, you may find more Shadow Crystals./
+* Si puedes derrotar a adversarios más fuertes^1, puedes encontrar más "Shadow Crystals"./
 obj_shop1_slash_Draw_0_gml_675_0
-\E2* Try your best^1! It may be tough^1, but I'm sure it will be worth it!/%
+\E2* ¡Haz tu mejor esfuerzo^1! Puede ser difícil^1, ¡pero estoy seguro de que valdrá la pena!/%
 obj_shop1_slash_Draw_0_gml_640_0
 \E0* El joven príncipe tiene algo que mostrate en su castillo./
 obj_shop1_slash_Draw_0_gml_641_0
@@ -28044,7 +28044,7 @@ obj_shop1_slash_Draw_0_gml_593_0
 obj_shop1_slash_Draw_0_gml_594_0
 \E0* If you can gather more Shadow Crystals^1, bring them here!/
 obj_shop1_slash_Draw_0_gml_595_0
-\E2* I'm sure I can stitch together something incredible for you.../%
+\E2* Estoy seguro de que puedo unir algo increíble para ti.../%
 normal_post_plot
 obj_shop1_slash_Draw_0_gml_681_0
 \E1* ..^1. It seems that you didn't get another Shadow Crystal./
@@ -28214,7 +28214,7 @@ obj_shop2_slash_Draw_0_gml_245_0
 obj_shop2_slash_Draw_0_gml_305_0
 \E0What ITEM&shalt thou&proffer?
 obj_shop2_slash_Draw_0_gml_306_0
-\E0What WEAPON&shalt thou&proffer?
+\E0Que ARMA&shalt thou&proffer?
 obj_shop2_slash_Draw_0_gml_307_0
 \E0What ARMOR&shalt thou&proffer?
 obj_shop2_slash_Draw_0_gml_308_0
@@ -30232,7 +30232,7 @@ obj_ch2_scene6_slash_Step_0_gml_201_0
 obj_ch2_scene6_slash_Step_0_gml_214_0
 * \cYI\cW will also \cYjoin\cW/%
 obj_ch2_scene6_slash_Step_0_gml_238_0
-* (THE ORIGINAL   \cYSTARWALKER\cW became a Key Item.)/%
+* (EL ORIGINAL   \cYSTARWALKER\cW se convirtió en un OBJETO CLAVE.)/%
 obj_ch2_scene6_slash_Step_0_gml_243_0
 \EK* .../%
 obj_ch2_scene6_slash_Step_0_gml_250_0
@@ -34885,7 +34885,7 @@ obj_ch2_city07_slash_Step_0_gml_1427_0
 \EH* (NO ONE WAS ASKING!)/%
 starXPos
 obj_ch2_city07_slash_Step_0_gml_1439_0
-* I will also            join/%
+* YO también            me unire/%
 walkerpos
 obj_ch2_city07_slash_Step_0_gml_1499_0
 \EQ* Isn't that where we came from?/
