@@ -4235,9 +4235,9 @@ scr_text_slash_scr_text_gml_4298_0
 scr_text_slash_scr_text_gml_4299_0
 \E8* Bueno^1, prefiero estar contigo que con ella!/%
 scr_text_slash_scr_text_gml_4306_0
-#We're friends
+#Somos amigos
 scr_text_slash_scr_text_gml_4307_0
-We're#something#else
+Somos#algo#más
 scr_text_slash_scr_text_gml_4308_0
 scr_text_slash_scr_text_gml_4309_0
 scr_text_slash_scr_text_gml_4311_0
@@ -4255,7 +4255,7 @@ scr_text_slash_scr_text_gml_4318_0
 scr_text_slash_scr_text_gml_4319_0
 \E0* (Si nos conocieramos mas que nadie.)/
 scr_text_slash_scr_text_gml_4320_0
-\E8* (..^1. y aun así^1, de alguna manera^1, es díficil decir que somos ...?)/
+\E8* (..^1. y aun así^1, es díficil decir que somos en realidad...?)/
 scr_text_slash_scr_text_gml_4321_0
 scr_text_slash_scr_text_gml_4328_0
 \E4* Sip^1! Así es^1! Somos amigos!/
@@ -5308,18 +5308,18 @@ scr_text_slash_scr_text_gml_6324_0
 scr_text_slash_scr_text_gml_6325_0
 scr_text_slash_scr_text_gml_6326_0
 scr_text_slash_scr_text_gml_6328_0
-\E2* Kris!^1! Stay on the switch^1! Stay^1! Stay!/
+\E2* Kris!^1! Quedate en el botón^1! Quedate^1! Quedate!/
 scr_text_slash_scr_text_gml_6329_0
-\E8* ..^1. gosh^1, do you need a dog treat or something?/
+\E8* ..^1. dios^1, necesitas un premio o algo?/
 scr_text_slash_scr_text_gml_6330_0
 scr_text_slash_scr_text_gml_6340_0
-\E2* (..^1. why did they sound so genuine?)/%
+\E2* (..^1. porque sonó tan genuino?)/%
 scr_text_slash_scr_text_gml_6347_0
-\E8* Gosh^1, stop howling^1, I get it!/%
+\E8* Dios^1, deja de aullar^1, si entiendo!/%
 scr_text_slash_scr_text_gml_6358_0
-#It's horrible
+#Es horrible
 scr_text_slash_scr_text_gml_6359_0
-#It's natural
+#Es natural
 scr_text_slash_scr_text_gml_6360_0
 scr_text_slash_scr_text_gml_6361_0
 scr_text_slash_scr_text_gml_6329_0_b
@@ -5575,7 +5575,7 @@ scr_text_slash_scr_text_gml_6864_0
 Susie lo haría
 scr_text_slash_scr_text_gml_6865_0
 scr_text_slash_scr_text_gml_6868_0
-* (It's an advertisement for a giant ferris wheel.)/
+* (Es un anuncio de una carrusel gigante.)/
 scr_text_slash_scr_text_gml_6870_0
 \E0* Dios^1, eso es maravilloso!/
 scr_text_slash_scr_text_gml_6871_0
@@ -5586,23 +5586,23 @@ scr_text_slash_scr_text_gml_6873_0
 \E8* ..^1. Dios^1, a quién estoy engañando?/
 scr_text_slash_scr_text_gml_6874_0
 scr_text_slash_scr_text_gml_6881_0
-\E2* Oh^1, so you can shake it when we reach the top?/
+\E2* Oh^1, puedes moverlo cuando lleguemos arriba?/
 scr_text_slash_scr_text_gml_6882_0
-\E8* Just like at the festival when we were kids?/
+\E8* Justo como en el festival cuando eramos niños?/
 scr_text_slash_scr_text_gml_6883_0
-\E2* I KNOW there's a catch with you^1, Kris^1! NO thanks!/%
+\E2* YO SÉ que hay algo contigo^1, Kris^1! NO gracias!/%
 gml_Script_scr_sideb_get_phase
 weird_prompt
 scr_text_slash_scr_text_gml_6897_0
-\E7* Y-you're right^1! Even if I asked her^1, she'd.../
+\E7* T-tienes razón^1! Aún si se lo pregunto^1, ella.../
 scr_text_slash_scr_text_gml_6898_0
-\EA* Probably just laugh at me./
+\EA* Probablemente solo se reiría de mi./
 scr_text_slash_scr_text_gml_6899_0
-\E6* And^1, gosh^1, push me to the ground^1, and.../
+\E6* Y^1, dios^1, empujarme al piso^1, y.../
 scr_text_slash_scr_text_gml_6900_0
-\E6* L-laugh at me some more^1, and then.../
+\E6* R-reirse más de mi^1, y luego.../
 scr_text_slash_scr_text_gml_6901_0
-\EM* (..^1. What were we talking about again?)/%
+\EM* (..^1. De qué estaba hablando?)/%
 scr_text_slash_scr_text_gml_6907_0
 \E6* E-enserio? Enserio lo crees?/
 scr_text_slash_scr_text_gml_6908_0
@@ -17340,9 +17340,9 @@ obj_npc_sign_slash_Other_10_gml_649_0
 obj_npc_sign_slash_Other_10_gml_617_0
 * (It's hard to see into the ice.)/%
 obj_npc_sign_slash_Other_10_gml_626_0
-* (You became lost in the craftsmanship.)/
+* (Te perdiste en la artesanía.)/
 obj_npc_sign_slash_Other_10_gml_627_0
-* (Of the boxes.)/%
+* (De las cajas.)/%
 obj_npc_sign_slash_Other_10_gml_698_0
 \E2* Hell yeah^1, boxes. This is what it's about./%
 obj_npc_sign_slash_Other_10_gml_702_0
@@ -19094,20 +19094,20 @@ obj_readable_room1_slash_Other_10_gml_2047_0
 obj_readable_room1_slash_Other_10_gml_2051_0
 * (Just some cones of the non-ice-cream persuasion.)/%
 obj_readable_room1_slash_Other_10_gml_2087_0
-* (It's a poster for Queen Clean brand cleaning agent.)/
+* (Es un poster para la marca de limpieza de Queen.)/
 obj_readable_room1_slash_Other_10_gml_2088_0
-* ("I Don't Know What This Does")/%
+* ("No Se Que Hace Esto")/%
 hasNoelle
 obj_readable_room1_slash_Other_10_gml_2071_0
-\E5* (Queen..^1. She says she wants me to be happy^1, but...)/
+\E5* (Queen..^1. Ella dice que me quiere ver feliz^1, pero...)/
 obj_readable_room1_slash_Other_10_gml_2072_0
-\E3* (Why would I want to eat a casserole made of wires?)/
+\E3* (Porque querría comer una caserola llena de cables?)/
 obj_readable_room1_slash_Other_10_gml_2073_0
-\EA* (And why can't I... Just... Refuse?)/
+\EA* (Y porque no puedo... Solo... Rechazarlo?)/
 obj_readable_room1_slash_Other_10_gml_2074_0
-\E3* (Sometimes I feel like...)/
+\E3* (Aveces siento como...)/
 obj_readable_room1_slash_Other_10_gml_2075_0
-\E8* (Kris and Dad are the only ones I can say no to...)/%
+\E8* (Kris y Papá son a los únicos que les puedo decir no...)/%
 obj_readable_room1_slash_Other_10_gml_2093_0
 \Ee* .../%
 obj_readable_room1_slash_Other_10_gml_2101_0
@@ -37716,50 +37716,50 @@ noelleWaitCheck
 fakeStep
 noelleWaiting
 obj_controller_dw_city_big_2_slash_Step_0_gml_59_0
-\E1* Hmm^1, looks like you need to hold it down./%
+\E1* Hmm^1, parece que necesitas mantenerlo pulsado./%
 obj_controller_dw_city_big_2_slash_Step_0_gml_120_0
-\E0* Kris^1, you keep standing on this one!/%
+\E0* Kris^1, quedate quieto sobre esta!/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_249_0
-\E0* OK^1, now you come over here!/%
+\E0* OK^1, ahora ven hacia acá!/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_270_0
-\E8* Kris^1! Get back here!!/%
+\E8* Kris^1! Vuelve para acá!!/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_280_0
-\E4* Nice teamwork!/%
+\E4* Buen trabajo en equipo!/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_393_0
-\E8* (This is reminding me of our group projects...)/%
+\E8* (Esto me está recordando a los trabajos grupales...)/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_401_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_429_0
 \EE* A--aahhh!!/
 obj_controller_dw_city_big_2_slash_Step_0_gml_430_0
-\E8* K..^1. Kris^1! C'mon^1, you..^1. you know that isn't very nice!/
+\E8* K..^1. Kris^1! Vamos^1, tú..^1. tú sabes que eso no está bien!/
 obj_controller_dw_city_big_2_slash_Step_0_gml_431_0
-\E8* (I was almost roast deer for a second there...)/%
+\E8* (Casi me convierto en venado cocido ahí...)/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_471_0
-\E8* Alright^1, now it's your turn!/%
+\E8* Okay^1, ahora es tu turno!/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_495_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_563_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_572_0
-\E8* Fahahaha^1! How'd you like that!?/
+\E8* Fahahaha^1! Te gustó eso!?/
 obj_controller_dw_city_big_2_slash_Step_0_gml_573_0
-\E8* You should have seen the look on your face!!/
+\E8* Debiste ver tu cara!!/
 obj_controller_dw_city_big_2_slash_Step_0_gml_574_0
-\E2* (Hey^1, why do they look so hurt...? Gosh...)/%
+\E2* (Hey^1, porque se ven tan lastimados...? Dios...)/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_600_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_622_0
-\E1* When you step off the switch^1, the lightning comes back.../
+\E1* Cuando sales del el botón^1, la electricidad regresa.../
 obj_controller_dw_city_big_2_slash_Step_0_gml_623_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_624_0
-\E4* How about..^1. I hold it down^1, and you go across?/%
+\E4* Que tal si..^1. yo lo mantengp^1, y tú vas?/%
 targX
 targY
 obj_controller_dw_city_big_2_slash_Step_0_gml_693_0
-* (Shouldn't leave now.)/%
+* (No deberías irte.)/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_739_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_749_0
 newtargx
 newtargy
 obj_controller_dw_city_big_2_slash_Step_0_gml_843_0
-\E8* N..^1. Nice teamwork!/%
+\E8* B..^1. Buen trabajo en equipo!/%
 trigX
 eventTriggered
 obj_controller_city_cheesemaze_slash_Step_0_gml_18_0
