@@ -8402,7 +8402,7 @@ _healamount
 scr_itemuse_slash_scr_itemuse_gml_303_0
 (No reaction?)
 scr_itemuse_slash_scr_itemuse_gml_304_0
-(... no reaction?)
+(... no reacción?)
 scr_itemuse_slash_scr_itemuse_gml_309_0
 Hell yeah, apple juice!!
 scr_itemuse_slash_scr_itemuse_gml_310_0
