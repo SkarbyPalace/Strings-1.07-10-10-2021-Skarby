@@ -16350,15 +16350,15 @@ obj_npc_room_slash_Other_10_gml_1239_0
 obj_npc_room_slash_Other_10_gml_1248_0
 * (Susie's talk tube thing. Looks a bit bigger for her larger head.)/%
 obj_npc_room_slash_Other_10_gml_1253_0
-* I heard the rollercoasters are undergoing maintenance./
+* Escuché que la montaña rusa está en mantenimiento./
 obj_npc_room_slash_Other_10_gml_1254_0
-* That's a pain because it's our only form of public transit./%
+* Eso es un dolor porque es nuestra único método de transporte público./%
 obj_npc_room_slash_Other_10_gml_1258_0
 * Are the roller coasters still broken? Too bad./
 obj_npc_room_slash_Other_10_gml_1259_0
 * I keep petitioning for a public merry-go-round^1, but.../%
 obj_npc_room_slash_Other_10_gml_1267_0
-* Yes. The teacup ride is privately owned./%
+* Si. Los paseos en tazas son privados./%
 obj_npc_room_slash_Other_10_gml_1271_0
 * There was some ex-famous guy^1, some salesman-lobbyist-type.../
 obj_npc_room_slash_Other_10_gml_1272_0
@@ -17787,13 +17787,13 @@ obj_npc_room_animated_slash_Other_10_gml_239_0
 obj_npc_room_animated_slash_Other_10_gml_240_0
 * (From search query: FJFIrejirioEUEUROEI4378789)/%
 obj_npc_room_animated_slash_Other_10_gml_257_0
-* What are we cleaning up for, you ask?/
+* Para que estamos limpiando, preguntas?/
 obj_npc_room_animated_slash_Other_10_gml_258_0
-* We don't know. A parade, perhaps?/%
+* No sabemos. Un desfile, quizás?/%
 obj_npc_room_animated_slash_Other_10_gml_249_0
-* A large event is going to happen in the streets later./
+* Un gran evento va a suceder en las calles luego./
 obj_npc_room_animated_slash_Other_10_gml_251_0
-* We were told to make room for something BIG.../%
+* Nos dijeron que hagamos espacio para algo GRANDE.../%
 obj_npc_room_animated_slash_Other_10_gml_270_0
 \m1		*Yo^1! How's it hangin'?/
 obj_npc_room_animated_slash_Other_10_gml_271_0
@@ -18111,35 +18111,35 @@ obj_savepoint_slash_Other_10_gml_79_0
 obj_savepoint_slash_Other_10_gml_80_0
 * Te llenas con el poder de la música ruidosa./%
 obj_savepoint_slash_Other_10_gml_88_0
-* Noelle is with you now./
+* Noelle está contigo ahora./
 obj_savepoint_slash_Other_10_gml_89_0
-* You are still filled with the power from the cat sign./%
+* Aún te llenas con el poder de el gato en la señal./%
 obj_savepoint_slash_Other_10_gml_93_0
-* You are mostly filled with the power of fluffy boys and mean girls./
+* Te medio llenas con el poder de chicos esponjosos y chicas rudas./
 obj_savepoint_slash_Other_10_gml_94_0
-* The cat sign still comprises about one percent of it./%
+* El gato aún comprende solo un uno porciento de eso./%
 obj_savepoint_slash_Other_10_gml_98_0
-* You have neither fluffy boys nor mean girls with you now./
+* No tienes ni chicos esponjosos ni chicas rudas./
 obj_savepoint_slash_Other_10_gml_99_0
-* Reluctantly^1, you are filled with the power from the cat sign./%
+* De mala gana^1, te llenas con el poder de el gato en la señal./%
 obj_savepoint_slash_Other_10_gml_108_0
-* Noelle has joined your party./
+* Noelle se ha unido al equipo./
 obj_savepoint_slash_Other_10_gml_109_0
-* You are filled with the power of not knowing what a sugarplum is./%
+* Te llenas con el poder de no saber que es una Ciruela de azúcar./%
 obj_savepoint_slash_Other_10_gml_113_0
-* Noelle is no longer in your party. All of you are filled with the power.../
+* Noelle ya no está en el equipo. Solo te llena el poder de.../
 obj_savepoint_slash_Other_10_gml_114_0
-* Of not knowing what a sugarplum is./%
+* No saber que es una Ciruela de azúcar./%
 obj_savepoint_slash_Other_10_gml_123_0
-* Energetic music wafts from the boxes./
+* Música energetica fluye de las cajas./
 obj_savepoint_slash_Other_10_gml_124_0
-* You are filled with the power of musical bagels./%
+* Te llenas con el poder de bagels musicales./%
 obj_savepoint_slash_Other_10_gml_128_0
-* You are filled with the power of silence./%
+* Te llenas con el poder del silencio./%
 obj_savepoint_slash_Other_10_gml_135_0
-* After defeating Berdly^1, a certain scent hangs in the air.../
+* Despues de derrotar a Berdly^1, cierto olor está en el aire.../
 obj_savepoint_slash_Other_10_gml_136_0
-* You are filled with the power of chicken nuggets./%
+* Te llenas con el poder de nuggets de pollo./%
 obj_savepoint_slash_Other_10_gml_142_0
 * You have escaped from your second personalized room of the day./
 obj_savepoint_slash_Other_10_gml_143_0
@@ -19319,7 +19319,7 @@ obj_readable_room1_slash_Other_10_gml_2783_0
 obj_readable_room1_slash_Other_10_gml_2792_0
 * (Seems like a mouse-induced traffic jam.)/%
 obj_readable_room1_slash_Other_10_gml_2837_0
-* Welcome to Cyber City^1! Pedestrians need to press the switch to cross traffic!/%
+* Bienvenido a Cyber City^1! Los peatones necesitan presionar el botón para cruzar!/%
 obj_readable_room1_slash_Other_10_gml_2862_0
 * (It's a ball throwing game. Prizes are seated under the counter.)/%
 obj_readable_room1_slash_Other_10_gml_2865_0
@@ -23201,7 +23201,7 @@ Birds
 obj_poppup_enemy_slash_Step_0_gml_110_0
 battleText
 obj_poppup_enemy_slash_Step_0_gml_112_0
-* Poppup is begging you to click on a broken link with puppy dog eyes.
+* Poppup te implora para que des click en un anuncio roto con un cachorro en el.
 obj_poppup_enemy_slash_Step_0_gml_113_0
 * Poppup is preening its weird rubbery flesh.
 obj_poppup_enemy_slash_Step_0_gml_116_0
@@ -23210,19 +23210,19 @@ randomChoice
 obj_poppup_enemy_slash_Step_0_gml_120_0
 Liimo Berry
 obj_poppup_enemy_slash_Step_0_gml_123_0
-PlayTime
+TiempoDeJuego
 obj_poppup_enemy_slash_Step_0_gml_126_0
 its tongue to be pressed in so it doesn't feel hunger anymore
 obj_poppup_enemy_slash_Step_0_gml_129_0
-Scary Noise
+Ruido Tenebroso
 obj_poppup_enemy_slash_Step_0_gml_132_0
-To Play With You In The Mystical Island Of Mysticisland
+Jugar Contigo En La Mística Misticalandia
 obj_poppup_enemy_slash_Step_0_gml_135_0
-Do Taxes At 7:44 AM
+Pagar Impuestos a las 7:44 PM
 obj_poppup_enemy_slash_Step_0_gml_138_0
-Randomized String 1
+Cuerdas Aleatorias 1
 obj_poppup_enemy_slash_Step_0_gml_140_0
-* Poppup wants ~1
+* Poppup quiere ~1
 obj_poppup_enemy_slash_Step_0_gml_142_0
 * Huele a caramelo tropical.
 obj_poppup_enemy_slash_Step_0_gml_146_0
@@ -23232,9 +23232,9 @@ obj_poppup_enemy_slash_Step_0_gml_151_0
 obj_poppup_enemy_slash_Step_0_gml_176_0
 * POPPUP - Una mascota gomosa hambienta de atención. Haz click en él y...?/%
 obj_poppup_enemy_slash_Step_0_gml_192_0
-* You just kept clicking and clicking on ads!!/%
+* Seguste clickeando y clickeando en anuncios!!/%
 obj_poppup_enemy_slash_Step_0_gml_198_0
-* Inconscientemente hiciste click en un anuncio acerca de "monstruos para humanos" "en tu área,"/%
+* Inconscientemente clickeaste en un anuncio acerca de "monstruos para humanos en tu área,"/%
 obj_poppup_enemy_slash_Step_0_gml_199_0
 * Inconscientemente hiciste click en un anuncio acerca de como hacer cuchillos con espagetis./%
 obj_poppup_enemy_slash_Step_0_gml_200_0
@@ -34419,64 +34419,64 @@ leaverightattempt
 alleyoverlay
 noellemarker
 obj_ch2_city01_slash_Step_0_gml_58_0
-\EF* K-Kris!^1! What are you---/
+\EF* K-Kris!^1! Qué estás---/
 obj_ch2_city01_slash_Step_0_gml_60_0
-\E1* Oh Noelle Sweetie/%
+\E1* Oh Noelle Cariño/%
 obj_ch2_city01_slash_Step_0_gml_76_0
-\EE* (Don't let her find me...)/%
+\EE* (No dejes que me encuentre...)/%
 obj_ch2_city01_slash_Step_0_gml_85_0
-\EI* Noelle Sweetie Darling Honey Where Are You/%
+\EI* Noelle Cariño Querida Dulcura Donde Estás/%
 obj_ch2_city01_slash_Step_0_gml_94_0
-\EC* We're A Team Now Remember/
+\EC* Somos Un Equipo Ahora Recuerdas/
 obj_ch2_city01_slash_Step_0_gml_95_0
-* You Still Have To Be My Willing Minion/%
+* Aún Debes Ser Mi Secuaz Dispuesto/%
 obj_ch2_city01_slash_Step_0_gml_107_0
 \ED* ..^1. Kris/
 obj_ch2_city01_slash_Step_0_gml_108_0
-\E1* It Appears/
+\E1* Parece Ser Que/
 obj_ch2_city01_slash_Step_0_gml_109_0
-\EB* Our Comrades Have Pressed The Escape Key On Us/
+\EB* Nuestras Camaradas Han Presionado La Tecla De Escape/
 obj_ch2_city01_slash_Step_0_gml_110_0
-\E5* ...^1. So It Has Come To This.../
+\E5* ...^1. Así Que Llegamos A Esto.../
 obj_ch2_city01_slash_Step_0_gml_111_0
-\E5* In Order To Find Our Teams/
+\E5* En Orden Para Encontrar A Nuestros Equipos/
 obj_ch2_city01_slash_Step_0_gml_112_0
 obj_ch2_city01_slash_Step_0_gml_113_0
-\E9* We Must Form An Uneasy Truce.../%
+\E9* Debemos Formar Una Tregua Inquieta.../%
 obj_ch2_city01_slash_Step_0_gml_120_0
-\E6* Queen!^1! My splendid Queen!^1! Where are you!!/
+\E6* Reina!^1! Mi esplendida Reina!^1! Donde estás!!/
 obj_ch2_city01_slash_Step_0_gml_122_0
-\E8* Oh No Don't Let Him Find Me/%
+\E8* Oh No No Dejes Que Me Encuentre/%
 obj_ch2_city01_slash_Step_0_gml_146_0
-\E0* Ah^1, Kris..^1. NOT the lifeform I was looking for./
+\E0* Ah^1, Kris..^1. NO eres la forma de vida que buscaba./
 obj_ch2_city01_slash_Step_0_gml_147_0
-\E3* ..^1. Hmm? Where's the rest of the C+ Squad?/
+\E3* ..^1. Hmm? Donde está el resto del escuadrón C+?/
 obj_ch2_city01_slash_Step_0_gml_148_0
-\E7* Don't tell me you got abandoned!? HA!!/
+\E7* No me digas que te abandonaron!? JA!!/
 obj_ch2_city01_slash_Step_0_gml_149_0
-\E2* HAHA!^1! That's what you get for trusting Susie!^1! HA!!/%
+\E2* JAJA!^1! Eso te ganas por confiar en Susie!^1! JA!!/%
 obj_ch2_city01_slash_Step_0_gml_157_0
 \E3* H..^1. Huh? Noelle? Queen?/%
 obj_ch2_city01_slash_Step_0_gml_165_0
-\EB* They're just..^1. busy retro gaming somewhere!!/%
+\EB* Ellas están..^1. ocupadas jugando en otra parte!/%
 obj_ch2_city01_slash_Step_0_gml_176_0
-\E6* I bet they're waiting for me on the player select screen!!/
+\E6* Apuesto a que me están esperando en la selección de personaje!!/
 obj_ch2_city01_slash_Step_0_gml_177_0
-\E2* Listening to strangely groovy music!^1! HAHA^1! HA!^1! HA!!/
+\E2* Escuchando música extrañamente buena!^1! JAJA^1! JA!^1! JA!!/
 obj_ch2_city01_slash_Step_0_gml_178_0
 \E8* .../%
 obj_ch2_city01_slash_Step_0_gml_186_0
-\E9* ...Sigh./%
+\E9* ...Ash./%
 obj_ch2_city01_slash_Step_0_gml_193_0
-\EA* So it's come to this./
+\EA* Así que a esto hemos llegado./
 obj_ch2_city01_slash_Step_0_gml_194_0
-\E9* In order to find our respective teams.../
+\E9* En orden para encontrar nuestros equipos respectivos.../
 obj_ch2_city01_slash_Step_0_gml_195_0
-\E0* It APPEARS.../
+\E0* PARECE ser que.../
 obj_ch2_city01_slash_Step_0_gml_196_0
-\EJ* We must form an uneasy truce.../%
+\EJ* Tenemos que formar una tregua inquieta.../%
 obj_ch2_city01_slash_Step_0_gml_204_0
-\E8* What The/
+\E8* Pero Que/
 obj_ch2_city01_slash_Step_0_gml_205_0
 \EH* Who The Beep Said You Could Double Trucies/%
 obj_ch2_city01_slash_Step_0_gml_216_0
