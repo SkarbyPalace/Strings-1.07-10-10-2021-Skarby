@@ -973,7 +973,7 @@ scr_text_slash_scr_text_gml_372_0
 scr_text_slash_scr_text_gml_377_0
 * (There's nothing hanging low enough to take.)/%
 scr_text_slash_scr_text_gml_388_0
-* (Obtuvistes el Dulce Oscuro)/%
+* (Obtuviste el Dulce Oscuro)/%
 scr_text_slash_scr_text_gml_393_0
 * (You can't carry any more.)/%
 scr_text_slash_scr_text_gml_399_0
@@ -2217,7 +2217,7 @@ scr_text_slash_scr_text_gml_1955_0
 scr_text_slash_scr_text_gml_1969_0
 * Heheheh^1, thanks.../
 scr_text_slash_scr_text_gml_1971_0
-* (The LANCERCOOKIE fue agregado a tus ITEMs.)/
+* (The LANCERCOOKIE fue agregado a tus ITEMS.)/
 scr_text_slash_scr_text_gml_1973_0
 \E2* For getting CHEATED by us!!/
 scr_text_slash_scr_text_gml_1975_0
@@ -5408,7 +5408,7 @@ gml_Script_scr_weaponget
 scr_text_slash_scr_text_gml_6503_0
 * HERE'S YOUR [Ring]^1! CAREFUL^1, IT MIGHT [Sting]&* EAHEAHEAH/
 scr_text_slash_scr_text_gml_6504_0
-\S1* (Obtuvistes la PlatTrono.)/%
+\S1* (Obtuviste la PlatTrono.)/%
 scr_text_slash_scr_text_gml_6509_0
 * LET ME CHECK YOUR [Pockets]/
 scr_text_slash_scr_text_gml_6510_0
@@ -7974,92 +7974,92 @@ Puede ser usado para hacer llamadas.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_14_0
 Celular
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_18_0
-Not too important, not too unimportant.
+No demasiado importante, no demasiado poco importante.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_19_0
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_23_0
-Though broken, it seethes with power.#A master smith could fix it.
+Aunque está roto, se llena de poder.#Un herrero maestro podría arreglarlo.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_24_0
 BrokenCake
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_27_0
-It's the top part of a key.#A smith could fix all three parts.
+Es la parte superior de una clave.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_28_0
 Broken Key A
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_31_0
-The key to a mysterious cell.#Something feels strange about it.
+La llave de una celda misteriosa.#Algo se siente extraño al respecto.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_32_0
 Door Key
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_35_0
-It's the middle part of a key.#A smith could fix all three parts.
+Es la parte central de un key.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_36_0
 Broken Key B
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_39_0
-It's the bottom part of a key.#A smith could fix all three parts.
+Es la parte inferior de una llave.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_40_0
 Broken Key C
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_43_0
-Hohoho! I'm a tough boy!#Treat me like one of your ITEMS!
+¡Hohoho! ¡Soy un chico duro!#¡Trátame como uno de tus ARTÍCULOS!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_46_0
 Jojojo! ROUXLS salto de tu#bolsillo! Que padracrobatico! (Lesser)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_50_0
-Hohoho! That game looked fun!#Let me be the stool next!
+¡Hohoho! ¡Ese juego parecía divertido!#Déjame ser el siguiente taburete!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_54_0
-Sounded like milk out there. Splat!#Were you three osmosing without me!?
+Sonaba a leche ahí fuera. ¡Splat!#¿Estaban ustedes tres sin mí?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_58_0
 Caimos! Pero no te preoucupes. Soy fuerte.#No me tropezará un simple rebote!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_62_0
-Split up? We'll solve this mystery fast!#You? You can be the un-talking dog.
+¿Separarse? ¡Resolveremos este misterio rápido!#Puedes ser el perro que no habla.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_66_0
-Ho-ho! A soft cream is following you!#Can we make them a bad guy?
+¡Ho-ho! ¡Te sigue una crema suave!#¿Podemos hacer que sea un chico malo?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_70_0_b
-That golden statue... Could it be...#The illusory nipple technique!?
+Esa estatua dorada... ¿Podría ser...#La técnica ilusoria del pezón!?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_74_0
-Wow! Thanks for the free sample!#I couldn't eat another bite!!
+¡Wow! ¡Gracias por la muestra gratis!#No podía comer otro bocado!!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_79_0
-The bluebird of crappiness.#Fly high, bluebird. Fly high.
+El Azulejo de la porquería.#Vuela alto, Azulejo. Vuela alto.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_83_0
-Did I miss something? I was doing my#calisthetics. Stay handsome.
+¿Me perdí algo? Estaba haciendo mi#calistenia. Mantente guapo.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_87_0
-Hey! Thanks for the tape! I was hungry!#Push my tummy to hear a cool song!
+¡Oye, Gracias por la cinta! ¡Tenía hambre!#¡Empuja mi barriga para escuchar una canción genial!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_91_0
-Hoho! It's me, Lancer! Release me and#I will release you!
+¡Hoho! ¡Soy yo, Lancer! ¡Suéltame y#te liberaré!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_95_0
-(Innocent boys are fast asleep.)
+(Los chicos inocentes duermen rápidamente.)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_99_0
-A stone statue.#Strangely, it looks like Lancer...
+Una estatua de piedra.#Extrañamente, parece Lancer...
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_105_0
-Hoho! What a terrific boy's adventure.#Time to kick off my feet and relax...
+¡Hoho! Qué aventura tan fantástica.#Es hora de arrancarme los pies y relajarme...
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_109_0
-Oo la la! Who is that handsome#mustachioed boy! I think I'm in love!
+¡Oo la la! ¡Quién es ese guapo niño#mostachudo! ¡Creo que estoy enamorada!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_114_0
-(huff, puff) There, I got back into your#pocket! Now you can use my power!
+(Huff, puff) ¡He vuelto a tu#bolsillo! ¡Ahora puedes usar mi poder!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_48_0
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_52_0
-Thou gazeth upon a man most handsometh.#This daringst genius, adoredeth beyondth all hey let me speakst
+Contemplasu al hombreh más apuestoh.#Este geniost atrevido, adoradoth más allá de todo.. hey déjame hablarkst
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_53_0
 Rouxls Kaard
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_126_0
-Oh, milord! Tis I, your humblest servante,#righte here where I never lefteth!
+Oh, mi señor! Soy yoh, tu humilde sirvienteh,#juste aquih dondekh nunkah salih!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_56_0
-A data disk from a strange machine.#Didn't someone want this?
+Un disco de datos de una máquina extraña.#¿Alguien quería esto?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_57_0
 EmptyDisk
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_60_0
-A strange disk. You can feel it#smiling in your hand.
+Un disco extraño. Puedes sentirlo#sonriendo en tu mano.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_61_0
 LoadedDisk
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_64_0
-A shady-looking program that can#open certain doors.
+Un programa de aspecto sombreado que puede#abrir ciertas puertas.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_65_0
 KeyGen
 crystal_amount
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_70_0
-A sharp shadow moves like water in the hand.#You have collected [~1].
+Una sombra aguda se mueve como el agua en la mano.#Obtuviste [~1].
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_71_0
 ShadowCrystal
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_123_0
 Starwalker
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_124_0
-The original                     #         (Starwalker)
+El original                     #         (Starwalker)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_132_0
 CristalPuro
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_133_0
@@ -8195,58 +8195,58 @@ scr_itemdesc_single_slash_scr_itemdesc_single_gml_1_0
 __itemdesc
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_5_0
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_8_0
-Heals 40 HP. A red-and-black star#that tastes like marshmallows.
+Heals 40 HP. Una estrella roja y negra#que sabe como malvaviscos.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_11_0
 Cura a un aliado caído al MÁXIMO.#Un cristal verde mentoso.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_14_0
-A shimmering shard.#Its use is unknown.
+Un fragmento brillante.#Su uso es desconocido.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_17_0_b
-A shimmering shard.#Its value increases each Chapter.
+Un fragmento brillante.#Su valor aumenta cada capítulo.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_17_0
-Ralsei's handmade book full of#various tips and tricks.
+Libro hecho a mano de Ralsei lleno de#varios consejos y trucos.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_20_0
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_23_0
-This cake will make your taste buds#spin! Heals 160 HP to the team.
+¡Este pastel hará girar tus papilas gustativas!#Cura 160HP al equipo.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_27_0
-A pastry in the shape of a top.#Heals ~1 HP to the team.
+Una repostería en forma de tapa.#Cura ~1 HP al equipo.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_30_0
-A mysterious black burger made of...#Hey, this is just burnt! +70HP
+Una misteriosa hamburguesa negra hecha de...#Hey, ¡esto está quemado! +70HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_33_0
-A cookie shaped like Lancer's face.#Maybe not a cookie. Heals 1 HP?
+Una galleta con forma de cara de Lancer.#Tal vez no sea una galleta. Cura 1 HP?
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_36_0
 An enormous salad... but, it's just#lettuce, so it's worthless. +4HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_39_0
 Un sanduche que se puede partir en 3.#Cura 70 HP al equipo.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_42_0
-Hearts, don't it!? It's filled with#divisive, clotty red jam. +??HP
+Corazones, ¿no? Está lleno de#mermelada roja divisiva y clotosa. +??HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_45_0
-It's quite small, but some#people REALLY like it. +??HP
+Es bastante pequeño, pero a algunas#personas les gusta. +??HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_48_0
-You'd think it tastes perfect.#Heals 500HP.
+Usted pensaría que sabe perfecto.#Cura 500HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_51_0
-A dark roux with a delicate aroma.#Also... has worms in it. +50HP
+un roux oscuro con un aroma delicado.#Tambien... tiene gusanos. +50HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_54_0
 Un bagel con un reflectivo dentro.#Hace música por cada mordida. +80HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_57_0
-It's a mannequin with the clothes#permanently attached. Useless
+Es un maniquí con la ropa#permanentemente conectado. Inútil
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_60_0
-It's own-flavored tea.#The flavor just says "Kris."
+Es té con sabor propio.#El sabor sólo dice "Kris."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_63_0
-It's own-flavored tea.#The flavor just says "Noelle."
+Es té con sabor propio.#El sabor sólo dice "Noelle."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_66_0
-It's own-flavored tea.#The flavor just says "Ralsei."
+Es té con sabor propio.#El sabor sólo dice "Ralsei."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_69_0
-It's own-flavored tea.#The flavor just says "Susie."
+Es té con sabor propio.#El sabor sólo dice "Susie."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_72_0
 Es una Double-Dark-Burger.#Tomarán dos mordidas para acabarla!
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_75_0
-White candy with a chalky texture.#It'll recover 120HP.
+Caramelo blanco con textura tiza.#Te recuperará 120HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_78_0
-It's short for ButlerJuice.#It changes color with temperature.
+Es la abreviatura de ButlerJuice.#Cambia de color con la temperatura.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_81_0
-Spaghetti woven by master coders, made#of macarons and ribbons. +30HP to all.
+Spaghetti tejido por maestros codificadores, hecho#de macarrones y cintas. +30HP para todos.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_84_0
-A coffee-and-chocolate flavored cookie.#Words spark out when you bite it.
+Una galleta con sabor a café y chocolate.#Las palabras se apagan cuando la muerdes.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_87_0
 Incrementa el TP un 32% en batalla.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_90_0
@@ -8254,13 +8254,13 @@ Incrementa el TP un 50% en batalla.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_93_0
 Incrementa el TP al máximo en batalla.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_96_0
-A minty powder that revives all#fallen party members to 25% HP.
+Un polvo de menta que revive a#todos con un 25% HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_99_0
-A breakable mint that revives all#fallen party members to 100% HP.
+Una menta irrompible que revive a#todos con un 100% HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_102_0
-A strange concoction made of#colorful squares. Will poison you.
+Una extraña mezcla hecha de#cuadrados coloridos. Te envenenará.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_109_0
-A dollar with a certain dog on it.#Its value decreases each Chapter.
+Un dólar con cierto perro en él.#Su valor disminuye cada capítulo.
 scr_itemdesc_single
 scr_itemnamelist_slash_scr_itemnamelist_gml_5_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_8_0
@@ -19167,7 +19167,7 @@ obj_readable_room1_slash_Other_10_gml_2291_0
 obj_readable_room1_slash_Other_10_gml_2367_0_b
 * (It seems to be stupid.)/%
 obj_readable_room1_slash_Other_10_gml_2373_0
-* The door rattles but doesn't open./%
+* La puerta suena pero no se abre./%
 obj_readable_room1_slash_Other_10_gml_2303_0
 * (Sounds like a forcefield powering down.)/%
 obj_readable_room1_slash_Other_10_gml_2307_0
@@ -36735,7 +36735,7 @@ UN HUMANO,
 obj_legend_slash_Draw_0_gml_309_0
 UN MONSTRUO,
 obj_legend_slash_Draw_0_gml_317_0
-Y un PRÍNCIPE&DE LA OSCURIDAD.
+ Y un PRÍNCIPE&DE LA OSCURIDAD.
 obj_legend_slash_Draw_0_gml_356_0
 Solo ellos pueden sellar las fuentes
 obj_legend_slash_Draw_0_gml_387_0
