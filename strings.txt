@@ -973,7 +973,7 @@ scr_text_slash_scr_text_gml_372_0
 scr_text_slash_scr_text_gml_377_0
 * (There's nothing hanging low enough to take.)/%
 scr_text_slash_scr_text_gml_388_0
-* (Obtuvistes el Dulce Oscuro.)/%
+* (Obtuvistes el Dulce Oscuro)/%
 scr_text_slash_scr_text_gml_393_0
 * (You can't carry any more.)/%
 scr_text_slash_scr_text_gml_399_0
@@ -6847,13 +6847,13 @@ ARMAS
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_36_0
 ITEMS
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_38_0
-ALMAC.
+ALMAC
 gml_Script_scr_keyiteminfo
 tempkeyitemname
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_44_0
-KEY ITEMs
+OBJ. CLAVE
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_51_0
-MONEY HOLE
+AGUJERO DE DINERO
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_0
  Dark Dollars
 obj_treasure_room_slash_Other_10_gml_76_0
@@ -7375,11 +7375,11 @@ scr_monstersetup_slash_scr_monstersetup_gml_1312_0
 scr_monstersetup_slash_scr_monstersetup_gml_1315_0
 Chocar
 scr_monstersetup_slash_scr_monstersetup_gml_1332_0_b
-Manejar#coche
+Chocar#contra#Berly
 scr_monstersetup_slash_scr_monstersetup_gml_1321_0
 ChocarX
 scr_monstersetup_slash_scr_monstersetup_gml_1338_0
-Todos#manejan#coches
+Todos#chocan#a Berly
 scr_monstersetup_slash_scr_monstersetup_gml_1337_0
 scr_monstersetup_slash_scr_monstersetup_gml_1354_0
 actcostsus
@@ -8005,7 +8005,7 @@ Hohoho! That game looked fun!#Let me be the stool next!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_54_0
 Sounded like milk out there. Splat!#Were you three osmosing without me!?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_58_0
-We fell! But don't worry. I'm a strong boy.#I won't be trounced by a mere bounce!
+Caimos! Pero no te preoucupes. Soy fuerte.#No me tropezará un simple rebote!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_62_0
 Split up? We'll solve this mystery fast!#You? You can be the un-talking dog.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_66_0
@@ -8112,7 +8112,7 @@ Cura#a todos#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_93_0
 HeartsDonut
 scr_iteminfo_slash_scr_iteminfo_gml_94_0
-Cura#variadamente
+Cura#variada
 scr_iteminfo_slash_scr_iteminfo_gml_100_0
 ChocDiamond
 scr_iteminfo_slash_scr_iteminfo_gml_101_0
@@ -17787,7 +17787,7 @@ obj_npc_room_animated_slash_Other_10_gml_239_0
 obj_npc_room_animated_slash_Other_10_gml_240_0
 * (From search query: FJFIrejirioEUEUROEI4378789)/%
 obj_npc_room_animated_slash_Other_10_gml_257_0
-* Para que estamos limpiando, preguntas?/
+* Para que estamos limpiando, te preguntaras?/
 obj_npc_room_animated_slash_Other_10_gml_258_0
 * No sabemos. Un desfile, quizás?/%
 obj_npc_room_animated_slash_Other_10_gml_249_0
@@ -23193,7 +23193,7 @@ Haz Click Aqui! Haz Click Aqui!&Haz Click Aqui! Haz Click Aqui!
 obj_poppup_enemy_slash_Step_0_gml_35_0
 ...NEMMUY...
 obj_poppup_enemy_slash_Step_0_gml_41_0
-NEED...&LOOK...&ME...
+NECESITO...&QUE ME...&MIRES...
 obj_poppup_enemy_slash_Step_0_gml_48_0
 ...FELI...
 Popups
@@ -23203,7 +23203,7 @@ battleText
 obj_poppup_enemy_slash_Step_0_gml_112_0
 * Poppup te implora para que des click en un anuncio roto con un cachorro en el.
 obj_poppup_enemy_slash_Step_0_gml_113_0
-* Poppup is preening its weird rubbery flesh.
+* Poppup está preparando su extraña carne gomosa.
 obj_poppup_enemy_slash_Step_0_gml_116_0
 randomText
 randomChoice
@@ -23212,7 +23212,7 @@ Liimo Berry
 obj_poppup_enemy_slash_Step_0_gml_123_0
 TiempoDeJuego
 obj_poppup_enemy_slash_Step_0_gml_126_0
-its tongue to be pressed in so it doesn't feel hunger anymore
+presiona su lengua para que no sienta más hambre
 obj_poppup_enemy_slash_Step_0_gml_129_0
 Ruido Tenebroso
 obj_poppup_enemy_slash_Step_0_gml_132_0
@@ -24085,7 +24085,7 @@ Ja! Adelante, "choquenme",& choquones!/%
 obj_berdlyb_enemy_slash_Step_0_gml_48_0
 Kris, entiendo porque&estas en mi camino!& Estas celoso,&verdad!?/%
 obj_berdlyb_enemy_slash_Step_0_gml_49_0
-Kris, estas cansado&de ser el Nu.3,&contemplando distantemente a&las figuras con frutas&mias y de Noelle.../%
+Kris, estas cansado&de ser el Núm.3,&contemplando distantemente a&las figuras con frutas&mias y de Noelle.../%
 obj_berdlyb_enemy_slash_Step_0_gml_50_0
 Entonces en lugar de&ESTUDIAR, reclutas a SUSIE&para derrotarnos!/%
 obj_berdlyb_enemy_slash_Step_0_gml_51_0
@@ -24097,7 +24097,7 @@ Les mostrare que&"carros chocones" es un&juego de INTELECTO,&y no habilidadl!/%
 obj_berdlyb_enemy_slash_Step_0_gml_89_0
 Tonto! Esto es&Humo Inteligente! Significa&que mi coche se esta&volviendo mas fuerte!/%
 obj_berdlyb_enemy_slash_Step_0_gml_82_0
-Puede que seas un&Nu. 3 menos&distante!&Jaja... un poco./%
+Puede que seas un&Núm. 3 menos&distante!&Jaja... un poco./%
 Tornado
 SpearBlast
 obj_berdlyb_enemy_slash_Step_0_gml_158_0
@@ -24113,7 +24113,7 @@ obj_berdlyb_enemy_slash_Step_0_gml_162_0
 obj_berdlyb_enemy_slash_Step_0_gml_163_0
 * Huele a pollo frito.
 obj_berdlyb_enemy_slash_Step_0_gml_167_0_b
-* El carro ese de Berdly se ve enfermo.
+* El carro de Berdly se ve enfermo.
 obj_berdlyb_enemy_slash_Step_0_gml_171_0
 * Berdly llama a Queen por ayuda!&* Ella dice "Estás haciendolo genial cariño!"
 obj_berdlyb_enemy_slash_Step_0_gml_123_0
@@ -30929,21 +30929,21 @@ obj_ch2_scene11b_slash_Step_0_gml_115_0
 obj_ch2_scene11b_slash_Step_0_gml_183_0
 \E2* Jaja^1, quién es el rey de la basura ahora!?/%
 obj_ch2_scene11b_slash_Step_0_gml_251_0
-\EZ* O..^1. Ow...!/
+\EZ* O..^1. Oh...!/
 obj_ch2_scene11b_slash_Step_0_gml_253_0
 * Susie^1, estás bien?/%
 obj_ch2_scene11b_slash_Step_0_gml_272_0
-\EQ* ..^1. Heh^1, no es nada./
+\EQ* ..^1. Uh^1, no es nada./
 obj_ch2_scene11b_slash_Step_0_gml_273_0
 \EQ* Yo solo.../%
 obj_ch2_scene11b_slash_Step_0_gml_279_0
-\EV* O... ow./%
+\EV* O... oh./%
 obj_ch2_scene11b_slash_Step_0_gml_289_0
-\EB* ... segura que no quieres que vea?/
+\EB* ... segura que no quieres que te revise?/
 obj_ch2_scene11b_slash_Step_0_gml_291_0
-\E5* V-ver qué? Estoy bien!/%
+\E5* R-revisar qué? Estoy bien!/%
 obj_ch2_scene11b_slash_Step_0_gml_316_0
-\EH* WOAH HEY QUÉ RAYOS ESTÁS--/%
+\EH* O-OYE HEY QUÉ RAYOS ESTÁS--/%
 obj_ch2_scene11b_slash_Step_0_gml_355_0
 \E2* Te sientes mejor?/%
 obj_ch2_scene11b_slash_Step_0_gml_362_0
@@ -30972,15 +30972,15 @@ obj_ch2_scene11b_slash_Step_0_gml_416_0
 obj_ch2_scene11b_slash_Step_0_gml_434_0
 \E1* (Ya vámonos^1, Kris...)/%
 obj_ch2_scene11b_slash_Step_0_gml_483_0
-\E0* por cierto Kris^1, acabo de recordad!/
+\E0* por cierto Kris^1, acabo de recordar!/
 obj_ch2_scene11b_slash_Step_0_gml_484_0
-\E0* Aunque puedas cargar solo 12 ITEMs.../
+\E0* Aunque puedas cargar solo 12 ITEMS.../
 obj_ch2_scene11b_slash_Step_0_gml_485_0
 \E0* Tu ALMAC. va a almacenar Items extra que recogas./
 obj_ch2_scene11b_slash_Step_0_gml_486_0
 \EG* Puedes acceder ahí cuando mires tu RECLUTAS!/
 obj_ch2_scene11b_slash_Step_0_gml_497_0
-\E2* (Los enemigos que PERDONES serán RECLUTADOS a tu ciudad, recuerdas?)/
+\E2* (Los enemigos que PERDONES serán RECLUTADOS a tu ciudad)/
 obj_ch2_scene11b_slash_Step_0_gml_488_0
 \E6* Woah^1, esa parece ser información muy útil./%
 dogcone1
