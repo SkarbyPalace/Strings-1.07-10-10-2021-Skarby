@@ -8077,26 +8077,26 @@ Cura#Aliados#Caidos
 scr_iteminfo_slash_scr_iteminfo_gml_29_0
 Glowshard
 scr_iteminfo_slash_scr_iteminfo_gml_30_0
-Sell#at#shops
+Vende#en#tienda
 scr_iteminfo_slash_scr_iteminfo_gml_36_0
 Manual
 scr_iteminfo_slash_scr_iteminfo_gml_37_0
 Read#out of#battle
 scr_iteminfo_slash_scr_iteminfo_gml_43_0
 scr_iteminfo_slash_scr_iteminfo_gml_44_0
-Heals#20HP
+Cura#20HP
 scr_iteminfo_slash_scr_iteminfo_gml_50_0
 Top Cake
 scr_iteminfo_slash_scr_iteminfo_gml_51_0
-Heals#team#160HP
+Cura#a todos#160HP
 scr_iteminfo_slash_scr_iteminfo_gml_58_0
 Spincake
 scr_iteminfo_slash_scr_iteminfo_gml_59_0
-Heals#team#~1HP
+Cura#a todos#~1HP
 scr_iteminfo_slash_scr_iteminfo_gml_65_0
 HamburgesaOsc
 scr_iteminfo_slash_scr_iteminfo_gml_66_0
-Heals#70HP
+Cura#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_72_0
 LancerCookie
 scr_iteminfo_slash_scr_iteminfo_gml_73_0
@@ -8104,7 +8104,7 @@ Cura#50 HP
 scr_iteminfo_slash_scr_iteminfo_gml_79_0
 GigaSalad
 scr_iteminfo_slash_scr_iteminfo_gml_80_0
-Heals#4HP
+Cura#4HP
 scr_iteminfo_slash_scr_iteminfo_gml_86_0
 ClubsSandwich
 scr_iteminfo_slash_scr_iteminfo_gml_87_0
@@ -34401,7 +34401,7 @@ obj_ch2_cyber01_slash_Step_0_gml_574_0
 obj_ch2_cyber01_slash_Step_0_gml_575_0
 \m2		*Nuestro baile los derrotó^2.&\m1	Los derrotó...^2?&\m3	Si^1, lo creo./
 obj_ch2_cyber01_slash_Step_0_gml_576_0
-\m3		*Ves^1, cuando bailamos con ellos^1, los convenció de que somos cool^2.&\m1	Ahora están de nuestro lado?/
+\m3		*Ves^1, cuando bailabamos^1, demostramos que somos cool^2.&\m1	Ahora están de nuestro lado?/
 obj_ch2_cyber01_slash_Step_0_gml_577_0
 \m2		*Si./
 obj_ch2_cyber01_slash_Step_0_gml_578_0
