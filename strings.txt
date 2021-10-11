@@ -355,7 +355,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_171_0_b
 scr_litemuseb_slash_scr_litemuseb_gml_172_0_b
 * La ves mirandote^1, sonriendo y haciendo un gesto rudo./%
 scr_litemuseb_slash_scr_litemuseb_gml_182_0_b
-* You thought you saw through your hand./%
+* Pensaste que veías a través de tu mano./%
 scr_litemuseb_slash_scr_litemuseb_gml_178_0
 scr_litemuseb_slash_scr_litemuseb_gml_179_0
 * ..^1. pero nada paso./%
@@ -3391,17 +3391,17 @@ scr_text_slash_scr_text_gml_3377_0
 scr_text_slash_scr_text_gml_3378_0
 queen
 scr_text_slash_scr_text_gml_3380_0
-\EC* /]Carcajada Regia]/
+\EC* /[Carcajadas]/
 scr_text_slash_scr_text_gml_3381_0
 \EP* Oh Dios Eso Fue Un Tanto..^1. Entretenido/
 scr_text_slash_scr_text_gml_3382_0
-\EQ* Su(s) Formas De Vida Han Excedido Mis Expectativas/
+\EQ* Sus Formas De Vida Han Excedido Mis Expectativas/
 scr_text_slash_scr_text_gml_3383_0
 \E1* Les Ofreceré Un Nuevo^1, Trato Sumamente Benévolo/
 scr_text_slash_scr_text_gml_3384_0
-\E6* Entren A Mi Ciber-Ejercito/
+\E6* Entren A Mi Cyber-Ejercito/
 scr_text_slash_scr_text_gml_3385_0
-\E7* Y Solo Será Un Cincuenta Porciento De Que Reprogame Sus Caras/
+\E7* Y Solo Será Un Cincuenta Por ciento De Que Reprogame Sus Caras/
 scr_text_slash_scr_text_gml_3386_0
 \E1* Por favor, Haz Tu Elección/
 scr_text_slash_scr_text_gml_3387_0
@@ -5458,7 +5458,7 @@ scr_text_slash_scr_text_gml_6593_0
 scr_text_slash_scr_text_gml_6594_0
 scr_text_slash_scr_text_gml_6595_0
 scr_text_slash_scr_text_gml_6598_0
-\E2* Kris^1, apuesto a que eres muy bueno en los juegos^1, no es así?/
+\E2* Kris^1, apuesto a que eres muy bueno en los juegos^1, ¿no es así?/
 scr_text_slash_scr_text_gml_6599_0
 scr_text_slash_scr_text_gml_6605_0
 middle
@@ -5468,7 +5468,7 @@ scr_text_slash_scr_text_gml_6613_0
 Te Gustará Después De Que Te Esclavice
 mid
 scr_text_slash_scr_text_gml_6616_0
-* Si No Eres Entusiasta No Querre Esclavizarte /
+* Si no eres entusiasta, No Querre Esclavizarte /
 X
 scr_text_slash_scr_text_gml_6618_0
 \EX* Nosotros no queremos eso...\f0/%
@@ -5940,13 +5940,13 @@ scr_text_slash_scr_text_gml_7536_0
 scr_text_slash_scr_text_gml_7568_0
 scr_text_slash_scr_text_gml_7569_0
 scr_text_slash_scr_text_gml_7554_0
-* Oh^1, Kris^1! Es una CIBERPEDIA editable^1! Agregaré una entrada...!/
+* ¡Oh^1 Kris^1! ¡Es una CYBERPEDIA editable^1! Agregaré una entrada...!/
 scr_text_slash_scr_text_gml_7556_0
-* (Ralsei escribió un artículo acerca de PERDER RECLUTAS. Lo lees?)/
+* (Ralsei escribió un artículo acerca de PERDER RECLUTAS. ¿Leer?)/
 scr_text_slash_scr_text_gml_7582_0
 * De ahora en adelante^1, derrotar enemigos con violencia hara que los PIERDAS./
 scr_text_slash_scr_text_gml_7583_0
-* Enemigos PERDIDOS no puedes ser RECTLUTAdos nunca mas./
+* Enemigos PERDIDOS no puedes ser RECTLUTADOS núnca mas./
 scr_text_slash_scr_text_gml_7584_0
 * Pero^1, los lazos que rompas puede que te hagan mas fuerte.../%
 scr_text_slash_scr_text_gml_7590_0
@@ -5973,7 +5973,7 @@ scr_text_slash_scr_text_gml_7658_0
 * (You got ShadowCrystal.)/
 remove_shine
 scr_text_slash_scr_text_gml_7674_0
-\EQ* Kris^1, want to re-read my editable CYBERPEDIA entry?/
+\EQ* Kris^1, ¿Quieres volver a leer mi entrada editable de CYBERPEDIA?/
 scr_text_slash_scr_text_gml_7676_0
 scr_text_slash_scr_text_gml_7680_0
 Si lo hiciste.
@@ -6841,11 +6841,11 @@ itemtypename
 _itemtype
 _itemid
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_22_0
-ARMADURAs
+ARMADURAS
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_29_0
-ARMAs
+ARMAS
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_36_0
-ITEMs
+ITEMS
 scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_38_0
 ALMAC.
 gml_Script_scr_keyiteminfo
@@ -8512,7 +8512,7 @@ scr_itemuse_slash_scr_itemuse_gml_426_0
 scr_itemuse_slash_scr_itemuse_gml_441_0
 * (You used the Egg.)/%
 scr_itemuse_slash_scr_itemuse_gml_616_0
-* You held the crystal up to your eye./
+* Sostuviste el cristal hasta tu ojo./
 scr_itemuse_slash_scr_itemuse_gml_617_0
 scr_itemuse_slash_scr_itemuse_gml_618_0
 * You thought you saw the computer lab./
@@ -8890,7 +8890,7 @@ scr_armorinfo_slash_scr_armorinfo_gml_214_0
 ... nostalgic, huh.
 scr_armorinfo_slash_scr_armorinfo_gml_225_0
 scr_armorinfo_slash_scr_armorinfo_gml_232_0
-PulseraBrilla.
+PulseraBrilla
 scr_armorinfo_slash_scr_armorinfo_gml_233_0
 Un bracalete fuerte hecho de cables verdes,#tachada con luces brillantes
 scr_armorinfo_slash_scr_armorinfo_gml_234_0
@@ -9357,13 +9357,13 @@ Fin
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_16_0
 Home
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_17_0
-Botón Izquierdo
+Izquierda
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_18_0
-Botón Arriba
+Arriba
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_19_0
-Botón Derecha
+Derecha
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_20_0
-Botón Abajo
+Abajo
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_21_0
 Insertar
 scr_ascii_input_names_slash_scr_ascii_input_names_gml_22_0
@@ -10812,37 +10812,37 @@ scr_roomname_slash_scr_roomname_gml_5_0
 scr_roomname_slash_scr_roomname_gml_6_0
 Mi Castillo
 scr_roomname_slash_scr_roomname_gml_7_0
-Ciber-campo - Entrada
+Cyber City - Entrada
 scr_roomname_slash_scr_roomname_gml_8_0
-Ciber-campo - Máquina Arcade
+Cyber City - Máquina Arcade
 scr_roomname_slash_scr_roomname_gml_9_0
-Ciber-Campo  - Tienda de Música
+Cyber City - Tienda de Música
 scr_roomname_slash_scr_roomname_gml_10_0
-Cyber City - Entrance
+Cyber City - Entrada
 scr_roomname_slash_scr_roomname_gml_11_0
-Cyber City - First Alleyway
+Cyber City - Primer Callejón
 scr_roomname_slash_scr_roomname_gml_12_0_b
-Cyber City - Mouse Alley
+Cyber City - Callejón del ratón
 scr_roomname_slash_scr_roomname_gml_12_0
-Cyber City - Music Shop
+Cyber City - La tienda de Música
 scr_roomname_slash_scr_roomname_gml_13_0
-Cyber City - Second Alleyway
+Cyber City - Segundo Callejón
 scr_roomname_slash_scr_roomname_gml_16_0_b
-Cyber City - Heights
+Cyber City - La Estatura
 scr_roomname_slash_scr_roomname_gml_14_0
-Queen's Mansion - Guest Hall
+Mansión de Queen - Sala de invitados
 scr_roomname_slash_scr_roomname_gml_15_0
-Queen's Mansion - Entrance
+Mansión de Queen - Entrada
 scr_roomname_slash_scr_roomname_gml_16_0
-Queen's Mansion - 3F
+Mansión de Queen - Tercer Piso
 scr_roomname_slash_scr_roomname_gml_17_0
-Queen's Mansion - Acid Tunnel
+Mansión de Queen - Túnel de ácido
 scr_roomname_slash_scr_roomname_gml_19_0
-Queen's Mansion - Basement
+Mansión de Queen - El sótano
 scr_roomname_slash_scr_roomname_gml_20_0
-Queen's Mansion - 4F
+Mansión de Queen - Cuarto Piso
 scr_roomname_slash_scr_roomname_gml_23_0
-Mansion de Queen- Techo
+Mansión de Queen - Techo
 gml_Script_scr_roomname
 scr_roomname
 gml_Script_scr_closemenu
@@ -10878,27 +10878,27 @@ buffering
 gml_Script_scr_queen_buffercheck
 scr_queen_buffercheck
 UNUSED_slash_UNUSED_gml_1_0
-No one can hear me, can they...?
+Nadie puede oírme, ¿pueden...?
 unused_0
 UNUSED_slash_UNUSED_gml_2_0
 unused_1
 UNUSED_slash_UNUSED_gml_3_0
-I guess not.
+supongo que no.
 unused_2
 UNUSED_slash_UNUSED_gml_4_0
-To be honest, I'm not even sure if I can hear myself.
+Para ser honesto, ni siquiera estoy seguro de si puedo oírme.
 unused_3
 UNUSED_slash_UNUSED_gml_5_0
-It's so quiet here...
+Es tan tranquilo aquí...
 unused_4
 UNUSED_slash_UNUSED_gml_6_0
-... and yet, sometimes,
+... y sin embargo, a veces,
 unused_5
 UNUSED_slash_UNUSED_gml_7_0
-I swear I hear something...
+Juro oír algo...
 unused_6
 UNUSED_slash_UNUSED_gml_8_0
-Something like... scratching?
+Algo así como... ¿Rasguños?
 unused_7
 gml_Script_UNUSED
 UNUSED
@@ -14572,7 +14572,7 @@ gameloadConfirm
 Jugar
 プレイする
 stringPlay
-No
+Atrás
 しない
 stringDoNot
 play_color
@@ -15329,7 +15329,7 @@ obj_krisroom_slash_Step_0_gml_94_0
 _remfilechoice
 room_myroom_dark
 obj_krisroom_slash_Step_0_gml_283_0
-* (Pero^1, cuando abristes tus ojos...)/%
+* (Pero^1, cuando abriste tus ojos...)/%
 obj_krisroom_slash_Step_0_gml_293_0
 THE DARK
 talkedtimes
@@ -16837,7 +16837,7 @@ obj_npc_room_slash_Other_10_gml_2379_0
 obj_npc_room_slash_Other_10_gml_2380_0
 * No tendremos otra opción mas que cruzar espadas..../%
 obj_npc_room_slash_Other_10_gml_2393_0
-* Oí que hay un equipo rebelde en contra de Queen.../
+* Escuche que hay un equipo rebelde en contra de Queen.../
 obj_npc_room_slash_Other_10_gml_2394_0
 * Hasta ahora todo lo que he encontrado son bagels sobrevalorados.../%
 obj_npc_room_slash_Other_10_gml_2399_0
@@ -16849,7 +16849,7 @@ obj_npc_room_slash_Other_10_gml_2401_0
 obj_npc_room_slash_Other_10_gml_2412_0
 * Quiero volver a la ciudad^1, pero el camino está bloqueado.../
 obj_npc_room_slash_Other_10_gml_2413_0
-* No soy un extranjero^1! Sáquenme de Ciber-campo!/%
+* No soy un extranjero^1! Sáquenme de Cyber-campo!/%
 obj_npc_room_slash_Other_10_gml_2417_0
 * La cocina es tan poco refinada aquí en los palillos (de memoria)./%
 obj_npc_room_slash_Other_10_gml_2426_0
@@ -17389,11 +17389,11 @@ total_checkmarks
 obj_npc_sign_slash_Other_10_gml_762_0
 * Soy el Hacker. Estoy tras los vistos azules./
 obj_npc_sign_slash_Other_10_gml_763_0
-* Encuentra 3 en el Ciber-campo^1, y me uniré a tu [Ciudad]./
+* Encuentra 3 en el Cyber-campo^1, y me uniré a tu [Ciudad]./
 obj_npc_sign_slash_Other_10_gml_764_0
 * Ustedes parecen el tipo de personas que tienen una [Ciudad Cool]./%
 obj_npc_sign_slash_Other_10_gml_770_0
-* De acuerdo con ciber^1, has encontrado ~1 vistos azules de 3./
+* De acuerdo con cyber^1, has encontrado ~1 vistos azules de 3./
 obj_npc_sign_slash_Other_10_gml_772_0
 * 0^1, nada mal para novatos. Tu "Mision de Vistos" recién empieza./%
 obj_npc_sign_slash_Other_10_gml_773_0
@@ -19566,7 +19566,7 @@ obj_npc_facing_slash_Other_10_gml_385_0
 obj_npc_facing_slash_Other_10_gml_386_0
 \E1* (..^1. talvez podrías usar la cosa real?)/%
 obj_npc_facing_slash_Other_10_gml_398_0
-\E2* Lo tenemos^1, Kris. Somos los buenos^1, verdad?/
+\E2* Lo tenemos^1, Kris. Somos los buenos^1, ¿verdad?/
 obj_npc_facing_slash_Other_10_gml_399_0
 \E5* Lo único por hacer es encontrar una manera de hacer trampa.../%
 obj_npc_facing_slash_Other_10_gml_402_0
@@ -19636,7 +19636,7 @@ qualify
 obj_treasure_room_slash_Other_10_gml_14_0
 * (It won't open.)/%
 obj_treasure_room_slash_Other_10_gml_65_0
-* (Abristes el cofre del tesoro.^1)&* (Dentro habia \cY~1\cW.)/
+* (Abriste el cofre del tesoro.^1)&* (Dentro habia \cY~1\cW.)/
 checkscreen
 bug
 string_upper
@@ -23550,7 +23550,7 @@ obj_tasque_enemy_slash_Step_0_gml_133_1
 obj_tasque_enemy_slash_Step_0_gml_150_0
 Solo es un gato...
 obj_tasque_enemy_slash_Step_0_gml_155_0
-* Susie rugio!! Los enemigos están CANSADOs.~1
+* ¡¡Susie rugio!! Los enemigos están CANSADOS.~1
 obj_tasque_enemy_slash_Step_0_gml_160_0
 \E2* Quien es el rey de la jungla ahora!?\f0/%
 obj_tasque_enemy_slash_Step_0_gml_177_0
@@ -26352,7 +26352,7 @@ obj_sweet_enemy_slash_Step_0_gml_268_0
 \EL* S-Susie^1, n-no creo que debas.../%
 rals
 obj_sweet_enemy_slash_Step_0_gml_307_0
-\EH* Happy feet imbécil!/%
+\EH* ¡Pies felices, a bailar!/%
 obj_sweet_enemy_slash_Step_0_gml_354_0
 * (Susie hizo que Ralsei aprendiera \cVAcción-R\cW aunque el no quería!)/
 obj_sweet_enemy_slash_Step_0_gml_356_0
@@ -26384,7 +26384,7 @@ obj_sweet_enemy_slash_Step_0_gml_538_0
 * Ralsei bailó con Sweet!/%
                             
 obj_sweet_enemy_slash_Step_0_gml_699_0
-* Todos están bailando!
+* ¡Todos están bailando!
 obj_sweet_enemy_slash_Draw_0_gml_81_0
 Bailando!
 obj_sweet_enemy_slash_Draw_0_gml_86_0
@@ -26419,15 +26419,15 @@ obj_hatguy_enemy_slash_Step_0_gml_183_0
 obj_hatguy_enemy_slash_Step_0_gml_214_0
 * Todos bailaron con Cap'n! Todos se perdieron en el ritmo!/%
 obj_hatguy_enemy_slash_Step_0_gml_241_0
-* Susie bailó Cap'n!/
+* Susie bailó con Cap'n!/
 obj_hatguy_enemy_slash_Step_0_gml_242_0
 obj_hatguy_enemy_slash_Step_0_gml_247_0
 * Susie bailó con Cap'n!/%
 obj_hatguy_enemy_slash_Step_0_gml_279_0
-* Ralsei bailó Cap'n!/
+* Ralsei baila con Cap'n!/
 obj_hatguy_enemy_slash_Step_0_gml_280_0
 obj_hatguy_enemy_slash_Step_0_gml_285_0
-* Ralsei bailó Cap'n!/%
+* Ralsei baila con Cap'n!/%
 obj_hatguy_enemy_slash_Draw_0_gml_60_0
 obj_hatguy_enemy_slash_Draw_0_gml_65_0
 obj_hatguy_enemy_slash_Draw_0_gml_70_0
@@ -26475,11 +26475,11 @@ capn_string
 obj_kk_enemy_slash_Other_11_gml_6_0
 kk_string
 obj_kk_enemy_slash_Other_11_gml_8_0
-* Sweet is lost in the groove!
+* Sweet se pierde en el surco!
 obj_kk_enemy_slash_Other_11_gml_9_0
-* Cap'n is lost in the groove!
+* Cap'n se pierde en el surco!
 obj_kk_enemy_slash_Other_11_gml_10_0
-* K_K is lost in the groove!
+* K_K se pierde en el surco!
 obj_kk_enemy_slash_Step_0_gml_130_0
 ralseiportrait
 obj_kk_enemy_slash_Step_0_gml_126_0
@@ -26516,17 +26516,17 @@ E-espera, no puedo bailar&con los malos!!
 obj_musical_controller_slash_Alarm_1_gml_21_0
 Me olvide de mi&siguiente movimiento!
 obj_musical_controller_slash_Alarm_1_gml_30_0
-H-hey, I'm not gonna&dance with you!
+¡H-hey, no voy a bailar&contigo!
 obj_musical_controller_slash_Alarm_2_gml_8_0
-* (Sweet estalló del baile!)/
+* (Sweet dejo de bailar!)/
 obj_musical_controller_slash_Alarm_2_gml_12_0
-* (Sweet estalló del baile!)/%
+* (Sweet dejo de bailar!)/%
 obj_musical_controller_slash_Alarm_2_gml_20_0
-* (K_K estalló del baile!)/
+* (K_K dejo de bailar!)/
 obj_musical_controller_slash_Alarm_2_gml_24_0
-* (K_K estalló del baile!)/%
+* (K_K dejo de bailar!)/%
 obj_musical_controller_slash_Alarm_2_gml_30_0
-* (Cap'n estalló del baile!)/%
+* (Cap'n dejo de bailar!)/%
 obj_musical_controller_slash_Step_0_gml_52_0
 En mi límite acústico...
 obj_musical_controller_slash_Step_0_gml_57_0
@@ -26580,7 +26580,7 @@ mx
 jumped
 note
 obj_musical_battle_end_slash_Draw_0_gml_205_0
-EZ CLAP!
+¡VICTORIA!
 battlewonstring
 remlightningy
 lightningvary
@@ -30558,25 +30558,25 @@ obj_ch2_scene10_slash_Step_0_gml_100_0
 obj_ch2_scene10_slash_Step_0_gml_102_0
 \E1* Oh Nunca Has Firmado Un Contrato De Peones/
 obj_ch2_scene10_slash_Step_0_gml_104_0
-\EE* No!^1! Es todo lo demás lo que me da miedo!!/
+\EE* ¡¡No!^1! ¡¡Es todo lo demás lo que me da miedo!!/
 obj_ch2_scene10_slash_Step_0_gml_106_0
 \ED* Por favor Aborta Tu Protocólo De Tristeza/
 obj_ch2_scene10_slash_Step_0_gml_107_0
 \E1* Te Dije Que Ser Un Peón Sería Genial/%
 obj_ch2_scene10_slash_Step_0_gml_124_0
-\EJ* Noelle!/
+\EJ* ¡Noelle!/
 obj_ch2_scene10_slash_Step_0_gml_126_0
-\EB* S..^1. Susie!? Kris...!?/
+\EB* S..^1. ¿¡Susie!? ¿¡Kris...!?/
 obj_ch2_scene10_slash_Step_0_gml_128_0
-\E2* No te preocupes^1, no dejaremos que tu cara sea robotizada!/%
+\E2* No te preocupes^1, ¡no dejaremos que tu cara sea robotizada!/%
 obj_ch2_scene10_slash_Step_0_gml_135_0
-\EE* ESO ES..^1. ALGO QUE IBAN A HACER!?/
+\EE* ESO ES..^1. ¿¡ALGO QUE IBAN A HACER!?/
 obj_ch2_scene10_slash_Step_0_gml_137_0
 \EP* Upss^1, pensé^1, uh^1, que sabías eso./%
 obj_ch2_scene10_slash_Step_0_gml_145_0
 \EF* Oh Cielos Se Suponia Que Seria Una Sorpresa/%
 obj_ch2_scene10_slash_Step_0_gml_152_0
-\E0* Oh Bueno/%
+\E0* Oh Bueno./%
 obj_ch2_scene10_slash_Step_0_gml_174_0
 \ER* E-espera--!!/%
 obj_ch2_scene10_slash_Step_0_gml_192_0
@@ -30586,7 +30586,7 @@ obj_ch2_scene10_slash_Step_0_gml_193_0
 obj_ch2_scene10_slash_Step_0_gml_194_0
 \E5* Si Tan Solo Tuviera Amigos Peones Que La Alienten/
 obj_ch2_scene10_slash_Step_0_gml_196_0
-\EK* ..^1. Asi qué?/%
+\EK* ..^1. ¿Asi qué?/%
 obj_ch2_scene10_slash_Step_0_gml_209_0
 \ED* Asi que/
 obj_ch2_scene10_slash_Step_0_gml_210_0
@@ -30599,11 +30599,11 @@ obj_ch2_scene10_slash_Step_0_gml_213_0
 obj_ch2_scene10_slash_Step_0_gml_214_0
 \ED* Haciendo Algo En Este Momento/
 obj_ch2_scene10_slash_Step_0_gml_216_0
-* No te vamos a ayudar!!/%
+* ¡¡No te vamos a ayudar!!/%
 obj_ch2_scene10_slash_Step_0_gml_221_0
 \E6* Entendido. Protocólo Cambia-Pensamientos Necesitado/%
 obj_ch2_scene10_slash_Step_0_gml_413_0
-\E6* Un juego gigante de arcade!?/
+\E6* ¿¡Un juego gigante de arcade!?/
 obj_ch2_scene10_slash_Step_0_gml_415_0
 \E1* Debo Humillarte En: Una Simple Diversión Para Niños/
 obj_ch2_scene10_slash_Step_0_gml_416_0
@@ -30611,11 +30611,11 @@ obj_ch2_scene10_slash_Step_0_gml_416_0
 obj_ch2_scene10_slash_Step_0_gml_427_0
 \E7* No Tendrán Otra Opción Mas Que Servirme/%
 obj_ch2_scene10_slash_Step_0_gml_442_0
-\E5* Que carajos!? Nunca he jugado esto antes...!/%
+\E5* ¿¡Que carajos!? ¡Nunca he jugado esto antes...!/%
 obj_ch2_scene10_slash_Step_0_gml_449_0
-\E2* Pero Kris es hábil en los juegos^1, no es así?/%
+\E2* Pero Kris es hábil en los juegos^1, ¿no es así?/%
 obj_ch2_scene10_slash_Step_0_gml_456_0
-\E2* Oh si. Kris^1, Olvide que eres un nerd. Demuéstrale tu saber!!/%
+\E2* Oh si. Kris^1, Olvide que eres un nerd. ¡¡Demuéstrale tu saber!!/%
 lerpValue2
 yScale
 xScale
@@ -30623,7 +30623,7 @@ qu_npc
 forcefield_left
 forcefield_right
 obj_ch2_scene10_slash_Step_0_gml_586_0
-* Intentastes usar la máquina arcade./%
+* Intentaste usar la máquina arcade./%
 obj_ch2_scene10_slash_Step_0_gml_595_0
 * (No fuistes lo suficientemente alto o fuerte para usar los controles...)/%
 obj_ch2_scene10_slash_Step_0_gml_611_0
@@ -30635,23 +30635,23 @@ obj_ch2_scene10_slash_Step_0_gml_620_0
 obj_ch2_scene10_slash_Step_0_gml_630_0
 \EQ* Uh..^1. ummm..^1. está bien^1, Kris..^1. err..^1. yo tampoco^1, llego.../
 obj_ch2_scene10_slash_Step_0_gml_631_0
-\EK* K..^1. Kris...!^1! Espera^1, tengo una idea!!/%
+\EK* K..^1. ¡¡Kris...!^1! Espera^1, ¡¡tengo una idea!!/%
 obj_ch2_scene10_slash_Step_0_gml_653_0
 \EJ* Kris^1, si podemos combinar nuestros poderes^1, entonces.../
 obj_ch2_scene10_slash_Step_0_gml_654_0
-\EH* Mira!^1! Te mostraré lo que he estado practicando!!/%
+\EH* ¡¡Mira!^1! ¡¡Te mostraré lo que he estado practicando!!/%
 obj_ch2_scene10_slash_Step_0_gml_670_0
-\EH* \cYForma de Taburete Mágica R\cW!!/
+\EH* ¡¡\cYForma de Taburete Mágica\cW!!/
 obj_ch2_scene10_slash_Step_0_gml_672_0
-\E2* Ahora estamos en algo!^1! Ok Kris^1, déjamelo a mi!!/%
+\E2* ¡¡Ahora estamos en algo!^1! Ok Kris^1, ¡¡déjamelo a mi!!/%
 obj_ch2_scene10_slash_Step_0_gml_683_0
-\E2* Estira tus brazos!!/%
+\E2* ¡¡Estira tus brazos!!/%
 obj_ch2_scene10_slash_Step_0_gml_715_0
-\E2* \cYForma de Bestia Poderosa S\c0!!/%
+\E2* ¡¡\cYForma de Bestia Poderosa\c0!!/%
 obj_ch2_scene10_slash_Step_0_gml_720_0
-\E2* Mueve tus brazos y yo moveré los míos contigo!/
+\E2* ¡Mueve tus brazos y yo moveré los míos contigo!/
 obj_ch2_scene10_slash_Step_0_gml_721_0
-\E2* Vamos!!/%
+\E2* ¡¡Vamos!!/%
 obj_ch2_scene10_slash_Step_0_gml_741_0
 * Increible/
 obj_ch2_scene10_slash_Step_0_gml_742_0
@@ -30661,7 +30661,7 @@ obj_ch2_scene10_slash_Step_0_gml_743_0
 obj_ch2_scene10_slash_Step_0_gml_748_0
 \E7* Que Comience El Combate Virtual/%
 obj_ch2_scene10_slash_Step_0_gml_845_0
-\EQ* Je^1, pensastes que NOS vencerías!?/%
+\EQ* Je^1, ¿¡pensaste que NOS vencerías!?/%
 obj_ch2_scene10_slash_Step_0_gml_879_0
 \ED* S..^1. Seno...?/%
 obj_ch2_scene10_slash_Step_0_gml_888_0
@@ -30687,7 +30687,7 @@ obj_ch2_scene10_slash_Step_0_gml_924_0
 obj_ch2_scene10_slash_Step_0_gml_926_0
 * Entendido. Preferencia De Ajustes Ajustado A "Perecer"/%
 obj_ch2_scene10_slash_Step_0_gml_940_0
-\EH* Vamos^1, hay que ir por ella!/%
+\EH* Vamos^1, ¡hay que ir a por ella!/%
 animeBG
 qu_x_save
 qu_y_save
@@ -34340,13 +34340,13 @@ obj_ch2_cyber01_slash_Step_0_gml_120_0
 obj_ch2_cyber01_slash_Step_0_gml_129_0
 \m1		*C-creo que nuestro acto esta un poco desactualizado.../%
 obj_ch2_cyber01_slash_Step_0_gml_137_0
-\m1		*Sweet Cap'n Cakes^1! No solo somos el mejor trío musical de Ciber-Campo.../
+\m1		*Sweet Cap'n Cakes^1! No solo somos el mejor trío musical de Cyber-Campo.../
 obj_ch2_cyber01_slash_Step_0_gml_138_0
 \m1		*También somos la última resistenca contra Queen y su sequito malvado!/
 obj_ch2_cyber01_slash_Step_0_gml_139_0
 \m1		*Y eso empieza resistiéndolos a USTEDES!/%
 obj_ch2_cyber01_slash_Step_0_gml_151_0
-\EH* Que!? También peleamos contra^1 Queen!/
+\EH* ¿¡Que!? ¡También peleamos contra^1 Queen!/
 obj_ch2_cyber01_slash_Step_0_gml_153_0
 \m1		*Nuh-uh-uh^1! Cap'n los vio ayudándola a secuestrar a una chica!/
 obj_ch2_cyber01_slash_Step_0_gml_154_0
@@ -34389,17 +34389,17 @@ NOSOTROS SOMOS los buenos!!!
 obj_ch2_cyber01_slash_Step_0_gml_567_0
 Solo sigueles el juego, Susie...
 obj_ch2_cyber01_slash_Step_0_gml_570_0
-\m2		*Terminó^2?&\m3 En otras palabras...&\m1 Perdimos!?/
+\m2		*¿Terminó^2?&\m3 En otras palabras...&\m1 ¿¡Perdimos!?/
 obj_ch2_cyber01_slash_Step_0_gml_571_0
 \m1		*..^2.&\m3	..^2.&\m2	.../
 obj_ch2_cyber01_slash_Step_0_gml_572_0
-\m2		*Eso significa que podemos ser amigos^2?&\m1	K_K!^1! No!!/
+\m2		*¿Eso significa que podemos ser amigos^2?&\m1	K_K!^1! No!!/
 obj_ch2_cyber01_slash_Step_0_gml_573_0
 \m3		*De todas formas, pelear no es lo mío..^2.&\m1	Si^1! Porque eres un cobarde!/
 obj_ch2_cyber01_slash_Step_0_gml_574_0
 \m1		*..^1. Oséa^1, fue divertido bailar^1, pero..^2.&\m2 Sweet. No te preocupes./
 obj_ch2_cyber01_slash_Step_0_gml_575_0
-\m2		*Creo que nuestro baile los derrotó^2.&\m1	Los derrotó...^2?&\m3	Si^1, lo creo./
+\m2		*Nuestro baile los derrotó^2.&\m1	Los derrotó...^2?&\m3	Si^1, lo creo./
 obj_ch2_cyber01_slash_Step_0_gml_576_0
 \m3		*Ves^1, cuando bailamos con ellos^1, los convenció de que somos cool^2.&\m1	Ahora están de nuestro lado?/
 obj_ch2_cyber01_slash_Step_0_gml_577_0
