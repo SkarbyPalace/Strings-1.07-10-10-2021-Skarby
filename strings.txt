@@ -15334,27 +15334,27 @@ obj_krisroom_slash_Step_0_gml_293_0
 THE DARK
 talkedtimes
 obj_krisroom_slash_Step_0_gml_321_0
-Kris...? /%
+¿Kris...? /%
 obj_krisroom_slash_Step_0_gml_322_0
-Kris, amor...&Estás despierto...?^6 %%
+Kris, amor...&¿Estás despierto...?^6 %%
 obj_krisroom_slash_Step_0_gml_323_0
-... e.... espera!^6 %%
+... e.... ¡espera!^6 %%
 obj_krisroom_slash_Step_0_gml_324_0
 Es eso un...^6 %%
 obj_krisroom_slash_Step_0_gml_325_0
-Un cuchillo!!?^6 %%
+¿¡¡Un cuchillo!!?^6 %%
 whitefade
 obj_krisroom_slash_Step_0_gml_353_0
-NOOOOOOOO---!!! %%
+¡¡¡NOOOOOOOO---!!! %%
 tor_actor
 obj_krisroom_slash_Step_0_gml_388_0
-* Kris^1, te comistes todo el pie!?/%
+* ¿¡Kris^1, te comistes todo el pie!?/%
 obj_krisroom_slash_Step_0_gml_393_0
-\E3* Es TU cuchillo el que está en ese tacho, verdad!?/
+\E3* Es TU cuchillo el que está en ese tacho, ¿¡verdad!?/
 obj_krisroom_slash_Step_0_gml_394_0
 \E8* Oh, Kris.../%
 obj_krisroom_slash_Step_0_gml_399_0
-\E4* Tendré que bloquear el horno de nuevo?/%
+\E4* ¿Tendré que bloquear el horno de nuevo?/%
 obj_krisroom_slash_Step_0_gml_406_0
 \E1* Bueno^1, apurate saliendo de la cama^1. Es hora de ir a la escuela./%
 hitmode
@@ -30257,7 +30257,7 @@ obj_ch2_scene6_slash_Step_0_gml_545_0
 obj_ch2_scene6_slash_Step_0_gml_566_0
 \E2* Hey^1, Kris^1, no se que hiciste^1, pero, ¡al diablo que si!/%
 obj_ch2_scene6_slash_Step_0_gml_570_0
-\E9* ¿Todos están aquí!/%
+\E9* ¡Todos están aquí!/%
 obj_ch2_scene6_slash_Step_0_gml_591_0
 \EK* Uh^1, hey. Espera. Creo que derrotamos a algunos de estos sujetos./
 obj_ch2_scene6_slash_Step_0_gml_592_0
@@ -30265,13 +30265,13 @@ obj_ch2_scene6_slash_Step_0_gml_592_0
 obj_ch2_scene6_slash_Step_0_gml_594_0
 \E3* No te preoucupes^1, Susie!/%
 obj_ch2_scene6_slash_Step_0_gml_600_0_b
-\E1* Pop-pop se atrapo en una jaula de hámster^1, Haciendome un Principe Rey./
+\E1* Pop-pop se atrapo en una jaula de hámster^1, Haciendome el Rey./
 obj_ch2_scene6_slash_Step_0_gml_601_0
-\E2* Y con el poder de papá^1, te declaré perdonado!/
+\E2* Y con el poder de papá^1, ¡te declaré perdonado!/
 obj_ch2_scene6_slash_Step_0_gml_603_0
 \E3* Genial^1, bueno^1, supongo que no golpeare a nadie aquí.^1, aún./
 obj_ch2_scene6_slash_Step_0_gml_605_0_b
-\E3* Si^1! Ahora todo lo que queda es para que todos disfruten del nuevo hogar!/%
+\E3* ¡Si^1! ¡Todo lo que ven es para que todos disfruten del hogar!/%
 obj_ch2_scene6_slash_Step_0_gml_614_0
 \EC* Espera^1, nuevo hogar? Donde está..^1. Tú antiguo hogar?/%
 obj_ch2_scene6_slash_Step_0_gml_576_0
@@ -36893,7 +36893,7 @@ obj_overworldc_slash_Draw_0_gml_52_0
 obj_overworldc_slash_Draw_0_gml_53_0
 INFO
 obj_overworldc_slash_Draw_0_gml_54_0
-DROP
+TIRAR
 obj_overworldc_slash_Draw_0_gml_66_0
 "~1"
 obj_overworldc_slash_Draw_0_gml_68_0
