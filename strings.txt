@@ -7520,89 +7520,89 @@ scr_monstersetup
 heromakex
 heromakey
 scr_encountersetup_slash_scr_encountersetup_gml_34_0
-* It is known.
+* se sabe que.
 scr_encountersetup_slash_scr_encountersetup_gml_60_0
-* Test enemies showed up.
+* Aparecieron enemigos de prueba.
 obj_lancerboss
 xstart
 ystart
 obj_diamondenemy
 scr_encountersetup_slash_scr_encountersetup_gml_98_0
-* Rudinn drew near!
+* ¡Rudinn se acercó!
 scr_encountersetup_slash_scr_encountersetup_gml_99_0
-* A different Rudinn from last time drew near!
+* ¡Un Rudinn diferente de la última vez se acercó!
 scr_encountersetup_slash_scr_encountersetup_gml_100_0
-* Assumedly another different Rudinn appeared!
+* ¡Se supone que otro Rudinn diferente apareció!
 scr_encountersetup_slash_scr_encountersetup_gml_116_0
-* A necklace of Rudinns blocks your path.
+* Un collar de Rudinns bloquea tu camino.
 obj_heartenemy
 scr_encountersetup_slash_scr_encountersetup_gml_132_0
-* Rudinn and Hathy blocked the way!
+* ¡Rudinn y Hathy bloquearon el camino!
 obj_smallcheckers_enemy
 scr_encountersetup_slash_scr_encountersetup_gml_144_0
-* C. Round attacked violently!&* (You recall Ralsei's advice to include Susie in an ACT.)
+* ¡C. Round atacó violentamente!&* Recuerda el consejo de Ralsei de incluir a Susie en un ACT.)
 scr_encountersetup_slash_scr_encountersetup_gml_155_0
-* Clover grew close!
+* ¡El Clover creció cerca!
 scr_encountersetup_slash_scr_encountersetup_gml_174_0
-* Three Hathys blocked the way!
+* ¡Tres Hathys bloquearon el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_188_0
-* Here it comes!
+* ¡Aquí viene!
 scr_encountersetup_slash_scr_encountersetup_gml_201_0
-* Ponman drew near!
+* ¡Ponman se acercó!
 scr_encountersetup_slash_scr_encountersetup_gml_222_0
 scr_encountersetup_slash_scr_encountersetup_gml_239_0
-* Clover and Hathy grew close!
+* ¡Clover y Hathy se acercan!
 obj_rabbick_enemy
 scr_encountersetup_slash_scr_encountersetup_gml_250_0
-* Rabbick slithered in the way!
+* Rabbick se deslizó en el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_266_0
-* Rabbicks slithered in the way!
+* ¡Rabbicks se deslizó en el camino!
 obj_bloxer_enemy
 scr_encountersetup_slash_scr_encountersetup_gml_277_0
-* Bloxer assembled!
+* Bloxer ensamblado!
 scr_encountersetup_slash_scr_encountersetup_gml_293_0
-* Bloxers assembled!
+* ¡Bloxers ensamblados!
 obj_lancerboss2
 scr_encountersetup_slash_scr_encountersetup_gml_308_0
-* Lancer blocked the way!
+* ¡Lancer bloqueó el camino!
 obj_jigsawryenemy
 scr_encountersetup_slash_scr_encountersetup_gml_319_0
-* Jigsawry drew near!
+* ¡Jigsawry se acercó!
 scr_encountersetup_slash_scr_encountersetup_gml_320_0
-* A different Jigsawry from last time drew near!
+* ¡Un Jigsawry diferente de la última vez se acercó!
 scr_encountersetup_slash_scr_encountersetup_gml_321_0
-* Assumedly another different Jigsawry appeared!
+* ¡Supuestamente apareció otro Jigsawry diferente!
 scr_encountersetup_slash_scr_encountersetup_gml_340_0
-* A board of Jigsawrys blocked the way!
+* ¡Una junta de Jigsawrys bloqueó el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_359_0
 * Smorgasboard.
 scr_encountersetup_slash_scr_encountersetup_gml_374_0
 obj_joker
 scr_encountersetup_slash_scr_encountersetup_gml_400_0
-* LET THE GAMES BEGIN!
+* ¡QUE COMIENCEN LOS JUEGOS!
 scr_encountersetup_slash_scr_encountersetup_gml_413_0
-* Here it comes^1. Again.
+* Aquí viene^1. De nuevo.
 scr_encountersetup_slash_scr_encountersetup_gml_430_0
-* Rudinn Rangers came sparkling into view!
+* Rudinn Rangers se quedó reluciente a la vista!
 obj_headhathy
 scr_encountersetup_slash_scr_encountersetup_gml_446_0
-* Head Hathy blocked the way quietly!
+* ¡Head Hathy bloqueó el camino en silencio!
 scr_encountersetup_slash_scr_encountersetup_gml_465_0
-* Head Hathy blocked the way quietly! (x3)
+* ¡Head Hathy bloqueó el camino en silencio! (x3)
 obj_susieenemy
 obj_lancerboss3
 scr_encountersetup_slash_scr_encountersetup_gml_479_0
-* Two bad guys blocked the way!
+* ¡Dos chicos malos bloquearon el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_500_0
 scr_encountersetup_slash_scr_encountersetup_gml_521_0
-* Various guys appeared!
+* ¡Aparecieron varios tipos!
 obj_king_boss
 scr_encountersetup_slash_scr_encountersetup_gml_533_0
-* King blocked the way!
+* ¡King bloqueó el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_554_0
 * Ambyu-Lances sonaron hacia ti!
 scr_encountersetup_slash_scr_encountersetup_gml_559_0
-* Hey Kris^1, lemme show you my ultimate healing!
+* Oye Kris^1, ¡Déjame mostrarte mi máxima curación!
 scr_encountersetup_slash_scr_encountersetup_gml_568_0
 * Aparecieron Poppups!
 scr_encountersetup_slash_scr_encountersetup_gml_585_0
@@ -7610,89 +7610,89 @@ scr_encountersetup_slash_scr_encountersetup_gml_585_0
 scr_encountersetup_slash_scr_encountersetup_gml_603_0
 * ¡¡WereWires se balancean hacia ti!!
 scr_encountersetup_slash_scr_encountersetup_gml_620_0
-* Maice blocked the way! 
+* Maice bloqueo el camino! 
 scr_encountersetup_slash_scr_encountersetup_gml_637_0
 * Virovirokun flotó dentro!
 ambush
 scr_encountersetup_slash_scr_encountersetup_gml_640_0
-* First strike!
+* Primer strike!
 scr_encountersetup_slash_scr_encountersetup_gml_661_0
-* Swatchlings bowed in!
+* ¡Los Swatchlings se inclinaron!
 scr_encountersetup_slash_scr_encountersetup_gml_681_0
-* Tasque Manager blocks the way!
+* ¡Tasque Manager bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_695_0
-* Berdly entra!
+* Berdly entra en combate!
 scr_encountersetup_slash_scr_encountersetup_gml_708_0
 * Queen bloquea el paso!
 scr_encountersetup_slash_scr_encountersetup_gml_720_0
-* DON'T YOU WANNA BE A BIG SHOT?
+* ¿NO QUIERES SER UN BIG SHOT?
 scr_encountersetup_slash_scr_encountersetup_gml_732_0
-* It's time to be a BIG SHOT!
+* ¡Es hora de ser un BIG SHOT!
 scr_encountersetup_slash_scr_encountersetup_gml_752_0
 * Sweet Cap'n Cakes bloquean tu paso!
 kr_actor
 ra_actor
 scr_encountersetup_slash_scr_encountersetup_gml_776_0
-* Thrash Machine reluctantly fights you!
+* Thrash Machine lucha a regañadientes contigo!
 scr_encountersetup_slash_scr_encountersetup_gml_791_0
 scr_encountersetup_slash_scr_encountersetup_gml_808_0
-* Werewerewire strongly blocks the way!
+* Werewerewire Bloquea fuertemente el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_817_0
-* Maus blocked the way! 
+* Maus bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_831_0
 * H-huh!? Qué esta pasando!?
 scr_encountersetup_slash_scr_encountersetup_gml_848_0
 * Virovirokun y Ambyu-lance están peleando entre ellos!
 scr_encountersetup_slash_scr_encountersetup_gml_865_0
 scr_encountersetup_slash_scr_encountersetup_gml_882_0
-* Animal house.
+* casa de animales.
 scr_encountersetup_slash_scr_encountersetup_gml_892_0
 * Clover se une al escenario!
 scr_encountersetup_slash_scr_encountersetup_gml_901_0
-* It's a grazing adventure.
+* Es una aventura de pastoreo.
 scr_encountersetup_slash_scr_encountersetup_gml_915_0
 \EE* H-huh!? Qué esta pasando!?&* Qué estamos haciendo!?
 scr_encountersetup_slash_scr_encountersetup_gml_935_0
 * Smorgasbord 2.
 scr_encountersetup_slash_scr_encountersetup_gml_955_0
 scr_encountersetup_slash_scr_encountersetup_gml_975_0
-* Werewire and Maus swung down like stringed superheroes!
+* ¡Werewire y Maus se balancearon como superhéroes encadenados!
 scr_encountersetup_slash_scr_encountersetup_gml_992_0
 * Ambyu-Lance y su mascota aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1012_0
 * Poppup y caretakers aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1032_0
-* Maice blocked the way!
+* Maice bloqueo el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_1052_0
-* Swatchling and vermin appeared!
+* Swatchling y vermin aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1066_0
 scr_encountersetup_slash_scr_encountersetup_gml_1076_0
-* Berdly blocks the way!
+* Berdly bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_1090_0
-* Mauswheel spins into you!
+* Mauswheel gira hacia ti!
 scr_encountersetup_slash_scr_encountersetup_gml_1104_0
 * GIGA Queen bloquea el paso!
 scr_encountersetup_slash_scr_encountersetup_gml_551_0
 scr_encountersetup_slash_scr_encountersetup_gml_1156_0
-* Tasque and Co. drew near!
+* Tasque y compañía se acercaron!
 scr_encountersetup_slash_scr_encountersetup_gml_1175_0
-* Tasques zoomed towards you!
+* Tasques se acercó a tí!
 scr_encountersetup_slash_scr_encountersetup_gml_1233_0
 * Poppup y Virovirokun Aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1247_0
 * Pastorea!
 scr_encountersetup_slash_scr_encountersetup_gml_1263_0
-* Round One!
+* Ronda Uno!
 scr_encountersetup_slash_scr_encountersetup_gml_1282_0
-* Round Two!
+* Ronda Dos!
 scr_encountersetup_slash_scr_encountersetup_gml_1301_0
-* Round Three!
+* Ronda Tres!
 scr_encountersetup_slash_scr_encountersetup_gml_1323_0
-* Round Four!
+* Ronda Cuatro!
 scr_encountersetup_slash_scr_encountersetup_gml_1339_0
-* Final Round!
+* Ronda Final!
 scr_encountersetup_slash_scr_encountersetup_gml_1351_0
-* Werewire appeared.
+* Werewire aparecio.
 scr_encountersetup_slash_scr_encountersetup_gml_1377_0
 * Ambyu-Lance suena hacia ti!
 scr_encountersetup_slash_scr_encountersetup_gml_1390_0
@@ -8063,7 +8063,7 @@ The original                     #         (Starwalker)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_132_0
 CristalPuro
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_133_0
-The shadow purified by the cat
+La sombra purificada por el gato
 scr_keyiteminfo
 itemtarget
 scr_iteminfo_slash_scr_iteminfo_gml_15_0
@@ -8077,11 +8077,11 @@ Cura#Aliados#Caidos
 scr_iteminfo_slash_scr_iteminfo_gml_29_0
 Glowshard
 scr_iteminfo_slash_scr_iteminfo_gml_30_0
-Vende#en#tienda
+Se Vende#en la#tienda
 scr_iteminfo_slash_scr_iteminfo_gml_36_0
 Manual
 scr_iteminfo_slash_scr_iteminfo_gml_37_0
-Read#out of#battle
+Se lee#fuera#de batalla
 scr_iteminfo_slash_scr_iteminfo_gml_43_0
 scr_iteminfo_slash_scr_iteminfo_gml_44_0
 Cura#20HP
@@ -8100,7 +8100,7 @@ Cura#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_72_0
 LancerCookie
 scr_iteminfo_slash_scr_iteminfo_gml_73_0
-Cura#50 HP
+Cura#50HP
 scr_iteminfo_slash_scr_iteminfo_gml_79_0
 GigaSalad
 scr_iteminfo_slash_scr_iteminfo_gml_80_0
@@ -8112,22 +8112,22 @@ Cura#a todos#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_93_0
 HeartsDonut
 scr_iteminfo_slash_scr_iteminfo_gml_94_0
-Healing#varies
+Cura#variadamente
 scr_iteminfo_slash_scr_iteminfo_gml_100_0
 ChocDiamond
 scr_iteminfo_slash_scr_iteminfo_gml_101_0
 scr_iteminfo_slash_scr_iteminfo_gml_107_0
 Favwich
 scr_iteminfo_slash_scr_iteminfo_gml_108_0
-Heals#ALL HP
+Cura#TODA LA VIDA
 scr_iteminfo_slash_scr_iteminfo_gml_114_0
 RouxlsRoux
 scr_iteminfo_slash_scr_iteminfo_gml_115_0
-Heals#50 HP
+Cura#50 HP
 scr_iteminfo_slash_scr_iteminfo_gml_121_0
 CD Bagel
 scr_iteminfo_slash_scr_iteminfo_gml_122_0
-Heals#80 HP
+Cura#80 HP
 scr_iteminfo_slash_scr_iteminfo_gml_128_0
 Mannequin
 scr_iteminfo_slash_scr_iteminfo_gml_129_0
@@ -8147,18 +8147,18 @@ scr_iteminfo_slash_scr_iteminfo_gml_157_0
 scr_iteminfo_slash_scr_iteminfo_gml_163_0
 DD-Hamburgesa
 scr_iteminfo_slash_scr_iteminfo_gml_164_0
-Heals#60HP 2x
+Cura#60HP 2x
 scr_iteminfo_slash_scr_iteminfo_gml_171_0
 LightCandy
 scr_iteminfo_slash_scr_iteminfo_gml_172_0
-Heals#120HP
+Cura#120HP
 scr_iteminfo_slash_scr_iteminfo_gml_178_0
 ButJuice
 scr_iteminfo_slash_scr_iteminfo_gml_179_0
 scr_iteminfo_slash_scr_iteminfo_gml_185_0
 SpagettiCode
 scr_iteminfo_slash_scr_iteminfo_gml_186_0
-Heals#team#30HP
+Cura#a todos#30HP
 scr_iteminfo_slash_scr_iteminfo_gml_192_0
 JavaCookie
 scr_iteminfo_slash_scr_iteminfo_gml_193_0
@@ -8177,19 +8177,19 @@ Raises#TP#Max
 scr_iteminfo_slash_scr_iteminfo_gml_220_0
 ReviveDust
 scr_iteminfo_slash_scr_iteminfo_gml_221_0
-Revives#team#25%
+Revive al#team#25%
 scr_iteminfo_slash_scr_iteminfo_gml_227_0
 ReviveBrite
 scr_iteminfo_slash_scr_iteminfo_gml_228_0
-Revives#team#100%
+Revive al#team#100%
 scr_iteminfo_slash_scr_iteminfo_gml_234_0
 S.POISON
 scr_iteminfo_slash_scr_iteminfo_gml_235_0
-Hurts#party#member
+Lastima#a#un miembro
 scr_iteminfo_slash_scr_iteminfo_gml_241_0
 DogDollar
 scr_iteminfo_slash_scr_iteminfo_gml_242_0
-Not#so#useful
+No es#tan#útil
 scr_iteminfo
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_1_0
 __itemdesc
@@ -10597,7 +10597,7 @@ recruitCountMax
 recruitCountCurrent
 recruitFullyRecruited
 scr_recruit_info_all_slash_scr_recruit_info_all_gml_46_0
-Not yet fully recruited
+Aún no se ha reclutado por completo
 scr_recruit_info_all_slash_scr_recruit_info_all_gml_47_0
 scr_recruit_info_all_slash_scr_recruit_info_all_gml_48_0
 recruitPlaceable
@@ -16861,160 +16861,160 @@ obj_npc_room_slash_Other_10_gml_2431_0
 obj_npc_room_slash_Other_10_gml_2432_0
 * Estoy encantado por la comida y música local./%
 obj_npc_room_slash_Other_10_gml_2439_0
-* I really got used to the countryside./
+* Realmente me acostumbré al campo./
 obj_npc_room_slash_Other_10_gml_2440_0
-* Perhaps I'm just a farmboy at heart.../%
+* Tal vez solo soy un granjero de corazón.../%
 obj_npc_room_slash_Other_10_gml_2444_0
-* Plus^1, I haven't seen a single Poppup yet./%
+* Además^1, todavía no he visto un solo Poppup./%
 obj_npc_room_slash_Other_10_gml_2456_0
-* Oí que esta modesta tienda es una base rebelde.../
+* Escuche que esta modesta tienda es una base rebelde.../
 obj_npc_room_slash_Other_10_gml_2457_0
 * Pero^1, me di cuenta de que no se como podría ayudarlos../%
 obj_npc_room_slash_Other_10_gml_2461_0
-* I don't really want to buy any more bagels.../%
+* Realmente no quiero comprar más bagels.../%
 obj_npc_room_slash_Other_10_gml_2503_0
-* Did you enjoy your room?/
+* ¿Disfrutaste de tu habitación?/
 obj_npc_room_slash_Other_10_gml_2504_0
-* There was a mint under your electric cage.../%
+* Había una menta debajo de tu jaula eléctrica.../%
 obj_npc_room_slash_Other_10_gml_2508_0
-* Don't make a mistake^1, this is not a hotel./%
+* No cometas un error^1, este no es un hotel./%
 obj_npc_room_slash_Other_10_gml_2474_0
-* Spamton? This used to be his room.../
+* ¿Spamton? Esta solía ser su habitación.../
 obj_npc_room_slash_Other_10_gml_2475_0
-* Though it's not like he used it^1, after a while./
+* Aunque no es como si lo usara^1, después de un tiempo./
 obj_npc_room_slash_Other_10_gml_2476_0
-* Eventually^1, he just spent all his time in the basement..^1. praying./%
+* Eventualmente^1, pasó todo su tiempo en el sótano..^1. rezando./%
 obj_npc_room_slash_Other_10_gml_2480_0
-* When things went downhill^1, he became obsessed with that artifact./
+* Cuando las cosas bajaron^1, se obsesionó con ese artefacto./
 obj_npc_room_slash_Other_10_gml_2481_0
-* Maybe he thought it would give him another big break?/%
+* ¿Tal vez pensó que le daría otro gran descanso?/%
 obj_npc_room_slash_Other_10_gml_2488_0
-* This mansion used to be a luxurious home for upper class citizens./
+* Esta mansión solía ser un lujo para los ciudadanos de clase alta./
 obj_npc_room_slash_Other_10_gml_2489_0
-* Your room? It belonged to a prestigious big shot.../%
+* ¿Tu habitación? Pertenecía a un prestigioso big shoot.../%
 obj_npc_room_slash_Other_10_gml_2493_0
-* Sadly^1, his name has been erased from the records.../%
+* Lamentablemente^1, su nombre ha sido borrado de los registros.../%
 obj_npc_room_slash_Other_10_gml_2518_0
-* The day he was to be evicted from the Queen's mansion^1,/
+* El día que iba a ser desalojado de la mansión de la Reina^1,/
 obj_npc_room_slash_Other_10_gml_2519_0
-* I went to his room to check on him.../
+* Fui a su habitación a ver cómo estaba.../
 obj_npc_room_slash_Other_10_gml_2520_0
-* But he wasn't there./
+* Pero no estaba allí./
 obj_npc_room_slash_Other_10_gml_2521_0
-* There was only a phone hanging off the handle./
+* Sólo había un teléfono colgando del mango./
 obj_npc_room_slash_Other_10_gml_2522_0
-* He must've left in the middle of a conversation^1,/
+* Debe haberse ido en medio de una conversación^1,/
 obj_npc_room_slash_Other_10_gml_2523_0
-* Because I could still hear someone on the other end.../
+* Porque todavía podía oír a alguien en el otro extremo.../
 obj_npc_room_slash_Other_10_gml_2524_0
 obj_npc_room_slash_Other_10_gml_2525_0
-* But when I put the receiver to my ear.../
+* Pero cuando puse el receptor en mi oído.../
 obj_npc_room_slash_Other_10_gml_2526_0
-* There was nothing but garbage noise./%
+* No había nada más que ruido de basura./%
 obj_npc_room_slash_Other_10_gml_2532_0
-* Even so^1, he only got more and more successful./
+* aun así^1, sólo tuvo más y más éxito./
 obj_npc_room_slash_Other_10_gml_2533_0
-* He moved into a luxurious room in the Queen's mansion.../
+* Se mudó a una lujosa habitación en la mansión de la Reina.../
 obj_npc_room_slash_Other_10_gml_2534_0
-* He started bragging about big TV deals^1, big cars^1, big commercials.../
+* Comenzó a presumir de grandes ofertas de televisión^1, autos^1, comerciales.../
 obj_npc_room_slash_Other_10_gml_2535_0
-* But then things started to crack./
+* Pero entonces las cosas empezaron a romperse./
 obj_npc_room_slash_Other_10_gml_2536_0
-* It seems like whatever was helping him.../
+* Parece que lo que le estaba ayudando.../
 obj_npc_room_slash_Other_10_gml_2537_0
-* Disappeared./
+* Desapareció./
 obj_npc_room_slash_Other_10_gml_2538_0
-* His sales dropped to zero.../
+* Sus ventas cayeron a cero.../
 obj_npc_room_slash_Other_10_gml_2539_0
-* And everything came crashing down./%
+* Y todo se vino abajo./%
 obj_npc_room_slash_Other_10_gml_2545_0
-* Suddenly^1, he got really good at his job./
+* De repente^1, se volvió realmente bueno en su trabajo./
 obj_npc_room_slash_Other_10_gml_2546_0
-* The clicks started piling up.../
+* Los clics comenzaron a acumularse.../
 obj_npc_room_slash_Other_10_gml_2547_0
-* What? What did he do?/
+* ¿Qué? ¿Qué hizo?/
 obj_npc_room_slash_Other_10_gml_2548_0
-* Why did HE deserve this?/
+* ¿Por qué SE merecía esto?/
 obj_npc_room_slash_Other_10_gml_2549_0
-* We were all so jealous of him^1,/
+* Todos estábamos tan celosos de él^1,/
 obj_npc_room_slash_Other_10_gml_2550_0
-* We stopped going out with him./
+* Dejamos de salir con él./
 obj_npc_room_slash_Other_10_gml_2551_0
-* I mean^1, wasn't he a big shot?/
+* Quiero decir^1, ¿no era un big shot?/
 obj_npc_room_slash_Other_10_gml_2552_0
-* He didn't need us anymore^1, did he...?/%
+* Ya no nos necesitaba^1, ¿verdad...?/%
 obj_npc_room_slash_Other_10_gml_2558_0
-* He started to get a little desperate./
+* Empezó a desesperarse un poco./
 obj_npc_room_slash_Other_10_gml_2559_0
-* I heard he started looking for any way to become more popular./
+* Escuché que comenzó a buscar cualquier forma de volverse más popular./
 obj_npc_room_slash_Other_10_gml_2560_0
-* Somehow^1, he made the right phone call^1, and found someone./
+* De alguna manera^1, hizo la llamada correcta^1, y encontró a alguien./
 obj_npc_room_slash_Other_10_gml_2561_0
-* Or^1, was he..^1. found BY someone?/
+* O^1, ¿fue él..^1. Encontrado POR alguien?/
 obj_npc_room_slash_Other_10_gml_2562_0
-* They must have been helping him^1, because suddenly^1,/
+* Deben haber estado ayudándolo^1, porque de repente^1,/
 obj_npc_room_slash_Other_10_gml_2563_0
-* He was on the phone all the time.../%
+* Estaba al teléfono todo el tiempo .../%
 obj_npc_room_slash_Other_10_gml_2569_0
-* Night after night^1, when we all went to the same cyber grill^1,/
+* Noche tras noche^1, cuando todos fuimos a la misma parrilla cibernética^1,/
 obj_npc_room_slash_Other_10_gml_2570_0
-* He'd shoot his mouth about making it big someday./
+* Se disparaba la boca sobre hacerlo grande algún día./
 obj_npc_room_slash_Other_10_gml_2571_0
-* "You just watch!"/
+* "¡Sólo mira!"/
 obj_npc_room_slash_Other_10_gml_2572_0
-* "Someday^1,/
+* "algún día^1,/
 obj_npc_room_slash_Other_10_gml_2573_0
-* I'm gonna be a big shot!"/%
+* ¡Voy a ser un big shot!"/%
 obj_npc_room_slash_Other_10_gml_2579_0
-* He was..^1. Like the rest of us./
+* Él era..^1. Como el resto de nosotros./
 obj_npc_room_slash_Other_10_gml_2580_0
-* Just..^1. a little unlucky./
+* Sólo..^1. Un poco desafortunado./
 obj_npc_room_slash_Other_10_gml_2581_0
-* For some reason^1, his products never seemed to hit.../
+* Por alguna razón^1, sus productos nunca parecían golpear.../
 obj_npc_room_slash_Other_10_gml_2582_0
-* ..^1. and the Lightners never even looked his way./
+* ..^1. Y los Lightners nunca se miraron a su manera./
 obj_npc_room_slash_Other_10_gml_2583_0
-* ..^1. Poor guy./%
+* ..^1. Pobrecito./%
 obj_npc_room_slash_Other_10_gml_2590_0
-\E5* I wonder what we did wrong..^1. The forcefield is still up./%
+\E5* Me pregunto qué hicimos mal..^1. El campo de fuerza aún está arriba./%
 obj_npc_room_slash_Other_10_gml_2598_0
-* I'm retiring from hacking the main frame./
+* Me retiro de hackear el marco principal./
 obj_npc_room_slash_Other_10_gml_2599_0
-* I decided to use my powers for the good of society./
+* Decidí usar mis poderes para el bien de la sociedad./
 obj_npc_room_slash_Other_10_gml_2600_0
-* I'm going to reverse engineer the code to Super SMashing Fighters./
+* Voy a aplicar ingeniería inversa al código de Super SMashing Fighters./
 obj_npc_room_slash_Other_10_gml_2579_0_b
-* So I can put my favorite cartoon characters into the game./%
+* Así que puedo poner mis personajes de dibujos animados favoritos en el juego./%
 obj_npc_room_slash_Other_10_gml_2604_0
-* Hacking is hard work. Whoof. I need to drink a jpeg of water./
+* Hackear es un trabajo duro. Vaya. Necesito beber un jpeg de agua./
 obj_npc_room_slash_Other_10_gml_2605_0
-* (He's using the app that lets you drink water from your phone.)/%
+* (Está usando la aplicación que te permite beber agua de tu teléfono.)/%
 obj_npc_room_slash_Other_10_gml_2612_0
-* I saw you stand up to Queen^1! That was amazing!/
+* ¡Te vi enfrentarte a Queen^1! ¡Eso fue increíble!/
 obj_npc_room_slash_Other_10_gml_2613_0
-* I'll definitely become a Werewire if you can just free me!/%
+* ¡Definitivamente me convertiré en un Werewire si puedes liberarme!/%
 obj_npc_room_slash_Other_10_gml_2619_0
-* I was fishing for lost pottery in the acid when I found this photo./
+* Estaba pescando cerámica perdida en el ácido cuando encontré esta foto./
 obj_npc_room_slash_Other_10_gml_2620_0
-* Please take a look./
+* Por favor, echa un vistazo./
 obj_npc_room_slash_Other_10_gml_2625_0
-\E1* U-umm^1, it sure is a nice photo.../
+\E1* U-umm^1, seguro que es una buena foto.../
 obj_npc_room_slash_Other_10_gml_2626_0
-\E2* Susie^1, do you want it for your room?/
+\E2* Susie^1, ¿lo quieres para tu habitación?/
 obj_npc_room_slash_Other_10_gml_2628_0
-\EH* The hell would I want this for!?/%
+\EH* ¿Para qué diablos querría esto?/%
 obj_npc_room_slash_Other_10_gml_2634_0
-\E2* Kris^1, you look nice in this one!/%
+\E2* Kris^1, ¡te ves bien en este!/%
 obj_npc_room_slash_Other_10_gml_2640_0
-\EY* Hahaha!^1! That's awesome^1, Kris!/%
+\EY* ¡Jajaja!^1! ¡Eso es increíble^1 Kris!/%
 alt
 readtrigger
 obj_npc_room_slash_Other_10_gml_2643_0
-* Please do not race the pottery./%
+* Por favor, no corra la cerámica./%
 obj_npc_room_slash_Other_10_gml_2678_0
-* Yes, we see you. You are the master of balance./%
+* Sí, nos vemos. Eres el maestro del equilibrio./%
 obj_npc_room_slash_Other_10_gml_2686_0
-\E4* (Kris^1, don't take too long^1, okay?)/%
+\E4* (Kris^1, no tardes demasiado^1, ¿de acuerdo?)/%
 depthbonus
 doafter
 docon
@@ -17028,7 +17028,7 @@ a cyan
 a blue
 a purple
 obj_npc_sign_slash_Other_10_gml_10_0
-* You can't read these symbols...&* Or maybe it's the handwriting./%
+* No puede leer estos símbolos...&* o tal vez sea la escritura a mano./%
 * [NO TEXT] (obj_npc_sign)/%
 obj_npc_sign_slash_Other_10_gml_15_0
 BottomLeft
@@ -17043,7 +17043,7 @@ rightmid BottomMid
 obj_npc_sign_slash_Other_10_gml_20_0
 leftmid BottomMid
 obj_npc_sign_slash_Other_10_gml_22_0
-* ENEMY - AT 1 DF 1&* Susceptible to Brainshock.\f0 ^1 \f1 ^1 \f2 ^1 \f3 /
+* ENEMIGO - AT 1 DF 1&* Susceptible a\f0 ^1 \f1 ^1 \f2 ^1 \f3 /
 obj_npc_sign_slash_Other_10_gml_23_0
 \f0 \f1 \f2 \f3 \f4 \f5 /%
 obj_npc_sign_slash_Other_10_gml_27_0
@@ -28323,11 +28323,11 @@ obj_shop_ch2_music_slash_Draw_0_gml_168_0
 obj_shop_ch2_music_slash_Draw_0_gml_170_0
 \m1		*Yo!&\m3	Qué tal?&\m2	Hey!
 obj_shop_ch2_music_slash_Draw_0_gml_174_0
-\m1		*Welcome to...&\m3	The Music Room!&\m2	We don't sell&	anything!
+\m1		*Bienvenido a...&\m3	La sala de música!&\m2	Nosotros no vendemos nada!
 obj_shop_ch2_music_slash_Draw_0_gml_175_0
 \m1		*Crash!&\m3	Bang!&\m2	Boom!
 obj_shop_ch2_music_slash_Draw_0_gml_176_0
-\m2		*Good song.
+\m2		*Buena canción.
 obj_shop_ch2_music_slash_Draw_0_gml_194_0
 Play Music
 obj_shop_ch2_music_slash_Draw_0_gml_195_0
@@ -28339,7 +28339,7 @@ _rr
 obj_shop_ch2_music_slash_Draw_0_gml_266_0
 \m1		*Gracias,& chicos!
 obj_shop_ch2_music_slash_Draw_0_gml_267_0
-\m2		*I can't&	see.
+\m2		*No puedo&	ver.
 obj_shop_ch2_music_slash_Draw_0_gml_270_0
 \m3		*No te&	acobardes!
 obj_shop_ch2_music_slash_Draw_0_gml_271_0
@@ -28362,32 +28362,32 @@ obj_shop_ch2_music_slash_Draw_0_gml_357_0
 obj_shop_ch2_music_slash_Draw_0_gml_394_0
 obj_shop_ch2_music_slash_Draw_0_gml_395_0
 obj_shop_ch2_music_slash_Draw_0_gml_399_0
-\m1		*We'll&	take&	it for&	you!
+\m1		*Lo&	tendr-&emos	por &ti!
 obj_shop_ch2_music_slash_Draw_0_gml_400_0
-\m2		*That's&	all you&	had?
+\m2		*Eso es&	todo lo&	que tienes?
 obj_shop_ch2_music_slash_Draw_0_gml_401_0
-\m2		*You&	got&	nothin!
+\m2		*No&	tienes&	nada!
 obj_shop_ch2_music_slash_Draw_0_gml_487_0
-\m1		*OK,&	y nos golpea&	con un&	ITEM!
+\m1		*OK	y &nos	pega&	con un&ITEM!
 obj_shop_ch2_music_slash_Draw_0_gml_488_0
-\m1		*OK,&	show us&	your&	WEAPON!
+\m1		*OK,&	muestra&	tu&	ARMA!
 obj_shop_ch2_music_slash_Draw_0_gml_489_0
-\m1		*OK,&	hit us&	with an&	ARMOR!
+\m1		*OK,&	golpeanos&	con una&	ARMADURA!
 obj_shop_ch2_music_slash_Draw_0_gml_490_0
 \m1		*Dulce!&	Esto&	será&	genial!
 obj_shop_ch2_music_slash_Draw_0_gml_491_0
-\m1		*OK,&	hold&	onto&	that.
+\m1		*OK,&	aferrate&	a&	eso.
 obj_shop_ch2_music_slash_Draw_0_gml_492_0
-\m1		*Maybe&	better&	keep&	that.
+\m1		*Tal vez&	sea mejor&	mantener&	eso.
 obj_shop_ch2_music_slash_Draw_0_gml_493_0
-\m3		*That's&	nothin!
+\m3		*Eso no es&	nada!
 obj_shop_ch2_music_slash_Draw_0_gml_508_0
 obj_shop_ch2_music_slash_Draw_0_gml_532_0
-\m3		*Nice town^1, chief.&\m1	I think we're gonna like it&	here!&\m2	Cool city./
+\m3		*Bonita ciudad^1, jefe.&\m1	Creo que nos va a gustara estar&	aqui!&\m2	Bonita ciudad./
 obj_shop_ch2_music_slash_Draw_0_gml_533_0
-\m1		*As thanks^1, you can listen to&	all sorts of songs here./
+\m1		*Gracias^1, puedes escuchar todo tipo de canciones aquí./
 obj_shop_ch2_music_slash_Draw_0_gml_534_0
-\m3		*Don't think it'll be cheap^1,&	though!&\m2	It's free.&\m3	What!?/%
+\m3		*No creas que será barato^1,&	aunque!&\m2	es gratis.&\m3	Qué!?/%
 obj_shop_ch2_music_slash_Draw_0_gml_540_0
 \m1		*Los veo!&\m3	Los huelo!&\m2	Los escucho!/%
 obj_shop_ch2_music_slash_Draw_0_gml_546_0
@@ -28436,9 +28436,9 @@ obj_shop_ch2_music_slash_Draw_0_gml_616_0
 \m3		*Yo, qué tal eso?&\m1	Acaso rockeastes?!&\m2	Todas nuestras canciones duran& cuatro segundos!!/%
 obj_shop_ch2_music_slash_Draw_0_gml_677_0
 obj_shop_ch2_swatch_slash_Create_0_gml_80_0
-ITEM#Short for#ButlerJuice#+100HP
+ITEM#Abreviatura de#ButlerJuice#+100HP
 obj_shop_ch2_swatch_slash_Create_0_gml_79_0
-ITEM#Spaghetti#woven by#master coders#Party +30HP
+ITEM#Spaghetti#tejido por#master codes#Party +30HP
 obj_shop_ch2_swatch_slash_Create_0_gml_81_0
 ARMOR#A handsome#bowtie.
 obj_shop_ch2_swatch_slash_Create_0_gml_81_0_b
@@ -28447,20 +28447,20 @@ guysiner
 talksiner
 shinetimer
 obj_shop_ch2_swatch_slash_Draw_0_gml_79_0
-\E0* Don't be blue.&* We're here for you.
+\E0* No seas azul.&* Estamos aquí para ti.
 obj_shop_ch2_swatch_slash_Draw_0_gml_81_0
-\E0* Welcome to Color&Cafe.&* Let us warm your day.
+\E0* Bienvenido a Color&Cafe.&* Déjanos calentar tu día.
 obj_shop_ch2_swatch_slash_Draw_0_gml_120_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_132_0
-\E0Our menu&is&specially&prepared.
+\E0Nuestro menú&está&especialmente&preparado.
 obj_shop_ch2_swatch_slash_Draw_0_gml_136_0
-\E0Queen&thanks you&for your&patronage.
+\E0Queen&gracias&por tu&patrocinio.
 obj_shop_ch2_swatch_slash_Draw_0_gml_139_0
-\E0Take your&time.&We'll be&waiting.
+\E0Tomate tu&tiempo.&Estaremos&esperando.
 obj_shop_ch2_swatch_slash_Draw_0_gml_140_0
-\E0You can't&afford it.&... maybe&next time?
+\E0no puedes&pagar esto.&... talvez&la proxima?
 obj_shop_ch2_swatch_slash_Draw_0_gml_141_0
-\E0Seems your&bags are&full. Shall&we assist?
+\E0Parece que tus&bolsas están&llenas. Te&ayudamos?
 obj_shop_ch2_swatch_slash_Draw_0_gml_142_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_160_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_213_0
