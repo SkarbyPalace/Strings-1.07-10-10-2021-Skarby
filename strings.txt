@@ -4241,31 +4241,31 @@ We're#something#else
 scr_text_slash_scr_text_gml_4308_0
 scr_text_slash_scr_text_gml_4309_0
 scr_text_slash_scr_text_gml_4311_0
-* Ohhon!^1! Two young beings together on a school night.../
+* Ohhon!^1! Dos seres jovenes en una noche escolar.../
 scr_text_slash_scr_text_gml_4312_0
-* Could I interest you in some brand new Dating Shoes...?/
+* Les puedo interesar en unos Zapatos de Cita...?/
 scr_text_slash_scr_text_gml_4314_0
-\E2* H-huh...? No^1, no^1, you've got it totally wrong!/
+\E2* H-huh...? No^1, no^1, lo tomaste todo mal!/
 scr_text_slash_scr_text_gml_4315_0
-\E3* Kris and I are just..^1. umm..^1. fr..^1. friends?/
+\E3* Kris y yo solo somos..^1. umm..^1. am..^1. amigos?/
 scr_text_slash_scr_text_gml_4317_0
-\E5* (Kris's been my neighbor forever...)/
+\E5* (Kris ha sido mi vecino desde siempre...)/
 scr_text_slash_scr_text_gml_4318_0
-\E1* (We've been through so much^1, sometimes it feels like...)/
+\E1* (Hemos pasado por tanto^1, a veces se siente como...)/
 scr_text_slash_scr_text_gml_4319_0
-\E0* (We know each other better than anyone.)/
+\E0* (Si nos conocieramos mas que nadie.)/
 scr_text_slash_scr_text_gml_4320_0
-\E8* (..^1. yet^1, somehow^1, it's hard to say we're exactly friends...?)/
+\E8* (..^1. y aun así^1, de alguna manera^1, es díficil decir que somos ...?)/
 scr_text_slash_scr_text_gml_4321_0
 scr_text_slash_scr_text_gml_4328_0
-\E4* Yep^1! That's right^1! We're friends!/
+\E4* Sip^1! Así es^1! Somos amigos!/
 scr_text_slash_scr_text_gml_4329_0
-\E6* (It's..^1. surprisingly nice just hearing Kris say that...)/%
+\E6* (Es..^1. sorprendentemente bueno escuchar a Kris decir eso...)/%
 gml_Script_scr_sideb_fail
 scr_text_slash_scr_text_gml_4335_0
-\E2* (Wh-what does that mean???)/
+\E2* (Qu-qué significa eso???)/
 scr_text_slash_scr_text_gml_4336_0
-\E2* (There's no good interpretation^1, that's for sure!)/%
+\E2* (No debe haber una buena interpretación^1, eso es seguro!)/%
 scr_text_slash_scr_text_gml_4341_0
 scr_text_slash_scr_text_gml_4342_0
  #Hablar
@@ -5568,22 +5568,22 @@ scr_text_slash_scr_text_gml_6852_0
 scr_text_slash_scr_text_gml_6856_0
 * (You have the feeling you wouldn't learn anything.)/%
 scr_text_slash_scr_text_gml_6862_0
-#I will ride#with you
+#Yo me subiré#contigo
 scr_text_slash_scr_text_gml_6863_0
-#Susie wouldn't
+#Susie no#lo haría
 scr_text_slash_scr_text_gml_6864_0
-Susie would
+Susie lo haría
 scr_text_slash_scr_text_gml_6865_0
 scr_text_slash_scr_text_gml_6868_0
 * (It's an advertisement for a giant ferris wheel.)/
 scr_text_slash_scr_text_gml_6870_0
-\E0* Gosh^1, that's amazing!/
+\E0* Dios^1, eso es maravilloso!/
 scr_text_slash_scr_text_gml_6871_0
-\E4* Makes the one at the festival look like a toy^1, haha!/
+\E4* Hace parecer al del festival uno de juguete^1, jaja!/
 scr_text_slash_scr_text_gml_6872_0
-\E6* I..^1. I wonder if Susie would want to.../
+\E6* Yo..^1. Me pregunto si Susie querría.../
 scr_text_slash_scr_text_gml_6873_0
-\E8* ..^1. Gosh^1, who am I kidding?/
+\E8* ..^1. Dios^1, a quién estoy engañando?/
 scr_text_slash_scr_text_gml_6874_0
 scr_text_slash_scr_text_gml_6881_0
 \E2* Oh^1, so you can shake it when we reach the top?/
@@ -5604,12 +5604,12 @@ scr_text_slash_scr_text_gml_6900_0
 scr_text_slash_scr_text_gml_6901_0
 \EM* (..^1. What were we talking about again?)/%
 scr_text_slash_scr_text_gml_6907_0
-\E6* R-really? Y-you really think so?/
+\E6* E-enserio? Enserio lo crees?/
 scr_text_slash_scr_text_gml_6908_0
-\E4* Faha^1, and coming from Susie Expert Kris^1! Thanks!/
+\E4* Faha^1, y viniendo de el Experto de Susie Kris^1! Gracias!/
 scr_text_slash_scr_text_gml_6909_0
 scr_text_slash_scr_text_gml_6910_0
-\E8* (Hey^1, Kris^1, how'd YOU become the Susie Expert!?)/%
+\E8* (Hey^1, Kris^1, cómo TU te convertistes en el Experto de Susie!?)/%
 scr_text_slash_scr_text_gml_6915_0
 #Noelle will#ride with me
 scr_text_slash_scr_text_gml_6916_0
@@ -16367,27 +16367,27 @@ anytalked
 obj_npc_room_slash_Other_10_gml_1293_0
 Advertisements now only $9.99!
 obj_npc_room_slash_Other_10_gml_1296_0
-* We are Addisons^1! All we do is advertise!!/
+* Somos Addisons^1! Todo lo que hacemos es anunciar!!/
 obj_npc_room_slash_Other_10_gml_1297_0
-* This is an advertisement too!\f0/%
+* Esto también es un anuncio!\f0/%
 obj_npc_room_slash_Other_10_gml_1300_0
-* Don't like advertisements? Block ads for only $9.99!/
+* No te gustan los anuncios? Bloquealos por solo $9.99!/
 obj_npc_room_slash_Other_10_gml_1301_0
-* Change your mind? Bring them back for only $9.99!/%
+* Cambiaste de parecer? Traelos de vuelta por solo $9.99!/%
 obj_npc_room_slash_Other_10_gml_1308_0
-* Spamton? ..^1. Haven't heard that name in a long time./%
+* Spamton? ..^1. No he escuchado ese nombre hace mucho tiempo./%
 obj_npc_room_slash_Other_10_gml_1312_0
-* Spamton? ..^1. We don't talk about that around here./%
+* Spamton? ..^1. No hablamos de eso por acá./%
 obj_npc_room_slash_Other_10_gml_1321_0
-* I wanted to buy something.../
+* Quería comprar algo.../
 obj_npc_room_slash_Other_10_gml_1322_0
-* But I think all of the shopkeepers went to the trash dump.../%
+* Pero creo que todos los tenderos fueron a la basura.../%
 obj_npc_room_slash_Other_10_gml_1326_0
-* That's a shame..^1. I wanted to get ripped off./%
+* Es una pena..^1. Quería que alguien me copiara./%
 obj_npc_room_slash_Other_10_gml_1336_0
-* Since everyone else got plugged they're a lot more agreeable./
+* Como todos los demás se enchufaron, son mucho más agradables./
 obj_npc_room_slash_Other_10_gml_1337_0
-* It's nice./%
+* Es genial./%
 obj_npc_room_slash_Other_10_gml_1343_0
 * Pretty much everyone else is a Werewire now./
 obj_npc_room_slash_Other_10_gml_1344_0
@@ -16395,21 +16395,21 @@ obj_npc_room_slash_Other_10_gml_1344_0
 obj_npc_room_slash_Other_10_gml_1348_0
 * I'm not even sure I would make a good Werewire./%
 obj_npc_room_slash_Other_10_gml_1356_0
-* Hey^1, got any way to deal with crushing^1, existential dread?/
+* Hey^1, tienes una forma de tratar un aplastante^1, miedo existencial?/
 obj_npc_room_slash_Other_10_gml_1357_0
-* Asking for a friend./
+* Pregunto por un amigo./
 obj_npc_room_slash_Other_10_gml_1358_0
-* A friend that looks^1, and sounds^1, exactly like me./%
+* Un amigo que se ve^1, y suena^1, justo como yo./%
 obj_npc_room_slash_Other_10_gml_1382_0
-* Ah^1, you two don't look together!/
+* Ah^1, Ustedes dos no se ven bien juntos!/
 obj_npc_room_slash_Other_10_gml_1383_0
-* Can I interest you in some brand new Divorcing Shoes...?/%
+* Les puedo interesar en los nuevos Zapatos de Divorcio...?/%
 obj_npc_room_slash_Other_10_gml_1364_0
-* Ah^1, you three look together^1! How about some marriage shoes?/%
+* Ah^1, ustedes tres se ven bien juntos^1! Qué les parece unos zapatos de boda?/%
 obj_npc_room_slash_Other_10_gml_1398_0
-* Spamton? ..^1. No idea who you're talking about./%
+* Spamton? ..^1. Ni idea de que están hablando./%
 obj_npc_room_slash_Other_10_gml_1385_0
-* Buy^1! Buy^1! Buy^1! We're sold out^1! Buy!/%
+* Compren^1! Compren^1! Compren^1! Ya vendimos todo pero^1! Compren!/%
 obj_npc_room_slash_Other_10_gml_1411_0
 obj_npc_room_slash_Other_10_gml_1427_0
 * (Da un poco de miedo mudarse a otro lugar. Pero^1, como una bola...)/
@@ -17211,9 +17211,9 @@ obj_npc_sign_slash_Other_10_gml_332_0
 obj_npc_sign_slash_Other_10_gml_333_0
 * They didn't like that./%
 obj_npc_sign_slash_Other_10_gml_348_0
-* Can't even cross the street without getting my ass kicked./
+* No puedo ni pasar la calla sin que me pateen el trasero./
 obj_npc_sign_slash_Other_10_gml_349_0
-* I love the city./%
+* Amo la ciudad./%
 obj_npc_sign_slash_Other_10_gml_355_0
 * We are basically supposed to be part of Queen's Army./
 obj_npc_sign_slash_Other_10_gml_356_0
@@ -19072,19 +19072,19 @@ obj_readable_room1_slash_Other_10_gml_1990_0
 southcon
 northcon
 obj_readable_room1_slash_Other_10_gml_2019_0
-\EL* (S..^1. Susie...!^1! She's right there...!!)/
+\EL* (S..^1. Susie...!^1! Está justo ahí...!!)/
 obj_readable_room1_slash_Other_10_gml_2020_0
-\E6* (But I..^1. I can't get the courage to say anything...)/
+\E6* (Pero no..^1. No tengo el coraje para decir algo...)/
 obj_readable_room1_slash_Other_10_gml_2021_0
 \E2* (...?)/
 obj_readable_room1_slash_Other_10_gml_2022_0
-\E3* (Who's that person she's with^1, anyway...?)/
+\E3* (Quién es esa persona con la que está^1, de todos modos...?)/
 obj_readable_room1_slash_Other_10_gml_2023_0
-\E2* (It looks kind of like...)/
+\E2* (Parece que fuera...)/
 obj_readable_room1_slash_Other_10_gml_2025_0
-\EE* (Ahhh^1, they're looking over here^1! Let's go!!)/%
+\EE* (Ahhh^1, están viendo hacia acá^1! Vámonos!!)/%
 obj_readable_room1_slash_Other_10_gml_2030_0
-\EE* (Let's get out of here!)/%
+\EE* (Salgámos de acá!)/%
 obj_readable_room1_slash_Other_10_gml_2043_0
 \EA* ..^1. hey Kris^1, ever think about using these cones?/
 obj_readable_room1_slash_Other_10_gml_2045_0
@@ -19209,7 +19209,7 @@ obj_readable_room1_slash_Other_10_gml_2399_0
 obj_readable_room1_slash_Other_10_gml_2406_0
 * Please respect the pottery./%
 obj_readable_room1_slash_Other_10_gml_2484_0
-* (It's an advertisement for a giant ferris wheel.)/%
+* (Es un anuncio para una rueda de feria.)/%
 obj_readable_room1_slash_Other_10_gml_2492_0
 obj_readable_room1_slash_Other_10_gml_2494_0
 \E1* (Susie is surely thinking of her ride with Noelle...)/
@@ -19259,7 +19259,7 @@ obj_readable_room1_slash_Other_10_gml_2638_0
 obj_readable_room1_slash_Other_10_gml_2633_0_b
 * (Mice will rotate 90 degrees when they collide with the block.)/
 obj_readable_room1_slash_Other_10_gml_2634_0_b
-* (Citizens must push blocks to get mice in the holes. Use the bell to reset.)/%
+* (Ciudadanos deben empujar bloques para que los ratones entren. Usa la campana para resetear.)/%
 obj_readable_room1_slash_Other_10_gml_2640_0
 * (Es el deber del ciudadano rotar y liberar los ratones usando las señales de tránsito.)/
 obj_readable_room1_slash_Other_10_gml_2641_0
@@ -19267,9 +19267,9 @@ obj_readable_room1_slash_Other_10_gml_2641_0
 obj_readable_room1_slash_Other_10_gml_2651_0
 * (It's a hole for mice to come from.)/%
 obj_readable_room1_slash_Other_10_gml_2656_0
-* (The hole is empty.)/%
+* (El hoyo esta vacío.)/%
 obj_readable_room1_slash_Other_10_gml_2665_0
-* (It's a hole for mice to enter into.)/%
+* (Es un hoyo para que ratones entren ahí.)/%
 obj_readable_room1_slash_Other_10_gml_2670_0
 * (There are mice inside scampering pleasingly.)/%
 obj_readable_room1_slash_Other_10_gml_2681_0
@@ -22933,7 +22933,7 @@ Recibistes tus&balas hoy?
 obj_omawaroid_enemy_slash_Step_0_gml_26_0
 Donde hay un wee,&hay un woo.
 obj_omawaroid_enemy_slash_Step_0_gml_32_0
-Hey! Virus!&You've gotta pay!
+Hey! Virus!&Debes pagar!
 obj_omawaroid_enemy_slash_Step_0_gml_38_0
 Le enseñastes al virus,& wee-woo!
 obj_omawaroid_enemy_slash_Step_0_gml_39_0
@@ -22945,7 +22945,7 @@ Esta chica es tan dulce...&Demosle balas gratis!
 obj_omawaroid_enemy_slash_Step_0_gml_56_0
 (Esa es la peor&cura que he visto)
 obj_omawaroid_enemy_slash_Step_0_gml_59_0
-(Esta cobrando&poe eso?)
+(Esta cobrando&por eso?)
 Vaccine
 obj_omawaroid_enemy_slash_Step_0_gml_103_0
 * Ambyu-Lance está bebiendo café de un vaso alto.
@@ -23067,45 +23067,45 @@ obj_virovirokun_enemy_slash_Step_0_gml_163_0
 obj_virovirokun_enemy_slash_Step_0_gml_179_0
 * Todos trataron al enemigo con amor y cuidado!! Todos los enemigos se sienten genial!!/%
 obj_virovirokun_enemy_slash_Step_0_gml_183_0
-* You and Noelle showed the enemy tender loving care!/%
+* Tú y Noelle le mostraron al enemigo amor sincero!/%
 obj_virovirokun_enemy_slash_Step_0_gml_198_0
 \E2* H..^1. huh? Qué me estás diciendo que haga? ACTUAR...?/
 obj_virovirokun_enemy_slash_Step_0_gml_199_0
 \E8* Alguien puede explicar qué está pasando!?/%
 obj_virovirokun_enemy_slash_Step_0_gml_209_0
-Oh boy, is this&your first time&in a battle?
+Oh vaya, es esta&tu primera vez&en una batalla?
 obj_virovirokun_enemy_slash_Step_0_gml_222_0
-\E6* Uh... well... um... yes./%
+\E6* Uh... pues... um... si./%
 obj_virovirokun_enemy_slash_Step_0_gml_232_0
-Oh boy...
+Oh vaya...
 obj_virovirokun_enemy_slash_Step_0_gml_256_0
-* You and Virovirokun explained how battles work to Noelle./%
+* Tú y Virovirokun le explicaron a Noelle el como funcionan las batallas./%
 obj_virovirokun_enemy_slash_Step_0_gml_296_0
-\E4* I get it! It's kind of like Dragon Blazers!/
+\E4* Ya entiendo! Es como jugar Dragon Blazers!/
 obj_virovirokun_enemy_slash_Step_0_gml_297_0
-\E0* And if we're nice to you, we can win through mercy?/%
+\E0* Y si somos buenos contigo, podemos ganar a traves de piedad?/%
 obj_virovirokun_enemy_slash_Step_0_gml_307_0
-Yeah
+Si
 obj_virovirokun_enemy_slash_Step_0_gml_320_0
-\E2* And the way I have to do that is.../
+\E2* Y la manera de hacer eso es.../
 obj_virovirokun_enemy_slash_Step_0_gml_321_0
-\EH* Dressing up in a weird costume./%
+\EH* Vestirse en un atuendo extraño./%
 obj_virovirokun_enemy_slash_Step_0_gml_331_0
 obj_virovirokun_enemy_slash_Step_0_gml_344_0
 \EH* .../%
 no_one
 obj_virovirokun_enemy_slash_Step_0_gml_428_0
-* Ralsei cooked up a cure./
+* Ralsei cocino una cura./
 obj_virovirokun_enemy_slash_Step_0_gml_433_0
-\EH* If you're sick, shouldn't you have some soup? Say "aah"~!/
+\EH* Si estás enfermo, no deberías tomar un poco de sopa? Di "aah"~!/
 obj_virovirokun_enemy_slash_Step_0_gml_436_0
-* Sickness was cured! Everyone's HP up!/%
+* La enfermedad se curo! El HP subió!/%
 obj_virovirokun_enemy_slash_Step_0_gml_444_0
-* Susie cooked up a cure!/
+* Susie cocino una cura!/
 obj_virovirokun_enemy_slash_Step_0_gml_447_0
-\E2* What, you want me to cook something!?/
+\E2* Qué, quieres que cocine algo!?/
 obj_virovirokun_enemy_slash_Step_0_gml_450_0
-* Susie put a hot dog in the microwave!/%
+* Susie puso un hot dog en el microondas!/%
 obj_virovirokun_enemy_slash_Step_0_gml_472_0
 * She forgot to poke holes in it! The hot dog exploded!/%
 obj_virovirokun_enemy_slash_Step_0_gml_484_0
@@ -23129,7 +23129,7 @@ obj_virovirokun_enemy_slash_Step_0_gml_527_0
 obj_virovirokun_enemy_slash_Step_0_gml_532_0
 * Noelle tried her best!/%
 obj_virovirokun_enemy_slash_Step_0_gml_540_0
-* Noelle was clueless!/%
+* Noelle no sabe que pasa!/%
 infecttarget
 popping
 spawnVirus
@@ -35963,7 +35963,7 @@ werewire_npc
 floppy_door
 othernpc
 obj_ch2_room_city_susie_ralsei_fun_2_slash_Step_0_gml_25_0
-* They're talking about me!!!/%
+* Están hablando de mi!!!/%
 sweetnpc
 obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_32_0
 Kris?
@@ -37156,20 +37156,20 @@ scaredAgain
 introFinished
 earlywin
 obj_controller_dw_city_mice_slash_Step_0_gml_48_0
-\E4* L-looks like that took care of it.../%
+\E4* P-parece que eso se encargo de ellos.../%
 obj_controller_dw_city_mice_slash_Step_0_gml_54_0
-\E8* W-well^1, hopefully that won't happen again!/%
+\E8* B-bueno^1, ojala eso no pase de nuevo!/%
 extTimer
 obj_controller_dw_city_mice_slash_Step_0_gml_113_0
-\E2* K-Kris^1! If the mice hit a wall^1, they'll come over here.../
+\E2* K-Kris^1! Si los ratones golpean la pared^1, ellos vendrán hacia acá.../
 obj_controller_dw_city_mice_slash_Step_0_gml_114_0
-\E4* (Try using those blocks to get them into the hole?)/%
+\E4* (Intenta usar esos bloques para mandarlos a otro hoyo?)/%
 obj_controller_dw_city_mice_slash_Step_0_gml_117_0
 \EE* K-Kris!!/
 obj_controller_dw_city_mice_slash_Step_0_gml_118_0
-\E8* Gosh^1, you did that on purpose^1, didn't you!?/
+\E8* Dios^1, hiciste eso a propósito^1, verdad!?/
 obj_controller_dw_city_mice_slash_Step_0_gml_119_0
-\E3* (It's like when they swapped my eggnog with mayo...)/%
+\E3* (Es como cuando ellos reemplazaron mi ponche por mayonesa...)/%
 obj_controller_dw_city_mice_slash_Step_0_gml_122_0
 attempt
 introconTimer
