@@ -4218,22 +4218,22 @@ scr_text_slash_scr_text_gml_4269_0
 scr_text_slash_scr_text_gml_4270_0
 \E0* Let's keep going^1, Kris./%
 scr_text_slash_scr_text_gml_4277_0
-#Of course
+#Por Supuesto
 scr_text_slash_scr_text_gml_4278_0
-#No Triple#Trucies
+#No Triple#Treguas
 scr_text_slash_scr_text_gml_4279_0
 scr_text_slash_scr_text_gml_4280_0
 scr_text_slash_scr_text_gml_4282_0
-\E9* Kris^1, I..^1. um..^1. if it's okay.../
+\E9* Kris^1, Yo..^1. um..^1. si está bien.../
 scr_text_slash_scr_text_gml_4283_0
-\E2* ..^1. G-got any room for another truce?/
+\E2* ..^1. H-hay espacio para otra tregua?/
 scr_text_slash_scr_text_gml_4284_0
 scr_text_slash_scr_text_gml_4291_0
-\E4* Thanks^1, Kris.../%
+\E4* Gracias^1, Kris.../%
 scr_text_slash_scr_text_gml_4298_0
-\E8* Har har^1, very funny!/
+\E8* Har har^1, muy gracioso!/
 scr_text_slash_scr_text_gml_4299_0
-\E8* Well^1, I'd rather take my chances with you than her!/%
+\E8* Bueno^1, prefiero estar contigo que con ella!/%
 scr_text_slash_scr_text_gml_4306_0
 #We're friends
 scr_text_slash_scr_text_gml_4307_0
@@ -19261,7 +19261,7 @@ obj_readable_room1_slash_Other_10_gml_2633_0_b
 obj_readable_room1_slash_Other_10_gml_2634_0_b
 * (Citizens must push blocks to get mice in the holes. Use the bell to reset.)/%
 obj_readable_room1_slash_Other_10_gml_2640_0
-* (It's a citizen's duty to properly rotate and release mice using the traffic signs.)/
+* (Es el deber del ciudadano rotar y liberar los ratones usando las señales de tránsito.)/
 obj_readable_room1_slash_Other_10_gml_2641_0
 * ~1: Engage and Disengage.&* ~2 ~3: Rotate.&* ~4: Release./%
 obj_readable_room1_slash_Other_10_gml_2651_0
@@ -34425,7 +34425,7 @@ obj_ch2_city01_slash_Step_0_gml_60_0
 obj_ch2_city01_slash_Step_0_gml_76_0
 \EE* (No dejes que me encuentre...)/%
 obj_ch2_city01_slash_Step_0_gml_85_0
-\EI* Noelle Cariño Querida Dulcura Donde Estás/%
+\EI* Noelle Cariño Querida Dulzura Donde Estás/%
 obj_ch2_city01_slash_Step_0_gml_94_0
 \EC* Somos Un Equipo Ahora Recuerdas/
 obj_ch2_city01_slash_Step_0_gml_95_0
@@ -34478,38 +34478,38 @@ obj_ch2_city01_slash_Step_0_gml_196_0
 obj_ch2_city01_slash_Step_0_gml_204_0
 \E8* Pero Que/
 obj_ch2_city01_slash_Step_0_gml_205_0
-\EH* Who The Beep Said You Could Double Trucies/%
+\EH* Qué Beep Dijo Que Puedes Hacer Doble Treguita/%
 obj_ch2_city01_slash_Step_0_gml_216_0
-\E3* Huh? Did you hear something?/%
+\E3* Huh? Escuchaste algo?/%
 obj_ch2_city01_slash_Step_0_gml_227_0
-\EC* Honk Honk No It's Just The Sounds Of The City/
+\EC* Honk Honk No Es Solo El Ruido De La Ciudad/
 obj_ch2_city01_slash_Step_0_gml_229_0
 \EI* Oh okay./%
 obj_ch2_city01_slash_Step_0_gml_237_0
-\E7* Hmph. Well I'll be ahead. Don't be LATE!!!/%
+\E7* Hmph. Bueno iré adelante. No llegues TARDE!!!/%
 obj_ch2_city01_slash_Step_0_gml_258_0
-\E1* Kris As Part Of Our Truce (The Better One)/
+\E1* Kris Como Parte De Nuestra Tregua (La Mejor)/
 obj_ch2_city01_slash_Step_0_gml_259_0
-\ED* Keep Distracting Berdly And Find Noelle/
+\ED* Sigue Distrayendo A Berdly Y Encuentra A Noelle/
 obj_ch2_city01_slash_Step_0_gml_260_0
-\E4* For You See.../%
+\E4* Pues Ya Ves Que.../%
 obj_ch2_city01_slash_Step_0_gml_269_0
-\E5* Berdly..^1. He's.../%
+\E5* Berdly..^1. Él Es.../%
 obj_ch2_city01_slash_Step_0_gml_279_0
-\E1* OK There's Nothing Wrong With Him He's Just Annoying/%
+\E1* OK No Hay Nada Malo Con Él Solo Es Molesto/%
 obj_ch2_city01_slash_Step_0_gml_289_0
-\ED* Toodles/%
+\ED* Adiosito/%
 charjoined.ogg
 obj_ch2_city01_slash_Step_0_gml_313_0
-* (Noelle joined the party!)/%
+* (Noelle se unió a el equipo!)/%
 obj_ch2_city01_slash_Step_0_gml_375_0
-\E2* K..^1. Kris...? Isn't that the wrong way...?/
+\E2* K..^1. Kris...? No es esa la dirección errónea...?/
 obj_ch2_city01_slash_Step_0_gml_376_0
-\E8* (Somehow I'm already regretting this...)/%
+\E8* (De alguna manera ya me estoy arrepintiendo...)/%
 obj_ch2_city01_slash_Step_0_gml_388_0
-\ES* So^1, um^1, any idea where Susie is?/
+\ES* Así que^1, um^1, alguna idea de donde está Susie?/
 obj_ch2_city01_slash_Step_0_gml_389_0
-\EN* What!? WHAT!? I'm just asking!^1! It's a normal question!!/%
+\EN* Qué!? QUÉ!? Solo pregunto!^1! Es una pregunta normal!!/%
 obj_ch2_city04_slash_Step_0_gml_38_0
 \E3* Kris^1! Where were you!/
 obj_ch2_city04_slash_Step_0_gml_39_0
@@ -37184,13 +37184,13 @@ fakemouse
 fakedoor
 realdoor
 obj_mouseSpawnSwitch_slash_Step_0_gml_123_0
-\E2* A m-m-m-m-m.../
+\E2* Un r-r-r-r-r.../
 obj_mouseSpawnSwitch_slash_Step_0_gml_124_0
-\EE* Mouse!?/%
+\EE* Ratón!?/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_171_0
-\E3* S..^1. sorry^1, Kris^1, could you..^1. d-deal with them somehow?/
+\E3* P..^1. perdón^1, Kris^1, podrías..^1. t-tratar con ellos?/
 obj_mouseSpawnSwitch_slash_Step_0_gml_172_0
-\E4* Maybe if you can get them in the other mouse hole?/%
+\E4* Talves si los mandas a otro hoyo de ratón?/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_189_0
 \E2* H-huh^1?&* Nothing happened.../%
 fakenoelle
