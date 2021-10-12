@@ -5441,7 +5441,7 @@ scr_text_slash_scr_text_gml_6548_0
 scr_text_slash_scr_text_gml_6556_0
 * Well^1, there was not a man here./%
 scr_text_slash_scr_text_gml_6561_0
-#Proceed
+#Procede
 scr_text_slash_scr_text_gml_6562_0
 I'm#protecting#her from you!
 scr_text_slash_scr_text_gml_6563_0
@@ -5659,7 +5659,7 @@ scr_text_slash_scr_text_gml_6918_0_b
 scr_text_slash_scr_text_gml_7026_0
 scr_text_slash_scr_text_gml_7030_0
 scr_text_slash_scr_text_gml_7046_0
-#Sorry, I'll #do the puzzle
+#Perdón, yo #haré el acertijo
 scr_text_slash_scr_text_gml_7047_0
 scr_text_slash_scr_text_gml_7048_0_b
 scr_text_slash_scr_text_gml_7049_0
@@ -5671,13 +5671,13 @@ scr_text_slash_scr_text_gml_7062_0
 backeddown
 introCon
 scr_text_slash_scr_text_gml_7070_0
-\EB* ..^1. h-huh? What did you say?/
+\EB* ..^1. h-huh? Que dijiste?/
 scr_text_slash_scr_text_gml_7071_0
-\E2* B-but^1, th..^1. the mice.../
+\E2* P-pero^1, Lo..^1. los ratones.../
 scr_text_slash_scr_text_gml_7072_0
 scr_text_slash_scr_text_gml_7082_0
 scr_text_slash_scr_text_gml_7090_0
-\EB* ..^1. I..^1. I.../
+\EB* ..^1. Yo..^1. yo.../
 scr_text_slash_scr_text_gml_7091_0
 \EB* .../%
 scr_text_slash_scr_text_gml_7099_0
@@ -10820,15 +10820,15 @@ Cyber City - Tienda de Música
 scr_roomname_slash_scr_roomname_gml_10_0
 Cyber City - Entrada
 scr_roomname_slash_scr_roomname_gml_11_0
-Cyber City - Primer Callejón
+Cyber City - Primer Pasillo
 scr_roomname_slash_scr_roomname_gml_12_0_b
 Cyber City - Callejón del ratón
 scr_roomname_slash_scr_roomname_gml_12_0
 Cyber City - La tienda de Música
 scr_roomname_slash_scr_roomname_gml_13_0
-Cyber City - Segundo Callejón
+Cyber City - Segundo Pasillo
 scr_roomname_slash_scr_roomname_gml_16_0_b
-Cyber City - La Estatura
+Cyber City - La Estatua
 scr_roomname_slash_scr_roomname_gml_14_0
 Mansión de Queen - Sala de invitados
 scr_roomname_slash_scr_roomname_gml_15_0
@@ -16365,7 +16365,7 @@ obj_npc_room_slash_Other_10_gml_1272_0
 * He was afraid of clowns^1, so he kept it from happening./%
 anytalked
 obj_npc_room_slash_Other_10_gml_1293_0
-Advertisements now only $9.99!
+Anuncios ahora solo por $9.99!
 obj_npc_room_slash_Other_10_gml_1296_0
 * Somos Addisons^1! Todo lo que hacemos es anunciar!!/
 obj_npc_room_slash_Other_10_gml_1297_0
@@ -19013,7 +19013,7 @@ obj_readable_room1_slash_Other_10_gml_1881_0
 obj_readable_room1_slash_Other_10_gml_1921_0_b
 * Es un poco de musgo decorativo. Se ve delicioso.~1
 obj_readable_room1_slash_Other_10_gml_1925_0_b
-\EK* ¿¡Por qué demonios TU habitación recibe musgo!?/%
+\EK* ¿¡Por qué demonios TU habitación tiene musgo!?/%
 obj_readable_room1_slash_Other_10_gml_1896_0
 \E2* Genial^1, cama con púas./
 obj_readable_room1_slash_Other_10_gml_1897_0
@@ -19045,7 +19045,7 @@ obj_readable_room1_slash_Other_10_gml_1933_0
 obj_readable_room1_slash_Other_10_gml_1935_0
 \E2* Claro que si!!^1! Celoso^1, Kris!?/%
 obj_readable_room1_slash_Other_10_gml_1943_0
-* (2NDO PISO : VIVIENDAS)/%
+* (2DO PISO : VIVIENDAS)/%
 obj_readable_room1_slash_Other_10_gml_1948_0
 obj_readable_room1_slash_Other_10_gml_1953_0
 * (SUBTERRANEO : VIVIENDAS PARA LOS MALOS)/%
@@ -31003,79 +31003,79 @@ st
 st_actor
 statue
 obj_ch2_scene13_slash_Step_0_gml_70_0
-\EE* Kris^1, it's Queen..^1. She's right over there!/
+\EE* Kris^1, Es Queen..^1. Está justo ahí!/
 obj_ch2_scene13_slash_Step_0_gml_71_0
-\E8* C-Can you distract her somehow!!?/%
+\E8* P-puedes distraerla de alguna manera!!?/%
 obj_ch2_scene13_slash_Step_0_gml_95_0
 \ED* Oh/
 obj_ch2_scene13_slash_Step_0_gml_96_0
 \EN* Lmao/
 obj_ch2_scene13_slash_Step_0_gml_97_0
-\E9* You're here/%
+\E9* Estás Aquí/%
 obj_ch2_scene13_slash_Step_0_gml_119_0
-\E1* Sorry Kris While I've Been Looking For Noelle/
+\E1* Perdon Kris Mientras Buscaba A Noelle/
 obj_ch2_scene13_slash_Step_0_gml_120_0
-\E9* I've Had Like 4 Of These All-Ages Appropriate/%
+\E9* He Tomado 4 De Estos Apropiados Para Todo Público/%
 obj_ch2_scene13_slash_Step_0_gml_126_0
-\E1* Glasses of Pure Battery Acid/%
+\E1* Vasos De Ácido De Batería Puro/%
 obj_ch2_scene13_slash_Step_0_gml_162_0
-\E1* Don't Worry That Was My Throwing Glass It's Safe/%
+\E1* No Te Preocupes Ese Era Mi Vaso Tirable Es Seguro/%
 obj_ch2_scene13_slash_Step_0_gml_169_0
-\ED* Look Kris/%
+\ED* Mira Kris/%
 obj_ch2_scene13_slash_Step_0_gml_177_0
-\E9* Kris Cross Applesauce/%
+\E9* Kris Cros apol sos/%
 obj_ch2_scene13_slash_Step_0_gml_185_0
-\E1* Now That We Are Trucies I Feel Like We Are On The Same/%
+\E1* Ahora Que Somos Treguita Siento Que Estamos En La Misma/%
 obj_ch2_scene13_slash_Step_0_gml_194_0
-\E9* Mathematical Wavelength/%
+\E9* Longitud De Onda Matemática/%
 obj_ch2_scene13_slash_Step_0_gml_211_0
-\E1* You Get Me Kris/%
+\E1* Tú Me Entiendes Kris/%
 obj_ch2_scene13_slash_Step_0_gml_219_0
-\E1* You Do Not Do Crazy Things Like "Have Opinions"/
+\E1* Tú No Haces Cosas Locas Como "Tener Opiniones"/
 obj_ch2_scene13_slash_Step_0_gml_220_0
-\EB* Or Scream When I Capture You/%
+\EB* O Gritar Cuando Te Capturo/%
 obj_ch2_scene13_slash_Step_0_gml_226_0
-\E9* Or Tell Me Horrible Plans For Smartboy Theme Park/%
+\E9* O Decirme Planes Horribles Para Un Parque Tématico Inteligente/%
 obj_ch2_scene13_slash_Step_0_gml_233_0
-\E5* I Just Cannot Compute It/
+\E5* Simplemente No Lo Puedo Calcular/
 obj_ch2_scene13_slash_Step_0_gml_234_0
-\E5* Why Everyone Else Is So..^1. Ungrateful/%
+\E5* Porque Todos Son Tan..^1. Desagradecidos/%
 obj_ch2_scene13_slash_Step_0_gml_284_0
-\E1* Whoops That Was My Extra Dangerous Glass/%
+\E1* Whoops Ese Era Mi Vaso Extra Peligroso/%
 obj_ch2_scene13_slash_Step_0_gml_292_0
 \ED* Kris/%
 obj_ch2_scene13_slash_Step_0_gml_298_0
-\EP* I Just Want To Make Everyone Smile/%
+\EP* Solo Quiero Hacer A Todos Sonreir/%
 obj_ch2_scene13_slash_Step_0_gml_305_0
-\E9* And If I Become An Evil Villain To Accomplish That/%
+\E9* Y Si Tengo Que Ser Una Villana Malvada Para Lograrlo/%
 obj_ch2_scene13_slash_Step_0_gml_313_0
-\ED* Is That Bad?/%
+\ED* Es Eso Malo?/%
 obj_ch2_scene13_slash_Step_0_gml_320_0
-\E1* It's Okay/
+\E1* Está Bien/
 obj_ch2_scene13_slash_Step_0_gml_321_0
-\E1* You Do Not Have To Answer/%
+\E1* No Tienes Que Responder/%
 obj_ch2_scene13_slash_Step_0_gml_337_0
-\EN* You Would Be Wrong/%
+\EN* Estarías Equivocado/%
 obj_ch2_scene13_slash_Step_0_gml_343_0
-\E5* But Kris..^1. While We're Still Trucies/
+\E5* Pero Kris..^1. Mientras Somos Treguita/
 obj_ch2_scene13_slash_Step_0_gml_344_0
-\ED* Maybe We Could..^1. Make The Most Of It/%
+\ED* Talvez Podemos..^1. Sacar Lo Máximo De Ello/%
 obj_ch2_scene13_slash_Step_0_gml_365_0
-\E1* We Could Play That Game Again/
+\E1* Podemos Jugar Ese Juego De Nuevo/
 obj_ch2_scene13_slash_Step_0_gml_366_0
-\E9* Wasn't That..^1. Fun^1, Kris/%
+\E9* No Fue Eso..^1. Divertido^1, Kris/%
 obj_ch2_scene13_slash_Step_0_gml_379_0
-\E1* Just You And Me/%
+\E1* Solo Tú Y Yo/%
 obj_ch2_scene13_slash_Step_0_gml_385_0
-\EQ* Having A Good Time/
+\EQ* Teniendo Un Buen Rato/
 obj_ch2_scene13_slash_Step_0_gml_386_0
-\ED* No One Else To Get In The Way/%
+\ED* Nadie Para Ponerse En El Camino/%
 glass_marker
 _shard
 obj_ch2_scene13_slash_Step_0_gml_498_0
-\E6* Queen!^1! I've been looking everywhere to show you this!!/%
+\E6* Queen!^1! La he buscado por todas partes para mostrarle esto!!/%
 obj_ch2_scene13_slash_Step_0_gml_507_0
-\EJ* A monument to our greatness..^1. Together./
+\EJ* Un monumento de nuestra grandeza..^1. Juntos./
 obj_ch2_scene13_slash_Step_0_gml_510_0
 \EI* Oh/%
 obj_ch2_scene13_slash_Step_0_gml_518_0
@@ -31085,63 +31085,63 @@ obj_ch2_scene13_slash_Step_0_gml_525_0
 obj_ch2_scene13_slash_Step_0_gml_529_0
 \s0* Uh%%
 obj_ch2_scene13_slash_Step_0_gml_535_0
-\s0* It%%
+\s0* Es%%
 obj_ch2_scene13_slash_Step_0_gml_541_0
-\s0* It's%%
+\s0* Esta%%
 obj_ch2_scene13_slash_Step_0_gml_545_0
 obj_ch2_scene13_slash_Step_0_gml_549_0
-\s0* Well%%
+\s0* Bueno%%
 obj_ch2_scene13_slash_Step_0_gml_555_0
 \s0* Um%%
 obj_ch2_scene13_slash_Step_0_gml_561_0
 \s0* Mmm%%
 obj_ch2_scene13_slash_Step_0_gml_565_0
 obj_ch2_scene13_slash_Step_0_gml_571_0
-\ED* How Do I Put This/
+\ED* Como Lo Digo/
 obj_ch2_scene13_slash_Step_0_gml_572_0
-\E1* Very.../
+\E1* Muy.../
 obj_ch2_scene13_slash_Step_0_gml_573_0
 \ED* .../%
 obj_ch2_scene13_slash_Step_0_gml_581_0
-\EK* Smart/
+\EK* Inteligente/
 obj_ch2_scene13_slash_Step_0_gml_582_0
-\EK* So Smart You Are/
+\EK* Tan Inteligente Que Eres/
 obj_ch2_scene13_slash_Step_0_gml_583_0
-\EK* I Love Tolerating You/%
+\EK* Amo Tolerarte/%
 obj_ch2_scene13_slash_Step_0_gml_592_0
-\EL* Haha!^1! I KNEW you'd be enamored. Such perfect taste./%
+\EL* Jaja!^1! SABÍA que te enamorarías. Tan PERFECTO gusto./%
 obj_ch2_scene13_slash_Step_0_gml_601_0
-\EK* Very Cool Statues/
+\EK* Que Estatua Tan Genial/
 obj_ch2_scene13_slash_Step_0_gml_602_0
-\ED* I Did Not Know You Had..^1. Nipples/%
+\ED* No Sabía Que Tenías..^1. Pezones/%
 obj_ch2_scene13_slash_Step_0_gml_610_0
-\E6* Haha..^1. I will SOON..^1. in our IDEAL WORLD./%
+\E6* Jaja..^1. los tendré PRONTO..^1. en nuestro MUNDO IDEAL./%
 obj_ch2_scene13_slash_Step_0_gml_617_0
-\EE* Kris^1, feel free to admire our artisanship./%
+\EE* Kris^1, sientete libre de admirar nuestra artesanía./%
 obj_ch2_scene13_slash_Step_0_gml_621_0
-\E1* Queen and I have PLANs to consider./
+\E1* Queen y YO tenemos PLANes que considerar./
 obj_ch2_scene13_slash_Step_0_gml_628_0
-\E1* Haha Yes Oooh So Good Looking Forward To That/%
+\E1* Jaja Si Oooh Si Le Veo Futuro A Eso/%
 obj_ch2_scene13_slash_Step_0_gml_632_0
 \E1* MMmmm Yum Yum Yum Yum Yum/%
 obj_ch2_scene13_slash_Step_0_gml_638_0
-\ED* Let's Go Burghley/%
+\ED* Vámonos Burghley/%
 obj_ch2_scene13_slash_Step_0_gml_662_0
-\EK* Keep Going I Am Right Behind You/%
+\EK* Continua Voy Detrás De Ti/%
 obj_ch2_scene13_slash_Step_0_gml_668_0
-\E1* Procedurally Lowering The Volume Of My Voice/%
+\E1* Procedimentalmente Bajando El Volúmen De Mi Voz/%
 obj_ch2_scene13_slash_Step_0_gml_678_0
-\ED* Sorry Kris I Must Alt Tab Out Of Here/%
+\ED* Disculpa Kris I Debo Hacer Alt Tab Para Salir/%
 obj_ch2_scene13_slash_Step_0_gml_694_0
-\ED* Wow Cool Face/%
+\ED* Wow Buena Cara/%
 obj_ch2_scene13_slash_Step_0_gml_723_0
 \E3* Phew.../
 obj_ch2_scene13_slash_Step_0_gml_724_0
-\E2* Looks like my disguise worked./%
+\E2* Parece que mi disfraz funcionó./%
 obj_ch2_scene13_slash_Step_0_gml_746_0
-\E8* It's silly looking^1, but it beats hiding.../%
+\E8* Se ve un poco tonto^1, pero es bueno para esconderse.../%
 obj_ch2_scene13_slash_Step_0_gml_763_0
-\E4* Let's get going^1, Kris!/%
+\E4* Sigamos^1, Kris!/%
 obj_ch2_scene13_slash_Step_0_gml_859_0
 \E8* Just realized..^1. I can't see anything..^1. haha.../%
 obj_ch2_scene13_slash_Step_0_gml_878_0
@@ -37192,42 +37192,42 @@ obj_mouseSpawnSwitch_slash_Step_0_gml_171_0
 obj_mouseSpawnSwitch_slash_Step_0_gml_172_0
 \E4* Talves si los mandas a otro hoyo de ratón?/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_189_0
-\E2* H-huh^1?&* Nothing happened.../%
+\E2* H-huh^1?&* No paso nada.../%
 fakenoelle
 noelleWaitTimer
 obj_mouseSpawnSwitch_slash_Step_0_gml_275_0
 \EE* M-m-m-m-mouse!!/
 obj_mouseSpawnSwitch_slash_Step_0_gml_276_0
-\E2* S..^1. sorry^1, Kris^1, could you..^1. d-deal with them somehow?/
+\E2* P..^1. perdón^1, Kris^1, podrías..^1. t-tratar con ellos?/
 obj_mouseSpawnSwitch_slash_Step_0_gml_277_0
-\E4* Maybe^1, make a mouseless path I can walk through...?/%
+\E4* Talvez^1, hacer un camino sin ratones para que pueda pasar...?/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_352_0
-\E4* H-hey^1, Kris? You can't leave yet^1, y'know!/
+\E4* H-hey^1, Kris? No te puedes ir aún^1, sabías!/
 obj_mouseSpawnSwitch_slash_Step_0_gml_353_0
-\E3* You need to deal with the mice^1, first./
+\E3* Necesitas tratar a los ratones^1, primero./
 obj_mouseSpawnSwitch_slash_Step_0_gml_354_0
-\E4* You can do it^1, Kris^1! I believe in you!/%
+\E4* Puedes hacerlo^1, Kris^1! Creo en ti!/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_358_0
-\E3* Kris^1, you^1, um..^1. aren't gonna leave me here^1, are you?/
+\E3* Kris^1, tú^1, um..^1. no vas a dejarme aquí^1, verdad?/
 obj_mouseSpawnSwitch_slash_Step_0_gml_359_0
-\E2* Th-think about all the p-pencils I gave you!/
+\E2* P-piensa en todos los lapices que te he dado!/
 obj_mouseSpawnSwitch_slash_Step_0_gml_360_0
-\E2* The..^1. the peppermint cookies I shared with you!/%
+\E2* Las..^1. galletas de menta que te he compartido!/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_364_0
 obj_mouseSpawnSwitch_slash_Step_0_gml_365_0
-\E8* I'll do your homework for you./%
+\E8* Haré tus tareas./%
 obj_mouseSpawnSwitch_slash_Step_0_gml_395_0
 \E4* Oh^1, merry Krismaaaas--!/
 obj_mouseSpawnSwitch_slash_Step_0_gml_396_0
-\E8* That's where we came from!/%
+\E8* De ahí es donde venimos!/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_400_0
-\E4* Kris^1, are you afraid of mice^1, too? Fahahaha!/%
+\E4* Kris^1, te asustan los ratones^1, también? Fahahaha!/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_454_0
 \E4* Ph..^1. phew.../
 obj_mouseSpawnSwitch_slash_Step_0_gml_455_0
-\E8* (We'd better not have to do something like that again...)/%
+\E8* (Ojala no tengamos que hacer algo así denuevo...)/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_506_0
-\E3* (Seriously, when did Kris get so bossy?)/%
+\E3* (En serio, cuando Kris se hizo mandon?)/%
 inusecount
 scared
 endNoelle
