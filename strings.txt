@@ -8623,23 +8623,23 @@ Money Earned UP
 scr_weaponinfo_slash_scr_weaponinfo_gml_215_0
 Rabia
 scr_weaponinfo_slash_scr_weaponinfo_gml_216_0
-A rugged scarf that cuts enemies like a dagger.
+Una bufanda resistente que corta a los enemigos como una daga.
 scr_weaponinfo_slash_scr_weaponinfo_gml_217_0
-Ow! That can't be comfy!
+¡Ow! ¡Eso no puede ser cómodo!
 scr_weaponinfo_slash_scr_weaponinfo_gml_218_0
 Se siente espinoso... Genial!
 scr_weaponinfo_slash_scr_weaponinfo_gml_220_0
-Ouch! ... kind of nice
+¡Ouch!... un poco agradable
 scr_weaponinfo_slash_scr_weaponinfo_gml_237_0
 DaintyScarf
 scr_weaponinfo_slash_scr_weaponinfo_gml_238_0
-Delicate scarf that increases healing#power but has no attack.
+Bufanda delicada que aumenta la cicatrización#poder pero no tiene ataque.
 scr_weaponinfo_slash_scr_weaponinfo_gml_239_0
-IT'S MADE OF DOILIES!
+¡ESTÁ HECHO DE TAPETES!
 scr_weaponinfo_slash_scr_weaponinfo_gml_240_0
-I'll protect everyone!
+¡Protegeré a todos!
 scr_weaponinfo_slash_scr_weaponinfo_gml_242_0
-S-stop covering me with it!
+¡P-para! ¡dejame cubrirme con ella!
 scr_weaponinfo_slash_scr_weaponinfo_gml_255_0
 Fluffiness UP
 scr_weaponinfo_slash_scr_weaponinfo_gml_260_0
@@ -8647,132 +8647,132 @@ EspRetorcida
 scr_weaponinfo_slash_scr_weaponinfo_gml_261_0
 Una espada rara
 scr_weaponinfo_slash_scr_weaponinfo_gml_262_0
-... uhh, looks bad.
+... uhh, se ve mal.
 scr_weaponinfo_slash_scr_weaponinfo_gml_263_0
-It's like a spiral.
+Es como una espiral.
 scr_weaponinfo_slash_scr_weaponinfo_gml_264_0
-It's... kind of scary...
+Es... un poco aterrador ...
 scr_weaponinfo_slash_scr_weaponinfo_gml_277_0
 Trance
 scr_weaponinfo_slash_scr_weaponinfo_gml_282_0
 SnowRing
 scr_weaponinfo_slash_scr_weaponinfo_gml_283_0
-A ring with the emblem of the#snowflake
+Un anillo con el emblema del#snowflake
 scr_weaponinfo_slash_scr_weaponinfo_gml_284_0
-Smells like Noelle
+Huele a Noelle
 scr_weaponinfo_slash_scr_weaponinfo_gml_285_0
-Are you... proposing?
+Estas... ¿Proponiendo?
 scr_weaponinfo_slash_scr_weaponinfo_gml_286_0
-(Thank goodness...)
+(Menos mal...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_305_0
 PlatTrono
 scr_weaponinfo_slash_scr_weaponinfo_gml_306_0
-Wearer takes damage from pain#Reduces the TP cost of ice spells
+El usuario toma daño del dolor#Reduce el costo TP de los hechizos de hielo
 scr_weaponinfo_slash_scr_weaponinfo_gml_307_0
-A torture device?
+¿Un dispositivo de tortura?
 scr_weaponinfo_slash_scr_weaponinfo_gml_308_0
 scr_weaponinfo_slash_scr_weaponinfo_gml_309_0
 scr_weaponinfo_slash_scr_weaponinfo_gml_323_0
 scr_weaponinfo_slash_scr_weaponinfo_gml_328_0
 BounceBlade
 scr_weaponinfo_slash_scr_weaponinfo_gml_329_0
-A pink saber with a rubber blade.#Weak, but increases defence.
+Un sable rosa con una hoja de goma.#débil, pero aumenta la defensa.
 scr_weaponinfo_slash_scr_weaponinfo_gml_330_0
-What is this, rubber?
+¿Qué es esto, goma?
 scr_weaponinfo_slash_scr_weaponinfo_gml_331_0
-Soft and squishy!
+¡Suave y blandito!
 scr_weaponinfo_slash_scr_weaponinfo_gml_332_0
-S-stop thwacking me!
+¡Deja de frustrarme!
 scr_weaponinfo_slash_scr_weaponinfo_gml_346_0
 Defensa
 scr_weaponinfo_slash_scr_weaponinfo_gml_351_0
 CheerScarf
 scr_weaponinfo_slash_scr_weaponinfo_gml_352_0
-A scarf with colorful you-can-do-it#imagery. Gains more TP from criticals.
+Una bufanda con imágenes coloridas.#Ganas más TP con críticos.
 scr_weaponinfo_slash_scr_weaponinfo_gml_353_0
-Smiley faces? Ecch.
+¿Caras sonrientes? Ecch.
 scr_weaponinfo_slash_scr_weaponinfo_gml_354_0
-You can do it!
+Puedes hacerlo!
 scr_weaponinfo_slash_scr_weaponinfo_gml_355_0
-Now THIS is a tacky scarf! Faha!
+¡Ahora ESTO es una bufanda asquerosa! ¡Faha!
 scr_weaponinfo_slash_scr_weaponinfo_gml_369_0
-Smiley
+Feliz
 scr_weaponinfo_slash_scr_weaponinfo_gml_374_0
 SableMeca
 scr_weaponinfo_slash_scr_weaponinfo_gml_375_0
-The blade extends when you press the hilt.#CHA-CHK!
+La hoja se extiende al presionar la empuñadura.#CHA-CHK!
 scr_weaponinfo_slash_scr_weaponinfo_gml_376_0
 *chk chk chk chk* Nah.
 scr_weaponinfo_slash_scr_weaponinfo_gml_377_0
-You'd look cool holding it, Kris!
+¡Te verías genial sosteniéndolo, Kris!
 scr_weaponinfo_slash_scr_weaponinfo_gml_378_0
-*chk* A-AHH! Scared myself...
+*chk* ¡A-AHH! Me asusté...
 scr_weaponinfo_slash_scr_weaponinfo_gml_392_0
 Molesto
 scr_weaponinfo_slash_scr_weaponinfo_gml_397_0
-HachaAuto.
+HachaAuto
 scr_weaponinfo_slash_scr_weaponinfo_gml_398_0
-Make sure to charge it by#plugging it into the wall.
+Asegúrate de cargarlo enchufándolo a la pared.
 scr_weaponinfo_slash_scr_weaponinfo_gml_399_0
-*chainsaw noises* Hahaha!!
+*ruidos de motosierra* Jajaja!!
 scr_weaponinfo_slash_scr_weaponinfo_gml_400_0
-(Is this a good idea?)
+(¿Es esta una buena idea?)
 scr_weaponinfo_slash_scr_weaponinfo_gml_401_0
-*zrrt* A-AHH! Scared myself...
+*zrrt* A-AHH! Me asusté...
 scr_weaponinfo_slash_scr_weaponinfo_gml_415_0
-BadIdea
+MalaIdea
 scr_weaponinfo_slash_scr_weaponinfo_gml_420_0
 BufandaFibrosa
 scr_weaponinfo_slash_scr_weaponinfo_gml_421_0
-Una bufanda hecha de microfibra suave.#Balancea ataque y magia.
+Una bufanda hecha de microfibra suave.#ataque y magia Balanceadamente.
 scr_weaponinfo_slash_scr_weaponinfo_gml_422_0
 (Soft...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_423_0
 Oh! Mi pelaje tiene estatica!
 scr_weaponinfo_slash_scr_weaponinfo_gml_424_0
-Sure, I'll... huh? It's a weapon?
+Claro, lo haré... ¿eh? ¿Es un arma?
 scr_weaponinfo_slash_scr_weaponinfo_gml_443_0
 Rabia2
 scr_weaponinfo_slash_scr_weaponinfo_gml_444_0
 Una bufanda afilada y áspera.#Peor curación, mejor ataque.
 scr_weaponinfo_slash_scr_weaponinfo_gml_445_0
-This is Ralsei's deal.
+Este es el trato de Ralsei.
 scr_weaponinfo_slash_scr_weaponinfo_gml_446_0
 Soy un príncipe espinoso!
 scr_weaponinfo_slash_scr_weaponinfo_gml_447_0
-(It's like Santa's beard?)
+(¿Es como la barba de Papá Noel?)
 scr_weaponinfo_slash_scr_weaponinfo_gml_461_0
 Espinoso
 scr_weaponinfo_slash_scr_weaponinfo_gml_467_0
 EspRota
 scr_weaponinfo_slash_scr_weaponinfo_gml_468_0
-A rejected sword cut into 2 pieces.#Not even you can equip this...
+Una espada rechazada cortada en 2 pedazos.#ni siquiera usted puede equipar esto...
 scr_weaponinfo_slash_scr_weaponinfo_gml_469_0
-... this is trash.
+... esto es basura.
 scr_weaponinfo_slash_scr_weaponinfo_gml_470_0
-Should we fix this...?
+¿Deberíamos arreglar esto...?
 scr_weaponinfo_slash_scr_weaponinfo_gml_471_0
-(Wh... why give this to me?)
+(Por... ¿por qué darme esto?)
 scr_weaponinfo_slash_scr_weaponinfo_gml_485_0
 Failure
 scr_weaponinfo_slash_scr_weaponinfo_gml_490_0
 PuppetScarf
 scr_weaponinfo_slash_scr_weaponinfo_gml_491_0
-A scarf made of strange strings.#For those that abandon healing.
+Una bufanda hecha de cuerdas extrañas.#Para aquellos que abandonan la curación.
 scr_weaponinfo_slash_scr_weaponinfo_gml_492_0
-No way, that's creepy.
+De ninguna manera, eso es espeluznante.
 scr_weaponinfo_slash_scr_weaponinfo_gml_493_0
-If I have to fight...
+Si tengo que pelear...
 scr_weaponinfo_slash_scr_weaponinfo_gml_494_0
-(Feels like guitar strings...)
+(Se siente como cuerdas de guitarra...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_513_0
 FreezeRing
 scr_weaponinfo_slash_scr_weaponinfo_gml_514_0
-A ring with a snowglobe on it.#... is that someone inside?
+Un anillo con un globo de nieve en él.#... ¿Espera, hay alguien dentro?
 scr_weaponinfo_slash_scr_weaponinfo_gml_515_0
-Heh, you steal this? Heh.
+¿Robaste esto? Heh.
 scr_weaponinfo_slash_scr_weaponinfo_gml_516_0
-It's beautiful...
+Es hermoso...
 scr_weaponinfo_slash_scr_weaponinfo_gml_517_0
 scr_weaponinfo
 scr_armorinfo_slash_scr_armorinfo_gml_2_0
@@ -8792,33 +8792,33 @@ scr_armorinfo_slash_scr_armorinfo_gml_30_0
 scr_armorinfo_slash_scr_armorinfo_gml_31_0
 Está pegajoso, huh, Kris...
 scr_armorinfo_slash_scr_armorinfo_gml_33_0
-It's like a name-tag!
+¡Es como una etiqueta de nombre!
 scr_armorinfo_slash_scr_armorinfo_gml_43_0
 scr_armorinfo_slash_scr_armorinfo_gml_49_0
 Dice Brace
 scr_armorinfo_slash_scr_armorinfo_gml_50_0
-A bracelet made out of various#symbol-inscribed cubes.
+Una pulsera hecha de varios#cubos con inscritos con símbolos.
 scr_armorinfo_slash_scr_armorinfo_gml_51_0
 ... okay.
 scr_armorinfo_slash_scr_armorinfo_gml_52_0
-It says "Friendship!"
+Dice "¡Amistad!"
 scr_armorinfo_slash_scr_armorinfo_gml_54_0
-Hey, y-you jumbled it...
+Oye, y-lo mezclaste ...
 scr_armorinfo_slash_scr_armorinfo_gml_64_0
 scr_armorinfo_slash_scr_armorinfo_gml_70_0
 Cinta Rosa
 scr_armorinfo_slash_scr_armorinfo_gml_71_0
-A cute hair ribbon that increases#the range bullets increase tension.
+Una cinta de pelo lindo que aumenta#el rango de balas aumentar la tensión.
 scr_armorinfo_slash_scr_armorinfo_gml_72_0
-Nope. Not in 1st grade anymore.
+No. Ya no en primer grado.
 scr_armorinfo_slash_scr_armorinfo_gml_73_0
-Um... D-do I look cute...?
+Um... ¿m-Me veo linda...?
 scr_armorinfo_slash_scr_armorinfo_gml_75_0
-... feels familiar.
+... se siente familiar.
 scr_armorinfo_slash_scr_armorinfo_gml_78_0
-I said NO! C'mon already!
+¡Dije que NO! ¡Vamos ya!
 scr_armorinfo_slash_scr_armorinfo_gml_79_0
-It's nice dressing up...
+Es bonito vestirse...
 scr_armorinfo_slash_scr_armorinfo_gml_91_0
 GrazeArea
 scr_armorinfo_slash_scr_armorinfo_gml_98_0
@@ -8836,46 +8836,46 @@ Adorabilidad
 scr_armorinfo_slash_scr_armorinfo_gml_125_0
 CadenaMetalica
 scr_armorinfo_slash_scr_armorinfo_gml_126_0
-Shackle that ironically increases#your attack and defense.
+Grillete que irónicamente aumenta#tu ataque y defensa.
 scr_armorinfo_slash_scr_armorinfo_gml_127_0
-(Damn, it's actually cool...)
+(Maldita sea, en realidad es genial...)
 scr_armorinfo_slash_scr_armorinfo_gml_128_0
-*jingle jangle* Haha!
+*jingle jangle* Jaja!
 scr_armorinfo_slash_scr_armorinfo_gml_130_0
-I'm the ghost of holidays past!
+¡Soy el fantasma de las vacaciones pasadas!
 scr_armorinfo_slash_scr_armorinfo_gml_140_0
 scr_armorinfo_slash_scr_armorinfo_gml_146_0
 MouseToken
 scr_armorinfo_slash_scr_armorinfo_gml_147_0
-A golden coin with a once-powerful mousewizard engraved on it.
+Una moneda dorada con un mago ratón una vez potente grabado en ella.
 scr_armorinfo_slash_scr_armorinfo_gml_148_0
-This guy's... familiar?
+Este tipo... ¿familiar?
 scr_armorinfo_slash_scr_armorinfo_gml_149_0
-Chu! Healing power UP!
+¡Chu! ¡Poder curativo!
 scr_armorinfo_slash_scr_armorinfo_gml_151_0
 ... from the family entertainment center?
 scr_armorinfo_slash_scr_armorinfo_gml_161_0
 scr_armorinfo_slash_scr_armorinfo_gml_167_0
 Jevilstail
 scr_armorinfo_slash_scr_armorinfo_gml_168_0
-A J-shaped tail that gives you devilenergy.
+Una cola en forma de J que le da devilenergia.
 scr_armorinfo_slash_scr_armorinfo_gml_169_0
-Figured I'd grow one someday.
+Pensé que algún día crecería uno.
 scr_armorinfo_slash_scr_armorinfo_gml_170_0
-I'm a good devil, OK?
+Soy un buen diablo, ¿de acuerdo?
 scr_armorinfo_slash_scr_armorinfo_gml_172_0
-... (I like it...)
+... (Me gusta...)
 scr_armorinfo_slash_scr_armorinfo_gml_182_0
 scr_armorinfo_slash_scr_armorinfo_gml_189_0
 Carta de Metal
 scr_armorinfo_slash_scr_armorinfo_gml_190_0
 Un encanto cuadrado que incrementa#el dinero recolectado por 5%
 scr_armorinfo_slash_scr_armorinfo_gml_191_0
-Money, that's what I need.
+Money, eso es lo que necesito.
 scr_armorinfo_slash_scr_armorinfo_gml_192_0
-Do they take credit?
+¿Se llevan el crédito?
 scr_armorinfo_slash_scr_armorinfo_gml_193_0
-It goes with my watch!
+¡Va con mi reloj!
 scr_armorinfo_slash_scr_armorinfo_gml_203_0
 $ +5%
 scr_armorinfo_slash_scr_armorinfo_gml_210_0
@@ -8883,11 +8883,11 @@ CintaDoble
 scr_armorinfo_slash_scr_armorinfo_gml_211_0
 Dos cintas. Tendrás que poner#tu cabello como cola de caballo.
 scr_armorinfo_slash_scr_armorinfo_gml_212_0
-... it gets worse and worse.
+... se pone cada vez peor.
 scr_armorinfo_slash_scr_armorinfo_gml_213_0
-Try around my horns!
+¡Prueba alrededor de mis cuernos!
 scr_armorinfo_slash_scr_armorinfo_gml_214_0
-... nostalgic, huh.
+... nostalgico, huh.
 scr_armorinfo_slash_scr_armorinfo_gml_225_0
 scr_armorinfo_slash_scr_armorinfo_gml_232_0
 PulseraBrilla
@@ -8898,51 +8898,51 @@ Upss, está enredado.
 scr_armorinfo_slash_scr_armorinfo_gml_235_0
 Dejame desenredar esto...
 scr_armorinfo_slash_scr_armorinfo_gml_236_0
-It's like holiday lights...
+Es como las luces navideñas...
 scr_armorinfo_slash_scr_armorinfo_gml_247_0
 scr_armorinfo_slash_scr_armorinfo_gml_254_0
 ChainMail
 scr_armorinfo_slash_scr_armorinfo_gml_255_0
-Chain-armor. Send it to 10 others#or it'll lose its defensive rating
+Chain-armor. Envíela a otros 10#o perderá su calificación defensiva
 scr_armorinfo_slash_scr_armorinfo_gml_256_0
-Damn, guess I'm cursed.
+Maldita sea, supongo que estoy maldito.
 scr_armorinfo_slash_scr_armorinfo_gml_257_0
-A letter?... For me...?
+Una carta?... ¿Para mí...?
 scr_armorinfo_slash_scr_armorinfo_gml_258_0
-Armor? (It's cool...)
+¿Armadura? (Es genial...)
 scr_armorinfo_slash_scr_armorinfo_gml_269_0
 scr_armorinfo_slash_scr_armorinfo_gml_276_0
 TiroCorbata
 scr_armorinfo_slash_scr_armorinfo_gml_277_0
-A handsome bowtie. Looks like the brand#name has been cut off.
+Una pajarita guapa. Parece que la#marca ha sido cortada.
 scr_armorinfo_slash_scr_armorinfo_gml_278_0
-Ugh, I look like a nerd.
+Uf, parezco un nerd.
 scr_armorinfo_slash_scr_armorinfo_gml_279_0
-Can I have suspenders?
+¿Puedo tener tirantes?
 scr_armorinfo_slash_scr_armorinfo_gml_280_0
-... do I put it in my hair?
+... ¿Me lo pongo en el pelo?
 scr_armorinfo_slash_scr_armorinfo_gml_291_0
 scr_armorinfo_slash_scr_armorinfo_gml_298_0
 PulseraLuminosa
 scr_armorinfo_slash_scr_armorinfo_gml_299_0
 Una pulsera negra cubierta en espinas.#Tiende a quedarse atorado en si mismo.
 scr_armorinfo_slash_scr_armorinfo_gml_300_0
-Can't say no to spikes.
+No puedo decir que no a los picos.
 scr_armorinfo_slash_scr_armorinfo_gml_301_0
-Um, do I... look tough?
+Um, Yo... ¿Te ves duro?
 scr_armorinfo_slash_scr_armorinfo_gml_302_0
-(Maybe Susie would like this look?)
+(¿Tal vez a Susie le gustaría este look?)
 scr_armorinfo_slash_scr_armorinfo_gml_313_0
 scr_armorinfo_slash_scr_armorinfo_gml_320_0
 Silver Watch
 scr_armorinfo_slash_scr_armorinfo_gml_321_0
-Grazing bullets affects#the turn length by 10% more
+Las balas de pastoreo afectan#la longitud de giro en un 10% más
 scr_armorinfo_slash_scr_armorinfo_gml_322_0
-It's clobbering time.
+Es hora de aplastar.
 scr_armorinfo_slash_scr_armorinfo_gml_323_0
-I'm late, I'm late!
+¡Llego tarde, llego tarde!
 scr_armorinfo_slash_scr_armorinfo_gml_324_0
-(Th-this was mine...)
+(Es-Esto era mío...)
 scr_armorinfo_slash_scr_armorinfo_gml_342_0_b
 Hora de pastoreo
 scr_armorinfo_slash_scr_armorinfo_gml_342_0
@@ -8954,17 +8954,17 @@ TPGain
 scr_armorinfo_slash_scr_armorinfo_gml_364_0
 scr_armorinfo_slash_scr_armorinfo_gml_365_0
 scr_armorinfo_slash_scr_armorinfo_gml_366_0
-Not even gonna ask.
+Ni siquiera voy a preguntar.
 scr_armorinfo_slash_scr_armorinfo_gml_367_0
-Um, the d-dress is cute...
+UM, el v-vestido es lindo...
 scr_armorinfo_slash_scr_armorinfo_gml_368_0
-(Why did they spend $300 on this!?)
+(¿Por qué gastaron $ 300 en esto?)
 scr_armorinfo_slash_scr_armorinfo_gml_386_0_b
 ???
 scr_armorinfo_slash_scr_armorinfo_gml_386_0
 DarkGoldBand
 scr_armorinfo_slash_scr_armorinfo_gml_387_0
-A black metal with a golden shine.
+Un metal negro con un brillo dorado.
 scr_armorinfo_slash_scr_armorinfo_gml_388_0
 scr_armorinfo_slash_scr_armorinfo_gml_389_0
 scr_armorinfo_slash_scr_armorinfo_gml_390_0
@@ -8972,50 +8972,50 @@ scr_armorinfo_slash_scr_armorinfo_gml_401_0
 scr_armorinfo_slash_scr_armorinfo_gml_408_0
 SkyMantle
 scr_armorinfo_slash_scr_armorinfo_gml_409_0
-A cape that shimmers fluorescently.#Protects against Elec and Holy attacks.
+un cabo que brilla con fluorescencia.#Protege contra los ataques ELEC y HOLY.
 scr_armorinfo_slash_scr_armorinfo_gml_433_0_b
 Elec/Holy
 scr_armorinfo_slash_scr_armorinfo_gml_430_0
 SpikeShackle
 scr_armorinfo_slash_scr_armorinfo_gml_431_0
 scr_armorinfo_slash_scr_armorinfo_gml_432_0
-Get a load of THIS!
+¡Consigue una carga de ESTO!
 scr_armorinfo_slash_scr_armorinfo_gml_433_0
-Looking SHARP!
+¡Se ve AFILADO!
 scr_armorinfo_slash_scr_armorinfo_gml_434_0
-(It's tearing my sleeves...)
+(Me está desgarrando las mangas...)
 scr_armorinfo_slash_scr_armorinfo_gml_459_0
 Ataque
 scr_armorinfo_slash_scr_armorinfo_gml_452_0
 FrayedBowtie
 scr_armorinfo_slash_scr_armorinfo_gml_453_0
-An old bowtie. It seems to have#lost much of its defensive value.
+Un viejo pajarita. Parece haber perdido#gran parte de su valor defensivo.
 scr_armorinfo_slash_scr_armorinfo_gml_454_0
-Look. I have standards.
+Mirar. Tengo estándares.
 scr_armorinfo_slash_scr_armorinfo_gml_455_0
-It's still wearable!
+¡Todavía se puede llevar!
 scr_armorinfo_slash_scr_armorinfo_gml_456_0
-(Reminds me of Asgore...)
+(Me recuerda a Asgore...)
 scr_armorinfo_slash_scr_armorinfo_gml_467_0
 scr_armorinfo_slash_scr_armorinfo_gml_491_0
-Dealmaker
+Operador
 scr_armorinfo_slash_scr_armorinfo_gml_492_0
-Fashionable pink and yellow glasses.#Greatly increase $ gained, and...?
+Gafas de moda rosa y amarillo.#Aumentar mucho la ganancia de $, y...?
 scr_armorinfo_slash_scr_armorinfo_gml_493_0
 scr_armorinfo_slash_scr_armorinfo_gml_494_0
-Two pairs of glasses?
+¿Dos pares de gafas?
 scr_armorinfo_slash_scr_armorinfo_gml_495_0
-(Seems... familiar?)
+(Parece... familiar?)
 scr_armorinfo_slash_scr_armorinfo_gml_505_0
 $ +30%
 scr_armorinfo_slash_scr_armorinfo_gml_516_0
 RoyalPin
 scr_armorinfo_slash_scr_armorinfo_gml_517_0
-A brooch engraved with Queen's face.#Careful of the sharp part.
+Un broche grabado con la cara de la Reina.#Cuidado con la parte afilada.
 scr_armorinfo_slash_scr_armorinfo_gml_518_0
-ROACH? Oh, brooch. Heh.
+¿CUCARACHA? Oh, broche. Je.
 scr_armorinfo_slash_scr_armorinfo_gml_519_0
-I'm a cute little corkboard!
+¡Soy un lindo y pequeño tablero de corcho!
 scr_armorinfo_slash_scr_armorinfo_gml_520_0
 Queen... me dio esto a mi
 scr_armorinfo
