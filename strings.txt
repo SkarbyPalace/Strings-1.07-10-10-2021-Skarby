@@ -726,7 +726,7 @@ scr_text_slash_scr_text_gml_100_0
 scr_text_slash_scr_text_gml_104_0
 * (It's dark inside.)/%
 scr_text_slash_scr_text_gml_112_0
-* (You got the Glowshard.)/%
+* (Obtuviste un Glowshard.)/%
 gml_Script_scr_itemget
 shine
 instance_destroy
@@ -905,7 +905,7 @@ scr_text_slash_scr_text_gml_311_0
 scr_text_slash_scr_text_gml_314_0_b
 \E0* Press [~1] to open the menu and use it in your ITEMS./
 scr_text_slash_scr_text_gml_314_0
-* (You got the Manual.)/%
+* (Obtuviste un Manual.)/%
 scr_text_slash_scr_text_gml_319_0
 #I can#handle it
 scr_text_slash_scr_text_gml_320_0
@@ -2567,7 +2567,7 @@ scr_text_slash_scr_text_gml_2361_0
 scr_text_slash_scr_text_gml_2362_0
 \E5* call it whenever you feel like./
 scr_text_slash_scr_text_gml_2364_0
-* (You got Sans's Number.)/%
+* (Obtuviste el número de Sans.)/%
 scr_text_slash_scr_text_gml_2372_0
 \E1* your mother^1, huh...?/
 scr_text_slash_scr_text_gml_2373_0
@@ -3009,7 +3009,7 @@ scr_text_slash_scr_text_gml_2824_0
 scr_text_slash_scr_text_gml_2826_0
 * I..^1. I'm sorry!!^1! I forgive you!!^1! Here^1, take this Choco Diamond!/
 scr_text_slash_scr_text_gml_2827_0
-* (You got the Choco Diamond.)/%
+* (Obtuviste un Choco Diamond.)/%
 scr_text_slash_scr_text_gml_2832_0
 * I'm sorry^1, but we don't have any room.../
 scr_text_slash_scr_text_gml_2834_0
@@ -3237,7 +3237,7 @@ scr_text_slash_scr_text_gml_3181_0
 scr_text_slash_scr_text_gml_3187_0
 * Please take this cake^1! It's worthless^1, my dear friend!/
 scr_text_slash_scr_text_gml_3189_0
-\S0* (You got the SpinCake.)/%
+\S0* (Obtuviste un SpinCake.)/%
 scr_text_slash_scr_text_gml_3192_0
 * Mama shiba^1! You're carrying too many things that aren't cakes!/%
 scr_text_slash_scr_text_gml_3197_0
@@ -4550,13 +4550,13 @@ scr_text_slash_scr_text_gml_4997_0
 scr_text_slash_scr_text_gml_4998_0
 * That's the power of [Baker's Arms]!/
 scr_text_slash_scr_text_gml_4999_0
-* (You got Spincake.)/%
+* (Obtuviste un Spincake.)/%
 scr_text_slash_scr_text_gml_5007_0
 * Would you like to take my cake for a spin?/
 scr_text_slash_scr_text_gml_5008_0
 * Like night and day^1, the cake and the world revolve!/
 scr_text_slash_scr_text_gml_5009_0
-* (You got Spincake.)/
+* (Obtuviste un Spincake.)/
 scr_text_slash_scr_text_gml_5010_0
 * Come again another day^1! Haha hiha!/%
 scr_text_slash_scr_text_gml_5015_0
@@ -4581,7 +4581,7 @@ scr_text_slash_scr_text_gml_5048_0
 scr_text_slash_scr_text_gml_5049_0
 #Reparanos
 scr_text_slash_scr_text_gml_5050_0
-Chatear
+Hablar
 scr_text_slash_scr_text_gml_5051_0
 scr_text_slash_scr_text_gml_5062_0
 * Bien^1, bien. Bienvenido a TOP BAKERY./
@@ -4719,15 +4719,15 @@ scr_text_slash_scr_text_gml_5274_0
 * Vamos a hacerte el mas fuerte^1, Jefe!/
 scr_text_slash_scr_text_gml_5275_0
 scr_text_slash_scr_text_gml_5227_0
-* Congratulations Boss^1! You defeated all the challenges!/
+* ¡Felicidades Jefe^1! ¡Derrotaste todos los desafíos!/
 scr_text_slash_scr_text_gml_5228_0
-* I have nothing more to teach or give you. But you're welcome to get some practice in!/
+* No tengo nada más que enseñarte o darte. ¡Pero eres bienvenido a practicar!/
 scr_text_slash_scr_text_gml_5229_0
 scr_text_slash_scr_text_gml_5290_0
 scr_text_slash_scr_text_gml_5296_0
 * Estaremos trabajando en NUEVOS DESAFÍOS^1, así que vuelva para revisar^1, Jefe!/%
 scr_text_slash_scr_text_gml_5252_0_b
-* No worries^1, Boss^1! We'll always be here./%
+* No te preoucupes^1 Jefe^1! Siempre estaremos aquí./%
 scr_text_slash_scr_text_gml_5301_0
 #Unirse
 scr_text_slash_scr_text_gml_5302_0
@@ -4753,15 +4753,15 @@ scr_text_slash_scr_text_gml_5327_0
 scr_text_slash_scr_text_gml_5328_0
 \EI* Bueno^1, si estás tan decidido a demostrar tu inferioridad.../%
 scr_text_slash_scr_text_gml_5335_0
-#I feel#the same
+#Siento#lo mismo
 scr_text_slash_scr_text_gml_5336_0
-#It's strange
+#Es extraño
 scr_text_slash_scr_text_gml_5337_0
 scr_text_slash_scr_text_gml_5338_0
 scr_text_slash_scr_text_gml_5341_0
-\EI* ..^1. is it s-strange to say.../
+\EI* ..^1. es extraño decir.../
 scr_text_slash_scr_text_gml_5342_0
-\E1\M0* It's nice spending time alone with you like this...?/
+\E1\M0* Es bueno pasar tiempo a solas contigo así...?/
 scr_text_slash_scr_text_gml_5343_0
 scr_text_slash_scr_text_gml_5349_0
 scr_text_slash_scr_text_gml_5355_0
@@ -4774,61 +4774,61 @@ scr_text_slash_scr_text_gml_5363_0
 scr_text_slash_scr_text_gml_5364_0
 Berdly
 scr_text_slash_scr_text_gml_5366_0
-#Thinking#of ~1
+#Pensando#en ~1
 scr_text_slash_scr_text_gml_5367_0
-#Thinking#of you
+#Pensando#en ti
 scr_text_slash_scr_text_gml_5368_0
 ?
 scr_text_slash_scr_text_gml_5369_0
 scr_text_slash_scr_text_gml_5372_0
-\E2* ..^1. what are you thinking about right now?/
+\E2* ..^1. ¿en qué estás pensando ahora?/
 scr_text_slash_scr_text_gml_5373_0
 scr_text_slash_scr_text_gml_5379_0
 scr_text_slash_scr_text_gml_5385_0
-It's nice#that Ralsei#is Ralsei
+Es agradable#que Ralsei#sea Ralsei
 scr_text_slash_scr_text_gml_5386_0
 scr_text_slash_scr_text_gml_5387_0
 scr_text_slash_scr_text_gml_5388_0
 scr_text_slash_scr_text_gml_5391_0
-\E1* And of course^1, Kris. It's nice that..^1. you're you./
+\E1* Y por supuesto^1 Kris. Es bueno que...^1. Eres tú./
 scr_text_slash_scr_text_gml_5392_0
 scr_text_slash_scr_text_gml_5399_0
 \ED* H..^1. huh???/
 scr_text_slash_scr_text_gml_5400_0
-\E1* No one's..^1. no one's ever said that to me before.../
+\E1* Nadie..^1. Nadie me ha dicho eso antes.../
 scr_text_slash_scr_text_gml_5401_0
 \EO* I..^1. I.../
 scr_text_slash_scr_text_gml_5402_0
-\E1* I mean^1, e-everything's a first for me^1, but.../
+\E1* Quiero decir^1, es-todo es una primicia para mí^1, pero.../
 scr_text_slash_scr_text_gml_5403_0
-\EO* Hearing it from you^1, um.../
+\EO* Escuchándolo de ti^1, um.../
 scr_text_slash_scr_text_gml_5404_0
-\E1* It..^1. it means a lot. Haha./%
+\E1* Eso..^1. Significa mucho. Jaja./%
 scr_text_slash_scr_text_gml_5412_0
 \ED* ...?/
 scr_text_slash_scr_text_gml_5413_0
-\EQ* It's..^1. just like you to be quiet right now./
+\EQ* Es..^1. como si estuvieras callado ahora mismo./
 scr_text_slash_scr_text_gml_5414_0
 \EP* Haha...^1. hahaha!!!/
 scr_text_slash_scr_text_gml_5415_0
-\E1* That's right^1, isn't it?/
+\E1* Así es^1, ¿no?/
 scr_text_slash_scr_text_gml_5416_0
-\E2* It's so..^1. you-like!!/
+\E2* Es así..^1. Te gusta!!/
 scr_text_slash_scr_text_gml_5417_0
 scr_text_slash_scr_text_gml_5418_0
-\E2* ..^1. I guess I like you-like things..^1. haha./%
+\E2* ..^1. Supongo que me gustan las cosas que te gustan..^1. haha./%
 scr_text_slash_scr_text_gml_5425_0
 #No posar
 scr_text_slash_scr_text_gml_5426_0
-#Hug Ralsei
+#Abrazar a Ralsei
 scr_text_slash_scr_text_gml_5427_0
-Peace sign
+Signo de paz
 scr_text_slash_scr_text_gml_5428_0
-Rude gesture
+Gesto grosero
 scr_text_slash_scr_text_gml_5431_0
-\E1* Looks like the ride's almost over^1, Kris.../
+\E1* Parece que el viaje casi termina^1, Kris.../
 scr_text_slash_scr_text_gml_5432_0
-\EJ* O-oh^1, there's a camera^1! Should we^1, um..^1. pose!?/
+\EJ* O-oh^1, ¡hay una cámara^1! ¿Deberiamos^1, um..^1. Posar!?/
 scr_text_slash_scr_text_gml_5433_0
 scr_text_slash_scr_text_gml_5439_0
 photocon
@@ -4837,31 +4837,31 @@ scr_text_slash_scr_text_gml_5451_0
 scr_text_slash_scr_text_gml_5457_0
 scr_text_slash_scr_text_gml_5463_0
 scr_text_slash_scr_text_gml_5464_0
-#Evil Queen's#Castle
+#Castillo diabolico#de Queen
 scr_text_slash_scr_text_gml_5465_0
 scr_text_slash_scr_text_gml_5466_0
 scr_text_slash_scr_text_gml_5469_0
-* Uhhh^1, it's uhhh..../
+* Uhhh^1, es uhhh..../
 scr_text_slash_scr_text_gml_5470_0
 scr_text_slash_scr_text_gml_5476_0
 scr_text_slash_scr_text_gml_5482_0
 scr_text_slash_scr_text_gml_5488_0
-#Point and#hearts come out
+#Punto y#corazones salen
 scr_text_slash_scr_text_gml_5489_0
-#Eat Moss
+#Comer musgo
 scr_text_slash_scr_text_gml_5490_0
 scr_text_slash_scr_text_gml_5491_0
 scr_text_slash_scr_text_gml_5494_0
-\EK* (What..^1. the hell am I supposed to do^1, uh^1, here.)/
+\EK* (Que..^1. Se supone que el infierno es lo que debo hacer^1, uh^1, aquí.)/
 scr_text_slash_scr_text_gml_5495_0
-\EK* (Damn^1, Kris would know what to do!)/
+\EK* (Damn^1, ¡Kris sabría qué hacer!)/
 scr_text_slash_scr_text_gml_5496_0
 scr_text_slash_scr_text_gml_5507_0
-\EC* (...Actually^1, uh^1, maybe Kris wouldn't know what to do...)/%
+\EC* (...Actualmente^1, uh^1, ¡Kris sabría qué hacer!)/%
 scr_text_slash_scr_text_gml_5514_0
-#Do something#nuts
+#Hacer algo#loco
 scr_text_slash_scr_text_gml_5515_0
-#Do something#crazy
+#Hacer algo#mas loco
 scr_text_slash_scr_text_gml_5516_0
 scr_text_slash_scr_text_gml_5517_0
 scr_text_slash_scr_text_gml_5520_0
@@ -4870,23 +4870,23 @@ scr_text_slash_scr_text_gml_5521_0
 scr_text_slash_scr_text_gml_5527_0
 scr_text_slash_scr_text_gml_5533_0
 scr_text_slash_scr_text_gml_5539_0
-#Say something#romantic
+#Decir algo#romantico
 scr_text_slash_scr_text_gml_5540_0
-#Say something#cool
+#Decir algo#cool
 scr_text_slash_scr_text_gml_5541_0
 scr_text_slash_scr_text_gml_5542_0
 scr_text_slash_scr_text_gml_5545_0
-\E6* M..^1. me? Umm.../
+\E6* Y..^1. yo? Umm.../
 scr_text_slash_scr_text_gml_5546_0
 scr_text_slash_scr_text_gml_5552_0
 scr_text_slash_scr_text_gml_5558_0
 scr_text_slash_scr_text_gml_5564_0
-#Lie
+#Mentir
 scr_text_slash_scr_text_gml_5565_0
 scr_text_slash_scr_text_gml_5566_0
 scr_text_slash_scr_text_gml_5567_0
 scr_text_slash_scr_text_gml_5570_0
-\EA* Uhhh^1, like^1,/
+\EA* Uhhh^1, como^1,/
 scr_text_slash_scr_text_gml_5571_0
 scr_text_slash_scr_text_gml_5577_0
 scr_text_slash_scr_text_gml_5583_0
@@ -4896,9 +4896,9 @@ scr_text_slash_scr_text_gml_5591_0
 scr_text_slash_scr_text_gml_5592_0
 scr_text_slash_scr_text_gml_5595_0
 scr_text_slash_scr_text_gml_5596_0
-\E1* (Kris..^1. you've got goosebumps.)/
+\E1* (Kris..^1. se te pone la piel de gallina.)/
 scr_text_slash_scr_text_gml_5597_0
-\EC* (..^1. you ok?)/
+\EC* (..^1. estás bien?)/
 scr_text_slash_scr_text_gml_5598_0
 scr_text_slash_scr_text_gml_5604_0
 scr_text_slash_scr_text_gml_5610_0
@@ -4907,60 +4907,60 @@ scr_text_slash_scr_text_gml_5617_0
 scr_text_slash_scr_text_gml_5618_0
 scr_text_slash_scr_text_gml_5619_0
 scr_text_slash_scr_text_gml_5622_0
-* There's something shining inside the old machine..^1. take it?/
+* Hay algo brillando dentro de la vieja máquina..^1. tómarlo?/
 scr_text_slash_scr_text_gml_5623_0
 scr_text_slash_scr_text_gml_5633_0
-* (The EmptyDisk was added to your KEY ITEMS.)/%
+* (El EmptyDisk se ha agregado a tus OBJETOS CLAVES.)/%
 scr_text_slash_scr_text_gml_5642_0
 scr_text_slash_scr_text_gml_5647_0
 scr_text_slash_scr_text_gml_5648_0
 scr_text_slash_scr_text_gml_5649_0
 scr_text_slash_scr_text_gml_5650_0
 scr_text_slash_scr_text_gml_5653_0
-* (There's a slot for a disk here.)/
+* (Hay una ranura para un disco aquí.)/
 scr_text_slash_scr_text_gml_5654_0
-* (Insert the LoadedDisk?)/
+* (Insertar el LoadedDisk?)/
 scr_text_slash_scr_text_gml_5655_0
 gml_Script_scr_tempsave
 scr_text_slash_scr_text_gml_5662_0
-* (You put the disk into the broken down mechanism.)/
+* (Pones el disco en el mecanismo de descompuesto.)/
 scr_text_slash_scr_text_gml_5663_0
 scr_text_slash_scr_text_gml_5664_0
-* (Nothing happened.)/%
+* (No sucede nada.)/%
 scr_text_slash_scr_text_gml_5676_0
 scr_text_slash_scr_text_gml_5681_0
 scr_text_slash_scr_text_gml_5682_0
-#Recommendation
+#Recomendación
 scr_text_slash_scr_text_gml_5683_0
 Salir
 scr_text_slash_scr_text_gml_5684_0
 scr_text_slash_scr_text_gml_5700_0
-* Good evening^1, boss./
+* Buenas noches^1, jefe./
 scr_text_slash_scr_text_gml_5701_0
-* We found a strange hooligan trying to turn the cafe.../
+* Encontramos un extraño hooligan tratando de dar vuelta a la cafetería.../
 scr_text_slash_scr_text_gml_5702_0
-* Into a second bakery./
+* En una segunda panadería./
 scr_text_slash_scr_text_gml_5703_0
-* He was spinning and crying as my men carried him out./
+* Estaba girando y llorando mientras mis hombres lo llevaban a cabo./
 scr_text_slash_scr_text_gml_5704_0
-* We do not predict any further difficulties./
+* No pronosticamos más dificultades./
 scr_text_slash_scr_text_gml_5705_0
-* Now^1, please. You've worked hard^1, boss. Relax and enjoy yourself.../
+* Ahora^1, Por favor. Has trabajado duro^1, jefe. Relájate y diviértete.../
 scr_text_slash_scr_text_gml_5706_0
 scr_text_slash_scr_text_gml_5710_0
 scr_text_slash_scr_text_gml_5711_0
-* I found a strange hooligan trying to turn the cafe.../
+* Encontramos un extraño hooligan tratando de dar vuelta a la cafetería.../
 scr_text_slash_scr_text_gml_5712_0
 scr_text_slash_scr_text_gml_5713_0
-* It was a cruel struggle^1, but I managed to remove him./
+* Fue una lucha cruel^1, pero logré eliminarlo./
 scr_text_slash_scr_text_gml_5714_0
-* ..^1. If only my men were here.../
+* ..^1. Si mis hombres estuvieran aquí.../
 scr_text_slash_scr_text_gml_5715_0
-* My apologies. This is no time to reminisce./
+* Mis disculpas. No es momento de recordar./
 scr_text_slash_scr_text_gml_5716_0
 scr_text_slash_scr_text_gml_5717_0
 scr_text_slash_scr_text_gml_5722_0
-* Good evening^1, boss^1. Please^1, relax and enjoy yourself.../
+* Buenas noches^1, jefe^1. Por favor^1, relájate y diviértete.../
 scr_text_slash_scr_text_gml_5723_0
 scr_text_slash_scr_text_gml_5732_0
 party_count
@@ -4969,21 +4969,21 @@ randomize
 irandom
 response
 scr_text_slash_scr_text_gml_5765_0
-* For the young human^1, we recommend a chocolate blueberry latte.../
+* Para los jóvenes^1, recomendamos un latte de arándanos de chocolate.../
 scr_text_slash_scr_text_gml_5766_0
-* Boss^1, please try not to use all of the sugar./%
+* Jefe^1, por favor trate de no usar todo el azúcar./%
 scr_text_slash_scr_text_gml_5770_0
-* For the young monster^1, we recommend the blackberry tart.../
+* Para el joven monstruo^1, recomendamos la tarta de mora.../
 scr_text_slash_scr_text_gml_5771_0_b
-* This way^1, even if you eat it quickly^1, you won't notice the stains./%
+* De esta manera^1, incluso si lo come rápidamente^1, no notará las manchas./%
 scr_text_slash_scr_text_gml_5775_0
-* For the young prince^1, we recommend the vanilla green tea./
+* Para el joven príncipe^1, recomendamos el té verde vainilla./
 scr_text_slash_scr_text_gml_5776_0
-* ..^1. There's not much to go off besides your color./%
+* ..^1. No hay mucho que hacer además de tu color./%
 scr_text_slash_scr_text_gml_5780_0
-* For the young deer^1, we recommend the cinnamon eggnog./
+* Para los ciervos^1, recomendamos el ponche de huevo de canela./
 scr_text_slash_scr_text_gml_5781_0
-* We've shaved candy cane on top for extra flavor./%
+* Hemos afeitado la caña de caramelo en la parte superior para un sabor extra./%
 scr_text_slash_scr_text_gml_5787_0
 noone
 scr_text_slash_scr_text_gml_5798_0
@@ -4991,41 +4991,41 @@ scr_text_slash_scr_text_gml_5799_0
 scr_text_slash_scr_text_gml_5800_0
 scr_text_slash_scr_text_gml_5801_0
 scr_text_slash_scr_text_gml_5802_0
-* Just in time for your appointment./
+* Justo a tiempo para su cita./
 scr_text_slash_scr_text_gml_5803_0
-* Would you assist in organizing these paintings?/
+* ¿Ayudarías a organizar estas pinturas?/
 scr_text_slash_scr_text_gml_5804_0
 scr_text_slash_scr_text_gml_5811_0
-#Left
+#Izquierda
 scr_text_slash_scr_text_gml_5812_0
-#Right
+#Derecha
 scr_text_slash_scr_text_gml_5813_0
 Top
 scr_text_slash_scr_text_gml_5814_0
 Bottom
 scr_text_slash_scr_text_gml_5819_0
-* How refined./
+* Qué refinado./
 scr_text_slash_scr_text_gml_5820_0
-* Then^1, the first question./
+* Entonces^1, la primera pregunta./
 scr_text_slash_scr_text_gml_5821_0
-* Which painting's name is first alphabetically?/
+* ¿Qué nombre de la pintura es el primero alfabéticamente?/
 scr_text_slash_scr_text_gml_5822_0
 scr_text_slash_scr_text_gml_5826_0
-* How disobedient./
+* Qué desobediente./
 scr_text_slash_scr_text_gml_5827_0
-* Someone ought to whip you into shape!/%
+* ¡Alguien debería ponerte en forma!/%
 scr_text_slash_scr_text_gml_5836_0
 scr_text_slash_scr_text_gml_5837_0
 scr_text_slash_scr_text_gml_5838_0
 scr_text_slash_scr_text_gml_5839_0
 scr_text_slash_scr_text_gml_5844_0
 scr_text_slash_scr_text_gml_5845_0
-* Then^1, the next question./
+* Entonces^1, la siguiente pregunta./
 scr_text_slash_scr_text_gml_5846_0
-* Which painting's name is third alphabetically?/
+* ¿Qué nombre de la pintura es el tercero alfabéticamente?/
 scr_text_slash_scr_text_gml_5847_0
 scr_text_slash_scr_text_gml_5853_0
-* Incorrect. It seems your organization is lacking./
+* Incorrecto. Parece que su organización carece./
 scr_text_slash_scr_text_gml_5854_0
 scr_text_slash_scr_text_gml_5863_0
 scr_text_slash_scr_text_gml_5864_0
@@ -5034,18 +5034,18 @@ scr_text_slash_scr_text_gml_5866_0
 scr_text_slash_scr_text_gml_5871_0
 scr_text_slash_scr_text_gml_5872_0
 scr_text_slash_scr_text_gml_5873_0
-* Which painting is fourth?/
+* ¿Qué pintura es la cuarta?/
 scr_text_slash_scr_text_gml_5874_0
 scr_text_slash_scr_text_gml_5880_0
 scr_text_slash_scr_text_gml_5881_0
 scr_text_slash_scr_text_gml_5892_0
-* That's correct!/
+* Eso es correcto!/
 scr_text_slash_scr_text_gml_5893_0
-* I'm so happy I could whip something!/%
+* ¡Estoy tan feliz de poder azotar algo!/%
 scr_text_slash_scr_text_gml_5899_0
-* Hm? That's the number 2^1, not the number 4.../
+* Hm? Ese es el número 2^1, no el número 4.../
 scr_text_slash_scr_text_gml_5900_0
-* Have you gotten disorganized? Someone ought to whip you into shape!/%
+* ¿Te has desorganizado? ¡Alguien debería azotarte para ponerte en forma!/%
 scr_text_slash_scr_text_gml_5906_0
 scr_text_slash_scr_text_gml_5907_0
 scr_text_slash_scr_text_gml_5915_0
@@ -5067,9 +5067,9 @@ scr_text_slash_scr_text_gml_5943_0
 scr_text_slash_scr_text_gml_5959_0
 \m3		*Un placer hacer negocios& contigo^1! ..^1. (tonto)/
 scr_text_slash_scr_text_gml_5965_0
-\m3		*Hey^1, you don't have any room./
+\m3		*Hey^1, no tienes espacio./
 scr_text_slash_scr_text_gml_5966_0
-\m3		*What^1, took too many bribes?/%
+\m3		*Que^1, tomó demasiados sobornos?/%
 scr_text_slash_scr_text_gml_5972_0
 \m3		*Que!? Muy caro!?/
 scr_text_slash_scr_text_gml_5973_0
@@ -5103,28 +5103,28 @@ scr_text_slash_scr_text_gml_6044_0
 \m2		*Puedo tener uno^1, también?&\m3	Tu los vendes!/%
 k_k
 scr_text_slash_scr_text_gml_6049_0
-\m2		*You can't afford it? Don't&	worry^1, this one's on me!/
+\m2		*No te lo permites? No te&	preoucupes^1, Esta es sobre mí!/
 scr_text_slash_scr_text_gml_6051_0
-* (You got a bagel.)/%
+* (Tienes un bagel.)/%
 scr_text_slash_scr_text_gml_6056_0
-\m3		*No room for a bagel!&\m2	What about the hole?/%
+\m3		*No hay espacio para un bagel!&\m2	¿Y el agujero?/%
 scr_text_slash_scr_text_gml_6063_0
 \m2		*Está bien. No he comprado&	una tampoco./%
 scr_text_slash_scr_text_gml_6068_0
-#Look in#the back
+#Mira#detras
 scr_text_slash_scr_text_gml_6069_0
-#Look inside
+#Mirar dentro
 scr_text_slash_scr_text_gml_6070_0
 scr_text_slash_scr_text_gml_6071_0
 scr_text_slash_scr_text_gml_6074_0
-* How To Care For A Human/
+* Cómo cuidar a un humano/
 scr_text_slash_scr_text_gml_6075_0
-* (It's a book for monsters on how to care for humans.)/
+* (Es un libro para monstruos sobre cómo cuidar a los humanos.)/
 scr_text_slash_scr_text_gml_6076_0
 scr_text_slash_scr_text_gml_6083_0
-* (According to the card in the back...)/
+* (Según la tarjeta de atrás...)/
 scr_text_slash_scr_text_gml_6084_0
-* (..^1. looks like your mother took it out repeatedly many years ago.)/%
+* (..^1. parece que su madre lo tomó repetidamente hace muchos años.)/%
 scr_text_slash_scr_text_gml_6090_0
 * (There are photos of unfamiliar humans inside.)/
 scr_text_slash_scr_text_gml_6091_0
@@ -5970,7 +5970,7 @@ get_crystal
 scr_text_slash_scr_text_gml_7648_0
 * (You reached inside and found something alongside a strange piece of glass...)/
 scr_text_slash_scr_text_gml_7658_0
-* (You got ShadowCrystal.)/
+* (Obtuviste un ShadowCrystal.)/
 remove_shine
 scr_text_slash_scr_text_gml_7674_0
 \EQ* Kris^1, ¿Quieres volver a leer mi entrada editable de CYBERPEDIA?/
@@ -15392,7 +15392,7 @@ obj_npc_hammerguy_slash_Step_0_gml_216_0
 obj_npc_hammerguy_slash_Step_0_gml_221_0
 * Let's pick up the pace./%
 obj_npc_hammerguy_slash_Step_0_gml_251_0
-* (You got ~1!)/%
+* (Obtuviste un ~1!)/%
 checked
 teleportmode
 weirdlight
@@ -16531,13 +16531,13 @@ obj_npc_room_slash_Other_10_gml_1656_0
 obj_npc_room_slash_Other_10_gml_1662_0
 obj_npc_room_slash_Other_10_gml_1668_0
 obj_npc_room_slash_Other_10_gml_1722_0
-* Good evening^1, boss^1. Today's meal is Crisped `#E23D28./
+* Buenas noches^1, jefe^1. La comida de hoy está crujiente `#E23D28./
 obj_npc_room_slash_Other_10_gml_1723_0
-* It's been deep-fried with the finest JPEG artifacting.../
+* Ha sido frita con los mejores artículos JPEG.../
 obj_npc_room_slash_Other_10_gml_1724_0
 * I hope it suits your palette..^1. er^1, palate./%
 obj_npc_room_slash_Other_10_gml_1729_0
-* Boss^1, this Cafe is so unrefined. So plain./
+* Jefe^1, este café no está refinado. Así de claro./
 obj_npc_room_slash_Other_10_gml_1730_0
 * Why don't we make it into an animal cafe?/
 obj_npc_room_slash_Other_10_gml_1731_0
@@ -19134,144 +19134,144 @@ obj_readable_room1_slash_Other_10_gml_2170_0
 * TANJOUBY.../%
 obj_readable_room1_slash_Other_10_gml_2177_0
 obj_readable_room1_slash_Other_10_gml_2185_0
-* There's nothing interesting./%
+* No hay nada interesante./%
 obj_readable_room1_slash_Other_10_gml_2199_0
 * (...)/%
 obj_readable_room1_slash_Other_10_gml_2216_0
-* (You tapped the mechanism.)/
+* (Tocaste el mecanismo.)/
 obj_readable_room1_slash_Other_10_gml_2217_0
-* (..^1. Nothing happened.)/
+* (..^1. no sucedió nada)/
 obj_readable_room1_slash_Other_10_gml_2218_0
-* (You shook the mechanism.)/
+* (Sacudiste el mecanismo.)/
 obj_readable_room1_slash_Other_10_gml_2219_0
-* (You hit it.)/
+* (Lo has golpeado.)/
 obj_readable_room1_slash_Other_10_gml_2220_0
-* (You kicked it.)/
+* (Lo pateaste.)/
 obj_readable_room1_slash_Other_10_gml_2221_0
 obj_readable_room1_slash_Other_10_gml_2222_0
 obj_readable_room1_slash_Other_10_gml_2227_0
 obj_readable_room1_slash_Other_10_gml_2238_0
 obj_readable_room1_slash_Other_10_gml_2244_0
-* (Click!)&* (You found a hidden switch!)/%
+* (Click!)&* (Has encontrado un interruptor oculto!)/%
 obj_readable_room1_slash_Other_10_gml_2254_0
 obj_readable_room1_slash_Other_10_gml_2260_0
-* (Sounds like a forcefield powering down..^1. or something.)/%
+* (Suena como un campo de fuerza apagándose..^1. O algo así.)/%
 obj_readable_room1_slash_Other_10_gml_2269_0
 obj_readable_room1_slash_Other_10_gml_2275_0
 obj_readable_room1_slash_Other_10_gml_2284_0
-* (Nubert's gone.)/
+* (Nubert se ha ido.)/
 obj_readable_room1_slash_Other_10_gml_2285_0
-* (Looks like Nubert's screen is moving up in the world...)/%
+* (Parece que la pantalla de Nubert se está moviendo en el mundo...)/%
 obj_readable_room1_slash_Other_10_gml_2291_0
 * (Parece estar atascado.)/%
 obj_readable_room1_slash_Other_10_gml_2367_0_b
-* (It seems to be stupid.)/%
+* (Parece ser estúpido.)/%
 obj_readable_room1_slash_Other_10_gml_2373_0
 * La puerta suena pero no se abre./%
 obj_readable_room1_slash_Other_10_gml_2303_0
-* (Sounds like a forcefield powering down.)/%
+* (Suena como si se apagara un campo de fuerza.)/%
 obj_readable_room1_slash_Other_10_gml_2307_0
 obj_readable_room1_slash_Other_10_gml_2318_0
-* (The closet is spacious and full of old electronics.)/
+* (El armario es amplio y lleno de electrónica antigua.)/
 obj_readable_room1_slash_Other_10_gml_2319_0
-* (A large person could easily fit inside.)/%
+* (Una persona grande podría caber fácilmente dentro.)/%
 obj_readable_room1_slash_Other_10_gml_2326_0
-* (Looks like the library's state-of-the-art public laptop.)/
+* (Parece el portátil público de última generación de la biblioteca.)/
 obj_readable_room1_slash_Other_10_gml_2327_0
-* (Someone left it on.)/%
+* (Alguien lo dejó encendido.)/%
 obj_readable_room1_slash_Other_10_gml_2334_0
-* (It's full of many backup devices^1, like extra mice^1, extra keyboards^1, or extra maracas.)/%
+* (Está lleno de dispositivos con copias^1, como ratones^1, teclados^1 o maracas extra.)/%
 obj_readable_room1_slash_Other_10_gml_2341_0
-* (It's a computer. The monitor is flickering brightly.)/%
+* (Es una computadora. El monitor parpadea intensamente.)/%
 obj_readable_room1_slash_Other_10_gml_2348_0
 obj_readable_room1_slash_Other_10_gml_2349_0
-* (A dolphin screensaver is advertising some kind of malware.)/%
+* (Un salvapantallas de delfines está anunciando algún tipo de malware.)/%
 obj_readable_room1_slash_Other_10_gml_2360_0
 obj_readable_room1_slash_Other_10_gml_2361_0
-* (Someone tried to check their email^1, but the Internet is down.)/%
+* (Alguien intentó comprobar su email^1, pero no hay Internet.)/%
 obj_readable_room1_slash_Other_10_gml_2366_0
 obj_readable_room1_slash_Other_10_gml_2367_0
-* (... It's nothing but a blue screen. Looks like it crashed.)/%
+* (... No es más que una pantalla azul. Parece que se estrelló.)/%
 obj_readable_room1_slash_Other_10_gml_2377_0
-* (Various posters talking about Internet safety.)/%
+* (Varios carteles que hablan sobre la seguridad en Internet.)/%
 obj_readable_room1_slash_Other_10_gml_2381_0
-* (You suddenly thought about how your day might have been different...)/
+* (De repente pensaste en cómo tu día podría haber sido diferente...)/
 obj_readable_room1_slash_Other_10_gml_2382_0
-* (..^1. If the poster with that orange cat was still on the wall.)/%
+* (..^1. Si el cartel con ese gato naranja todavía estaba en la pared.)/%
 obj_readable_room1_slash_Other_10_gml_2390_0
-* (It's a trashcan. You get the feeling it doesn't have any friends.)/
+* (Es un bote de basura. Tienes la sensación de que no tiene amigos.)/
 obj_readable_room1_slash_Other_10_gml_2391_0
-* (It's hard to explain why you feel this way about a trashcan.)/%
+* (Es difícil explicar por qué te sientes así por un bote de basura.)/%
 obj_readable_room1_slash_Other_10_gml_2398_0
-* (It's a recycling bin.)/
+* (Es una papelera de reciclaje.)/
 obj_readable_room1_slash_Other_10_gml_2399_0
-* (Looks like someone accidentally printed off a lot of useless emails.)/%
+* (Parece que alguien accidentalmente imprimió fuera de muchos email inútiles.)/%
 obj_readable_room1_slash_Other_10_gml_2406_0
-* Please respect the pottery./%
+* Por favor, respete la cerámica./%
 obj_readable_room1_slash_Other_10_gml_2484_0
 * (Es un anuncio para una rueda de feria.)/%
 obj_readable_room1_slash_Other_10_gml_2492_0
 obj_readable_room1_slash_Other_10_gml_2494_0
-\E1* (Susie is surely thinking of her ride with Noelle...)/
+\E1* (Susie está pensando seguramente en su viaje con Noelle...)/
 obj_readable_room1_slash_Other_10_gml_2496_0
-\EK* (The hell is a ferris^1, anyway?)/
+\EK* (Que diablos es una ruleta^1, de todas formas?)/
 obj_readable_room1_slash_Other_10_gml_2497_0
-\EC* (Some kind of tank with giant wheels?)/%
+\EC* (¿Algún tipo de tanque con ruedas gigantes?)/%
 obj_readable_room1_slash_Other_10_gml_2512_0
-\Ec* (Why are they..^1. staring into my eyes like that?)/%
+\Ec* (¿Por qué están..^1. mirándome así a los ojos?)/%
 obj_readable_room1_slash_Other_10_gml_2517_0
-\Ec* (What are they looking at?)/%
+\Ec* (¿Qué están mirando?)/%
 obj_readable_room1_slash_Other_10_gml_2522_0
-\Ec* (I..^1. I can't see what they're doing^1, but...)/
+\Ec* (Y..^1. No puedo ver lo que están haciendo^1, pero...)/
 obj_readable_room1_slash_Other_10_gml_2523_0
-\Ec* (Aren't they staring at me...?)/%
+\Ec* (¿No me están mirando...?)/%
 obj_readable_room1_slash_Other_10_gml_2529_0
-\Ec* (Why don't they step on the switch...?)/%
+\Ec* (¿Por qué no encienden el interruptor...?)/%
 obj_readable_room1_slash_Other_10_gml_2545_0
-* Left: Shortcut to 1F/%
+* Izquierda: Acceso directo a 1F/%
 obj_readable_room1_slash_Other_10_gml_2553_0
-* (It's a video of someone creating a strange pillar of smoke.)/
+* (Es un video de alguien que crea un extraña columna de humo.)/
 obj_readable_room1_slash_Other_10_gml_2554_0
-* (There's so much smoke^1, it's hard to tell who it is.)/%
+* (Hay tanto humo^1, es difícil decir quién es.)/%
 obj_readable_room1_slash_Other_10_gml_2578_0
-\E4* (I guess marimos and stuff are kind of cute...?)/
+\E4* (Supongo que los marimos y esas cosas son lindas...?)/
 obj_readable_room1_slash_Other_10_gml_2579_0
-\E8* (..^1. What the heck am I saying?)/%
+\E8* (..^1. ¿Qué diablos estoy diciendo?)/%
 obj_readable_room1_slash_Other_10_gml_2585_0
-* (Moss. There's not enough to eat.)/%
+* (Musgo. No hay suficiente para comer.)/%
 obj_readable_room1_slash_Other_10_gml_2591_0
-* (It's some moss...)/%
+* (Es un poco de musgo...)/%
 obj_readable_room1_slash_Other_10_gml_2596_0
-* (The room between..^1. There is a room between.)/%
+* (La habitación entre..^1. Hay una habitación entre.)/%
 obj_readable_room1_slash_Other_10_gml_2609_0
 obj_readable_room1_slash_Other_10_gml_2618_0
-* (Buy Queen Clean^1! The most popular cleaning flavors!)/%
+* (¡Compra Queen Clean^1! ¡Los sabores de limpieza más populares!)/%
 obj_readable_room1_slash_Other_10_gml_2624_0
-* (Queen Clean^1! Made of 100`% acid!)/%
+* (Queen Clean^1! hecho con un 100`% de acido!)/%
 obj_readable_room1_slash_Other_10_gml_2632_0
-* (The poster is torn^1, revealing a faded one underneath.)/
+* (El póster está rasgado^1, revelando uno descolorido debajo.)/
 obj_readable_room1_slash_Other_10_gml_2633_0
-* BIG SHOT AUTOS^1! TAKE A RIDE AROUND TOWN IN OUR SPECIAL/
+* BIG SHOT AUTOS^1! DÉ UN PASEO POR LA CIUDAD EN NUESTRO ESPECIAL/
 obj_readable_room1_slash_Other_10_gml_2634_0
-* (The rest is cut off.)/%
+* (El resto está cortado.)/%
 obj_readable_room1_slash_Other_10_gml_2638_0
-* (It's a torn poster.)/%
-obj_readable_room1_slash_Other_10_gml_2633_0_b
-* (Mice will rotate 90 degrees when they collide with the block.)/
-obj_readable_room1_slash_Other_10_gml_2634_0_b
-* (Ciudadanos deben empujar bloques para que los ratones entren. Usa la campana para resetear.)/%
-obj_readable_room1_slash_Other_10_gml_2640_0
-* (Es el deber del ciudadano rotar y liberar los ratones usando las señales de tránsito.)/
-obj_readable_room1_slash_Other_10_gml_2641_0
-* ~1: Engage and Disengage.&* ~2 ~3: Rotate.&* ~4: Release./%
-obj_readable_room1_slash_Other_10_gml_2651_0
-* (It's a hole for mice to come from.)/%
-obj_readable_room1_slash_Other_10_gml_2656_0
-* (El hoyo esta vacío.)/%
+* (Es un cartel roto.)/%
 obj_readable_room1_slash_Other_10_gml_2665_0
 * (Es un hoyo para que ratones entren ahí.)/%
 obj_readable_room1_slash_Other_10_gml_2670_0
-* (There are mice inside scampering pleasingly.)/%
+* (Hay ratones dentro corriendo agradablemente.)/%
+obj_readable_room1_slash_Other_10_gml_2633_0_b
+* (Los ratones girarán 90 grados cuando colisionen con el bloque.)/
+obj_readable_room1_slash_Other_10_gml_2634_0_b
+* (Debes empujar bloques para que los ratones entren. Usa la campana para reiniciar.)/%
+obj_readable_room1_slash_Other_10_gml_2651_0
+* (Es un agujero de donde salen los ratones.)/%
+obj_readable_room1_slash_Other_10_gml_2656_0
+* (El hoyo esta vacío.)/%
+obj_readable_room1_slash_Other_10_gml_2640_0
+* (Es deber del ciudadano rotar y liberar los ratones usando señales de tránsito.)/
+obj_readable_room1_slash_Other_10_gml_2641_0
+* ~1: Engage and Disengage.&* ~2 ~3: Rotate.&* ~4: Release./%
 obj_readable_room1_slash_Other_10_gml_2681_0
 \E0* Está bloqueado.../
 obj_readable_room1_slash_Other_10_gml_2682_0
@@ -20315,7 +20315,7 @@ obj_darkcontroller_slash_Step_0_gml_157_0
 obj_darkcontroller_slash_Step_0_gml_158_0
 \E8* Here you go^1, Kris^1!&* You don't wanna lose that!/
 obj_darkcontroller_slash_Step_0_gml_160_0
-* (You got the Manual.^1)&* (Again.)/%
+* (Obtuviste un Manual.^1)&* (De nuevo.)/%
 dl
 sndbuffer
 m_quit
@@ -20716,7 +20716,7 @@ Resultado
 obj_fusionmenu_slash_Step_0_gml_48_0
 Ingredientes
 obj_fusionmenu_slash_Step_0_gml_114_0
-Really fuse it?
+¿Realmente quieres fusionarlo?
 obj_fusionmenu_slash_Step_0_gml_119_0
 obj_fusionmenu_slash_Step_0_gml_124_0
 dojoEncounter
@@ -20856,7 +20856,7 @@ CAPÍTULO
 obj_fusionmenu_slash_Draw_0_gml_48_0
 NV
 obj_fusionmenu_slash_Draw_0_gml_70_0
-More Info
+Más info
 obj_fusionmenu_slash_Draw_0_gml_71_0
 obj_fusionmenu_slash_Draw_0_gml_50_0
 ~1: Mas Info#~2: Salir
@@ -27560,13 +27560,13 @@ Pastorea!
 fighttimer
 speedtimer
 obj_dojograzeenemy_slash_Step_0_gml_71_0
-* How'd you get past!?
+* ¿¡Cómo pasaste!?
 obj_dojograzeenemy_slash_Step_0_gml_91_0
-* GRAZECHALLENGE - Graze the bullets!/%
+* GRAZECHALLENGE - Roza las balas!/%
 obj_dojograzeenemy_slash_Step_0_gml_97_0
-* Susie acted!/%
+* Susie actuo!/%
 obj_dojograzeenemy_slash_Step_0_gml_106_0
-* Ralsei acted!/%
+* Ralsei actuo!/%
 battlestate
 beardcount
 shaved
@@ -27598,7 +27598,7 @@ obj_dojo_spareenemy_slash_Step_0_gml_44_0
 obj_dojo_spareenemy_slash_Step_0_gml_51_0
 \M1* El rastrojo de Joe volvio a crecer!/%
 obj_dojo_spareenemy_slash_Step_0_gml_56_0
-Boss^1!&You gotta ACT&and SPARE on&the same turn!/%
+Jefe^1!&Tienes que ACT&y PIEDAD en&el mismo turno!/%
 obj_dojo_spareenemy_slash_Step_0_gml_60_0
 * Parece que Jigsaw Joe puede querer un cuento de cuna.
 obj_dojo_spareenemy_slash_Step_0_gml_63_0
@@ -27614,20 +27614,20 @@ Usa PACIFICAR de Ralsei&inmediatamente!/%
 obj_dojo_spareenemy_slash_Step_0_gml_74_0
 Usa PACIFICAR de Ralsei&inmediatamente!/
 obj_dojo_spareenemy_slash_Step_0_gml_75_0
-Of course, PACIFY is MAGIC,&so you'll need TP./
+Por supuesto, PACIFICAR es MAGIC,&por lo que necesitarás TP./
 obj_dojo_spareenemy_slash_Step_0_gml_76_0
-Spend a turn&DEFENDING to gain TP&if you have to, boss!/%
+Gasta un turno&DEFENDIENDO para ganar TP&si es necesario jefe!/%
 obj_dojo_spareenemy_slash_Step_0_gml_70_0
-SleepyStory
+CuentoParaDormir
 obj_dojo_spareenemy_slash_Step_0_gml_79_0
 obj_dojo_spareenemy_slash_Step_0_gml_82_0
 * Jigsaw Joe tomo cafe^1! Jigsaw Joe dejo de estar CANSADO!/%
 obj_dojo_spareenemy_slash_Step_0_gml_89_0
-Boss^1! If you don't&have the TP to use&PACIFY^1, DEFENDing&will give you TP!/%
+Jefe^1! Si no tienes&el TP para usar&PACIFICAR^1, DEFENDiendo&te dara TP!/%
 obj_dojo_spareenemy_slash_Step_0_gml_91_0
 Jefe^1! Me está poniendo a&DORMIR^1! NO USTED,&por cierto^1! CANSEME&y PACIFIQUEME a mi, jefe!/%
 obj_dojo_spareenemy_slash_Step_0_gml_95_0
-Boss!!/%
+Jefe!!/%
 fakespare
 obj_dojo_spareenemy_slash_Step_0_gml_177_0
 * JIGSAW JOE - Ganale para obtener sus ahorros!/%
@@ -27665,7 +27665,7 @@ skipsound
 specialinit
 specialcolor
 obj_frozennpc_slash_Other_10_gml_4_0
-* (It's frozen solid...)/%
+* (Es sólido congelado...)/%
 particlesprite
 herocheck
 blast
@@ -27850,9 +27850,9 @@ obj_shop1_slash_Draw_0_gml_350_0
 obj_shop1_slash_Draw_0_gml_351_0
 \E0No?
 obj_shop1_slash_Draw_0_gml_352_0
-\E3Y'think I&WANT that?
+\E3Crees que&QUIERO&eso?
 obj_shop1_slash_Draw_0_gml_353_0
-\E0That's&nothing.
+\E0Eso no&es nada.
 obj_shop1_slash_Draw_0_gml_365_0
 Vender por
 obj_shop1_slash_Draw_0_gml_407_0
@@ -28014,136 +28014,136 @@ obj_shop1_slash_Draw_0_gml_675_0
 obj_shop1_slash_Draw_0_gml_640_0
 \E0* El joven príncipe tiene algo que mostrate en su castillo./
 obj_shop1_slash_Draw_0_gml_641_0
-\E3* Acaso^1, vas a rechazar una invitacion real?/%
+\E3* Acaso^1, vas a rechazar una invitación real?/%
 obj_shop1_slash_Draw_0_gml_645_0
-\E0* If I were you^1, I would head home to the LIGHT WORLD./
+\E0* Si yo fuera tú^1, me dirigiría a casa al MUNDO DE LA LUZ./
 obj_shop1_slash_Draw_0_gml_646_0
-\E1* Of course^1, I'm not you. So^1, I'm staying right here./
+\E1* Por supuesto^1, no soy tú. Así que^1, me alojo aquí./
 obj_shop1_slash_Draw_0_gml_647_0
-\E1* By the by^1, I can't offer any advice when you're not here.../
+\E1* Por el por^1, no puedo ofrecer ningún consejo cuando usted no está aquí.../
 obj_shop1_slash_Draw_0_gml_648_0
-\E2* So I'm not sure my hints will be much use after all^1! Ha ha!/%
+\E2* Así que no estoy seguro de que mis pistas serán mucho uso después de todo^1! ¡Ja ja!/%
 obj_shop1_slash_Draw_0_gml_584_0
-\E1* ..^1. Oh? What's that? It seems like he gave something to you./
+\E1* ..^1. Oh? ¿Qué es eso? Parece que te dio algo./
 obj_shop1_slash_Draw_0_gml_585_0
-\E0* That's right..^1. You must not have noticed it./
+\E0* Así es..^1. No te habrás dado cuenta./
 obj_shop1_slash_Draw_0_gml_586_0
-\E3* That Crystal..^1. It's nearly invisible^1, but you've been holding it this whole time./
+\E3* Ese cristal..^1. Es casi invisible^1, pero lo has estado sosteniendo todo este tiempo./
 obj_shop1_slash_Draw_0_gml_587_0
-\E0* Here^1, I'll take it off your hands and appraise it./
+\E0* Aquí^1, la quitaré de sus manos y la apreciaré./
 obj_shop1_slash_Draw_0_gml_588_0
 obj_shop1_slash_Draw_0_gml_589_0
-\E1* Incredible^1! To think he had a Shadow Crystal.../
+\E1* Increíble^1! Pensar que tenía un Shadow Crystal.../
 obj_shop1_slash_Draw_0_gml_590_0
-\E0* Shadow Crystals^1, so called because you can only see their shadow./
+\E0* Shadow Crystals^1, así llamado porque solo se puede ver su sombra./
 obj_shop1_slash_Draw_0_gml_591_0
 obj_shop1_slash_Draw_0_gml_592_0
-\E3* Call it a premonition^1, but I get the feeling you may find more of these.../
+\E3* Llámalo premonición^1, pero tengo la sensación de que puedes encontrar más de estos.../
 obj_shop1_slash_Draw_0_gml_593_0
-\E2* ..^1. If you continue to defeat strong adversaries like \cYhim\c0^1, that is./
+\E2* ..^1. Si continúas derrotando a adversarios fuertes como \cYél\c0^1, eso es/
 obj_shop1_slash_Draw_0_gml_594_0
-\E0* If you can gather more Shadow Crystals^1, bring them here!/
+\E0* Si puedes reunir más Cristales de Sombra^1, ¡tráelos aquí!/
 obj_shop1_slash_Draw_0_gml_595_0
 \E2* Estoy seguro de que puedo unir algo increíble para ti.../%
 normal_post_plot
 obj_shop1_slash_Draw_0_gml_681_0
-\E1* ..^1. It seems that you didn't get another Shadow Crystal./
+\E1* ..^1. Parece que no obtuviste otro Shadow Crystal./
 obj_shop1_slash_Draw_0_gml_682_0
-\E0* Hm. I understand. It's no small feat to fight an opponent that has one./
+\E0* Hm. Entiendo. No es poca cosa luchar contra un oponente que tiene uno./
 obj_shop1_slash_Draw_0_gml_683_0
 obj_shop1_slash_Draw_0_gml_684_0
-\E1* Well then^1, forget it all./
+\E1* Entonces^1, olvídalo todo./
 obj_shop1_slash_Draw_0_gml_685_0
-\E0* You're a Lightner. Don't take your life^1, well^1, lightly!/%
+\E0* Eres un Lightner. ¡No te tomes la vida^1, bueno^1, a la ligera!/%
 obj_shop1_slash_Draw_0_gml_601_0
-\E2* Well^1, what have we here^1! You managed to find another Shadow Crystal.../
+\E2* Bueno^1, ¿qué tenemos aquí^1! Lograste encontrar otro Shadow Crystal.../
 obj_shop1_slash_Draw_0_gml_602_0
-\E1* Oh^1, is that so^1? That salesman had found the crystal in the old machine...?/
+\E1* Oh^1, ¿Es así^1? ¿Ese vendedor había encontrado el cristal en la vieja máquina...?/
 obj_shop1_slash_Draw_0_gml_603_0
-\E0* I wonder..^1. if perhaps^1, long ago^1, that old machine was very important to someone./
+\E0* Me pregunto..^1. Si tal vez^1, hace mucho^1, esa vieja máquina era muy importante para alguien./
 obj_shop1_slash_Draw_0_gml_604_0
-\E3* A certain Lightner^1, perhaps..^1. or maybe it's just a hunch^1. Haha!/
+\E3* Cierto Lightner^1, tal vez..^1. o tal vez es sólo una corazonada^1. ¡Jaja!/
 obj_shop1_slash_Draw_0_gml_605_0
-\E0* At any rate^1, it's truly unfortunate a Darkner decided to steal that power.../
+\E0* En cualquier caso^1, es realmente desafortunado que un Darkner decidiera robar ese poder.../
 obj_shop1_slash_Draw_0_gml_606_0
-\E0* Or^1, is it fortunate? Because of that^1, you found a new Crystal./
+\E0* O^1, ¿es afortunado? Debido a eso^1, encontraste un nuevo cristal./
 obj_shop1_slash_Draw_0_gml_607_0
-\E2* Here^1, let me hold onto that for you. Ha ha ha!/%
+\E2* Aquí^1, permítanme aferrarme a eso para ustedes. ¡Ja ja ja!/%
 obj_shop1_slash_Draw_0_gml_706_0
-* You have collected 2 Shadow Crystals./
+* Has recogido 2 Shadow Crystal./
 obj_shop1_slash_Draw_0_gml_707_0
-\E1* But don't let down your guard. I feel your next opponent may be..^1. hm./
+\E1* Pero no bajes la guardia. Siento que tu próximo oponente puede ser..^1. hm./
 obj_shop1_slash_Draw_0_gml_708_0
-\E3* In reality^1, it may be impossible to win./
+\E3* En realidad^1, puede ser imposible ganar./
 obj_shop1_slash_Draw_0_gml_709_0
-\E0* ..^1. Unless you use the power of the Shadow Mantle./
+\E0* ..^1. A menos que utilices el poder del Shadow Mantle./
 obj_shop1_slash_Draw_0_gml_710_0
-\E0* Here^1, it may look like an old scrap of cloth^1, but.../
+\E0* Aquí^1, puede parecer un viejo trozo de tela^1, pero.../
 obj_shop1_slash_Draw_0_gml_711_0
 \E1* ..^1. eh?/
 obj_shop1_slash_Draw_0_gml_712_0
-\E3* I can't find it. Did someone..^1. take it...?/
+\E3* No lo encuentro. ¿Alguien..^1. Lo tomo...?/
 obj_shop1_slash_Draw_0_gml_713_0
-\E2* Hahaha^1! Well now^1, there goes your one chance of victory!/%
+\E2* Hahaha^1! Bueno, ahora^1, ¡ahí va tu única oportunidad de victoria!/%
 obj_shop1_slash_Draw_0_gml_717_0
 obj_shop1_slash_Draw_0_gml_718_0
-\E3* Unfortunately^1, without the Shadow Mantle^1, at 2 you may remain./
+\E3* Desafortunadamente^1, sin el Shadow Mantle^1, a las 2 puede que te quede./
 obj_shop1_slash_Draw_0_gml_719_0
-\E0* Fate is approaching..^1. and it is not on your side./%
+\E0* El destino se acerca..^1. Y no está de tu lado./%
 have_jevil
 sentence_end
 obj_shop1_slash_Draw_0_gml_619_0
-\E1* ..^1. What is that? It appears you have a Shadow Crystal./
+\E1* ..^1. ¿Qué es eso? Parece que tienes un Shadow Crystal./
 obj_shop1_slash_Draw_0_gml_620_0
 obj_shop1_slash_Draw_0_gml_621_0
-\E0* Unfortunately^1, I believe that you are missing one from your previous adventures./
+\E0* Desafortunadamente^1, creo que te estás perdiendo uno de tus aventuras anteriores./
 obj_shop1_slash_Draw_0_gml_622_0
 obj_shop1_slash_Draw_0_gml_623_0
-\E3* But^1, are you sure? Are you sure you didn't defeat that clown...?/
+\E3* Pero^1, ¿estás seguro? ¿Estás seguro de que no derrotaste a ese payaso...?/
 obj_shop1_slash_Draw_0_gml_624_0
-\E0* Perhaps..^1. You just haven't remembered that you had yet./
+\E0* Tal vez..^1. No te acuerdas de lo que tenías todavía./
 obj_shop1_slash_Draw_0_gml_625_0
-\E2* That's right^1, as long as you ever defeated that enemy in the past.../
+\E2* Así es^1, siempre y cuando hayas derrotado a ese enemigo en el pasado.../
 obj_shop1_slash_Draw_0_gml_638_0
-\E2* Then perhaps^1, even now^1, that Crystal might turn up somewhere close..^1. Perhaps!~1
+\E2* Entonces tal vez^1, incluso ahora^1, ese Cristal podría subir en algún lugar cerca..^1. Tal vez!~1
 obj_shop1_slash_Draw_0_gml_639_0
-\E2* Aha^1! Another Shadow Crystal^1! You found it.../
+\E2* Aha^1! Otro Shadow Crystal^1! Lo encontraste.../
 first_line
 obj_shop1_slash_Draw_0_gml_640_0_b
-\E0* You can't see it^1, so perhaps you didn't notice.../
+\E0* No puedes verlo^1, así que tal vez no te diste cuenta .../
 obj_shop1_slash_Draw_0_gml_641_0_b
-\E0* Didn't you defeat him? Didn't you defeat Jevil?/
+\E0* ¿No lo derrotaste? ¿No derrotaste a Jevil?/
 obj_shop1_slash_Draw_0_gml_642_0
-\E2* Here^1, I'll take that Crystal. Now^1, you have collected 2 of them^1! Huzzah!/%
+\E2* Aquí^1, tomaré ese Cristal. Ahora^1, has recogido 2 de ellos^1! ¡Huzzah!/%
 obj_shop1_slash_Draw_0_gml_654_0
-* There are many fresh faces in town^1, I see./
+* Hay muchas caras nuevas en la ciudad^1, ya veo./
 obj_shop1_slash_Draw_0_gml_655_0
-\E2* It warms this old fluff to see such hope./
+\E2* Calienta esta vieja pelusa ver tal esperanza./
 obj_shop1_slash_Draw_0_gml_656_0
-\E3* I was even surprised to see the Queen again./
+\E3* Incluso me sorprendió ver a Queen de nuevo./
 obj_shop1_slash_Draw_0_gml_657_0
-\E0* Same as ever..^1. Well^1, aren't we all./%
+\E0* Igual que siempre..^1. Bueno^1, no somos todos./%
 obj_shop1_slash_Draw_0_gml_661_0
-* Those young men have made an interesting shop./
+* Esos jóvenes han hecho una tienda interesante./
 obj_shop1_slash_Draw_0_gml_662_0
-\E3* They're leaving the bagel business^1, so I have the rest of their remaining stock./
+\E3* Están dejando el negocio del bagel^1, así que tengo el resto de sus acciones restantes./
 obj_shop1_slash_Draw_0_gml_674_0_b
-* Those three young musical men are thinking about setting up a shop here./
+* Esos tres jóvenes musicales están pensando en crear una tienda aquí./
 obj_shop1_slash_Draw_0_gml_675_0_b
-\E2* I'm sure you'd appreciate having an option other than me^1, ha ha./
+\E2* Estoy seguro de que apreciarías tener una opción que no sea yo^1, ja, ja./
 obj_shop1_slash_Draw_0_gml_663_0
-\E3* ..^1. By the by^1, it's growing late^1, isn't it?/
+\E3* ..^1. Para el^1, está creciendo a fines^1, ¿no?/
 obj_shop1_slash_Draw_0_gml_664_0
-\E0* You should hurry home once you finish your business here./
+\E0* Debes apresurarte a casa una vez que termines tu negocio aquí./
 obj_shop1_slash_Draw_0_gml_665_0
-\E3* You don't want to get caught when the sun goes down.../%
+\E3* No querrás que te atrapen cuando se ponga el sol.../%
 roomstring
 obj_shop1_slash_Draw_0_gml_784_0
 Espacio:~1
 obj_shop1_slash_Draw_0_gml_571_0
 NO SPACE
 obj_shop2_slash_Create_0_gml_73_0
-ITEM#Fragrant#sauce#heals 50HP
+ITEM#Fragrant#sauce#cura 50HP
 obj_shop2_slash_Create_0_gml_74_0
 WEAPON#Heroic &#Cool
 obj_shop2_slash_Create_0_gml_75_0
@@ -29316,7 +29316,7 @@ BUT IT WAS ALREADY GONE.
 DEVICE_MENU_slash_Step_0_gml_292_0
 BUT THERE WAS NOTHING LEFT TO ERASE.
 DEVICE_MENU_slash_Step_0_gml_294_0
-There's nothing to erase.
+No hay nada que borrar.
 MAXY
 _NEWNAME
 _NEWTIME
@@ -30230,7 +30230,7 @@ obj_ch2_scene6_slash_Step_0_gml_184_0
 obj_ch2_scene6_slash_Step_0_gml_201_0
 * (ROUXLS se agrego a tus OBJETOS CLAVE aunque nadie se lo pidió.)/%
 obj_ch2_scene6_slash_Step_0_gml_214_0
-* \cYI\cW will also \cYjoin\cW/%
+* \cYYo\cW también \cYme unire\cW/%
 obj_ch2_scene6_slash_Step_0_gml_238_0
 * (EL ORIGINAL   \cYSTARWALKER\cW se convirtió en un OBJETO CLAVE.)/%
 obj_ch2_scene6_slash_Step_0_gml_243_0
@@ -34112,13 +34112,13 @@ obj_ch2_sceneex2a_slash_Step_0_gml_53_0
 obj_ch2_sceneex2a_slash_Step_0_gml_54_0
 * Let me become your strength./%
 obj_ch2_sceneex2a_slash_Step_0_gml_95_0
-* (You got ShadowCrystal.)/%
+* (Obtuviste un ShadowCrystal.)/%
 obj_ch2_sceneex2a_slash_Step_0_gml_88_0
-* (You got PuppetScarf.)/%
+* (Obtuviste un PuppetScarf.)/%
 obj_ch2_sceneex2a_slash_Step_0_gml_82_0
-* (You got Dealmaker.)/%
+* (Obtuviste un Dealmaker.)/%
 obj_ch2_sceneex2a_slash_Step_0_gml_122_0
-* (... but your inventory was full.)/%
+* (... pero tu inventario esta lleno.)/%
 obj_ch2_sceneex2a_slash_Step_0_gml_129_0
 * ... Kris...^1?&* Kris!^1?&* KRIS!?!?!?/
 obj_ch2_sceneex2a_slash_Step_0_gml_130_0
@@ -37853,7 +37853,7 @@ obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_47_0
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_49_0
 \E1* Stronger...? R-right, I guess that's how it works here.../%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_84_0
-* (You got the FreezeRing.)/%
+* (Obtuviste un FreezeRing.)/%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_117_0
 \EB* (What..^1. what just happened?)/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_118_0
