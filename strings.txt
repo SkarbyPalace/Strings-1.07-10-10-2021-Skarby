@@ -4273,34 +4273,34 @@ scr_text_slash_scr_text_gml_4343_0
 scr_text_slash_scr_text_gml_4344_0
 gml_Script_scr_miniface_init_sweet
 scr_text_slash_scr_text_gml_4346_0
-\m3		*What'll it be^1, chief?&	I got CD Bagels^1, $80 a pop!/
+\m3		*¿Qué será^1, jefe?&	¡Tengo CD Bagels^1, $80 por pop!/
 scr_text_slash_scr_text_gml_4347_0
 can_afford
 gml_Script_scr_itemget_anytype_text
 itemgetstring
 scr_text_slash_scr_text_gml_4360_0
-\m3		*Good eye for music^1!/
+\m3		*Buen ojo para la música^1!/
 scr_text_slash_scr_text_gml_4366_0
-\m3		*Too much stuff^1, chief^1!&	It won't fit^2!&\m2	I can't fit either^2./%
+\m3		*Demasiadas cosas^1, jefe^1!&	No cabe^2!&\m2	Tampoco puedo caber^2./%
 scr_text_slash_scr_text_gml_4372_0
-\m3		*Hey^1, you can't&	shortchange me^2!&\m2	Only me^2./%
+\m3		*Oye^1, No puedes&	cortarme^2!&\m2	Solo a mí^2./%
 capntalked
 scr_text_slash_scr_text_gml_4392_0
-\m3		*And who is that^1, ahem^1,& madimoyzel^2?&\m1	Leave her alone^1, Cap^2!/
+\m3		*¿Y quién es esa^1, ahem^1,& damisela^2?&\m1	Déjala en paz^1, Cap^2!/
 scr_text_slash_scr_text_gml_4393_0
-\m3		*Nice radio antenna you& got there..^2.&\m1	Those are antlers^1, Cap^2!/
+\m3		*Buena antena de radio que tiene alli..^2.&\m1	Esos son los cuernos^1, Cap^2!/
 scr_text_slash_scr_text_gml_4394_0
-\m3		*H-huh!? I^1, uhh..^1. hmm^2.&\m3	.../
+\m3		*H-huh!? Yo^1, uhh..^1. hmm^2.&\m3	.../
 scr_text_slash_scr_text_gml_4395_0
-\m2		*Let's play her a song!/%
+\m2		*¡Vamos a tocarle una canción!/%
 scr_text_slash_scr_text_gml_4399_0
-\m3		*..^1. so where's the moyzel^2?&\m1	Huh!? She's kidnapped!/
+\m3		*..^1. donde esta mi señorita^2?&\m1	Huh!? Está secuestrada!/
 scr_text_slash_scr_text_gml_4400_0
-\m1		*That's awful..^2.&\m3	That sucks..^2.&\m2	.../
+\m1		*Eso es horrible.. ^2.&\m3 Eso apesta..^2.&\m2	.../
 scr_text_slash_scr_text_gml_4401_0
-\m2		*Let's cheer up!/%
+\m2		*Vamos a animar!/%
 scr_text_slash_scr_text_gml_4408_0
-\m3		*This music^1, it's nice music^2.&\m2	That's my favorite genre^2./%
+\m3		*Esta musica^1, es una muy buena^2.&\m2	Es mi genero favorito^2./%
 scr_text_slash_scr_text_gml_4413_0
 scr_text_slash_scr_text_gml_4418_0
 scr_text_slash_scr_text_gml_4419_0
@@ -10824,7 +10824,7 @@ Cyber City - Primer Pasillo
 scr_roomname_slash_scr_roomname_gml_12_0_b
 Cyber City - Callejón del ratón
 scr_roomname_slash_scr_roomname_gml_12_0
-Cyber City - La tienda de Música
+Cyber City - Tienda de Música
 scr_roomname_slash_scr_roomname_gml_13_0
 Cyber City - Segundo Pasillo
 scr_roomname_slash_scr_roomname_gml_16_0_b
@@ -17797,23 +17797,23 @@ obj_npc_room_animated_slash_Other_10_gml_251_0
 obj_npc_room_animated_slash_Other_10_gml_270_0
 \m1		*Yo^1! Que tal te va?/
 obj_npc_room_animated_slash_Other_10_gml_271_0
-\m1		*Estamos haciendo un poco de& dinero extra vendiendo en la ciudad!/
+\m1		*Estamos haciendo un poco de&dinero extra vendiendo en la ciudad!/
 obj_npc_room_animated_slash_Other_10_gml_272_0
-\m3		*Debemos hacer & bucks somehow!^1! Heheh!!/
+\m3		*Debemos hacer dinero&de algún modo!^1! Heheh!!/
 obj_npc_room_animated_slash_Other_10_gml_273_0
-\m1		*Gotta buy new gear!^2!&\m3	Gotta get new kicks!^2!&\m2	I wanna be a car^2./
+\m1		*Tengo que comprar equipo!^2!&\m3 Tengo que conseguir patadas!^2!&\m2 Quiero ser un coche^2./
 obj_npc_room_animated_slash_Other_10_gml_274_0
-\m1		*Good thinkin'^1, K_K^1! Gotta&	have a way to get around^2!&\m2	Honk^1! Honk^2!/%
+\m1		*¡Buen pensamiento K_K^1! Tienes que moverte por^2!&\m2	Honk^1! Honk^2!/%
 obj_npc_room_animated_slash_Other_10_gml_278_0
-\m1		*K_K's always got it right^2!&\m3	That's why he's& second-in-command^2!/
+\m1		*K_K's siempre lo hizo bien^2!&\m3	Tes por eso que es&el segundo-al-mando^2!/
 obj_npc_room_animated_slash_Other_10_gml_279_0
-\m1		*..^1. who's first^2?&\m3	Huh? I'm not the leader^2?&\m2	Can I be third^2?/%
+\m1		*..^1. quién es el primero^2?&\m3	Huh? No soy el líder^2?&\m2	¿Puedo ser el tercero^2?/%
 obj_npc_room_animated_slash_Other_10_gml_286_0
-\m2		*Did you like the big statue^2?&\m3	Building it sucked^2!&\m1	Took a lot of scrap^2./
+\m2		*Te gustó la gran estatua^2?&\m3	Construirlo apestaba^2!&\m1	Tomó un montón de chatarra^2./
 obj_npc_room_animated_slash_Other_10_gml_287_0
-\m1		*The other job we did was&	way better^2!&\m2	It was big^2./
+\m1		*El otro trabajo que hicimos&fue mucho mejor^2!&\m2	era grande^2./
 obj_npc_room_animated_slash_Other_10_gml_288_0
-\m3		*It's gonna blow your mind^2!&\m2	It was big^2./%
+\m3		*Te va a volar la cabeza^2!&\m2	era grande^2./%
 obj_npc_room_animated_slash_Other_10_gml_303_0
 * ¡Maestros jóvenes^1! ¡Gracias por un espacio tan amplio para limpiar!/
 obj_npc_room_animated_slash_Other_10_gml_304_0
@@ -22970,7 +22970,7 @@ obj_omawaroid_enemy_slash_Step_0_gml_169_0
 obj_omawaroid_enemy_slash_Step_0_gml_171_0
 \E2* Las agujas no dan miedo..^1. la medicina es importante^1, sabías?/%
 obj_omawaroid_enemy_slash_Step_0_gml_183_0_b
-* Noelle muttered absentmindedly about hospital tools!/%
+* ¡Noelle murmuró distraidamente sobre las herramientas del hospital!/%
 obj_omawaroid_enemy_slash_Step_0_gml_199_0
 \EH* Usaremos sus servicios^1, amigos!/
 obj_omawaroid_enemy_slash_Step_0_gml_201_0
@@ -23047,11 +23047,11 @@ obj_virovirokun_enemy_slash_Step_0_gml_58_0
 Bien
 Invader
 obj_virovirokun_enemy_slash_Step_0_gml_114_0
-* Virovirokun looks extra sick.
+* Virovirokun se ve más enfermo.
 obj_virovirokun_enemy_slash_Step_0_gml_117_0
 * Virovirokun se ve sano.
 obj_virovirokun_enemy_slash_Step_0_gml_122_0
-* Smells like cherry syrup.
+* Huele a jarabe de cereza.
 obj_virovirokun_enemy_slash_Step_0_gml_126_0
 * Virovirokun está hurgando cosas con una lanza.
 obj_virovirokun_enemy_slash_Step_0_gml_127_0
@@ -23107,7 +23107,7 @@ obj_virovirokun_enemy_slash_Step_0_gml_447_0
 obj_virovirokun_enemy_slash_Step_0_gml_450_0
 * Susie puso un hot dog en el microondas!/%
 obj_virovirokun_enemy_slash_Step_0_gml_472_0
-* She forgot to poke holes in it! The hot dog exploded!/%
+* ¡Se olvidó de meter agujeros en él! ¡El perro caliente explotó!/%
 obj_virovirokun_enemy_slash_Step_0_gml_484_0
 * Susie se compadeció del enemigo!/
 obj_virovirokun_enemy_slash_Step_0_gml_486_0
@@ -23127,7 +23127,7 @@ obj_virovirokun_enemy_slash_Step_0_gml_512_0
 obj_virovirokun_enemy_slash_Step_0_gml_527_0
 * ¡Noelle ofreció una compresa fría!!/%
 obj_virovirokun_enemy_slash_Step_0_gml_532_0
-* Noelle tried her best!/%
+* Noelle intentó lo mejor!/%
 obj_virovirokun_enemy_slash_Step_0_gml_540_0
 * Noelle no sabe que pasa!/%
 infecttarget
@@ -28836,9 +28836,9 @@ obj_shop_ch2_spamton_slash_Draw_0_gml_872_0
 xadd
 yadd
 obj_moneydisplay_slash_Draw_0_gml_22_0
-ESPACIO DISP.: 
+ESPACIO DISP: 
 obj_moneydisplay_slash_Draw_0_gml_23_0
-ESPACIO ALMAC.: 
+ESPACIO ALMAC: 
 roomstring2
 momentum
 DEVICE_CHOICE_slash_Create_0_gml_7_0
