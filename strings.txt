@@ -880,7 +880,7 @@ scr_text_slash_scr_text_gml_282_0
 \E6* ... No need to skip my text^1, right^1, Kris?/%
 scr_text_slash_scr_text_gml_289_0
 scr_text_slash_scr_text_gml_290_0
-#Don't
+#No
 scr_text_slash_scr_text_gml_293_0_b
 scr_text_slash_scr_text_gml_294_0_b
 scr_text_slash_scr_text_gml_293_0
@@ -1286,7 +1286,7 @@ scr_text_slash_scr_text_gml_736_0
 scr_text_slash_scr_text_gml_739_0
  #Stick fingers
 scr_text_slash_scr_text_gml_740_0
- #Don't
+ #No
 scr_text_slash_scr_text_gml_743_0
 scr_text_slash_scr_text_gml_744_0_b
 scr_text_slash_scr_text_gml_744_0
@@ -2068,7 +2068,7 @@ scr_text_slash_scr_text_gml_1704_0
 scr_text_slash_scr_text_gml_1709_0
 * (The cycle ends here^1, in the corner of a small cell...)/%
 scr_text_slash_scr_text_gml_1714_0
- #Take
+ #Tomar
 scr_text_slash_scr_text_gml_1715_0
 scr_text_slash_scr_text_gml_1718_0_b
 scr_text_slash_scr_text_gml_1719_0_b
@@ -4307,9 +4307,9 @@ scr_text_slash_scr_text_gml_4419_0
 scr_text_slash_scr_text_gml_4420_0
 scr_text_slash_scr_text_gml_4421_0
 scr_text_slash_scr_text_gml_4423_0
-* Welcome to Cyber Shoes II!/
+* Bienvenido a Ciber Zapatos II!/
 scr_text_slash_scr_text_gml_4424_0
-* Free samples!^1! Would you like one!?/
+* Pruebas gratis!^1! Te gustaría una!?/
 scr_text_slash_scr_text_gml_4425_0
 haveSusie
 /
@@ -4326,11 +4326,11 @@ haveNoelle
 scr_text_slash_scr_text_gml_4464_0
 * You'll never get stronger without a daily dose of shoes!!~1
 scr_text_slash_scr_text_gml_4469_0
-\E2* Umm^1, I don't really do..^1. shoes./
+\E2* Umm^1, En realidad no uso..^1. zapatos./
 scr_text_slash_scr_text_gml_4470_0
-\E8* (At least not unless they're custom-made...)/%
+\E8* (A menos de que sean hechos para mi...)/%
 scr_text_slash_scr_text_gml_4475_0
-* You'll never get stronger without a daily dose of shoes!!/%
+* Nunca te volveras mas fuerte sin tu dosis diaria de zapatos!!/%
 scr_text_slash_scr_text_gml_4481_0
 scr_text_slash_scr_text_gml_4482_0
  #No Comprar
@@ -4354,18 +4354,18 @@ scr_text_slash_scr_text_gml_4540_0
 scr_text_slash_scr_text_gml_4541_0
 scr_text_slash_scr_text_gml_4542_0
 scr_text_slash_scr_text_gml_4544_0
-* This is the HOTTEST tea shop! HOT HOT HOT!^1! 50`% off!/
+* Esta es la tienda de té más CALIENTE! CALIENTE CALIENTE!^1! 50`% menos!/
 scr_text_slash_scr_text_gml_4546_0
-* For $100^1, Choose your OWN flavor!!/
+* Por $100^1, elige tu PROPIO sabor!!/
 scr_text_slash_scr_text_gml_4547_0
 hasroom
 gml_Script_scr_itemcheck_inventory_and_pocket
 canBuy
 scr_text_slash_scr_text_gml_4568_0
 scr_text_slash_scr_text_gml_4574_0
-* You lack the money or space to choose a flavor!!/%
+* Te falta dinero o espacio para comprar tu propio sabor!!/%
 scr_text_slash_scr_text_gml_4580_0
-* But if you don't choose a flavor^1, who will!?!?/%
+* Pero si no eliges un sabor^1, quien lo hará!?!?/%
 scr_text_slash_scr_text_gml_4585_0
 scr_text_slash_scr_text_gml_4586_0
 scr_text_slash_scr_text_gml_4586_1
@@ -4374,16 +4374,16 @@ scr_text_slash_scr_text_gml_4587_1
 Ralsei
 scr_text_slash_scr_text_gml_4588_0
 scr_text_slash_scr_text_gml_4590_0
-* OK!^1! Choose your OWN flavor!!/
+* OK!^1! Escoge tu PROPIO sabor!!/
 choiceAmount
 scr_text_slash_scr_text_gml_4596_0
 teaitemid
 scr_text_slash_scr_text_gml_4617_0
-* Okay^1, here you go!/
+* Okay^1, aquí tienes!/
 scr_text_slash_scr_text_gml_4622_0
-#Go Inside
+#Entrar
 scr_text_slash_scr_text_gml_4623_0
-#Don't#go in
+#No#entrar
 scr_text_slash_scr_text_gml_4624_0
 scr_text_slash_scr_text_gml_4625_0
 scr_text_slash_scr_text_gml_4627_0
@@ -5849,7 +5849,7 @@ scr_text_slash_scr_text_gml_7337_0
 scr_text_slash_scr_text_gml_7338_0
 \EK* C'mon^1, try to be a little more enthusiastic. Heh./%
 scr_text_slash_scr_text_gml_7344_0
-#Take
+#Tomar
 scr_text_slash_scr_text_gml_7345_0
 scr_text_slash_scr_text_gml_7346_0
 scr_text_slash_scr_text_gml_7347_0
@@ -17228,7 +17228,7 @@ obj_npc_sign_slash_Other_10_gml_373_0
 \E8* (Kris^1, please hurry...)/%
 dismiss
 obj_npc_sign_slash_Other_10_gml_380_0
-* (It's a mannequin with a dress on it.)/%
+* (Es un maniquin con un vestido puesto.)/%
 remove_collider
 release_swan
 obj_npc_sign_slash_Other_10_gml_444_0_b
@@ -17350,36 +17350,36 @@ obj_npc_sign_slash_Other_10_gml_702_0
 obj_npc_sign_slash_Other_10_gml_633_0
 * (You became lost in the craftsmanship.)/%
 obj_npc_sign_slash_Other_10_gml_641_0
-\E4* What is this!? Fahahahaha.../
+\E4* Qué es esto!? Fahahahaha.../
 obj_npc_sign_slash_Other_10_gml_642_0
 \E0* ..^1. phew!/
 obj_npc_sign_slash_Other_10_gml_643_0
 obj_npc_sign_slash_Other_10_gml_644_0
 obj_npc_sign_slash_Other_10_gml_645_0
-\E8* (Kris^1, can you stop looking at this?)/%
+\E8* (Kris^1, puedes dejar de mirar esto?)/%
 obj_npc_sign_slash_Other_10_gml_651_0
 obj_npc_sign_slash_Other_10_gml_653_0
-\E8* (Why do we have to look at it twice?)/%
+\E8* (Por qué tenemos que verlo dos veces?)/%
 obj_npc_sign_slash_Other_10_gml_659_0
-* (There's so much to look at here.)/
+* (Hay mucho que mirar aquí.)/
 obj_npc_sign_slash_Other_10_gml_661_0
 \E8* (Kris!?)/%
 obj_npc_sign_slash_Other_10_gml_667_0
-* (It's a work of art.)/
+* (Es un trabajo de arte.)/
 obj_npc_sign_slash_Other_10_gml_669_0
-\E8* (What part are you looking at?)/%
+\E8* (Qué parte estas viendo?)/%
 obj_npc_sign_slash_Other_10_gml_675_0
-\E2* If I say I like it^1, will you stop looking at it?/%
+\E2* Si te digo que me gusta^1, dejaras de mirarlo?/%
 obj_npc_sign_slash_Other_10_gml_681_0
-\E4* Hey^1, isn't this thing just the best...?/%
+\E4* Hey^1, no es está cosa simplemente la mejor...?/%
 obj_npc_sign_slash_Other_10_gml_687_0
-* (This statue seems to suck bad.)/
+* (Esta estatua apesta con soloverla.)/
 obj_npc_sign_slash_Other_10_gml_689_0
 \E8* KRIS!!!!!!/%
 obj_npc_sign_slash_Other_10_gml_695_0
-* (There is no reason to look at this.)/%
+* (No hay razón para ver esto.)/%
 obj_npc_sign_slash_Other_10_gml_706_0
-* (It's a dumpster. Looks like there's a pillow inside.)/%
+* (Es un basurero. Parece que hay una almohada dentro.)/%
 obj_npc_sign_slash_Other_10_gml_714_0
 * (An invasive species of puzzle has taken over the room.)/%
 obj_npc_sign_slash_Other_10_gml_723_0
@@ -17795,11 +17795,11 @@ obj_npc_room_animated_slash_Other_10_gml_249_0
 obj_npc_room_animated_slash_Other_10_gml_251_0
 * Nos dijeron que hagamos espacio para algo GRANDE.../%
 obj_npc_room_animated_slash_Other_10_gml_270_0
-\m1		*Yo^1! How's it hangin'?/
+\m1		*Yo^1! Que tal te va?/
 obj_npc_room_animated_slash_Other_10_gml_271_0
-\m1		*We're making some extra& money by selling in the city!/
+\m1		*Estamos haciendo un poco de& dinero extra vendiendo en la ciudad!/
 obj_npc_room_animated_slash_Other_10_gml_272_0
-\m3		*We gotta make those& bucks somehow!^1! Heheh!!/
+\m3		*Debemos hacer & bucks somehow!^1! Heheh!!/
 obj_npc_room_animated_slash_Other_10_gml_273_0
 \m1		*Gotta buy new gear!^2!&\m3	Gotta get new kicks!^2!&\m2	I wanna be a car^2./
 obj_npc_room_animated_slash_Other_10_gml_274_0
@@ -31131,7 +31131,7 @@ obj_ch2_scene13_slash_Step_0_gml_662_0
 obj_ch2_scene13_slash_Step_0_gml_668_0
 \E1* Procedimentalmente Bajando El Volúmen De Mi Voz/%
 obj_ch2_scene13_slash_Step_0_gml_678_0
-\ED* Disculpa Kris I Debo Hacer Alt Tab Para Salir/%
+\ED* Disculpa Kris Debo Hacer Alt Tab Para Salir/%
 obj_ch2_scene13_slash_Step_0_gml_694_0
 \ED* Wow Buena Cara/%
 obj_ch2_scene13_slash_Step_0_gml_723_0
@@ -31143,11 +31143,11 @@ obj_ch2_scene13_slash_Step_0_gml_746_0
 obj_ch2_scene13_slash_Step_0_gml_763_0
 \E4* Sigamos^1, Kris!/%
 obj_ch2_scene13_slash_Step_0_gml_859_0
-\E8* Just realized..^1. I can't see anything..^1. haha.../%
+\E8* Me acabo de dar cuenta..^1. No puedo ver nada..^1. jaja.../%
 obj_ch2_scene13_slash_Step_0_gml_878_0
-\E4* Guess I'll try not to wear it unless I have to./
+\E4* Creo que intentare no usarlo a menos que sea necesario./
 obj_ch2_scene13_slash_Step_0_gml_879_0
-\ET* OK^1, let's go for real this time!!/%
+\ET* OK^1, ahora si vamonos!!/%
 inactivetimer
 lancertimer
 reminder
