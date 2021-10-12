@@ -17211,7 +17211,7 @@ obj_npc_sign_slash_Other_10_gml_332_0
 obj_npc_sign_slash_Other_10_gml_333_0
 * They didn't like that./%
 obj_npc_sign_slash_Other_10_gml_348_0
-* No puedo ni pasar la calla sin que me pateen el trasero./
+* No puedo ni pasar la calle sin que me pateen el trasero./
 obj_npc_sign_slash_Other_10_gml_349_0
 * Amo la ciudad./%
 obj_npc_sign_slash_Other_10_gml_355_0
@@ -22935,7 +22935,7 @@ Donde hay un wee,&hay un woo.
 obj_omawaroid_enemy_slash_Step_0_gml_32_0
 Hey! Virus!&Debes pagar!
 obj_omawaroid_enemy_slash_Step_0_gml_38_0
-Le enseñastes al virus,& wee-woo!
+Le dijiste al virus,& wee-woo
 obj_omawaroid_enemy_slash_Step_0_gml_39_0
 Ten unas&balas gratis!
 obj_omawaroid_enemy_slash_Step_0_gml_45_0
