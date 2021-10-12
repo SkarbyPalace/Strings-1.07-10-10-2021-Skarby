@@ -248,10 +248,10 @@ objeto
  &
 scr_lrecoitem_slash_scr_lrecoitem_gml_14_0
 string
-* You recovered ~1 HP!/%
+* Recuperaste ~1 HP!/%
 gml_Script_stringsetsubloc
 scr_lrecoitem_slash_scr_lrecoitem_gml_16_0
-* Your HP was maxed out./%
+* Tu HP está al maximo./%
 gml_Script_scr_lrecoitem
 scr_lrecoitem
 gml_Script_scr_lweaponeq
@@ -407,7 +407,7 @@ no name
 scr_litemuseb_slash_scr_litemuseb_gml_271_0
 toriel
 scr_litemuseb_slash_scr_litemuseb_gml_273_0
-\M1\E1* Oh^1, disculpa^1, parece que estoy reciviendo una llamada./
+\M1\E1* Oh^1, disculpa^1, parece que estoy recibiendo una llamada./
 scr_litemuseb_slash_scr_litemuseb_gml_274_0
 \E0* Kris...? Qué pasa^1, cariño?/
 scr_litemuseb_slash_scr_litemuseb_gml_275_0
@@ -14732,7 +14732,7 @@ track3_x
 rand
 obj_ch2_fountain_sideb_slash_Step_0_gml_7_0
 obj_ch2_fountain_sideb_slash_Step_0_gml_112_0
-* HOLY [[Cungadero]] DO I FEEL GOOD .../%
+* SANTA [[Cachucha]] SE SIENTE INCREIBLE .../%
 animsiner
 total_width
 custom_box_sprite
@@ -18174,7 +18174,7 @@ obj_readable_room1_slash_Other_10_gml_21_0
 obj_readable_room1_slash_Other_10_gml_22_0
 * There's also a game console^1.&* It has one normal controller^1, and one knock-off one./%
 obj_readable_room1_slash_Other_10_gml_28_0
-* Debajo de la cama hay un antiguo cartucho de"Acariciador de Gatos RPG"./
+* Debajo de la cama hay un antiguo cartucho de "Acariciador de Gatos RPG"./
 obj_readable_room1_slash_Other_10_gml_29_0
 * "catti `& catty" puede ser visto débilmente escrito con un bolígrafo de gel./%
 obj_readable_room1_slash_Other_10_gml_36_0
@@ -27625,7 +27625,7 @@ obj_dojo_spareenemy_slash_Step_0_gml_82_0
 obj_dojo_spareenemy_slash_Step_0_gml_89_0
 Jefe^1! Si no tienes&el TP para usar&PACIFICAR^1, DEFENDiendo&te dara TP!/%
 obj_dojo_spareenemy_slash_Step_0_gml_91_0
-Jefe^1! Me está poniendo a&DORMIR^1! NO USTED,&por cierto^1! CANSEME&y PACIFIQUEME a mi, jefe!/%
+Jefe^1! Me esta poniendo a&DORMIR^1! NO USTED,&por cierto^1! CANSEME&y PACIFIQUEME a mi, jefe!/%
 obj_dojo_spareenemy_slash_Step_0_gml_95_0
 Jefe!!/%
 fakespare
@@ -28412,7 +28412,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_571_0
 obj_shop_ch2_music_slash_Draw_0_gml_572_0
 \m1		*No fue hasta que apareció esa &FUENTE OSCURA apareció&\m3	Que se comenzó a volver&	loca./
 obj_shop_ch2_music_slash_Draw_0_gml_573_0
-\m1		*"Caballero" aquí^1, "Caballero" allá^1. Que esto la "Fuente"...&\m3	Oséa, que tiene ese Caballero& que yo no tenga!?& Por favor!!/
+\m1		*"Caballero" aquí^1, "Caballero" allá^1. Que esto la "Fuente"...&\m3	Osea, que tiene ese Caballero& que yo no tenga!?& Por favor!!/
 obj_shop_ch2_music_slash_Draw_0_gml_574_0
 \m1		*Pero como dije. Ella no fue& SIEMPRE mala. Ella solía darme&	dulces. Por ser muy dulce!&\m3	H... huh!? Nunca me dieron eso!!/
 obj_shop_ch2_music_slash_Draw_0_gml_575_0
@@ -30054,7 +30054,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_341_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_348_0
 \E2* Oh^1, Kris^1, tu también puedes venir!/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_355_0
-\E7* Uhhhhhhhhhhh..^1. Oséa.../
+\E7* Uhhhhhhhhhhh..^1. Osea.../
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_356_0
 \EK* Estamos como que^1, uhhh..^1. ocupados^1, con^1, uh.../%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_368_0
@@ -34017,69 +34017,69 @@ coaster_empty2
 coaster_empty3
 obj_ch2_sceneex2_slash_Step_0_gml_98_0
 obj_ch2_sceneex2_slash_Step_0_gml_111_0
-* HERE I AM!^1! KRIS!!/%
+* KRIS!! AQUI ESTOY!!/%
 obj_ch2_sceneex2_slash_Step_0_gml_119_0
-* BIG/%
+* GRANDE/%
 obj_ch2_sceneex2_slash_Step_0_gml_127_0
-* BIG^1,/%
+* MAS GRANDE^1,/%
 obj_ch2_sceneex2_slash_Step_0_gml_135_0
-* [[BIGGER AND BETTER THAN EVER]]/%
+* [[Y MEJOR QUE NUNCA]]/%
 obj_ch2_sceneex2_slash_Step_0_gml_148_0
-* HA HA HA ..^1. THIS POWER IS/%
+* JA JA JA ..^1. ESTE PODER ES/%
 obj_ch2_sceneex2_slash_Step_0_gml_156_0
-* FREEDOM./%
+* LIBERTAD./%
 obj_ch2_sceneex2_slash_Step_0_gml_163_0
-* I WON'T HAVE TO BE^1 &* JUST A PUPPET^1 &* ANY MORE!!!!/
+* YA NO TENDRE QUE^1 &* SER UNA^1 &* MARIONETA!!!!/
 obj_ch2_sceneex2_slash_Step_0_gml_166_0
 obj_ch2_sceneex2_slash_Step_0_gml_174_0
-* OR..^1. so..^1. I..^1. thought./%
+* O eso..^1. es..^1. lo que..^1. pensaba./%
 obj_ch2_sceneex2_slash_Step_0_gml_183_0
-* WHAT ARE THESE STRINGS!^1? &* WHY AM I NOT [BIG] ENOUGH!^1? &* It's still DARK..^1. SO DARK!/%
+* QUE SON ESTOS HILOS!^1? &* AUN NO PUEDO [CRECER]!^1? &* Oscuro..^1. MUY OSCURO!/%
 obj_ch2_sceneex2_slash_Step_0_gml_209_0
 * KRIS./%
 obj_ch2_sceneex2_slash_Step_0_gml_228_0
 * KRIS^1. &* KRIS^1. &* KRIS./
 obj_ch2_sceneex2_slash_Step_0_gml_229_0
-* THAT'S RIGHT^1. &* YOU^1. &* I NEED YOU./%
+* CLARO^1. &* TE^1. &* TE NECESITO./%
 obj_ch2_sceneex2_slash_Step_0_gml_248_0
-* TO BE BIG.^3 &* WITH ME./%
+* PARA SER GRANDE.^3 &* TE NECESITO./%
 obj_ch2_sceneex2_slash_Step_0_gml_257_0
-* VERY   VERY    BIG/
+* MUY   MUY    GRANDE/
 obj_ch2_sceneex2_slash_Step_0_gml_258_0
-* SO BIG WE'LL STAND UP TALL AND SEE PAST THE DARK/
+* TAN GRANDE QUE VEREMOS MAS ALLA DE LA OSCURIDAD/
 obj_ch2_sceneex2_slash_Step_0_gml_259_0
-* STAND UP WITH OUR HEADS IN THE CLOUDS AND LOOK INTO/%
+* ATRAVEZAREMOS LAS NUBES Y MIRAREMOS DIRECTO AL/%
 obj_ch2_sceneex2_slash_Step_0_gml_279_0
-* H E A V E N/%
+* P A R A I S O/%
 obj_ch2_sceneex2_slash_Step_0_gml_287_0
-* I^3 &* JUST NEED^3 &* THAT LITTLE,/%
+* SOLO^3 &* NECESITO^3 &* ESA DIMINUTA,/%
 obj_ch2_sceneex2_slash_Step_0_gml_298_0
-* [[SOUL]]^3 &* Y O U HAVE/%
+* [[ALMA]]^3 &* QUE T I E N E S/%
 obj_ch2_sceneex2_slash_Step_0_gml_411_0
 \E4* Kris!/%
 obj_ch2_sceneex2_slash_Step_0_gml_341_0
-\E4* The hell was that weirdo!?/
+\E4* Quien diablos ere ese rarito!?/
 obj_ch2_sceneex2_slash_Step_0_gml_343_0
-\EQ* Kris^1, we were worried about you^1, so.../%
+\EQ* Kris^1, nos tenias preoucupados^1, asi que.../%
 obj_ch2_sceneex2_slash_Step_0_gml_442_0
-* KRIS!!^1! YOU HAVE [Friends]!?/
+* KRIS!!^1! TIENES [Amigos]!?/
 obj_ch2_sceneex2_slash_Step_0_gml_443_0
-* WHY DON'T YOU TELL THEM ABOUT MY [3 for One Specil]!/
+* POR QUE NO LES CUENTAS SOBRE MI [Espesial 3 por 1]!/
 obj_ch2_sceneex2_slash_Step_0_gml_418_0
-* TODAY^1, THE WHOLE FAMILY CAN TAKE A LITTLE [Ride Around Town].../%
+* SOLO POR HOY^1, TODA LA FAMILIA PUEDE TOMAR UN [Tour por la ciudad].../%
 shinkansen.ogg
 obj_ch2_sceneex2_slash_Step_0_gml_553_0
-* [Attention Customers! Clean up on Aisle 3!]/
+* [Atención clientes! Limpieza en el pasillo 3!]/
 obj_ch2_sceneex2_slash_Step_0_gml_554_0
-* SOMEONE LEFT [There] SOULS^1, [Lyeing Around......]/%
+* ALGUIEN DEJO [Trez] ALMAS^1, [Tirados en el piso...]/%
 obj_ch2_sceneex2_slash_Step_0_gml_570_0
-* Kris!?!^1? WAS THAT A [BIG SHOT] JUST NOW!?/
+* Kris!?!^1? ESE [GRAN TIRO]... ¿¡FUISTE TÚ!?/
 obj_ch2_sceneex2_slash_Step_0_gml_571_0
-* WOW!!^1!&* I'M SO [Proud] OF YOU^1, I COULD [Killed] YOU!/
+* WOW!!^1!&* ESTOY TAN [Orgulloso] DE TI^1, QUE TE PODRIA [Matado]!/
 obj_ch2_sceneex2_slash_Step_0_gml_495_0
-* [Heaven]^1, are you WATCHING?/
+* El [Paraiso] nos esta mirando!/
 obj_ch2_sceneex2_slash_Step_0_gml_496_0
-* IT'S TIME TO MAKE A VERY [Specil] DEAL.../%
+* ES TIEMPO DE HACER UNA OFERTA [Especial].../%
 input_timer
 enemyrow
 mei
@@ -34397,7 +34397,7 @@ obj_ch2_cyber01_slash_Step_0_gml_572_0
 obj_ch2_cyber01_slash_Step_0_gml_573_0
 \m3		*De todas formas, pelear no es lo mío..^2.&\m1	Si^1! Porque eres un cobarde!/
 obj_ch2_cyber01_slash_Step_0_gml_574_0
-\m1		*..^1. Oséa^1, fue divertido bailar^1, pero..^2.&\m2 Sweet. No te preocupes./
+\m1		*..^1. Osea^1, fue divertido bailar^1, pero..^2.&\m2 Sweet. No te preocupes./
 obj_ch2_cyber01_slash_Step_0_gml_575_0
 \m2		*Nuestro baile los derrotó^2.&\m1	Los derrotó...^2?&\m3	Si^1, lo creo./
 obj_ch2_cyber01_slash_Step_0_gml_576_0
