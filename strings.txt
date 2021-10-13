@@ -24229,112 +24229,112 @@ _count
 _newwerewire
 skiptext
 obj_berdlyb2_enemy_slash_Step_0_gml_124_0
-* Berdly thanks Noelle profusely.
+* Berdly le agradece a Noelle profusamente.
 obj_berdlyb2_enemy_slash_Step_0_gml_125_0
-* Berdly tries to entice Noelle to his side by gyrating his hips!
+* Berdly intenta atraer a Noelle a su lado girando su cadera!
 obj_berdlyb2_enemy_slash_Step_0_gml_126_0
-* Berdly preens condescendingly.
+* Berdly se pavonea condescendientemente.
 obj_berdlyb2_enemy_slash_Step_0_gml_127_0
-* Berdly laughs and goes to his mind palace.
+* Berdly se rie y se va a su palacio mental.
 obj_berdlyb2_enemy_slash_Step_0_gml_338_0
-* Berdly crushes his Smart Scouter out of frustration.
+* Berdly aplasta su Smart Scouter por frustración.
 obj_berdlyb2_enemy_slash_Step_0_gml_339_0
 * Huele a pollo congelado.
 obj_berdlyb2_enemy_slash_Step_0_gml_147_0
-* BERDLY - He usually only gets this mad when you play games together./%
+* BERDLY - Por lo general se enoja cuando juegan juntos./%
 obj_berdlyb2_enemy_slash_Step_0_gml_371_0
-* Enemy Weakness: ICE&Try your strongest ice spell./%
+* Debilidad del enemigo: HIELO&Intenta usar tu hechizo de hielo mas fuerte./%
 obj_berdlyb2_enemy_slash_Step_0_gml_162_0
-* You acted like you were an idiot next to Berdly's genius!/
+* Actuaste como un idiota en frente de Berdly!/
 obj_berdlyb2_enemy_slash_Step_0_gml_164_0
-* Ahh^1, Kris..^1. A shame I must defeat someone so lowly.../%
+* Ahh^1, Kris..^1. Una pena que tenga que derrotar a alguien tan humilde.../%
 obj_berdlyb2_enemy_slash_Step_0_gml_175_0
-* You did several math problems incorrectly!/%
+* Hiciste varios ejercicios matemáticos mal!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_181_0
-* You pretended to knit a home-made dunce cap!/%
+* Pretendiste tejer un gorro de burro!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_187_0
-* You grunted like a primitive animal!/%
+* Gruñiste como un animal primitivo!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_194_0
-* You pretended to spill your IQ points on the floor!/
+* Pretendiste derramar tus puntos de IQ en el piso!/
 obj_berdlyb2_enemy_slash_Step_0_gml_195_0
-* You got Noelle to pretend to pick them up!/
+* Hiciste que Noelle pretenda recogerlos!/
 obj_berdlyb2_enemy_slash_Step_0_gml_197_0
-\EI* (Why me!?)/%
+\EI* (Por qué yo!?)/%
 obj_berdlyb2_enemy_slash_Step_0_gml_201_0
-* Berdly liked that!/%
+* A Berdly le gusto eso!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_213_0
-* You glared at Berdly!/
+* Fulminaste a Berdly!/
 obj_berdlyb2_enemy_slash_Step_0_gml_215_0
-\E3* Wh..^1. what!? Trying to psyche me out^1, Kris!?/
+\E3* Qu..^1. qué!? Intentas hipnotizarme^1, Kris!?/
 obj_berdlyb2_enemy_slash_Step_0_gml_216_0
-\ED* W-well..^1. It's not working!!/%
+\ED* B-bueno..^1. No está funcionando!!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_218_0
-* Berdly's DEFENSE dropped!/%
+* La DEFENSA de Berdly cayó!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_222_0
-* You glared at Berdly!/%
+* Fulminaste a Berdly!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_223_0
-* His DEFENSE dropped!/%
+* Su DEFENSA cayó!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_245_0
-* You encouraged Noelle to use her mind!/%
+* Animaste a Noelle a que use su mente!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_252_0
-* Her MAGIC increased^1! Berdly found her smarts appealing!/%
+* Su MAGIA incremento^1! Berdly su intelgencia atractiva!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_484_0
-* Noelle acted smart!/%
+* Noelle actuó con inteligencia!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_264_0
-* You told Noelle to concentrate!/
+* Le dijiste a Noelle que se concentre!/
 obj_berdlyb2_enemy_slash_Step_0_gml_269_0
-\EW* Concentrate on what...?/
+\EW* Concentrarme en qué...?/
 obj_berdlyb2_enemy_slash_Step_0_gml_278_0
-* Her MAGIC increased!/%
+* Su MAGIA incremento!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_281_0
 obj_berdlyb2_enemy_slash_Step_0_gml_299_0
-* Noelle tried to talk to Berdly!/
+* Noelle intento hablarle a Berdly!/
 obj_berdlyb2_enemy_slash_Step_0_gml_301_0
-\EI* Umm^1, Berdly^1, I'm glad you're trying to help me.../
+\EI* Umm^1, Berdly^1, me alegra que me intentes ayudar.../
 obj_berdlyb2_enemy_slash_Step_0_gml_303_0
-\EJ* No need to thank me^1, dearest Noelle!/%
+\EJ* No tienes que agradecerme^1, querida Noelle!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_305_0
-* Noelle accidentally complimented Berdly!/%
+* Noelle felicito por accidente a Berdly!/%
 obj_berdlyb2_enemy_slash_Step_0_gml_617_0
-* But it failed./%
+* Pero falló./%
 snowgrave_timer
 obj_berdlyb2_enemy_slash_Step_0_gml_358_0
 \Ec* S..^1. Snowgrave?/
 obj_berdlyb2_enemy_slash_Step_0_gml_359_0
-\Ee* I..^1. I don't know that spell./
+\Ee* Yo..^1. No conozco ese hechizo./
 obj_berdlyb2_enemy_slash_Step_0_gml_698_0
 obj_berdlyb2_enemy_slash_Step_0_gml_365_0
-\Ee* I'm telling you^1, I..^1. I.../
+\Ee* Te estoy diciendo^1, Yo..^1. Yo.../
 obj_berdlyb2_enemy_slash_Step_0_gml_366_0
-\EW* I don't know what you're talking about./
+\EW* No se de que estás hablando./
 obj_berdlyb2_enemy_slash_Step_0_gml_707_0
 obj_berdlyb2_enemy_slash_Step_0_gml_372_0
-\EW* I'm telling you^1, stop!/
+\EW* Te estoy diciendo^1, detente!/
 obj_berdlyb2_enemy_slash_Step_0_gml_373_0
-\EZ* I... I don't know what you're talking about!/
+\EZ* Yo... no se de que estás hablando!/
 obj_berdlyb2_enemy_slash_Step_0_gml_716_0
 obj_berdlyb2_enemy_slash_Step_0_gml_722_0
 \EW* .../
 obj_berdlyb2_enemy_slash_Step_0_gml_379_0
-\EV* Fine^1. You want to see what happens so bad?/
+\EV* Bien^1. Tanto deseas ver que pasa?/
 obj_berdlyb2_enemy_slash_Step_0_gml_380_0
-\Ef* Watch what happens when I cast a spell I don't know!/
+\Ef* Mira lo que pasa cuando lanzo un hechizo que no conozco!/
 obj_berdlyb2_enemy_slash_Step_0_gml_726_0
 obj_berdlyb2_enemy_slash_Step_0_gml_429_0
 obj_berdlyb2_enemy_slash_Step_0_gml_441_0
-* What.../
+* Que.../
 obj_berdlyb2_enemy_slash_Step_0_gml_442_0
-* What happened?/
+* Qué paso?/
 obj_berdlyb2_enemy_slash_Step_0_gml_443_0
-* There was so much snow^1, I couldn't see anything.../
+* Había mucha nieve^1, no podía ver nada.../
 obj_berdlyb2_enemy_slash_Step_0_gml_444_0
-* I.../%
+* Yo.../%
 obj_berdlyb2_enemy_slash_Step_0_gml_463_0
-* I don't feel so good./
+* No me siento bien./
 obj_berdlyb2_enemy_slash_Step_0_gml_464_0
-* I think/
+* Creo/
 obj_berdlyb2_enemy_slash_Step_0_gml_465_0
-* I'm going to go home./%
+* Me voy a casa./%
 berdlysign
 mypath
 shootSpeed
@@ -35053,44 +35053,44 @@ north_collider
 obj_ch2_city_berdly_slash_Step_0_gml_28_0
 \EB* Uh-uh oh--/%
 obj_ch2_city_berdly_slash_Step_0_gml_49_0
-\EN* Noelle!? What are you doing with Kris!?/
+\EN* Noelle!? Qué estas haciendo con Kris!?/
 obj_ch2_city_berdly_slash_Step_0_gml_51_0
-\E2* Um^1, I..^1. um..^1. I..^1. I.../%
+\E2* Um^1, Yo..^1. um..^1. Yo..^1. Yo.../%
 obj_ch2_city_berdly_slash_Step_0_gml_63_0
-\ER* We..^1. have a truce...?/%
+\ER* Tenemos..^1. una tregua...?/%
 obj_ch2_city_berdly_slash_Step_0_gml_71_0
-\E3* A..^1. truce!? With..^1. Kris?/%
+\E3* Una..^1. tregua!? Con..^1. Kris?/%
 obj_ch2_city_berdly_slash_Step_0_gml_81_0
-\E2* Hahaha!^1! That's impossible!/%
+\E2* Jajaja!^1! Eso es imposible!/%
 obj_ch2_city_berdly_slash_Step_0_gml_90_0
-\E5* That would be double trucies./%
+\E5* Eso sería doble tregua./%
 obj_ch2_city_berdly_slash_Step_0_gml_98_0
 obj_ch2_city_berdly_slash_Step_0_gml_113_0
-\EF* Worry not^1, my dearest Noelle./
+\EF* No te preocupes^1, mi querida Noelle./
 obj_ch2_city_berdly_slash_Step_0_gml_114_0
-\E5* I know what you really want to say./%
+\E5* Se que es lo que querías decir./%
 obj_ch2_city_berdly_slash_Step_0_gml_122_0
-\E2* You...^1. you do?/%
+\E2* Tú...^1. lo sabes?/%
 obj_ch2_city_berdly_slash_Step_0_gml_130_0
-\E0* Going along with all this.../
+\E0* De acuerdo con lo que veo.../
 obj_ch2_city_berdly_slash_Step_0_gml_131_0
-\E8* You feel..^1. forced^1, don't you?/
+\E8* Te sientes..^1. forzada^1, no es así?/
 obj_ch2_city_berdly_slash_Step_0_gml_132_0
-\EG* It's why you're not with Queen right now./%
+\EG* Es por eso que no estas con Queen./%
 obj_ch2_city_berdly_slash_Step_0_gml_141_0
-\E2* Berdly..^1. you get it?/%
+\E2* Berdly..^1. lo entiendes?/%
 obj_ch2_city_berdly_slash_Step_0_gml_149_0
-\E5* Yes!^1! I do!!/%
+\E5* Si!^1! Lo entiendo!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_163_0
-\E6* Kris is FORCING you to be on THEIR side!!/
+\E6* Kris te está FORZANDO a ti para que estes en SU lado!!/
 obj_ch2_city_berdly_slash_Step_0_gml_164_0
-\E2* Kidnapper!^1! Kris^1, our truce..^1. is OVER!!!/%
+\E2* Secuestrador!^1! Kris^1, nuestra tregua..^1. se ACABÓ!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_179_0
-\E6* Noelle!^1! This may hurt^1, but it's to help you!!/
+\E6* Noelle!^1! Puede que esto duela^1, pero es para ayudarte!!/
 obj_ch2_city_berdly_slash_Step_0_gml_181_0
-\EE* W-wait^1, just listen to me---!!!/%
+\EE* E-espera^1, solo escuchame---!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_234_0
-\E5* Noelle^1! There you are!/
+\E5* Noelle^1! Ahí estas!/
 obj_ch2_city_berdly_slash_Step_0_gml_235_0
 \E4* Just in time^1! We can both go back to Queen and--/%
 obj_ch2_city_berdly_slash_Step_0_gml_221_0
