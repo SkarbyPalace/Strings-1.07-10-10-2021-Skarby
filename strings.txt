@@ -23777,42 +23777,42 @@ fearact
 complimentact
 nise_susie
 obj_maus_enemy_slash_Step_0_gml_18_0
-(You think you're&the big cheese?)
+(Crees que eres&el gran queso?)
 obj_maus_enemy_slash_Step_0_gml_23_0
-(Tired of being&pushed around.)
+(cansado de ser&empujado.)
 obj_maus_enemy_slash_Step_0_gml_27_0
-(Left, right,&right, left...)
+(izquierda, derecha,&derecha, izquierda...)
 obj_maus_enemy_slash_Step_0_gml_31_0
-(Catch me, catch me!)&(Hee hee hee...)
+(Atrápame, atrápame!)&(Hee hee hee...)
 dialogue_rand
 obj_maus_enemy_slash_Step_0_gml_40_0
-(Are you going to&take me home?)
+(Me vas a&llevar a casa?)
 obj_maus_enemy_slash_Step_0_gml_43_0
-(Just take good&care of me!)
+(Solo cuida&bien de mi!)
 obj_maus_enemy_slash_Step_0_gml_49_0
-(I can't help it^1,&I'm a scary guy.)
+(No puedo controlarlo^1,&soy alguien asustadizo.)
 obj_maus_enemy_slash_Step_0_gml_55_0
-(I can't help it^1,&I'm a cutey guy.)
+(No puedo evitarlo^1,&soy una lindura.)
 obj_maus_enemy_slash_Step_0_gml_51_0
-(I'll work with&who I have to.)
+(Trabajare con quien&tenga que hacerlo.)
 MausTrail
 MausHoles
 obj_maus_enemy_slash_Step_0_gml_114_0
-* Maus's clicking sounds more like splat noises.
+* Los sonidos de click de maus suenan mas a sonidos splat.
 obj_maus_enemy_slash_Step_0_gml_117_0
-* Maus is squeaking cheerfully.
+* Maus esta chirreando de alegría.
 obj_maus_enemy_slash_Step_0_gml_124_0
-* Maus would like to go to its favorite bistro in this marvelous city.
+* A maus le gustaría ir a su restaurante favorito.
 obj_maus_enemy_slash_Step_0_gml_127_0
-* Smells like wood shavings.
+* Huele a virutas de madera.
 obj_maus_enemy_slash_Step_0_gml_132_0
-* Maus is thinking about overly elaborate machines.
+* Maus está pensando demasiado en elaborar máquinas.
 obj_maus_enemy_slash_Step_0_gml_133_0
-* Maus is clicking and squeaking.
+* Maus está clickeando y chirreando.
 obj_maus_enemy_slash_Step_0_gml_134_0
-* Maus keeps running between your feet.
+* Maus sigue corriendo por tus pies.
 obj_maus_enemy_slash_Step_0_gml_135_0
-* Maus is keenly aware of the fear it invokes.
+* Maus está muy consciente de el temor que evoca.
 obj_maus_enemy_slash_Step_0_gml_159_0
 * MAUS - Es solo un ratoncito que vive en una casita./%
 obj_maus_enemy_slash_Step_0_gml_166_0
@@ -23828,13 +23828,13 @@ obj_maus_enemy_slash_Step_0_gml_190_0
 obj_maus_enemy_slash_Step_0_gml_188_0
 \EE* L-la forma en la que se mueve es tan..^1. tan aterrador!/
 obj_maus_enemy_slash_Step_0_gml_189_0
-\EE* It's disgusting!/
+\EE* Es asqueroso!/
 obj_maus_enemy_slash_Step_0_gml_191_0
-* Maus was rejected..^1. everyone felt TIRED./%
+* Maus fue rechazado..^1. todos se sienten CANSADOs./%
 obj_maus_enemy_slash_Step_0_gml_196_0
-* Noelle reacted in fear!/
+* Noelle reacciono con miedo!/
 obj_maus_enemy_slash_Step_0_gml_197_0
-* The enemies felt dejected and TIRED.../%
+* Los enemigos se sienten abatidos y CANSADOs.../%
 currentX
 currentY
 obj_maus_enemy_slash_Step_0_gml_251_0
