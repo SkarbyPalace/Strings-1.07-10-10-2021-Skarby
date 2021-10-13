@@ -4288,7 +4288,7 @@ capntalked
 scr_text_slash_scr_text_gml_4392_0
 \m3		*¿Y quién es esa^1, ahem^1,& damisela^2?&\m1	Déjala en paz^1, Cap^2!/
 scr_text_slash_scr_text_gml_4393_0
-\m3		*Buena antena de radio que tiene alli..^2.&\m1	Esos son los cuernos^1, Cap^2!/
+\m3		*Buena antena de radio que  tiene alli..^2.&\m1	Esos son los cuernos^1, Cap^2!/
 scr_text_slash_scr_text_gml_4394_0
 \m3		*H-huh!? Yo^1, uhh..^1. hmm^2.&\m3	.../
 scr_text_slash_scr_text_gml_4395_0
@@ -4316,15 +4316,15 @@ haveSusie
 /%
 endSentence
 scr_text_slash_scr_text_gml_4437_0
-* (You got a small shoe with a toothpick through it...)~1
+* (Tienes un zapato pequeño con un palillo de dientes a través de él ...)~1
 scr_text_slash_scr_text_gml_4442_0
-\EH* (Chomp.)/
+\EH* (Mastica.)/
 scr_text_slash_scr_text_gml_4443_0
-\E1* Eh^1, it's okay. Let's pass./%
+\E1* Eh^1, está bien. Pasemos./%
 timesTalked
 haveNoelle
 scr_text_slash_scr_text_gml_4464_0
-* You'll never get stronger without a daily dose of shoes!!~1
+* Nunca te volverás más fuerte sin una dosis diaria de zapatos!!~1
 scr_text_slash_scr_text_gml_4469_0
 \E2* Umm^1, En realidad no uso..^1. zapatos./
 scr_text_slash_scr_text_gml_4470_0
@@ -4337,16 +4337,16 @@ scr_text_slash_scr_text_gml_4482_0
 scr_text_slash_scr_text_gml_4483_0
 scr_text_slash_scr_text_gml_4484_0
 scr_text_slash_scr_text_gml_4486_0
-* Clothing Store SALE^1! SALE!/
+* Tienda de ropa VENTA^1! VENTA!/
 scr_text_slash_scr_text_gml_4487_0
-* We're selling this for 75`% off! Only 300 Dark Dollars!/
+* Estamos vendiendo esto por un 75`%! Por solo 300 Dark Dollars!/
 scr_text_slash_scr_text_gml_4489_0
 scr_text_slash_scr_text_gml_4517_0
-* Great doing business with you!!/
+* Un placer hacer negocios contigo!!/
 scr_text_slash_scr_text_gml_4534_0_b
-* (It was added to your ARMORS.)/%
+* (Eso, fue añadido a tus ARMADURAS.)/%
 scr_text_slash_scr_text_gml_4522_0
-* You are lacking in space or money!/%
+* ¡Te falta espacio o dinero!/%
 scr_text_slash_scr_text_gml_4529_0
 scr_text_slash_scr_text_gml_4534_0
 scr_text_slash_scr_text_gml_4539_0
@@ -4356,7 +4356,7 @@ scr_text_slash_scr_text_gml_4542_0
 scr_text_slash_scr_text_gml_4544_0
 * Esta es la tienda de té más CALIENTE! CALIENTE CALIENTE!^1! 50`% menos!/
 scr_text_slash_scr_text_gml_4546_0
-* Por $100^1, elige tu PROPIO sabor!!/
+* Por $100^1, eligiras PROPIO sabor!!/
 scr_text_slash_scr_text_gml_4547_0
 hasroom
 gml_Script_scr_itemcheck_inventory_and_pocket
@@ -4473,23 +4473,23 @@ scr_text_slash_scr_text_gml_4785_0
 scr_text_slash_scr_text_gml_4786_0
 \EH* You don't have to stare at me like a weirdo!/%
 scr_text_slash_scr_text_gml_4792_0
-I am going#to touch the#cheese
+Voy a#tocar el#queso
 scr_text_slash_scr_text_gml_4793_0
-I do not#touch the#cheese
+No voy a#tocar el#queso
 scr_text_slash_scr_text_gml_4794_0
 scr_text_slash_scr_text_gml_4795_0
 scr_text_slash_scr_text_gml_4800_0
 \E2* Kris.../
 scr_text_slash_scr_text_gml_4801_0
-\E3* You aren't going to touch that cheese^1, are you?/
+\E3* No vas a tocar ese queso^1, ¿verdad?/
 scr_text_slash_scr_text_gml_4802_0
 scr_text_slash_scr_text_gml_4806_0
-* (There's a cheese on the ground.)/
+* (Hay un queso en el suelo.)/
 scr_text_slash_scr_text_gml_4807_0
 scr_text_slash_scr_text_gml_4815_0
-* (You rubbed the cheese down like a beloved pet.)/
+* (Frotaste el queso como una mascota querida.)/
 scr_text_slash_scr_text_gml_4816_0
-* (Suddenly...!)/%
+* (De repente...!)/%
 scr_text_slash_scr_text_gml_4822_0
 scr_text_slash_scr_text_gml_4828_0
 scr_text_slash_scr_text_gml_4829_0
@@ -7220,7 +7220,7 @@ Red#Damage
 scr_monstersetup_slash_scr_monstersetup_gml_741_0
 DualHeal
 scr_monstersetup_slash_scr_monstersetup_gml_742_0
-Heals#everyone
+Cura a#todos
 scr_monstersetup_slash_scr_monstersetup_gml_760_0
 Ambyu-Lance
 scr_monstersetup_slash_scr_monstersetup_gml_772_0
@@ -7236,7 +7236,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_801_0
 Acción-R
 canactnoe
 scr_monstersetup_slash_scr_monstersetup_gml_805_0
-Acción-N
+Actuar-N
 actnamenoe
 actsimulnoe
 scr_monstersetup_slash_scr_monstersetup_gml_811_0
@@ -7286,7 +7286,7 @@ Potenciar
 scr_monstersetup_slash_scr_monstersetup_gml_980_0
 Atrapar a todos
 scr_monstersetup_slash_scr_monstersetup_gml_987_0
-Fear
+Miedo
 scr_monstersetup_slash_scr_monstersetup_gml_987_1
 scr_monstersetup_slash_scr_monstersetup_gml_993_0
 scr_monstersetup_slash_scr_monstersetup_gml_997_0
@@ -7725,60 +7725,60 @@ RudeSword
 scr_spellinfo_slash_scr_spellinfo_gml_23_0
 Golpe#Rudo#
 scr_spellinfo_slash_scr_spellinfo_gml_24_0
-Deals moderate Rude-elemental damage to#one foe. Depends on Attack & Magic.
+Reparte daño elemental moderado a#un enemigo. Depende del Ataque & Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_31_0
-Oracion de Cura
+OraciónDeCura
 scr_spellinfo_slash_scr_spellinfo_gml_32_0
 scr_spellinfo_slash_scr_spellinfo_gml_33_0
 Cura#Aliados
 scr_spellinfo_slash_scr_spellinfo_gml_34_0
-Heavenly light restores a little HP to#one party member. Depends on Magic.
+La luz celestial restaura una#pequeña HP a un miembro. Depende de la Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_42_0
 Pacificar
 scr_spellinfo_slash_scr_spellinfo_gml_43_0
 scr_spellinfo_slash_scr_spellinfo_gml_44_0
 Perdona#a CANSADOS
 scr_spellinfo_slash_scr_spellinfo_gml_45_0
-SPARE a tired enemy by putting them to sleep.
+PERDONA a un enemigo cansado poniéndolo a dormir.
 scr_spellinfo_slash_scr_spellinfo_gml_52_0
 Embestida
 scr_spellinfo_slash_scr_spellinfo_gml_53_0
 scr_spellinfo_slash_scr_spellinfo_gml_54_0
 scr_spellinfo_slash_scr_spellinfo_gml_55_0
 scr_spellinfo_slash_scr_spellinfo_gml_64_0
-Red Buster
+Buster Rojo
 scr_spellinfo_slash_scr_spellinfo_gml_65_0
 scr_spellinfo_slash_scr_spellinfo_gml_66_0
-Red#Damage#
+Daño#Rojo#
 scr_spellinfo_slash_scr_spellinfo_gml_67_0
 scr_spellinfo_slash_scr_spellinfo_gml_75_0
-Dual Heal
+Cura doble
 scr_spellinfo_slash_scr_spellinfo_gml_76_0
 scr_spellinfo_slash_scr_spellinfo_gml_77_0
-Heal All#30 HP
+Cura a#todos 30HP
 scr_spellinfo_slash_scr_spellinfo_gml_78_0
 scr_spellinfo_slash_scr_spellinfo_gml_86_0
 ACTUAR
 scr_spellinfo_slash_scr_spellinfo_gml_87_0
 scr_spellinfo_slash_scr_spellinfo_gml_88_0
-Use#action
+Usa#una acción
 scr_spellinfo_slash_scr_spellinfo_gml_89_0
 Hace todo tipo de cosas.#No es magia.
 scr_spellinfo_slash_scr_spellinfo_gml_96_0
 SleepMist
 scr_spellinfo_slash_scr_spellinfo_gml_97_0
-Sleep Mist
+Niebla del sueño
 scr_spellinfo_slash_scr_spellinfo_gml_98_0
 Perdona#a CANSADOS
 scr_spellinfo_slash_scr_spellinfo_gml_99_0
-A cold mist sweeps through,#sparing all TIRED enemies.
+Una niebla fría barre dando#piedad a todos los enemigos CANSADOS.
 scr_spellinfo_slash_scr_spellinfo_gml_107_0
 IceShock
 scr_spellinfo_slash_scr_spellinfo_gml_108_0
 scr_spellinfo_slash_scr_spellinfo_gml_109_0
-Damage#w/ ICE
+Daño#w/ HIELO
 scr_spellinfo_slash_scr_spellinfo_gml_110_0
-Deals magical ICE damage to#one enemy.
+Inflige daño mágico de HIELO#a un enemigo.
 scr_spellinfo_slash_scr_spellinfo_gml_121_0
 SnowGrave
 scr_spellinfo_slash_scr_spellinfo_gml_122_0
@@ -7790,9 +7790,9 @@ scr_spellinfo_slash_scr_spellinfo_gml_147_0
 UltimatHeal
 scr_spellinfo_slash_scr_spellinfo_gml_148_0
 scr_spellinfo_slash_scr_spellinfo_gml_149_0
-Best#healing
+La mejor#curación
 scr_spellinfo_slash_scr_spellinfo_gml_150_0
-Heals 1 party member to the#best of Susie's ability.
+Curas a 1 miembro con#la mejor habilidad de Susie.
 scr_spellinfo
 battleat
 automiss
@@ -8224,7 +8224,7 @@ Es bastante pequeño, pero a algunas#personas les gusta. +??HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_48_0
 Usted pensaría que sabe perfecto.#Cura 500HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_51_0
-un roux oscuro con un aroma delicado.#Tambien... tiene gusanos. +50HP
+Un roux oscuro con un aroma delicado.#Tambien... tiene gusanos. +50HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_54_0
 Un bagel con un reflectivo dentro.#Hace música por cada mordida. +80HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_57_0
@@ -10384,7 +10384,7 @@ scr_recruit_info_slash_scr_recruit_info_gml_43_0
 scr_recruit_info_slash_scr_recruit_info_gml_44_0
 Un corazón con un corazón grande. Siempre apoyando a otros con sus balas.
 scr_recruit_info_slash_scr_recruit_info_gml_45_0
-Lip Gloss
+Labial
 scr_recruit_info_slash_scr_recruit_info_gml_46_0
 Drama
 scr_recruit_info_slash_scr_recruit_info_gml_51_0
@@ -10463,7 +10463,7 @@ Aunque más fuerte que Hathy, parece tener menos amigos.
 scr_recruit_info_slash_scr_recruit_info_gml_144_0
 Paz y Tranquilidad
 scr_recruit_info_slash_scr_recruit_info_gml_145_0
-estar solo
+Estar solo
 scr_recruit_info_slash_scr_recruit_info_gml_150_0
 HEART:ICE
 scr_recruit_info_slash_scr_recruit_info_gml_151_0
@@ -17811,9 +17811,9 @@ obj_npc_room_animated_slash_Other_10_gml_279_0
 obj_npc_room_animated_slash_Other_10_gml_286_0
 \m2		*Te gustó la gran estatua^2?&\m3	Construirlo apestaba^2!&\m1	Tomó un montón de chatarra^2./
 obj_npc_room_animated_slash_Other_10_gml_287_0
-\m1		*El otro trabajo que hicimos&fue mucho mejor^2!&\m2	era grande^2./
+\m1		*El otro trabajo que hicimos&fue mucho mejor^2!&\m2	Era grande^2./
 obj_npc_room_animated_slash_Other_10_gml_288_0
-\m3		*Te va a volar la cabeza^2!&\m2	era grande^2./%
+\m3		*Te va a volar la cabeza^2!&\m2	Era grande^2./%
 obj_npc_room_animated_slash_Other_10_gml_303_0
 * ¡Maestros jóvenes^1! ¡Gracias por un espacio tan amplio para limpiar!/
 obj_npc_room_animated_slash_Other_10_gml_304_0
@@ -19271,7 +19271,7 @@ obj_readable_room1_slash_Other_10_gml_2656_0
 obj_readable_room1_slash_Other_10_gml_2640_0
 * (Es deber del ciudadano rotar y liberar los ratones usando señales de tránsito.)/
 obj_readable_room1_slash_Other_10_gml_2641_0
-* ~1: Engage and Disengage.&* ~2 ~3: Rotate.&* ~4: Release./%
+* ~1: Unirse y Desconectarse.&* ~2 ~3: Girar.&* ~4: Sacar a los ratones./%
 obj_readable_room1_slash_Other_10_gml_2681_0
 \E0* Está bloqueado.../
 obj_readable_room1_slash_Other_10_gml_2682_0
@@ -20462,7 +20462,7 @@ guts_amount
 fluff_amount
 obj_darkcontroller_slash_Draw_0_gml_226_0
 obj_darkcontroller_slash_Draw_0_gml_231_0
-Dog:
+Perro:
 obj_darkcontroller_slash_Draw_0_gml_236_0
 obj_darkcontroller_slash_Draw_0_gml_239_0
 LV1 Humano#El cuerpo contiene#una ALMA humana.
@@ -20471,9 +20471,9 @@ LV1 Lider#Dirige la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_241_0
 LV1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_272_0_b
-LV~1 Lider#Dirige la fiesta#con varios ACTs.
+LV~1 Lider,#Dirige la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_273_0
-LV~1 Tactico#Comanda la fiesta#con varios ACTs.
+LV~1 Tactico,#Comanda la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_274_0
 LV~1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_275_0_b
@@ -20527,7 +20527,7 @@ Dulzura
 obj_darkcontroller_slash_Draw_0_gml_286_0
 Esponjosidad
 obj_darkcontroller_slash_Draw_0_gml_382_0
-LV1 Snowcaster#Podría ser capaz de usar#algunos movimientos geniales.
+LV1 Snowcaster#Es capaz de usar#movimientos geniales.
 obj_darkcontroller_slash_Draw_0_gml_383_0
 LV~1 Frostmancer#Congela el enemigo.
 obj_darkcontroller_slash_Draw_0_gml_384_0
@@ -20894,7 +20894,7 @@ stringel
 stringlscale
 stringmscale
 obj_fusionmenu_slash_Draw_0_gml_169_0
-Place
+Poner
 obj_fusionmenu_slash_Draw_0_gml_125_0
 ~1: Poner
 obj_fusionmenu_slash_Draw_0_gml_129_0
@@ -23834,7 +23834,7 @@ obj_maus_enemy_slash_Step_0_gml_191_0
 obj_maus_enemy_slash_Step_0_gml_196_0
 * Noelle reacciono con miedo!/
 obj_maus_enemy_slash_Step_0_gml_197_0
-* Los enemigos se sienten abatidos y CANSADOs.../%
+* Los enemigos se sienten abatidos y CANSADOS.../%
 currentX
 currentY
 obj_maus_enemy_slash_Step_0_gml_251_0
@@ -24002,46 +24002,46 @@ obj_werewire_kristhrown_slash_Step_0_gml_25_0
 obj_werewire_kristhrown_slash_Collision_048192d7_9c3b_472a_adb9_e1f06953ce64_gml_10_0
 * El cable se aflojó mucho!/%
 obj_werewire_kristhrown_slash_Collision_048192d7_9c3b_472a_adb9_e1f06953ce64_gml_75_0
-* The wire loosened a little!/%
+* ¡El cable se aflojó un poco!/%
 lettersiner
 canDestroyTimer
 perdonar
 mercy_act
 obj_werewerewire_enemy_slash_Step_0_gml_97_0
-* Werewerewire's wire is loose!
+* El cable de Werewerewire está suelto!
 obj_werewerewire_enemy_slash_Step_0_gml_101_0
 * WereWire cruje a niveles muy altos para tu entender.
 obj_werewerewire_enemy_slash_Step_0_gml_102_0
-* Werewerewire shuffles coolly.
+* Werewerewire se arrastra epicamente.
 obj_werewerewire_enemy_slash_Step_0_gml_103_0
-* Werewerewire looks strong just standing there.
+* Werewerewire se ve fuerte sólo de pie allí.
 obj_werewerewire_enemy_slash_Step_0_gml_104_0
-* Werewerewire pretends to ignore you.
+* Werewerewire pretende ingorarte.
 obj_werewerewire_enemy_slash_Step_0_gml_105_0
-* Smells like a lightning strike.
+* Huele como un rayo.
 obj_werewerewire_enemy_slash_Step_0_gml_377_0
-* WEREWEREWIRE - It absorbed the wire and became stronger. Be careful!/%
+* WEREWEREWIRE - Absorbió el cable y se hizo más fuerte. ¡Ten cuidado!/%
 mercy_amount
 obj_werewerewire_enemy_slash_Step_0_gml_383_0
-* You and Werewerewire locked eyes. The atmosphere is electric.../%
+* Tú y Werewerewire cerraron los ojos. El ambiente es eléctrico.../%
 obj_werewerewire_enemy_slash_Step_0_gml_383_1
-* You watched coldly./%
+* Observaste con frialdad./%
 obj_werewerewire_enemy_slash_Step_0_gml_393_0
-* You and Susie told Werewerewire you'd beat them up!/
+* ¡Tú y Susie le dijiste a Werewerewire que lo golpearas!/
 obj_werewerewire_enemy_slash_Step_0_gml_394_0
-* The air crackles with fighting spirit!/%
+* ¡El aire se rompe con espíritu de lucha!/%
 obj_werewerewire_enemy_slash_Step_0_gml_408_0
-* You and Ralsei whispered sweetly to Werewerewire!/
+* ¡Tú y Ralsei le susurraron dulcemente a Werewerewire!/
 obj_werewerewire_enemy_slash_Step_0_gml_409_0
-* It pretended not to care^1, but ACTs became more effective!/%
+* Fingió no importarle^1, ¡pero ACTUAR se hizo más efectivos!/%
 obj_werewerewire_enemy_slash_Step_0_gml_412_0
-* Susie snorted "tch!"/%
+* Susie resoplo, "tch!"/%
 obj_werewerewire_enemy_slash_Step_0_gml_412_1
-* Susie laughed "heh!"/%
+* Susie se rio, "heh!"/%
 obj_werewerewire_enemy_slash_Step_0_gml_424_0
-* Ralsei winks demurely!/%
+* Ralsei guiño timidamente!/%
 obj_werewerewire_enemy_slash_Step_0_gml_424_1
-* Ralsei smiled sweetly!/%
+* Ralsei sonrio dulcemente!/%
 addvalue
 kriscoaster
 suscoaster
@@ -28042,7 +28042,7 @@ obj_shop1_slash_Draw_0_gml_592_0
 obj_shop1_slash_Draw_0_gml_593_0
 \E2* ..^1. Si continúas derrotando a adversarios fuertes como \cYél\c0^1, eso es/
 obj_shop1_slash_Draw_0_gml_594_0
-\E0* Si puedes reunir más Cristales de Sombra^1, ¡tráelos aquí!/
+\E0* Si puedes reunir más Shadow Crystal^1, ¡tráelos aquí!/
 obj_shop1_slash_Draw_0_gml_595_0
 \E2* Estoy seguro de que puedo unir algo increíble para ti.../%
 normal_post_plot
@@ -36501,18 +36501,18 @@ mousemarker
 yax
 cheeseCrushed
 obj_mazecheese_slash_Step_0_gml_97_0
-\E8* I..^1. I never want to see cheese ever again.../%
+\E8* Yo..^1. No quiero volver a ver queso nunca más.../%
 obj_mazecheese_slash_Step_0_gml_102_0
-* (The cheese was destroyed in the heat of battle...)/
+* (El queso fue destruido al calor de la batalla...)/
 obj_mazecheese_slash_Step_0_gml_103_0
-* (You realized you lost sight of what was important...)/%
+* (Te diste cuenta de que perdiste de vista lo que era importante...)/%
 obj_mazecheese_slash_Other_10_gml_42_0
-* (The cheese was destroyed in the heat of battle.)/
+* (El queso fue destruido al calor de la batalla.)/
 obj_mazecheese_slash_Other_10_gml_43_0
-* (Feels like you lost sight of what was important.)/%
+* (Sientes que perdiste de vista lo que era importante.)/%
 obj_mazecheese_slash_Other_10_gml_47_0
 obj_mazecheese_slash_Other_10_gml_48_0
-* (This marks a cruel victory for those who hate cheese.)/%
+* (Esto marca una cruel victoria para aquellos que odian el queso.)/%
 walking
 walklerp
 downframetimer
@@ -37225,7 +37225,7 @@ obj_mouseSpawnSwitch_slash_Step_0_gml_400_0
 obj_mouseSpawnSwitch_slash_Step_0_gml_454_0
 \E4* Ph..^1. phew.../
 obj_mouseSpawnSwitch_slash_Step_0_gml_455_0
-\E8* (Ojala no tengamos que hacer algo así denuevo...)/%
+\E8* (Ojala no tengamos que hacer algo así de nuevo...)/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_506_0
 \E3* (En serio, cuando Kris se hizo mandon?)/%
 inusecount
@@ -37239,60 +37239,60 @@ noeY
 krX
 krY
 obj_controller_city_mice2_slash_Step_0_gml_25_0
-\E1* Looks like another electric wall./%
+\E1* Parece otra pared eléctrica./%
 obj_controller_city_mice2_slash_Step_0_gml_32_0
-\E5* Huh? This hole has a switch inside of it.../
+\E5* ¿Eh? Este agujero tiene un interruptor en su interior.../
 obj_controller_city_mice2_slash_Step_0_gml_33_0
-\E4* Maybe we could try to put something inside...?/%
+\E4* Tal vez podríamos intentar poner algo dentro...?/%
 obj_controller_city_mice2_slash_Step_0_gml_39_0
-\E0* What do you think^1, Kris?/%
+\E0* Qué te parece Kris?/%
 obj_controller_city_mice2_slash_Step_0_gml_452_0
-\E2* Th..^1. there^1, looks like I..^1. I did it?/
+\E2* All..^1. allí^1, parece que yo..^1. ¿Lo hice?/
 obj_controller_city_mice2_slash_Step_0_gml_453_0
-\Ee* (I just..^1. listened to Kris's command.)/
+\Ee* (Yo sólo..^1. escuchó las órdenes de Kris.)/
 obj_controller_city_mice2_slash_Step_0_gml_454_0
-\EW* (And somehow^1, before I knew it...)/
+\EW* (Y de alguna manera^1, antes de que me diera cuenta...)/
 obj_controller_city_mice2_slash_Step_0_gml_455_0
-\EZ* (The puzzle was finished.)/
+\EZ* (El acertijo estaba terminado.)/
 obj_controller_city_mice2_slash_Step_0_gml_456_0
-\Ee* (What was I thinking^1? Kris wasn't trying to hurt me...)/
+\Ee* (¿Qué estaba pensando^1? Kris no estaba tratando de hacerme daño...)/
 obj_controller_city_mice2_slash_Step_0_gml_457_0_b
-\Ed* (They were just making me stronger.)/%
+\Ed* (Simplemente me estaba haciendo más fuerte.)/%
 musicer
 obj_controller_city_mice2_slash_Step_0_gml_67_0
-\E8* Kris^1, wait a second!/%
+\E8* Kris^1, espera un segundo!/%
 obj_controller_city_mice2_slash_Step_0_gml_134_0
-\E0* Kris^1! You did it^1! We should be able to.../%
+\E0* Kris^1! ¡Lo hiciste^1! Deberíamos ser capaces de.../%
 obj_controller_city_mice2_slash_Step_0_gml_197_0
 \E2* ..^1. huh?/
 obj_controller_city_mice2_slash_Step_0_gml_198_0
-\E1* The forcefield's still up./%
+\E1* El campo de fuerza todavía está en pie./%
 obj_controller_city_mice2_slash_Step_0_gml_277_0
-\E3* D-did we miss something? H-hello?/%
+\E3* N-Nos perdimos algo? H-hola?/%
 scaredNoelle
 obj_controller_city_mice2_slash_Step_0_gml_316_0
 obj_controller_city_mice2_slash_Step_0_gml_380_0
-\E8* Kris^1, I can't believe you made those mice--/%
+\E8* Kris^1, no puedo creer que hayas hecho que esos ratones--/%
 obj_controller_city_mice2_slash_Step_0_gml_420_0
 \E3* Huh?/%
 obj_controller_city_mice2_slash_Step_0_gml_434_0
-\E2* I..^1. I guess landing on the switch turned off the forcefield.../%
+\E2* Uh..^1. Aterrizar en el interruptor apagó el campo de fuerza.../%
 obj_controller_city_mice2_slash_Step_0_gml_457_0
-\E4* Let's go^1, Kris./%
+\E4* Vamos Kris./%
 jostlecon
 jostletimer
 obj_controller_city_mice2_slash_Step_0_gml_500_0
-\E2* I..^1. I wish they wouldn't jump out at me like that!/%
+\E2* Yo..^1. Ojalá no salten a mí como eso!/%
 obj_controller_city_mice2_slash_Step_0_gml_546_0
-\E3* (How many more times am I gonna get hit by mice...?)/%
+\E3* (¿Cuántas veces más me van a golpear los ratones...?)/%
 obj_controller_city_mice2_slash_Draw_0_gml_28_0
-[Left / Right]
+[Izquierda / Derecha]
 obj_controller_city_mice2_slash_Draw_0_gml_29_0
-Rotate
+Girar
 obj_controller_city_mice2_slash_Draw_0_gml_32_0
-[Down]
+[Abajo]
 obj_controller_city_mice2_slash_Draw_0_gml_33_0
-Mice
+Ratón
 keepdown
 win
 closed
@@ -37405,92 +37405,92 @@ leaveCon
 leaveBlock
 towerinit
 obj_controller_city_mice3_slash_Step_0_gml_53_0
-\E2* I'll..^1. go ahead and do the puzzle!/%
+\E2* Lo haré..^1. ¡adelante y haz el rompecabezas!/%
 obj_controller_city_mice3_slash_Step_0_gml_74_0_b
-* Isn't it a good thing?/
+* ¿No es algo bueno?/
 obj_controller_city_mice3_slash_Step_0_gml_75_0_b
-* I'm solving things by myself. Taking new things for myself. Defeating enemies by myself./
+* Estoy resolviendo las cosas por mí mismo. Tomando cosas nuevas. Derrotar enemigos por mí mismo./
 obj_controller_city_mice3_slash_Step_0_gml_76_0_b
-* And every time I do it.../
+* Y cada vez que lo hago.../
 obj_controller_city_mice3_slash_Step_0_gml_77_0
-* I'm getting stronger./
+* Me estoy volviendo más fuerte./
 obj_controller_city_mice3_slash_Step_0_gml_78_0
-* ..^1. what did I do when we got that ring? ..^1. when I solved that puzzle?/
+* ..^1.¿Qué hice cuando conseguimos ese anillo? ..^1. Cuando resolví ese acertijo?/
 obj_controller_city_mice3_slash_Step_0_gml_79_0
-* ..^1. It..^1. It doesn't matter. It doesn't matter if I can't remember./
+* ..^1. Eso..^1. No importa. No importa si no puedo recordar./
 obj_controller_city_mice3_slash_Step_0_gml_80_0
-* It doesn't matter if the battles are blurring together./
+* No importa si las batallas se están difuminando juntas./
 obj_controller_city_mice3_slash_Step_0_gml_81_0
-* If Kris tells me to do it.../
+* Si Kris me dice que lo haga.../
 obj_controller_city_mice3_slash_Step_0_gml_82_0
-* I can do things I could never do before./
+* Puedo hacer cosas que nunca antes podía hacer./
 obj_controller_city_mice3_slash_Step_0_gml_83_0
 obj_controller_city_mice3_slash_Step_0_gml_84_0
-* ... I'm getting stronger./
+* ... Me estoy volviendo más fuerte./
 obj_controller_city_mice3_slash_Step_0_gml_85_0
 obj_controller_city_mice3_slash_Step_0_gml_86_0
-* As long as I..^1. just do what they say./
+* Siempre y cuando yo..^1. solo haga lo que dicen./
 obj_controller_city_mice3_slash_Step_0_gml_87_0
-* As long as I.../%
+* Siempre y cuando yo.../%
 obj_controller_city_mice3_slash_Step_0_gml_88_0
-\E4* All finished^1, Kris^1. Should we find some more enemies?/%
+\E4* Todo terminado^1, Kris^1. ¿Deberíamos encontrar más enemigos?/%
 obj_controller_city_mice3_slash_Step_0_gml_49_0
-\E1* It's a dead end...?/%
+\E1* Es un callejón sin salida..?/%
 obj_controller_city_mice3_slash_Step_0_gml_129_0
-\E5* Hmm..^1. the switch didn't seem to work?/%
+\E5* Hmm..^1. el interruptor no parece funcionar?/%
 obj_controller_city_mice3_slash_Step_0_gml_168_0
-\EE* Kris!^1! The platform's falling!^1! H-help me!!/%
+\EE* Kris!^1! La plataforma se cae!^1! A-ayudame!!/%
 obj_controller_city_mice3_slash_Step_0_gml_208_0
 \EE* KRIS!!!!!!!/
 obj_controller_city_mice3_slash_Step_0_gml_209_0
-\E8* Gosh^1, you're lucky Dess isn't here!/
+\E8* Dios^1, tienes suerte de que Sussie no esté aquí!/
 obj_controller_city_mice3_slash_Step_0_gml_210_0
-\E8* Otherwise YOU'D be facedown in a mousepile!/
+\E8* De lo contrario, TÚ estarías boca abajo en una pila de ratones!/
 obj_controller_city_mice3_slash_Step_0_gml_211_0
 obj_controller_city_mice3_slash_Step_0_gml_212_0
-\E6* S..^1. sorry^1, I didn't mean to get so mad./
+\E6* L..^1. lo siento^1, No quise enojarme tanto./
 obj_controller_city_mice3_slash_Step_0_gml_213_0
-\E0* Sure..^1. okay^1, we can try again./%
+\E0* Claro..^1. Ok^1, podemos intentarlo de nuevo./%
 obj_controller_city_mice3_slash_Step_0_gml_230_0
-\E8* Kris!^1! What are you doing!^1! You made me --/%
+\E8* Kris!^1! Qué estas haciendo!^1! Me hiciste --/%
 obj_controller_city_mice3_slash_Step_0_gml_249_0
 \E3* H..^1. huh?/%
 obj_controller_city_mice3_slash_Step_0_gml_270_0
-\E6* S-sorry^1, Kris^1, you just saved me^1, didn't you...?/%
+\E6* L-lo siento Kris^1, acabas de salvarme^1, ¿no lo hiciste...?/%
 obj_controller_city_mice3_slash_Step_0_gml_292_0
-\EE* Th..^1. this one's falling^1, too!/
+\EE* Es..^1. este también está cayendo^1!/
 obj_controller_city_mice3_slash_Step_0_gml_293_0
-\E8* Kris^1, whatever you just did^1, keep doing it!!/%
+\E8* Kris lo que sea que acabas de hacer^1, ¡sigue haciéndolo!/%
 obj_controller_city_mice3_slash_Step_0_gml_419_0
-\EN* What./
+\EN* Que./
 obj_controller_city_mice3_slash_Step_0_gml_420_0
-\EN* How did you.../%
+\EN* Cómo has.../%
 obj_controller_city_mice3_slash_Step_0_gml_445_0
-\EC* HOW DID YOU SOLVE THAT??/%
+\EC* CÓMO RESOLVISTE ESO??/%
 obj_controller_city_mice3_slash_Step_0_gml_466_0
-\ED* Even a broken clock is right once a day./%
+\ED* Incluso un reloj roto es justo una vez al día./%
 obj_controller_city_mice3_slash_Step_0_gml_487_0
-\E9* And Kris^1, if anyone asks.../%
+\E9* Y Kris^1, si alguien pregunta.../%
 obj_controller_city_mice3_slash_Step_0_gml_500_0
-\ED* I solved the puzzle!!/
+\ED* Yo hize el acertijo!!/
 obj_controller_city_mice3_slash_Step_0_gml_501_0
-\EC* It's not fair for YOU to get extra credit for a fluke!!/
+\EC* No es justo que TU obtengas crédito extra por una casualidad!!/
 obj_controller_city_mice3_slash_Step_0_gml_502_0
-\ED* Get it!? Let NO ONE think otherwise^1! ESPECIALLY Susie!/
+\ED* Entiendes? ¡Que nadie piense lo contrario^1! ¡ESPECIALMENTE Susie!/
 obj_controller_city_mice3_slash_Step_0_gml_503_0
-\EC* You KNOW she'd just..^1. lord it over me!/%
+\EC* Sabes que ella sólo..^1. presume sobre mí!/%
 disttopt
 disttopt=
 obj_controller_city_mice3_slash_Step_0_gml_631_0
-\E2* Gosh./
+\E2* Cielos./
 obj_controller_city_mice3_slash_Step_0_gml_632_0
-\E3* ..^1. Y'know^1, I don't think I'm afraid of mice anymore./
+\E3* ..^1. Ahora^1, Yo no creo que tenga ahora miedo de los ratones./
 obj_controller_city_mice3_slash_Step_0_gml_633_0
-\E6* Actually^1, I think they might be kind of..^1. cute?/
+\E6* En realidad^1, creo que podrían ser un poco..^1. ¿Lindos?/
 obj_controller_city_mice3_slash_Step_0_gml_634_0
-\E8* Anyways^1, let's keep going./%
+\E8* De todos modos^1, sigamos adelante./%
 obj_controller_city_mice3_slash_Step_0_gml_660_0
-* (Noelle is now immune to mice.)/%
+* (Noelle ahora no le teme a los ratones.)/%
 tempsave
 language
 obj_controller_city_mice3_slash_Draw_0_gml_18_0
@@ -37499,73 +37499,73 @@ obj_controller_city_mice3_slash_Draw_0_gml_20_0
 ILUVNEZUMI
 ??????????
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_11_0
-(Powerless!?)
+(Impotente!?)
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_13_0
 SIMPLETON?
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_14_0
 ... H-huh? Berdly?
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_15_0
-BERDLY??? BERDLY KNOWS???
+BERDLY??? BERDLY SABE???
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_16_0
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_17_0
 Berdly...
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_18_0
-WHY THAT!?
+POR QUÉ ESO!?
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_21_0
-\E5* Ahh^1, Kris. Stuck on this puzzle^1, I see?/
+\E5* Ahh^1, Kris. Veo que estas atrapado en el acertijo, no?/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_22_0
-\E7* I thought I heard Noelle calling for help^1, but.../
+\E7* Pensé que escuché a Noelle pidiendo ayuda^1, pero.../
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_23_0
-\EE* I get what that sound was now. Kris./
+\EE* Entiendo lo que era ese sonido ahora. Kris./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_24_0
-\E7* Your brain must be crying./
+\E7* Tu cerebro debe estar llorando./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_25_0
-\E0* Poor^1, sweet^1, Noelle. Where could she be now./
+\E0* Pobre^1, dulce Noelle. Donde podría estar ahora./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_26_0
-\EG* Stuck on a puzzle just like this one^1, no doubt./
+\EG* Atrapado en un rompecabezas como este^1, sin duda./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_27_0
-\EH* If only I was there to do it for her./
+\EH* Ojalá estuviera allí para hacerlo por ella./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_28_0
-\E8* She's but a powerless doe without my help...\f2 ^1/
+\E8* No es más que una hazaña impotente sin mi ayuda...\f2 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_29_0
-\E1* Though being alone might be better than being with you!/
+\E1* ¡Aunque estar solo podría ser mejor que estar contigo!/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_30_0
-\E7* Kris^1, you would only get in the way!/
+\E7* Kris^1, sólo se interpondría en el camino!/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_31_0
-\EI* After all^1, you can't understand Noelle like I can./
+\EI* Después de todo^1, no puedes entender a Noelle como yo./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_32_0
-\E4* Yes^1, you may have been her lifelong neighbor. But./
+\E4* Si^1, es posible que hayas sido su vecino de toda la vida. Pero./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_33_0
-\EJ* I am a maestro of emotional intelligence./
+\EJ* Soy un maestro de la inteligencia emocional./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_34_0
-\E7* I can read her feelings like a strategy guide./
+\E7* Puedo leer sus sentimientos como una guía de estrategia./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_35_0
-\EC* Which^1, I have NEVER needed by the way!/
+\EC* Lo cual^1, ¡NUNCA lo he necesitado por cierto!/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_36_0
-\EE* You may see her as the simpleton girl next door.\f4 ^1/
+\EE* Puede que la vea como la chica simpleton de al lado.\f4 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_37_0
-\EI* But the reality. Is that she is./
+\EI* Pero la realidad. Es que lo es./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_38_0
-\EG* A lovestruck girl with her heart on her sleeve.\f5 ^1/
+\EG* Una chica enamorada con el corazón en la manga.\f5 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_39_0
-\E3* And..^1. Kris..^1. The target of her affection.../
+\E3* Y..^1. Kris..^1. La razón de su afecto.../
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_40_0
-\EI* May be surprising to you.\f6 ^1/
+\EI* Puede ser sorprendente hacia ti.\f6 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_41_0
-\E8* It's..^1. Truly sad. Such love..^1. May never fruit.\f7 ^1/
+\E8* Es..^1. Realmente triste. Tal amor..^1. Que nunca dé frutos.\f7 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_42_0
-\E9* But still^1, I have to support her^1, Kris./
+\E9* Pero aún así^1, tengo que apoyarla^1, Kris./
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_43_0
-\E5* She's my friend.\f8 ^1/
+\E5* Ella es mi amiga.\f8 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_44_0
-\EE* Also^1, my only worthy opponent at racing games.\f9 ^1/%
+\EE* También^1, mi única oponente digna en los juegos de carreras.\f9 ^1/%
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_61_0
-\E8* (Is that really what you're gonna end it on!?)/%
+\E8* (Es eso realmente lo que vas a terminar!?)/%
 activeDecay
 inert
 hints
 obj_lotterymouseController_slash_Step_0_gml_18_0
-* (Sounds like the bridge was raised.)/%
+* (Suena como si el puente se levantara.)/%
 moveloc
 TILES_Doorway
 TILES_BlockedEntrance
