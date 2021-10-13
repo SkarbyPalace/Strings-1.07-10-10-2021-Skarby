@@ -4316,11 +4316,11 @@ haveSusie
 /%
 endSentence
 scr_text_slash_scr_text_gml_4437_0
-* (You got a small shoe with a toothpick through it...)~1
+* (Tienes un zapato pequeño con un palillo de dientes a través de él ...)~1
 scr_text_slash_scr_text_gml_4442_0
-\EH* (Chomp.)/
+\EH* (Mastica.)/
 scr_text_slash_scr_text_gml_4443_0
-\E1* Eh^1, it's okay. Let's pass./%
+\E1* Eh^1, está bien. Pasemos./%
 timesTalked
 haveNoelle
 scr_text_slash_scr_text_gml_4464_0
@@ -4330,23 +4330,23 @@ scr_text_slash_scr_text_gml_4469_0
 scr_text_slash_scr_text_gml_4470_0
 \E8* (A menos de que sean hechos para mi...)/%
 scr_text_slash_scr_text_gml_4475_0
-* Nunca te volveras mas fuerte sin tu dosis diaria de zapatos!!/%
+* Nunca te volverás más fuerte sin una dosis diaria de zapatos!!~1
 scr_text_slash_scr_text_gml_4481_0
 scr_text_slash_scr_text_gml_4482_0
  #No Comprar
 scr_text_slash_scr_text_gml_4483_0
 scr_text_slash_scr_text_gml_4484_0
 scr_text_slash_scr_text_gml_4486_0
-* Clothing Store SALE^1! SALE!/
+* Tienda de ropa VENTA^1! VENTA!/
 scr_text_slash_scr_text_gml_4487_0
-* We're selling this for 75`% off! Only 300 Dark Dollars!/
+* Estamos vendiendo esto por un 75`%! Por solo 300 Dark Dollars!/
 scr_text_slash_scr_text_gml_4489_0
 scr_text_slash_scr_text_gml_4517_0
-* Great doing business with you!!/
+* Un placer hacer negocios contigo!!/
 scr_text_slash_scr_text_gml_4534_0_b
-* (It was added to your ARMORS.)/%
+* (Eso, fue añadido a tus ARMADURAS.)/%
 scr_text_slash_scr_text_gml_4522_0
-* You are lacking in space or money!/%
+* ¡Te falta espacio o dinero!/%
 scr_text_slash_scr_text_gml_4529_0
 scr_text_slash_scr_text_gml_4534_0
 scr_text_slash_scr_text_gml_4539_0
@@ -4356,7 +4356,7 @@ scr_text_slash_scr_text_gml_4542_0
 scr_text_slash_scr_text_gml_4544_0
 * Esta es la tienda de té más CALIENTE! CALIENTE CALIENTE!^1! 50`% menos!/
 scr_text_slash_scr_text_gml_4546_0
-* Por $100^1, elige tu PROPIO sabor!!/
+* Por $100^1, elegiras tu PROPIO sabor!!/
 scr_text_slash_scr_text_gml_4547_0
 hasroom
 gml_Script_scr_itemcheck_inventory_and_pocket
@@ -4421,9 +4421,9 @@ scr_text_slash_scr_text_gml_4683_0
 scr_text_slash_scr_text_gml_4689_0
 scr_text_slash_scr_text_gml_4695_0
 scr_text_slash_scr_text_gml_4701_0
-#We have#a truce
+#Tenemos#una tregua
 scr_text_slash_scr_text_gml_4702_0
-#She is#our enemy
+#Ella es#nuestra enemiga
 scr_text_slash_scr_text_gml_4703_0
 scr_text_slash_scr_text_gml_4704_0
 scr_text_slash_scr_text_gml_4706_0
@@ -4473,23 +4473,23 @@ scr_text_slash_scr_text_gml_4785_0
 scr_text_slash_scr_text_gml_4786_0
 \EH* You don't have to stare at me like a weirdo!/%
 scr_text_slash_scr_text_gml_4792_0
-I am going#to touch the#cheese
+Voy a#tocar el#queso
 scr_text_slash_scr_text_gml_4793_0
-I do not#touch the#cheese
+No voy a#tocar el#queso
 scr_text_slash_scr_text_gml_4794_0
 scr_text_slash_scr_text_gml_4795_0
 scr_text_slash_scr_text_gml_4800_0
 \E2* Kris.../
 scr_text_slash_scr_text_gml_4801_0
-\E3* You aren't going to touch that cheese^1, are you?/
+\E3* No vas a tocar ese queso^1, ¿verdad?/
 scr_text_slash_scr_text_gml_4802_0
 scr_text_slash_scr_text_gml_4806_0
-* (There's a cheese on the ground.)/
+* (Hay un queso en el suelo.)/
 scr_text_slash_scr_text_gml_4807_0
 scr_text_slash_scr_text_gml_4815_0
-* (You rubbed the cheese down like a beloved pet.)/
+* (Frotaste el queso como una mascota querida.)/
 scr_text_slash_scr_text_gml_4816_0
-* (Suddenly...!)/%
+* (De repente...!)/%
 scr_text_slash_scr_text_gml_4822_0
 scr_text_slash_scr_text_gml_4828_0
 scr_text_slash_scr_text_gml_4829_0
@@ -7220,7 +7220,7 @@ Red#Damage
 scr_monstersetup_slash_scr_monstersetup_gml_741_0
 DualHeal
 scr_monstersetup_slash_scr_monstersetup_gml_742_0
-Heals#everyone
+Cura#a todos
 scr_monstersetup_slash_scr_monstersetup_gml_760_0
 Ambyu-Lance
 scr_monstersetup_slash_scr_monstersetup_gml_772_0
@@ -7286,7 +7286,7 @@ Potenciar
 scr_monstersetup_slash_scr_monstersetup_gml_980_0
 Atrapar a todos
 scr_monstersetup_slash_scr_monstersetup_gml_987_0
-Fear
+Temer
 scr_monstersetup_slash_scr_monstersetup_gml_987_1
 scr_monstersetup_slash_scr_monstersetup_gml_993_0
 scr_monstersetup_slash_scr_monstersetup_gml_997_0
@@ -7725,49 +7725,49 @@ RudeSword
 scr_spellinfo_slash_scr_spellinfo_gml_23_0
 Golpe#Rudo#
 scr_spellinfo_slash_scr_spellinfo_gml_24_0
-Deals moderate Rude-elemental damage to#one foe. Depends on Attack & Magic.
+Reparte daño elemental moderado a#un enemigo. Depende del Ataque & Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_31_0
-Oracion de Cura
+OraciónDeCura
 scr_spellinfo_slash_scr_spellinfo_gml_32_0
 scr_spellinfo_slash_scr_spellinfo_gml_33_0
 Cura#Aliados
 scr_spellinfo_slash_scr_spellinfo_gml_34_0
-Heavenly light restores a little HP to#one party member. Depends on Magic.
+La luz celestial restaura una#pequeña HP a un miembro. Depende de la Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_42_0
 Pacificar
 scr_spellinfo_slash_scr_spellinfo_gml_43_0
 scr_spellinfo_slash_scr_spellinfo_gml_44_0
 Perdona#a CANSADOS
 scr_spellinfo_slash_scr_spellinfo_gml_45_0
-SPARE a tired enemy by putting them to sleep.
+PERDONA a un enemigo cansado poniéndolo a dormir.
 scr_spellinfo_slash_scr_spellinfo_gml_52_0
 Embestida
 scr_spellinfo_slash_scr_spellinfo_gml_53_0
 scr_spellinfo_slash_scr_spellinfo_gml_54_0
 scr_spellinfo_slash_scr_spellinfo_gml_55_0
 scr_spellinfo_slash_scr_spellinfo_gml_64_0
-Red Buster
+Embestida Roja
 scr_spellinfo_slash_scr_spellinfo_gml_65_0
 scr_spellinfo_slash_scr_spellinfo_gml_66_0
-Red#Damage#
+Daño#Rojo#
 scr_spellinfo_slash_scr_spellinfo_gml_67_0
 scr_spellinfo_slash_scr_spellinfo_gml_75_0
-Dual Heal
+Doble Cura
 scr_spellinfo_slash_scr_spellinfo_gml_76_0
 scr_spellinfo_slash_scr_spellinfo_gml_77_0
-Heal All#30 HP
+Cura a#todos 30HP
 scr_spellinfo_slash_scr_spellinfo_gml_78_0
 scr_spellinfo_slash_scr_spellinfo_gml_86_0
 ACTUAR
 scr_spellinfo_slash_scr_spellinfo_gml_87_0
 scr_spellinfo_slash_scr_spellinfo_gml_88_0
-Use#action
+Usa#una acción
 scr_spellinfo_slash_scr_spellinfo_gml_89_0
 Hace todo tipo de cosas.#No es magia.
 scr_spellinfo_slash_scr_spellinfo_gml_96_0
 SleepMist
 scr_spellinfo_slash_scr_spellinfo_gml_97_0
-Sleep Mist
+Niebla de Sueño
 scr_spellinfo_slash_scr_spellinfo_gml_98_0
 Perdona#a CANSADOS
 scr_spellinfo_slash_scr_spellinfo_gml_99_0
@@ -7776,9 +7776,9 @@ scr_spellinfo_slash_scr_spellinfo_gml_107_0
 IceShock
 scr_spellinfo_slash_scr_spellinfo_gml_108_0
 scr_spellinfo_slash_scr_spellinfo_gml_109_0
-Damage#w/ ICE
+Daño con#HIELO
 scr_spellinfo_slash_scr_spellinfo_gml_110_0
-Deals magical ICE damage to#one enemy.
+Inflige daño mágico de HIELO#a un enemigo.
 scr_spellinfo_slash_scr_spellinfo_gml_121_0
 SnowGrave
 scr_spellinfo_slash_scr_spellinfo_gml_122_0
@@ -7790,9 +7790,9 @@ scr_spellinfo_slash_scr_spellinfo_gml_147_0
 UltimatHeal
 scr_spellinfo_slash_scr_spellinfo_gml_148_0
 scr_spellinfo_slash_scr_spellinfo_gml_149_0
-Best#healing
+La mejor#Curación
 scr_spellinfo_slash_scr_spellinfo_gml_150_0
-Heals 1 party member to the#best of Susie's ability.
+Curas a 1 miembro con#la mejor habilidad de Susie
 scr_spellinfo
 battleat
 automiss
@@ -8224,7 +8224,7 @@ Es bastante pequeño, pero a algunas#personas les gusta. +??HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_48_0
 Usted pensaría que sabe perfecto.#Cura 500HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_51_0
-un roux oscuro con un aroma delicado.#Tambien... tiene gusanos. +50HP
+Un roux oscuro con un aroma delicado.#Tambien... tiene gusanos. +50HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_54_0
 Un bagel con un reflectivo dentro.#Hace música por cada mordida. +80HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_57_0
@@ -10384,7 +10384,7 @@ scr_recruit_info_slash_scr_recruit_info_gml_43_0
 scr_recruit_info_slash_scr_recruit_info_gml_44_0
 Un corazón con un corazón grande. Siempre apoyando a otros con sus balas.
 scr_recruit_info_slash_scr_recruit_info_gml_45_0
-Lip Gloss
+Labial
 scr_recruit_info_slash_scr_recruit_info_gml_46_0
 Drama
 scr_recruit_info_slash_scr_recruit_info_gml_51_0
@@ -10463,7 +10463,7 @@ Aunque más fuerte que Hathy, parece tener menos amigos.
 scr_recruit_info_slash_scr_recruit_info_gml_144_0
 Paz y Tranquilidad
 scr_recruit_info_slash_scr_recruit_info_gml_145_0
-estar solo
+Estar solo
 scr_recruit_info_slash_scr_recruit_info_gml_150_0
 HEART:ICE
 scr_recruit_info_slash_scr_recruit_info_gml_151_0
@@ -17811,9 +17811,9 @@ obj_npc_room_animated_slash_Other_10_gml_279_0
 obj_npc_room_animated_slash_Other_10_gml_286_0
 \m2		*Te gustó la gran estatua^2?&\m3	Construirlo apestaba^2!&\m1	Tomó un montón de chatarra^2./
 obj_npc_room_animated_slash_Other_10_gml_287_0
-\m1		*El otro trabajo que hicimos&fue mucho mejor^2!&\m2	era grande^2./
+\m1		*El otro trabajo que hicimos&fue mucho mejor^2!&\m2	Era grande^2./
 obj_npc_room_animated_slash_Other_10_gml_288_0
-\m3		*Te va a volar la cabeza^2!&\m2	era grande^2./%
+\m3		*Te va a volar la cabeza^2!&\m2	Era grande^2./%
 obj_npc_room_animated_slash_Other_10_gml_303_0
 * ¡Maestros jóvenes^1! ¡Gracias por un espacio tan amplio para limpiar!/
 obj_npc_room_animated_slash_Other_10_gml_304_0
@@ -19271,7 +19271,7 @@ obj_readable_room1_slash_Other_10_gml_2656_0
 obj_readable_room1_slash_Other_10_gml_2640_0
 * (Es deber del ciudadano rotar y liberar los ratones usando señales de tránsito.)/
 obj_readable_room1_slash_Other_10_gml_2641_0
-* ~1: Engage and Disengage.&* ~2 ~3: Rotate.&* ~4: Release./%
+* ~1: Unirse y Desconectarse.&* ~2 ~3: Girar.&* ~4: Sacar a los ratones./%
 obj_readable_room1_slash_Other_10_gml_2681_0
 \E0* Está bloqueado.../
 obj_readable_room1_slash_Other_10_gml_2682_0
@@ -20462,7 +20462,7 @@ guts_amount
 fluff_amount
 obj_darkcontroller_slash_Draw_0_gml_226_0
 obj_darkcontroller_slash_Draw_0_gml_231_0
-Dog:
+Perro:
 obj_darkcontroller_slash_Draw_0_gml_236_0
 obj_darkcontroller_slash_Draw_0_gml_239_0
 LV1 Humano#El cuerpo contiene#una ALMA humana.
@@ -20473,7 +20473,7 @@ LV1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_272_0_b
 LV~1 Lider#Dirige la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_273_0
-LV~1 Tactico#Comanda la fiesta#con varios ACTs.
+LV~1 Tactico,#Comanda la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_274_0
 LV~1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_275_0_b
@@ -20527,7 +20527,7 @@ Dulzura
 obj_darkcontroller_slash_Draw_0_gml_286_0
 Esponjosidad
 obj_darkcontroller_slash_Draw_0_gml_382_0
-LV1 Snowcaster#Podría ser capaz de usar#algunos movimientos geniales.
+LV1 Snowcaster#Es capaz de usar#movimientos geniales.
 obj_darkcontroller_slash_Draw_0_gml_383_0
 LV~1 Frostmancer#Congela el enemigo.
 obj_darkcontroller_slash_Draw_0_gml_384_0
@@ -20894,7 +20894,7 @@ stringel
 stringlscale
 stringmscale
 obj_fusionmenu_slash_Draw_0_gml_169_0
-Place
+Poner
 obj_fusionmenu_slash_Draw_0_gml_125_0
 ~1: Poner
 obj_fusionmenu_slash_Draw_0_gml_129_0
