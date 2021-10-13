@@ -35053,44 +35053,44 @@ north_collider
 obj_ch2_city_berdly_slash_Step_0_gml_28_0
 \EB* Uh-uh oh--/%
 obj_ch2_city_berdly_slash_Step_0_gml_49_0
-\EN* Noelle!? What are you doing with Kris!?/
+\EN* Noelle!? Qué estas haciendo con Kris!?/
 obj_ch2_city_berdly_slash_Step_0_gml_51_0
-\E2* Um^1, I..^1. um..^1. I..^1. I.../%
+\E2* Um^1, Yo..^1. um..^1. Yo..^1. Yo.../%
 obj_ch2_city_berdly_slash_Step_0_gml_63_0
-\ER* We..^1. have a truce...?/%
+\ER* Tenemos..^1. una tregua...?/%
 obj_ch2_city_berdly_slash_Step_0_gml_71_0
-\E3* A..^1. truce!? With..^1. Kris?/%
+\E3* Una..^1. tregua!? Con..^1. Kris?/%
 obj_ch2_city_berdly_slash_Step_0_gml_81_0
-\E2* Hahaha!^1! That's impossible!/%
+\E2* Jajaja!^1! Eso es imposible!/%
 obj_ch2_city_berdly_slash_Step_0_gml_90_0
-\E5* That would be double trucies./%
+\E5* Eso sería doble tregua./%
 obj_ch2_city_berdly_slash_Step_0_gml_98_0
 obj_ch2_city_berdly_slash_Step_0_gml_113_0
-\EF* Worry not^1, my dearest Noelle./
+\EF* No te preocupes^1, mi querida Noelle./
 obj_ch2_city_berdly_slash_Step_0_gml_114_0
-\E5* I know what you really want to say./%
+\E5* Se que es lo que querías decir./%
 obj_ch2_city_berdly_slash_Step_0_gml_122_0
-\E2* You...^1. you do?/%
+\E2* Tú...^1. lo sabes?/%
 obj_ch2_city_berdly_slash_Step_0_gml_130_0
-\E0* Going along with all this.../
+\E0* De acuerdo con lo que veo.../
 obj_ch2_city_berdly_slash_Step_0_gml_131_0
-\E8* You feel..^1. forced^1, don't you?/
+\E8* Te sientes..^1. forzada^1, no es así?/
 obj_ch2_city_berdly_slash_Step_0_gml_132_0
-\EG* It's why you're not with Queen right now./%
+\EG* Es por eso que no estas con Queen./%
 obj_ch2_city_berdly_slash_Step_0_gml_141_0
-\E2* Berdly..^1. you get it?/%
+\E2* Berdly..^1. lo entiendes?/%
 obj_ch2_city_berdly_slash_Step_0_gml_149_0
-\E5* Yes!^1! I do!!/%
+\E5* Si!^1! Lo entiendo!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_163_0
-\E6* Kris is FORCING you to be on THEIR side!!/
+\E6* Kris te está FORZANDO a ti para que estes en SU lado!!/
 obj_ch2_city_berdly_slash_Step_0_gml_164_0
-\E2* Kidnapper!^1! Kris^1, our truce..^1. is OVER!!!/%
+\E2* Secuestrador!^1! Kris^1, nuestra tregua..^1. se ACABÓ!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_179_0
-\E6* Noelle!^1! This may hurt^1, but it's to help you!!/
+\E6* Noelle!^1! Puede que esto duela^1, pero es para ayudarte!!/
 obj_ch2_city_berdly_slash_Step_0_gml_181_0
-\EE* W-wait^1, just listen to me---!!!/%
+\EE* E-espera^1, solo escuchame---!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_234_0
-\E5* Noelle^1! There you are!/
+\E5* Noelle^1! Ahí estas!/
 obj_ch2_city_berdly_slash_Step_0_gml_235_0
 \E4* Just in time^1! We can both go back to Queen and--/%
 obj_ch2_city_berdly_slash_Step_0_gml_221_0
