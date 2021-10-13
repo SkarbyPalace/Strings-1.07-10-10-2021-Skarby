@@ -17611,13 +17611,13 @@ obj_npc_sign_slash_Other_10_gml_1230_0
 obj_npc_sign_slash_Other_10_gml_1240_0
 * (The camera must be broken.)/%
 obj_npc_sign_slash_Other_10_gml_1249_0
-* (The treasure of air. Where three are one^1, place one to three.)/
+* (El tesoro de aire. Donde hay tres^1, tres entran en uno.)/
 obj_npc_sign_slash_Other_10_gml_1251_0
-\EJ* Perhaps it means we all have to enter one teacup?/
+\EJ* Quizás significa que hay que tomar el paseo de tazas?/
 obj_npc_sign_slash_Other_10_gml_1253_0
-\EK* ..^1. well^1, I don't like doing it but it works./%
+\EK* ..^1. bueno^1, no me gusta hacerlo pero me sirve./%
 obj_npc_sign_slash_Other_10_gml_1258_0
-* (The treasure of air. Where three are one^1, place one to three.)/%
+* (El tesoro de aire. Donde hay tres^1, coloca uno a tres.)/%
 obj_npc_sign_slash_Other_10_gml_1266_0
 * (It's a manhole.)/%
 obj_npc_sign_slash_Other_10_gml_1324_0
@@ -19346,28 +19346,28 @@ obj_readable_room1_slash_Other_10_gml_2904_0
 * (It's closed.)/%
 have_noelle
 obj_readable_room1_slash_Other_10_gml_2912_0
-\E2* Look Kris^1! Another teacup ride!/
+\E2* Mira Kris^1! Otro paseo en tazas!/
 obj_readable_room1_slash_Other_10_gml_2913_0
-\ED* But there's only 3 seats.../
+\ED* Pero solo hay 3 puestos.../
 obj_readable_room1_slash_Other_10_gml_2915_0
-\ER* (M-maybe two of us could..^1. sh-share one?)/
+\ER* (T-talvez dos podemos..^1. co-compartir uno?)/
 obj_readable_room1_slash_Other_10_gml_2917_0
-\EK* Damn^1, guess we gotta take the stairs./%
+\EK* Rayos^1, creo que tendremos que subir las escaleras./%
 obj_readable_room1_slash_Other_10_gml_2922_0
-* (Deer and teacups..^1. a dangerous combination.)/%
+* (Ciervo y tazas..^1. una combinación peligrosa.)/%
 obj_readable_room1_slash_Other_10_gml_2970_0
-* (There doesn't seem to be a reason to ride this.)/%
+* (No parece haber una razón para tomar esto.)/%
 rodeteacup
 obj_readable_room1_slash_Other_10_gml_2939_0
-\EK* Hell no^1, like we're doing that again./%
+\EK* Claro que no^1, como si fueramos a hacer eso de nuevo./%
 obj_readable_room1_slash_Other_10_gml_3015_0
 * (Knock^1, knock^1, knock)/
 obj_readable_room1_slash_Other_10_gml_3016_0
-* You found the only knockable door in the city./
+* Encontraste una puerta golpeable en la ciudad./
 obj_readable_room1_slash_Other_10_gml_3017_0
-* This here is my pride and joy.../%
+* Esto aquí es mi orgullo y alegría.../%
 obj_npc_toriel_slash_Other_10_gml_2_0
-* Hello there^1!&* How are you doing on this fine day?/%
+* Hola ahí^1!&* Cómo estás en este fino día?/%
 sprite_height_adjusted
 lifetimer
 ralsei_dw
@@ -21286,50 +21286,50 @@ makeballoons
 bx
 by
 obj_room_dw_city_postbaseball_slash_Step_0_gml_68_0
-\E3* Wait^1, I know^1! Umm^1, to turn off that force field.../%
+\E3* Espera^1, yo se^1! Umm^1, para apagar ese campo de fuerza.../%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_86_0
-\E2* You just stay standing on this switch!/
+\E2* Solo te quedas parado sobre este interruptor!/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_88_0
 \E0* Huh./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_105_0
-\E2* Well^1, see ya later. \f0 /%
+\E2* Bueno^1, hasta luego. \f0 /%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_106_0
-(W-wait, what did I volunteer for?)
+(E-espera, qué acabo de hacer?)
 entranceforcefield
 obj_room_dw_city_postbaseball_slash_Step_0_gml_161_0
 \E8* (W..^1. wait for me!)/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_167_0
-\EH* So^1, umm..^1. why were you all..^1. riding a teacup together?/
+\EH* Asi que^1, umm..^1. porque estaban..^1. paseando una taza juntos?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_169_0
-\E0* Ugh. Balloons./
+\E0* Ugh. Globos./
 obj_room_dw_city_postbaseball_slash_Step_0_gml_171_0
-\E2* Balloons?/
+\E2* Globos?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_173_0
-\E1* Trust me..^1. you dodged a bullet./
+\E1* Creeme..^1. esquivaste una bala./
 obj_room_dw_city_postbaseball_slash_Step_0_gml_175_0
 \E2* Umm... okay!/%
 checkchar
 obj_room_dw_city_postbaseball_slash_Step_0_gml_257_0
-* (You all jumped into one teacup.)/
+* (Todos entraron dentro de una taza.)/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_258_0
-* (You heard a clicking sound.)/%
+* (Escuchaste un sonido de click.)/%
 bulletarea
 obj_room_dw_city_postbaseball_slash_Step_0_gml_380_0
-\EK* Wait a sec..^1. Where's Noelle?/%
+\EK* Espera un segundo..^1. Donde está Noelle?/%
 nox
 obj_room_dw_city_postbaseball_slash_Step_0_gml_399_0
-\E2* S-sorry^1, I..^1. I'd just never seen fireworks up close before.../
+\E2* P-perdón^1, Es..^1. Es que nunca he visto fuegos artificales cerca.../
 obj_room_dw_city_postbaseball_slash_Step_0_gml_401_0
-\EY* Those bullets? What^1, you scared?/
+\EY* Esas balas? Qué^1, asustada?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_403_0
-\E3* Uh..^1. umm..^1. I guess so.../
+\E3* Uh..^1. umm..^1. Supongo.../
 obj_room_dw_city_postbaseball_slash_Step_0_gml_404_0
-\E4* (Maybe that's..^1. why I couldn't stop watching...?)/%
+\E4* (Talvez..^1. por eso no dejaba de verlas...?)/%
 completed
 obj_room_dw_city_postbaseball_slash_Step_0_gml_708_0
-\E5* 20 more!? Damn^1, we're gonna be here forever!/
+\E5* 20 más!? Carajos^1, estaremos aqui para siempre!/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_710_0
-\E2* M..^1. maybe if we..^1. um^1, split up the work?/
+\E2* T..^1. talvez si nosotros..^1. um^1, dividimos el trabajo?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_712_0
 \EK* Huh?/%
 minigametimer
@@ -21340,33 +21340,33 @@ ralseiactor
 noelleactor
 mysolid
 obj_room_dw_city_postbaseball_slash_Step_0_gml_781_0
-\E0* I'll release the mice.../
+\E0* Yo liberaré los ratones.../
 obj_room_dw_city_postbaseball_slash_Step_0_gml_782_0
-\E4* Susie will break the balloons when they reach the top.../
+\E4* Susie romperá los globos cuando lleguen al tope.../
 obj_room_dw_city_postbaseball_slash_Step_0_gml_783_0
-\E8* And Kris^1, you catch them^1! Umm^1, if that's ok./
+\E8* Y Kris^1, tú los atrapas^1! Umm^1, si está bien./
 obj_room_dw_city_postbaseball_slash_Step_0_gml_784_0
-\E0* Ready...?/
+\E0* Listos...?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_785_0
-\E4* Go!/%
+\E4* Vámos!/%
 boxing_game.ogg
 failstate
 howmanymice
 ballooncon
 obj_room_dw_city_postbaseball_slash_Step_0_gml_936_0
-\E5* Hell yeah^1! Take that^1, you stupid mice!/%
+\E5* Claro que si^1! Tomen eso^1, estupidos ratones!/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_944_0
-\E2* It's nice seeing you enjoy a puzzle^1, Susie./%
+\E2* Es genial verte disfrutar un acertijo^1, Susie./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_957_0
-\EK* Well. Maybe they aren't awful if you do 'em like that./%
+\EK* Bueno. Talvez no son horribles si los haces así./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_966_0
-\EL* ..^1. not bad^1, Noelle. That was kinda smart./%
+\EL* ..^1. nada mal^1, Noelle. Eso fue algo inteligente./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_972_0
-\EM* H-Huh? Th..^1. thanks.../%
+\EM* H-Huh? GR..^1. gracias.../%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_977_0
-\EY* Heh^1, maybe next time I'll let you do my homework./%
+\EY* Heh^1, talvez la próxima vez te deje hacer mi tarea./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_992_0
-\E6* (Can I?)/%
+\E6* (Puedo?)/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1047_0
 \E8* I think we're done with the mice for now^1, Kris./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1052_0
@@ -23783,7 +23783,7 @@ obj_maus_enemy_slash_Step_0_gml_23_0
 obj_maus_enemy_slash_Step_0_gml_27_0
 (izquierda, derecha,&derecha, izquierda...)
 obj_maus_enemy_slash_Step_0_gml_31_0
-(Atrápame, atrápame!)&(Hee hee hee...)
+(Atrapame, atrapame!)&(Hee hee hee...)
 dialogue_rand
 obj_maus_enemy_slash_Step_0_gml_40_0
 (Me vas a&llevar a casa?)
@@ -34899,123 +34899,123 @@ circle_zoom
 circle_zoom_timer
 capsule4
 obj_ch2_city08_slash_Step_0_gml_69_0
-\E0* Look!^1! We're finally close to the Fountain!/
+\E0* Mira!^1! Finalmente estamos cerca de la Fuente!/
 obj_ch2_city08_slash_Step_0_gml_70_0
-\EH* It's Queen's mansion!!/%
+\EH* Es la Mansión de Queen!!/%
 obj_ch2_city08_slash_Step_0_gml_78_0
-\EB* H-huh!? W-wait^1, why did we come here!?/%
+\EB* H-huh!? E-espera^1, por qué vinimos para acá!?/%
 obj_ch2_city08_slash_Step_0_gml_92_0
-\EQ* Kris You Brought Noelle Right To Me/
+\EQ* Kris Trajiste A Noelle Justo Conmigo/
 obj_ch2_city08_slash_Step_0_gml_93_0
-\E9* (I Knew Our Truce Was The Best)/
+\E9* (Sabía Que Nuestra Tregua Era La Mejor)/
 obj_ch2_city08_slash_Step_0_gml_94_0
-\E6* But Unfortunately/
+\E6* Pero Desafortunadamente/
 obj_ch2_city08_slash_Step_0_gml_95_0
-\E7* That Means Trucies Are Over/
+\E7* Significa Que Nuestras Treguitas Terminaron/
 obj_ch2_city08_slash_Step_0_gml_96_0
-\E1* Noelle Get Over Here/
+\E1* Noelle Ven Para Acá/
 obj_ch2_city08_slash_Step_0_gml_98_0
-\E7* But I..^1. I.../
+\E7* Pero yo..^1. Yo.../
 obj_ch2_city08_slash_Step_0_gml_100_0
 \E1* Noelle/
 obj_ch2_city08_slash_Step_0_gml_101_0
-\ED* I Will Only Say It One Time/
+\ED* Solo Lo Dire Una Vez/
 obj_ch2_city08_slash_Step_0_gml_102_0
-\E1* Infinitely/
+\E1* Infinitamente/
 obj_ch2_city08_slash_Step_0_gml_103_0
-\E1* Get Over Here Get Over Here Get Over Here Get Over Here Get Over Here/%
+\E1* Ven para acá Ven para acá Ven para acá Ven para acá Ven para acá/%
 obj_ch2_city08_slash_Step_0_gml_111_0
-\E7* I..^1. I.../
+\E7* Yo..^1. Yo.../
 obj_ch2_city08_slash_Step_0_gml_113_0
-\EF* Noelle Are You: Hesitating/
+\EF* Noelle Estás: Vacilando/
 obj_ch2_city08_slash_Step_0_gml_114_0
-\E9* Let Me If-Then This For You/
+\E9* Dejame-Entonces Te Dire Esto/
 obj_ch2_city08_slash_Step_0_gml_115_0
-\E1* How About: IF You Don't Listen THEN/
+\E1* Que Te Parece:SI No Me Escuchas ENTONCES/
 obj_ch2_city08_slash_Step_0_gml_116_0
-\EO* A Certain Bird Might Take A Ride In The Acid River/%
+\EO* Cierto Pájaro Tomara Un Paseo En El Río Ácido/%
 obj_ch2_city08_slash_Step_0_gml_132_0
 \EC* B..^1. Berdly!?/%
 obj_ch2_city08_slash_Step_0_gml_159_0_b
 \EC* B..^1. Berdly!?/
 obj_ch2_city08_slash_Step_0_gml_160_0_b
-* (That's right^1, he was just with us...)/
+* (Es verdad^1, él estaba con nosotros...)/
 obj_ch2_city08_slash_Step_0_gml_161_0_b
-* (Queen must have captured him when we weren't looking...!?)/%
+* (Queen debio capturarlo cuando no lo vimos...!?)/%
 obj_ch2_city08_slash_Step_0_gml_152_0
 \E7* (...)/%
 obj_ch2_city08_slash_Step_0_gml_159_0
-\E7* (I..^1. I'm sorry..^1. Kris^1, Susie..^1. I...)/
+\E7* (Yo..^1. Lo siento..^1. Kris^1, Susie..^1. Yo...)/
 obj_ch2_city08_slash_Step_0_gml_160_0
-\E9* (I wish I could have stayed with you longer^1, but...)/
+\E9* (Me gustaría haber estado mas^1, pero...)/
 obj_ch2_city08_slash_Step_0_gml_161_0
-\E7* (I..^1. I can't let Berdly get hurt^1, y'know?)/
+\E7* (Yo..^1. no puedo dejar que Berdly salga herido^1, saben?)/
 obj_ch2_city08_slash_Step_0_gml_163_0
 \EO* .../%
 obj_ch2_city08_slash_Step_0_gml_173_0
-\E0* Don't Be Sad Noelle Honey/
+\E0* No Estes Triste Noelle Querida/
 obj_ch2_city08_slash_Step_0_gml_174_0
-\E1* All That Remains Is The Final Step/%
+\E1* Todo Lo Que Queda Es El Último Paso/%
 obj_ch2_city08_slash_Step_0_gml_190_0
-\E6* My splendorious Queen^1! There you are!/
+\E6* Mi esplendida Reina^1! Ahí estás!/
 obj_ch2_city08_slash_Step_0_gml_191_0
 \EI* Phew^1! I looked in every used game store for you!/%
 obj_ch2_city08_slash_Step_0_gml_229_0
-\EI* Sorry^1, I thought I saw you in a used game store^1, and.../%
+\EI* Perdón^1, pensé verte en una tienda de juegos usados^1, y.../%
 obj_ch2_city08_slash_Step_0_gml_199_0
-\E3* Oh^1, Noelle. Are you okay? You look a little funny./%
+\E3* Oh^1, Noelle. Estás bien? Te ves un poco mal./%
 obj_ch2_city08_slash_Step_0_gml_214_0
 \E1* Okay Plan B/%
 obj_ch2_city08_slash_Step_0_gml_250_0
 \E3* H-huh!?/
 obj_ch2_city08_slash_Step_0_gml_251_0
-\EC* What are you doing!?/
+\EC* Qué estás haciendo!?/
 obj_ch2_city08_slash_Step_0_gml_253_0
-\EA* I See Now Her Will Must Be Unleashed By Force/
+\EA* Veo Que Su Disposición Debe Ser Lanzada A La Fuerza/
 obj_ch2_city08_slash_Step_0_gml_254_0
-\E9* Perhaps If I Make Her Face Into A Robot One...?/%
+\E9* Quizás Si Le Cambio Su Cara Por Una De Robot...?/%
 obj_ch2_city08_slash_Step_0_gml_266_0
-\EC* B-but..^1. you said you wouldn't do that if I.../
+\EC* P-pero..^1. dijiste que no harías eso si yo.../
 obj_ch2_city08_slash_Step_0_gml_268_0
-\EK* Variable Lying Set To True/%
+\EK* Variable De Mentira En Verdadero/%
 obj_ch2_city08_slash_Step_0_gml_277_0
-\EB* We were going to be smart together!!! That's not fair!!!/
+\EB* Ibamos a ser inteligentes juntos!!! No es justo!!!/
 obj_ch2_city08_slash_Step_0_gml_279_0
-\E1* Understood/
+\E1* Entendido/
 obj_ch2_city08_slash_Step_0_gml_280_0
-\E7* Fairness Activated/%
+\E7* Justicia Activada/%
 obj_ch2_city08_slash_Step_0_gml_313_0
 \EZ* H-HEY!!!/
 obj_ch2_city08_slash_Step_0_gml_315_0
-\ED* Good Thing I Calibrated Those Cages/
+\ED* Que Bueno Que Calibre Estas Jaulas/
 obj_ch2_city08_slash_Step_0_gml_317_0
-\EB* You..^1. you said I could trust you!!/
+\EB* Tú..^1. dijiste que podía confiar en ti!!/
 obj_ch2_city08_slash_Step_0_gml_318_0
-\EC* You said you were a GAMER!!!/
+\EC* Dijiste que eras una GAMER!!!/
 obj_ch2_city08_slash_Step_0_gml_320_0
 \EB* Berdly/
 obj_ch2_city08_slash_Step_0_gml_321_0
-\E6* I Only Play Mobile Games/%
+\E6* Solo Juego Free Fire/%
 obj_ch2_city08_slash_Step_0_gml_333_0
 \E3* NOOOOOOOO!!!!!!/
 obj_ch2_city08_slash_Step_0_gml_335_0
-\E6* One Of You Is Going To Help Me With My Plan/
+\E6* Uno De Ustedes Me Va A Ayudar Con Mi Plan/
 obj_ch2_city08_slash_Step_0_gml_336_0
-\E6* And It's Going To Be Noelle/
+\E6* Y Será Noelle/
 obj_ch2_city08_slash_Step_0_gml_337_0
-\ED* The Rest Of You/
+\ED* El Resto De Ustedes/
 obj_ch2_city08_slash_Step_0_gml_338_0
-\EC* Go To Your Rooms/%
+\EC* Vayan A Sus Habitaciones/%
 obj_ch2_city08_slash_Step_0_gml_382_0
-\EC* Wh..^1. What are you going to do with me?/%
+\EC* Qu..^1. Qué vas a hacer conmigo?/%
 obj_ch2_city08_slash_Step_0_gml_403_0
-\EI* Oh Damn/
+\EI* Oh Rayos/
 obj_ch2_city08_slash_Step_0_gml_404_0
-\E1* You're Still Here/
+\E1* Sigues Aquí/
 obj_ch2_city08_slash_Step_0_gml_405_0
-\ED* I Only Made Four Cages Ha Ha Ha/
+\ED* Solo Hice 4 Jaulas Ja Ja Ja/
 obj_ch2_city08_slash_Step_0_gml_406_0
-\EM* I Literally Don't Know Ha Ha Ha Ha/%
+\EM* Literalmente No Se Ja Ja Ja Ja/%
 obj_ch2_city08_slash_Step_0_gml_528_0
 \E0* Looks like we finally found the fountain.../
 obj_ch2_city08_slash_Step_0_gml_530_0
@@ -35155,61 +35155,61 @@ berdly_marker
 berdly_battle_heartbeat_true.ogg
 used_snowgrave
 obj_ch2_city_berdly_slash_Step_0_gml_527_0
-\EC* D-damn it!/%
+\EC* D-diablos!/%
 obj_ch2_city_berdly_slash_Step_0_gml_536_0
-\E2* Berdly^1, are you okay...?/
+\E2* Berdly^1, estás bien...?/
 obj_ch2_city_berdly_slash_Step_0_gml_537_0
-\E3* Kris^1, maybe we should have gone easier on him.../%
+\E3* Kris^1, talvez debimos haber ido mas suave.../%
 obj_ch2_city_berdly_slash_Step_0_gml_550_0
-\E6* Go easier!? Ha^1! Haha^1! Hahaha!/
+\E6* Más suave!? Ja^1! Jaja^1! Jajaja!/
 obj_ch2_city_berdly_slash_Step_0_gml_551_0
-\ED* The only one going easy mode^1, was me!/%
+\ED* El único que iba suave^1, era yo!/%
 obj_ch2_city_berdly_slash_Step_0_gml_563_0
-\E2* You look..^1. Exhausted./%
+\E2* Te ves..^1. Exhausto./%
 obj_ch2_city_berdly_slash_Step_0_gml_573_0
-\ED* I'm only tired of HOLDING BACK MY TRUE POWER!/%
+\ED* Estoy cansado por RETENER MI FUERZA VERDADERA!/%
 obj_ch2_city_berdly_slash_Step_0_gml_583_0
-\EE* Ah^1, Noelle. It'd be too simple to save you now./
+\EE* Ah^1, Noelle. Sería muy fácil salvarte ahora./
 obj_ch2_city_berdly_slash_Step_0_gml_584_0
-\E7* Kris^1! Go ahead and train your strength values./
+\E7* Kris^1! Continua y entrena tus valores de fuerza./
 obj_ch2_city_berdly_slash_Step_0_gml_585_0
-\E1* Try hard^1, and maybe someday you'll be a worthy rival./%
+\E1* Intenta fuerte^1 y talvez algun día serás un digno oponente./%
 obj_ch2_city_berdly_slash_Step_0_gml_592_0
-\EE* Heh^1! Sometimes I can't believe how cool I am.../%
+\EE* Heh^1! Aveces no puedo creer lo cool que soy.../%
 obj_ch2_city_berdly_slash_Step_0_gml_612_0
-\EH* (He hit me in the face with a tornado...)/%
+\EH* (Él me golpeó con un tornado...)/%
 obj_ch2_city_berdly_slash_Step_0_gml_619_0
-\E4* (If he would just listen to me...)/%
+\E4* (Si tan solo me hubiera escuchado...)/%
 obj_ch2_city_berdly_slash_Step_0_gml_636_0
 obj_ch2_city_berdly_slash_Step_0_gml_637_0
 \E2* Kris...?/
 obj_ch2_city_berdly_slash_Step_0_gml_638_0
 obj_ch2_city_berdly_slash_Step_0_gml_639_0
-\E2* Umm^1, about just now.../
+\E2* Umm^1, justo a tiempo.../
 obj_ch2_city_berdly_slash_Step_0_gml_640_0
 obj_ch2_city_berdly_slash_Step_0_gml_641_0
-\E5* (Seems like whatever was happening.)/
+\E5* (Parece que lo que haya ocurrido.)/
 obj_ch2_city_berdly_slash_Step_0_gml_642_0
-\E8* (They snapped themselves out of it...)/
+\E8* (Ellos escaparon del lugar...)/
 obj_ch2_city_berdly_slash_Step_0_gml_643_0
-\Ee* (Proceed...)/
+\Ee* (Procede...)/
 obj_ch2_city_berdly_slash_Step_0_gml_644_0
-\Ec* (Why..^1. did they keep saying that...?)/
+\Ec* (Por qué..^1. siguen diciendo eso...?)/
 obj_ch2_city_berdly_slash_Step_0_gml_645_0
-\E4* ..^1. w-wait^1, I get it!/
+\E4* ..^1. e-espera^1, lo entiendo!/
 obj_ch2_city_berdly_slash_Step_0_gml_646_0
-\ES* You were just trying to make Berdly mad^1, weren't you!?/
+\ES* Solo estabas intentando molestar a Berdly^1, verdad!?/
 obj_ch2_city_berdly_slash_Step_0_gml_647_0
-\EQ* Come on^1, that's not nice^1, Kris./
+\EQ* Vamos^1, eso no está bien^1, Kris./
 obj_ch2_city_berdly_slash_Step_0_gml_648_0
-\ER* ..^1. Though^1, it's not like I don't understand the feeling./
+\ER* ..^1. Aunque^1, no es como si no entendiera el sentimiento./
 obj_ch2_city_berdly_slash_Step_0_gml_649_0
 \ES* Fahahaha./
 obj_ch2_city_berdly_slash_Step_0_gml_650_0
-\E8* I guess we both kind of got carried away...!/
+\E8* Supongo que los dos nos dejamos llevar...!/
 obj_ch2_city_berdly_slash_Step_0_gml_651_0
 obj_ch2_city_berdly_slash_Step_0_gml_652_0
-\Ed* (Really though^1, what..^1. was I thinking?)/%
+\Ed* (Pero enserio^1, en..^1. en que estaba pensando?)/%
 release_timer
 traffic_car
 carnpc
@@ -38080,7 +38080,7 @@ encountercheck
 lastphase
 phasechange
 obj_weirdroute_manipulator_slash_Step_0_gml_36_0
-\E2* K-Kris...^1? Are you sure this isn't the wrong way?/%
+\E2* K-Kris...^1? Estás seguro que no es el camino equivocado?/%
 writedisplay
 showdebug
 windowswitcher
@@ -38104,24 +38104,24 @@ instance_count=
 THAT'S A LOT OF INSTANCES
 global.interact=
 obj_mouseballoon_pillar_slash_Other_10_gml_17_0
-* Looks like a hole to put mice in^1, but you don't have any mice./%
+* Parece un hoyo para meter ratones^1, pero no tienes ninguno./%
 obj_mouseballoon_pillar_slash_Other_10_gml_19_0
-* (You don't have enough mice to fill up the hole.)/%
+* (No tienes suficientes ratones para llenar el hoyo.)/%
 obj_mouseballoon_pillar_slash_Other_10_gml_22_0
-* (You put the mice in the hole.)/%
+* (Pusiste el ratón en el hoyo.)/%
 obj_mouseballoon_pillar_slash_Other_10_gml_26_0
-* (It's full of mice.)/%
+* (Esta lleno de ratones.)/%
 obj_mouseballoon_pillar_bucket_slash_Other_10_gml_15_0
-* (You put the bucket in the hole.)/%
+* (Pusiste la canasta en el hoyo.)/%
 obj_mouseballoon_pillar_bucket_slash_Other_10_gml_19_0
-* (It's full of bucket.)/%
+* (Está lleno de canastas.)/%
 myballoon
 fakeballoony
 krismade
 obj_mouseballoon_pillar_release_slash_Other_10_gml_15_0
-* (Suddenly a maus came out of the hole!)/%
+* (De repente un maus salió del hoyo!)/%
 obj_mouseballoon_pillar_release_slash_Other_10_gml_19_0
-* (The hole is silent.)/%
+* (El hoyo está silencioso.)/%
 ticked
 Continuar al Capitulo 2
 Capitulo 2へ進む
