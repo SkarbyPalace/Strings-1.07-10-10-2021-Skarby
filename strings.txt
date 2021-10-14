@@ -4759,7 +4759,7 @@ scr_text_slash_scr_text_gml_5336_0
 scr_text_slash_scr_text_gml_5337_0
 scr_text_slash_scr_text_gml_5338_0
 scr_text_slash_scr_text_gml_5341_0
-\EI* ..^1. es extraño decir.../
+\EI* ..^1. es extraño decir que.../
 scr_text_slash_scr_text_gml_5342_0
 \E1\M0* Es bueno pasar tiempo a solas contigo así...?/
 scr_text_slash_scr_text_gml_5343_0
@@ -5655,7 +5655,7 @@ Cancelar
 scr_text_slash_scr_text_gml_6999_0
 * (Es una puerta.^1)&* (¿A dónde irás?)//
 scr_text_slash_scr_text_gml_6918_0_b
-* (Para qué entrar cuando puedes no hacerlo.)/%
+* (No lo haces.)/%
 scr_text_slash_scr_text_gml_7026_0
 scr_text_slash_scr_text_gml_7030_0
 scr_text_slash_scr_text_gml_7046_0
@@ -17846,9 +17846,9 @@ obj_npc_room_animated_slash_Other_10_gml_379_0
 obj_npc_room_animated_slash_Other_10_gml_391_0
 * R-r-ratón!!/
 obj_npc_room_animated_slash_Other_10_gml_392_0
-* Y n-no no usan una peluca!!/%
+* Y n-no es usar una peluca!!/%
 obj_npc_room_animated_slash_Other_10_gml_405_0
-* Gracias por la ayuda^1. Ahora abriremos el comedor \cYESTE\cW./%
+* Gracias por la ayuda^1. Abriremos el \cYESTE\cW comedor ahora./%
 obj_npc_room_animated_slash_Other_10_gml_408_0
 * (Ouch^1, ouch)/
 obj_npc_room_animated_slash_Other_10_gml_409_0
@@ -27829,7 +27829,7 @@ Vender Armas
 obj_shop1_slash_Draw_0_gml_280_0
 Vender Armaduras
 obj_shop1_slash_Draw_0_gml_292_0
-Vender Otros
+Vender Items del Bolsillo
 obj_shop1_slash_Draw_0_gml_293_0
 obj_shop1_slash_Draw_0_gml_285_0
 \E0Que tipo&de basura&traes?
@@ -31882,44 +31882,44 @@ queen_heckle_timer
 queen_heckle_start
 ffield
 obj_ch2_scene21_slash_Step_0_gml_31_0
-\EL* A..^1. A giant lake of acid!?/%
+\EL* Un..^1. Un lago gigante de ácido!?/%
 obj_ch2_scene21_slash_Step_0_gml_45_0
-\E1* Oh You Mean The Free Pool/
+\E1* Oh Quieres Decir La Piscina Gratis/
 obj_ch2_scene21_slash_Step_0_gml_46_0
-\ED* You Will Learn To Love It Like Family/
+\ED* Aprenderas A Amarlo Como A La Familia/
 obj_ch2_scene21_slash_Step_0_gml_48_0
-\EK* Why do you have this!?/
+\EK* Por qué tienes esto!?/
 obj_ch2_scene21_slash_Step_0_gml_50_0
-\EO* It Is My Mansion's Energy Source And Fun To Drink/
+\EO* Es La Fuente De Energía De Mi Mansión Y Mi Bebida/
 obj_ch2_scene21_slash_Step_0_gml_51_0
-\EP* Bye Ha Ha Ha/%
+\EP* Adiós Ja ja ja ja/%
 obj_ch2_scene21_slash_Step_0_gml_58_0
 \EL* .../
 obj_ch2_scene21_slash_Step_0_gml_59_0
-\EE* How..^1. should we pass this!?/%
+\EE* Cómo..^1. vamos a pasar esto!?/%
 swan_interact
 obj_ch2_scene21_slash_Step_0_gml_109_0
-\EJ* I suppose..^1. this..^1. works. Haha./%
+\EJ* Supongo..^1. que esto..^1. funciona. Jaja./%
 obj_ch2_scene21_slash_Step_0_gml_173_0
-\E1* Ohhh Wow I'm So Distracted Right Now/%
+\E1* Ohhh Wow Estoy Muy Distraída Ahorita/%
 obj_ch2_scene21_slash_Step_0_gml_183_0
-\E1* Just Tropical Villas For My Guests Isn't That Thoughtful/
+\E1* Villas Tropicales Para Mis Invitados/
 obj_ch2_scene21_slash_Step_0_gml_185_0
-\EX* ..^1. How would anybody fit inside?/
+\EX* ..^1. Cómo puede caber alguien allí?/
 obj_ch2_scene21_slash_Step_0_gml_187_0
-\E1* Shrink From The Acid/%
+\E1* Se Encogen Por El Ácido/%
 obj_ch2_scene21_slash_Step_0_gml_197_0
 \E1* Kris Ve Por La Banana/
 obj_ch2_scene21_slash_Step_0_gml_199_0
-\EE* Kr..^1. Kris isn't going to do what you say!/%
+\EE* Kr..^1. Kris no va a hacer lo que le digas!/%
 obj_ch2_scene21_slash_Step_0_gml_211_0
-\E1* Fools I Wanted You To Avoid It/
+\E1* Tontos Quería Que Lo Esquivara/
 obj_ch2_scene21_slash_Step_0_gml_212_0
-\E6* Now You Will Become Potassium Deficient/%
+\E6* Ahora Tendrás Deficiencia De Potasio/%
 obj_ch2_scene21_slash_Step_0_gml_234_0
-\EQ* Th-that's okay^1, Kris. It's good for you./%
+\EQ* Es-está bien^1, Kris. Es bueno para ti./%
 obj_ch2_scene21_slash_Step_0_gml_246_0
-\EJ* ..^1. looks like we're coming up on a tunnel!/%
+\EJ* ..^1. parece que entraremos a un túnel!/%
 ra_x
 ra_y
 swanboat_x
@@ -31928,9 +31928,9 @@ bottom_collider
 left_collider
 right_collider
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_33_0
-\EL* H-huh? There's something blocking the way.../%
+\EL* H-huh? Algo está bloqueando el camino.../%
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_50_0
-\EJ* Maybe we can find some way to get rid of this...?/%
+\EJ* Talvez podemos hayar una manera de sacarlo...?/%
 TILES_Mansion_Hide_1
 TILES_Mansion_Hide_2
 actor_shadow
@@ -31966,13 +31966,13 @@ obj_ch2_scene21_loop_slash_Step_0_gml_130_0
 choicetext
 obj_ch2_scene21_loop_slash_Step_0_gml_149_0
 obj_ch2_scene21_loop_slash_Step_0_gml_157_0
-\E1* I'm happy hearing you say that^1, Kris.../%
+\E1* Me alegra escuchar eso^1, Kris.../%
 obj_ch2_scene21_loop_slash_Step_0_gml_169_0
-\ED* Err^1, then^1, I^1, err -/%
+\ED* Err^1, entonces^1, yo^1, err -/%
 obj_ch2_scene21_loop_slash_Step_0_gml_177_0
-\EU* Ah^1, s-sarcastic^1! I was just being sarcastic!/
+\EU* Ah^1, s-sarcástico^1! Estaba siendo sarcástico!/
 obj_ch2_scene21_loop_slash_Step_0_gml_178_0
-\EQ* Haha^1, sorry about that!/%
+\EQ* Jaja^1, sorry about that!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_193_0
 \E2* Ah^1, just as I expected^1, haha./
 obj_ch2_scene21_loop_slash_Step_0_gml_194_0
@@ -36037,23 +36037,23 @@ Tiles_ExitBlock
 exit_collider
 icon_npc
 obj_ch2_room_mansion_3f_slash_Step_0_gml_50_0
-\EE* Kris^1, Susan..^1. Me alegro de que llegen sanos sin heridas./
+\EE* Kris^1, Susan..^1. Me alegro de que lleges sin heridas./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_51_0
-\E6* Ahora^1, démonos prisa!/%
+\E6* Ahora^1, apresurémonos!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_77_0
-\E7* Aquí hay un pasadizo secreto hacia el techo!/
+\E7* A través de aquí hay un pasadizo secreto hacia el techo!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_78_0
-\E4* Aquí^1, Podemos rescatar a lady Noelle./
+\E4* Aqui^1, Podemos rescatar a lady Noelle./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_80_0
-\E0* Uhh^1, ok./%
+\E0* Uhh^1, okay./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_91_0
 \E1* Vamos Kris./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_105_0
-\E3* Oh^1, Kris. Kris debería.../%
+\E3* Oh^1, Kris. Kris es.../%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_115_0
 \E4* Kris^1! Tú y tu \cYlacayo\cW distraeran a Queen!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_122_0
-\E6* Vamos Susie^1! Solo tu y yo^1! Haha!/
+\E6* Vamos Susie^1! Solo los dos^1! Haha!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_124_0
 \EK* ¡Bien^1, lo que sea!/%
 timer_sprite
@@ -37643,7 +37643,7 @@ tablespawn
 obj_controller_dininghall_slash_Step_0_gml_146_0
 \E9* Jajaja^1, ¡eso ha sido increíble, no lo crees?!/
 obj_controller_dininghall_slash_Step_0_gml_149_0
-\EK* Umm^1, quizás si quitamos la destrucción fragrante.../%
+\EK* Umm^1, quizás si le quitamos la destrucción fragrante.../%
 obj_controller_dininghall_slash_Step_0_gml_160_0
 \E2* ¡Vámonos^1, Kris^1! ¡Ya casi llegaremos a la tercera planta!/%
 noleave
@@ -37993,9 +37993,9 @@ panpoint
 toggled
 freezeplayer
 obj_dw_mansion_mouseLottery_Chest_slash_Step_0_gml_8_0
-* (The mice found $20.)&* (You didn't get any.)/%
+* (Los ratones encontraron $20.)&* (No obtuviste nada.)/%
 obj_dw_mansion_mouseLottery_Chest_slash_Step_0_gml_9_0
-* (The mice found $1.)&* (You didn't get any.)/%
+* (Los ratones encontraron $1.)&* (No obtuviste nada.)/%
 fakeNoelleActive
 fakeNoelle
 idealPositionProgress
