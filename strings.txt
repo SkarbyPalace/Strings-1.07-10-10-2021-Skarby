@@ -28449,7 +28449,7 @@ shinetimer
 obj_shop_ch2_swatch_slash_Draw_0_gml_79_0
 \E0* No seas azul.&* Estamos aquí para ti.
 obj_shop_ch2_swatch_slash_Draw_0_gml_81_0
-\E0* Bienvenido a Color&Cafe.&* Déjanos calentar&tu día.
+\E0* Bienvenidos a Color&Cafe.&* Déjanos calentar&tu día.
 obj_shop_ch2_swatch_slash_Draw_0_gml_120_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_132_0
 \E0Nuestro&menú está&preparado.
@@ -28464,14 +28464,14 @@ obj_shop_ch2_swatch_slash_Draw_0_gml_141_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_142_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_160_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_213_0
-Declaración de Misión
+Nuestro Trabajo
 obj_shop_ch2_swatch_slash_Draw_0_gml_214_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_222_0
-Sotano
+Sótano
 obj_shop_ch2_swatch_slash_Draw_0_gml_227_0
-Sotano Robot
+Robot del Sótano
 obj_shop_ch2_swatch_slash_Draw_0_gml_217_0
-Tu Atuendo
+Atuendo
 obj_shop_ch2_swatch_slash_Draw_0_gml_236_0
 Charlar&sería&un#placer.
 obj_shop_ch2_swatch_slash_Draw_0_gml_273_0
@@ -28502,43 +28502,43 @@ obj_shop_ch2_swatch_slash_Draw_0_gml_415_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_421_0
 * AH^1, perdóname por no presentarme antes^1, jóvenes maestros./
 obj_shop_ch2_swatch_slash_Draw_0_gml_422_0
-* Soy Swatch^1, el mayordomo principal de Nuestra Señora Grace./
+* Soy Swatch^1, el mayordomo principal de Nuestra Señora Queen./
 obj_shop_ch2_swatch_slash_Draw_0_gml_423_0
-* When we are not attending to her needs^1, I and the Queen's other staff^1,/
+* Cuando no estamos atendiendo a sus necesidades^1, yo y el resto del personal^1/
 obj_shop_ch2_swatch_slash_Draw_0_gml_424_0
-* Use this room as our humble yet colorful gift-shop-slash-cafe./
+* Usamos este lugar como nuestra humilde pero colorida tienda de regalos - cafetería./
 obj_shop_ch2_swatch_slash_Draw_0_gml_425_0
-* Please^1, shop to your heart's content. We are eager to serve your any wish./%
+* Por favor^1, comprad hasta quedar satisfechos. Estamos ansiosos por cumplir con vuestras demandas./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_431_0
-* Does a woman of Our Lady Grace's caliber not deserve -/
+* ¿Acaso una mujer del calibre de nuestra amada reina no se merece -/
 obj_shop_ch2_swatch_slash_Draw_0_gml_432_0
-* A coven of powerful men and women to dote upon her every movement?/
+* Un séquito de poderosos hombres y mujeres que admiren cada uno de sus movimientos?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_433_0
-* To have rap anthems written to her kindness --/
+* ¿Que se escriban himnos de rap sobre su benevolencia --/
 obj_shop_ch2_swatch_slash_Draw_0_gml_434_0
-* Which are then bitcrushed beyond recognition to make them more 'computer'?/
+* A los que se les aplica un bitcrusher hasta que quedan irreconocicbles para que parezcan más 'de ordenador'?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_435_0
-* To have melons^1, smashed^1, with karate chops^1, repeatedly^1, for no apparent reason?/
+* ¿Que se destrozen melones^1, repetidamente^1, con golpes de karate^1, sin motivo aparente?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_436_0
-* To have barrels^1, thrown^1, from the rafters --/
+* ¿Que se lancen barriles desde los tejados --/
 obj_shop_ch2_swatch_slash_Draw_0_gml_437_0
-* And make us smash them all with karate chops before the timer runs out?/
+* Para que nosotros los destrozemos con golpes de karate antes de que se acabe un temporizador,/
 obj_shop_ch2_swatch_slash_Draw_0_gml_438_0
-* But the barrels^1, are full of melons^1, and we have to smash those too?/
+* Pero los barriles están llenos de melones^1, así que los tenemos que destrozar también?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_439_0
-* Yes. The answer is..^1. yes./%
+* Sí. La respuesta es..^1. sí./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_447_0
-* Rouxls? I am afraid I am not familiar with a guest of that moniker.../
+* ¿Rouxls? Me temo que no me es familiar un invitado con tal apelativo.../
 obj_shop_ch2_swatch_slash_Draw_0_gml_448_0
-* Ah^1, wait. Are you perchance referring to that unbearable -/
+* Ah^1, espera. ¿Os estáis refiriendo por casualidad a ese insoportable -/
 obj_shop_ch2_swatch_slash_Draw_0_gml_449_0
-* Err^1, UNIQUE Man who barged in here and demanded to be made "Butler Supremeth?"/
+* Err^1, PECULIAR individuo que irrumpió en nuestra tienda demandando el título de "Mayordomo Sin Parangón?"/
 obj_shop_ch2_swatch_slash_Draw_0_gml_450_0
-* I am afraid that person..^1. is now banned from this establishment./
+* Me temo que esa persona..^1. ha sido vetada de este establecimiento./
 obj_shop_ch2_swatch_slash_Draw_0_gml_451_0
-* And may have suffered injuries as a result of his^1, err..^1. rather swift ejection./
+* Y no descarto que haya sufrido heridas como resultado de su^1, err..^1. particularmente ágil desalojo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_452_0
-* Please do not mention him again./
+* Por favor no volváis a mencionarlo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_453_0
 * We are still cleaning up the worms he left on the floor./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_457_0
