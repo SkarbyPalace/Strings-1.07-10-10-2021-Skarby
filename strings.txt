@@ -5655,7 +5655,7 @@ Cancelar
 scr_text_slash_scr_text_gml_6999_0
 * (Es una puerta.^1)&* (¿A dónde irás?)//
 scr_text_slash_scr_text_gml_6918_0_b
-* (No lo haces.)/%
+* (Para qué entrar cuando puedes no hacerlo.)/%
 scr_text_slash_scr_text_gml_7026_0
 scr_text_slash_scr_text_gml_7030_0
 scr_text_slash_scr_text_gml_7046_0
@@ -7468,9 +7468,9 @@ FriedPipis
 scr_monstersetup_slash_scr_monstersetup_gml_1650_0
 Heals#120 HP
 scr_monstersetup_slash_scr_monstersetup_gml_1664_0
-Snap
+Cortar
 scr_monstersetup_slash_scr_monstersetup_gml_1670_0
-SnapAll
+CortarTodos
 scr_monstersetup_slash_scr_monstersetup_gml_1682_0
 scr_monstersetup_slash_scr_monstersetup_gml_1687_0
 Supercharge
@@ -17846,9 +17846,9 @@ obj_npc_room_animated_slash_Other_10_gml_379_0
 obj_npc_room_animated_slash_Other_10_gml_391_0
 * R-r-ratón!!/
 obj_npc_room_animated_slash_Other_10_gml_392_0
-* Y n-no es usar una peluca!!/%
+* Y n-no no usan una peluca!!/%
 obj_npc_room_animated_slash_Other_10_gml_405_0
-* Gracias por la ayuda^1. Abriremos el \cYESTE\cW comedor ahora./%
+* Gracias por la ayuda^1. Ahora abriremos el comedor \cYESTE\cW./%
 obj_npc_room_animated_slash_Other_10_gml_408_0
 * (Ouch^1, ouch)/
 obj_npc_room_animated_slash_Other_10_gml_409_0
@@ -19282,7 +19282,7 @@ obj_readable_room1_slash_Other_10_gml_2698_0
 obj_readable_room1_slash_Other_10_gml_2699_0
 * (Rellena el espacio con oscuridad para desbloquear el camino.)/%
 obj_readable_room1_slash_Other_10_gml_2703_0
-* (Las otras 2 salas de puzzle han sido eliminadas sin ceremonias por una mano gigante.)/
+* (Las otras 2 salas han sido retiradas sin contempla-&ciones por una mano gigante.)/
 obj_readable_room1_slash_Other_10_gml_2704_0
 * (Pedimos a nuestros huéspedes su comprensión y esperamos que no estuvieran allí.)/%
 obj_readable_room1_slash_Other_10_gml_2711_0
@@ -26041,9 +26041,9 @@ obj_spamton_neo_enemy_slash_Step_0_gml_321_0
 * Spamton feels the sweet breeze as he takes a ride around town.
 heal_buffer
 obj_spamton_neo_enemy_slash_Step_0_gml_375_0
-* SPAMTON NEO - YOU WON'T FIND HIGHER ATTACK AND DEFENSE ANYWHERE ELSE!!!/
+* SPAMTON NEO - NO ENCONTRARAS MEJOR ATAQUE Y DEFENSA EN OTRO LUGAR!!!/
 obj_spamton_neo_enemy_slash_Step_0_gml_376_0
-* THE SMOOTH TASTE OF NEO "WAKE UP AND TASTE THE \cRPAIN\cW"./%
+* SABOR NEO SUAVE: "LEVANTATE Y SIENTE EL \cRDOLOR\cW"./%
 obj_spamton_neo_enemy_slash_Step_0_gml_377_0
 * [[note: pain is in red.]] ./%
 obj_spamton_neo_enemy_slash_Step_0_gml_381_0
@@ -27829,7 +27829,7 @@ Vender Armas
 obj_shop1_slash_Draw_0_gml_280_0
 Vender Armaduras
 obj_shop1_slash_Draw_0_gml_292_0
-Vender Items del Bolsillo
+Vender Otros
 obj_shop1_slash_Draw_0_gml_293_0
 obj_shop1_slash_Draw_0_gml_285_0
 \E0Que tipo&de basura&traes?
@@ -31972,7 +31972,7 @@ obj_ch2_scene21_loop_slash_Step_0_gml_169_0
 obj_ch2_scene21_loop_slash_Step_0_gml_177_0
 \EU* Ah^1, s-sarcástico^1! Estaba siendo sarcástico!/
 obj_ch2_scene21_loop_slash_Step_0_gml_178_0
-\EQ* Jaja^1, sorry about that!/%
+\EQ* Jaja^1, lo siento!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_193_0
 \E2* Ah^1, just as I expected^1, haha./
 obj_ch2_scene21_loop_slash_Step_0_gml_194_0
@@ -34019,9 +34019,9 @@ obj_ch2_sceneex2_slash_Step_0_gml_98_0
 obj_ch2_sceneex2_slash_Step_0_gml_111_0
 * KRIS!! AQUI ESTOY!!/%
 obj_ch2_sceneex2_slash_Step_0_gml_119_0
-* GRANDE/%
+* BIG/%
 obj_ch2_sceneex2_slash_Step_0_gml_127_0
-* MAS GRANDE^1,/%
+* BIG SHOT^1,/%
 obj_ch2_sceneex2_slash_Step_0_gml_135_0
 * [[Y MEJOR QUE NUNCA]]/%
 obj_ch2_sceneex2_slash_Step_0_gml_148_0
@@ -34058,7 +34058,7 @@ obj_ch2_sceneex2_slash_Step_0_gml_298_0
 obj_ch2_sceneex2_slash_Step_0_gml_411_0
 \E4* Kris!/%
 obj_ch2_sceneex2_slash_Step_0_gml_341_0
-\E4* Quien diablos ere ese rarito!?/
+\E4* Quien diablos era ese rarito!?/
 obj_ch2_sceneex2_slash_Step_0_gml_343_0
 \EQ* Kris^1, nos tenias preoucupados^1, asi que.../%
 obj_ch2_sceneex2_slash_Step_0_gml_442_0
@@ -34075,7 +34075,7 @@ obj_ch2_sceneex2_slash_Step_0_gml_554_0
 obj_ch2_sceneex2_slash_Step_0_gml_570_0
 * Kris!?!^1? ESE [GRAN TIRO]... ¿¡FUISTE TÚ!?/
 obj_ch2_sceneex2_slash_Step_0_gml_571_0
-* WOW!!^1!&* ESTOY TAN [Orgulloso] DE TI^1, QUE TE PODRIA [Matado]!/
+* WOW!!^1!&* ESTOY TAN [Orgulloso] DE TI^1, QUE PODRIA [Matarte]!/
 obj_ch2_sceneex2_slash_Step_0_gml_495_0
 * El [Paraiso] nos esta mirando!/
 obj_ch2_sceneex2_slash_Step_0_gml_496_0
@@ -36037,23 +36037,23 @@ Tiles_ExitBlock
 exit_collider
 icon_npc
 obj_ch2_room_mansion_3f_slash_Step_0_gml_50_0
-\EE* Kris^1, Susan..^1. Me alegro de que lleges sin heridas./
+\EE* Kris^1, Susan..^1. Me alegro de que llegen sanos sin heridas./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_51_0
-\E6* Ahora^1, apresurémonos!/%
+\E6* Ahora^1, démonos prisa!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_77_0
-\E7* A través de aquí hay un pasadizo secreto hacia el techo!/
+\E7* Aquí hay un pasadizo secreto hacia el techo!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_78_0
-\E4* Aqui^1, Podemos rescatar a lady Noelle./
+\E4* Aquí^1, Podemos rescatar a lady Noelle./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_80_0
-\E0* Uhh^1, okay./%
+\E0* Uhh^1, ok./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_91_0
 \E1* Vamos Kris./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_105_0
-\E3* Oh^1, Kris. Kris es.../%
+\E3* Oh^1, Kris. Kris debería.../%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_115_0
 \E4* Kris^1! Tú y tu \cYlacayo\cW distraeran a Queen!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_122_0
-\E6* Vamos Susie^1! Solo los dos^1! Haha!/
+\E6* Vamos Susie^1! Solo tu y yo^1! Haha!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_124_0
 \EK* ¡Bien^1, lo que sea!/%
 timer_sprite
@@ -37643,7 +37643,7 @@ tablespawn
 obj_controller_dininghall_slash_Step_0_gml_146_0
 \E9* Jajaja^1, ¡eso ha sido increíble, no lo crees?!/
 obj_controller_dininghall_slash_Step_0_gml_149_0
-\EK* Umm^1, quizás si le quitamos la destrucción fragrante.../%
+\EK* Umm^1, quizás si quitamos la destrucción fragrante.../%
 obj_controller_dininghall_slash_Step_0_gml_160_0
 \E2* ¡Vámonos^1, Kris^1! ¡Ya casi llegaremos a la tercera planta!/%
 noleave
