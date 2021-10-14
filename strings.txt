@@ -5655,7 +5655,7 @@ Cancelar
 scr_text_slash_scr_text_gml_6999_0
 * (Es una puerta.^1)&* (¿A dónde irás?)//
 scr_text_slash_scr_text_gml_6918_0_b
-* (No lo haces.)/%
+* (Para qué entrar cuando puedes no hacerlo.)/%
 scr_text_slash_scr_text_gml_7026_0
 scr_text_slash_scr_text_gml_7030_0
 scr_text_slash_scr_text_gml_7046_0
@@ -17846,9 +17846,9 @@ obj_npc_room_animated_slash_Other_10_gml_379_0
 obj_npc_room_animated_slash_Other_10_gml_391_0
 * R-r-ratón!!/
 obj_npc_room_animated_slash_Other_10_gml_392_0
-* Y n-no es usar una peluca!!/%
+* Y n-no no usan una peluca!!/%
 obj_npc_room_animated_slash_Other_10_gml_405_0
-* Gracias por la ayuda^1. Abriremos el \cYESTE\cW comedor ahora./%
+* Gracias por la ayuda^1. Ahora abriremos el comedor \cYESTE\cW./%
 obj_npc_room_animated_slash_Other_10_gml_408_0
 * (Ouch^1, ouch)/
 obj_npc_room_animated_slash_Other_10_gml_409_0
@@ -27829,7 +27829,7 @@ Vender Armas
 obj_shop1_slash_Draw_0_gml_280_0
 Vender Armaduras
 obj_shop1_slash_Draw_0_gml_292_0
-Vender Items del Bolsillo
+Vender Otros
 obj_shop1_slash_Draw_0_gml_293_0
 obj_shop1_slash_Draw_0_gml_285_0
 \E0Que tipo&de basura&traes?
@@ -36037,23 +36037,23 @@ Tiles_ExitBlock
 exit_collider
 icon_npc
 obj_ch2_room_mansion_3f_slash_Step_0_gml_50_0
-\EE* Kris^1, Susan..^1. Me alegro de que lleges sin heridas./
+\EE* Kris^1, Susan..^1. Me alegro de que llegen sanos sin heridas./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_51_0
-\E6* Ahora^1, apresurémonos!/%
+\E6* Ahora^1, démonos prisa!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_77_0
-\E7* A través de aquí hay un pasadizo secreto hacia el techo!/
+\E7* Aquí hay un pasadizo secreto hacia el techo!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_78_0
-\E4* Aqui^1, Podemos rescatar a lady Noelle./
+\E4* Aquí^1, Podemos rescatar a lady Noelle./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_80_0
-\E0* Uhh^1, okay./%
+\E0* Uhh^1, ok./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_91_0
 \E1* Vamos Kris./%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_105_0
-\E3* Oh^1, Kris. Kris es.../%
+\E3* Oh^1, Kris. Kris debería.../%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_115_0
 \E4* Kris^1! Tú y tu \cYlacayo\cW distraeran a Queen!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_122_0
-\E6* Vamos Susie^1! Solo los dos^1! Haha!/
+\E6* Vamos Susie^1! Solo tu y yo^1! Haha!/
 obj_ch2_room_mansion_3f_slash_Step_0_gml_124_0
 \EK* ¡Bien^1, lo que sea!/%
 timer_sprite
@@ -37643,7 +37643,7 @@ tablespawn
 obj_controller_dininghall_slash_Step_0_gml_146_0
 \E9* Jajaja^1, ¡eso ha sido increíble, no lo crees?!/
 obj_controller_dininghall_slash_Step_0_gml_149_0
-\EK* Umm^1, quizás si le quitamos la destrucción fragrante.../%
+\EK* Umm^1, quizás si quitamos la destrucción fragrante.../%
 obj_controller_dininghall_slash_Step_0_gml_160_0
 \E2* ¡Vámonos^1, Kris^1! ¡Ya casi llegaremos a la tercera planta!/%
 noleave
