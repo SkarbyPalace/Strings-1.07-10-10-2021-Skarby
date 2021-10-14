@@ -28504,92 +28504,92 @@ obj_shop_ch2_swatch_slash_Draw_0_gml_421_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_422_0
 * Soy Swatch^1, el mayordomo principal de Nuestra Señora Queen./
 obj_shop_ch2_swatch_slash_Draw_0_gml_423_0
-* Cuando no estamos atendiendo a sus necesidades^1, yo y el resto del personal^1/
+* Cuando no estamos atendiendo necesidades^1, yo y el resto del personal^1/
 obj_shop_ch2_swatch_slash_Draw_0_gml_424_0
-* Usamos este lugar como nuestra humilde pero colorida tienda de regalos - cafetería./
+* Usamos este lugar como una humilde pero colorida tienda de regalos y cafetería./
 obj_shop_ch2_swatch_slash_Draw_0_gml_425_0
-* Por favor^1, comprad hasta quedar satisfechos. Estamos ansiosos por cumplir con vuestras demandas./%
+* Por favor^1, pueden comprar hasta quedar satisfechos. Estamos para cumplir con todas las demandas./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_431_0
-* ¿Acaso una mujer del calibre de nuestra amada reina no se merece -/
+* ¿Acaso una mujer del calibre de nuestra amada reina no se merece-/
 obj_shop_ch2_swatch_slash_Draw_0_gml_432_0
 * Un séquito de poderosos hombres y mujeres que admiren cada uno de sus movimientos?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_433_0
-* ¿Que se escriban himnos de rap sobre su benevolencia --/
+* ¿Que se escriban himnos de rap sobre su benevolencia--/
 obj_shop_ch2_swatch_slash_Draw_0_gml_434_0
-* A los que se les aplica un bitcrusher hasta que quedan irreconocicbles para que parezcan más 'de ordenador'?/
+* A los que se les aplica un bitcrusher hasta que quedan irreconocicbles para que parezcan más "de ordenador"?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_435_0
 * ¿Que se destrozen melones^1, repetidamente^1, con golpes de karate^1, sin motivo aparente?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_436_0
-* ¿Que se lancen barriles desde los tejados --/
+* ¿Que se lancen barriles desde los tejados--/
 obj_shop_ch2_swatch_slash_Draw_0_gml_437_0
 * Para que nosotros los destrozemos con golpes de karate antes de que se acabe un temporizador,/
 obj_shop_ch2_swatch_slash_Draw_0_gml_438_0
-* Pero los barriles están llenos de melones^1, así que los tenemos que destrozar también?/
+* Pero los barriles están llenos de melones^1, así que tenemos que destrozarlos también?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_439_0
 * Sí. La respuesta es..^1. sí./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_447_0
 * ¿Rouxls? Me temo que no me es familiar un invitado con tal apelativo.../
 obj_shop_ch2_swatch_slash_Draw_0_gml_448_0
-* Ah^1, espera. ¿Os estáis refiriendo por casualidad a ese insoportable -/
+* Ah^1, espera. ¿Te estas refiriendo por casualidad a ese insoportable-/
 obj_shop_ch2_swatch_slash_Draw_0_gml_449_0
-* Err^1, PECULIAR individuo que irrumpió en nuestra tienda demandando el título de "Mayordomo Sin Parangón?"/
+* Err^1, PECULIAR individuo que irrumpió en nuestra tienda demandando el título de "Mayordomo Supremoth?"/
 obj_shop_ch2_swatch_slash_Draw_0_gml_450_0
-* Me temo que esa persona..^1. ha sido vetada de este establecimiento./
+* Me temo que esa persona..^1. ha sido desalojado de este establecimiento./
 obj_shop_ch2_swatch_slash_Draw_0_gml_451_0
 * Y no descarto que haya sufrido heridas como resultado de su^1, err..^1. particularmente ágil desalojo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_452_0
-* Por favor no volváis a mencionarlo./
+* Por favor no lo menciones de nuevo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_453_0
-* We are still cleaning up the worms he left on the floor./%
+* Aún seguimos limpiando los gusanos que dejó por el suelo./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_457_0
-* Oh^1, you defeated that simpleton? Wonderful^1, wonderful./
+* Oh^1, ¿derrotaron a ese simpleton? Maravilloso^1, Maravilloso./
 obj_shop_ch2_swatch_slash_Draw_0_gml_458_0
-* After he stole our flower display for one of his "boo-kettes^1,"/
+* Tras robar nuestro arreglo floral para uno de sus "boo-kettes^1,"/
 obj_shop_ch2_swatch_slash_Draw_0_gml_459_0
-* Tasque Manager told me she saw him in the hallway^1,/
+* Tasque Manager me comentó que lo vio en el pasillo^1,/
 obj_shop_ch2_swatch_slash_Draw_0_gml_460_0
-* Where^1, opening with "Ah^1, thou muste be 50`% Likelye to be Queene"^1,/
+* Donde^1, lo escucho decir "Ah^1, me hallo con la mitad de certezas de que usted debe ser Queene"^1,/
 obj_shop_ch2_swatch_slash_Draw_0_gml_461_0
-* He thrust the vase upon her^1, and asked to be her "minion for life."/
+* Procedió a entregarle las flores y le pidió ser su "sirvienta de por vida."/
 obj_shop_ch2_swatch_slash_Draw_0_gml_462_0
-* ..^1. he was promptly electrocuted to the ground./
+* ..^1. fue electrocutado rápidamente al suelo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_463_0
-* Well. Enough of the unpleasantries. Would you like a toasted marshmallow?/%
+* Bueno. Cambiando de tema a uno agradable. ¿Te gustarían unos malvaviscos tostados?/%
 obj_shop_ch2_swatch_slash_Draw_0_gml_480_0
-* What? Basement? There's no basement here./
+* ¿Qué? ¿Sótano? Aquí no hay ningún sótano./
 obj_shop_ch2_swatch_slash_Draw_0_gml_481_0
-* You need to relax. Have a drink^1, and talk softly.../
+* Necesitan relajarse. Tomar una bebida y hablar con suavidad.../
 obj_shop_ch2_swatch_slash_Draw_0_gml_482_0
-* You're bothering the other customers./%
+* Estan molestando al resto de clientes./%
 obj_shop_ch2_swatch_slash_Draw_0_gml_487_0
-* ..^1. So that's what happened./
+* ..^1. Con que eso es lo que ocurrio./
 obj_shop_ch2_swatch_slash_Draw_0_gml_488_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_489_0
-* That robot was the embodiment of a Lightner's dream./
+* Ese robot fue el resultado del sueño de un Lightner./
 obj_shop_ch2_swatch_slash_Draw_0_gml_490_0
-* A dream I helped create..^1. once./
+* Un sueño que yo ayudé a crear..^1. en su momento./
 obj_shop_ch2_swatch_slash_Draw_0_gml_491_0
-* Splashing color from the motion of their hand./
+* Con cada movimiento de su mano, Se fue llenando de color./
 obj_shop_ch2_swatch_slash_Draw_0_gml_492_0
-* The Lightner filled it with their own hope^1, giving it an incredible power./
+* El Lightner lo llenó con su propia esperanza^1, brindándole un increíble poder./
 obj_shop_ch2_swatch_slash_Draw_0_gml_493_0
-* ..^1. but^1, in the end^1, nothing ever came of it./
+* ..^1. pero^1, al final^1, no llegó a buen puerto./
 obj_shop_ch2_swatch_slash_Draw_0_gml_494_0
-* And it was left in the basement with the rest of the corrupted data./
+* Y quedó abandonado en el sótano junto al resto de datos corrompidos./
 obj_shop_ch2_swatch_slash_Draw_0_gml_495_0
-* ..^1. But that crooked salesman^1! Somehow^1, he learned about the robot^1,/
+* ..^1. ¡Pero ese vendedor torcido^1! De alguna manera, se enteró de la existencia del robot^1.../
 obj_shop_ch2_swatch_slash_Draw_0_gml_496_0
-* And thought he could use its power to fulfill his own twisted dreams./
+* Y pensó que puede usar su poder para cumplir sus retorcidos sueños./
 obj_shop_ch2_swatch_slash_Draw_0_gml_497_0
-* What a pity. To think he was once a valued customer.../%
+* Una pena. Y pensar que hace tiempo era uno de nuestros clientes.../%
 obj_shop_ch2_swatch_slash_Draw_0_gml_472_0
-* Ah^1, my outfit. Yes^1, the monochrome look is quite suitable^1, isn't it?/
+* Ah^1, mi atuendo. Sí^1, el estilo monocromático es bastante acertado^1, tu crees?/
 obj_shop_ch2_swatch_slash_Draw_0_gml_473_0
-* Black suit^1, colored glasses. Many people have failed to imitate this look./
+* Traje negro^1, gafas de colores. Muchas personas fallaron al intentar imitar este estilo./
 obj_shop_ch2_swatch_slash_Draw_0_gml_474_0
-* Some even going so far as to attempt to impersonate me.../
+* Algunas incluso han ido tan lejos como para intentar hacerse pasar por mí.../
 obj_shop_ch2_swatch_slash_Draw_0_gml_475_0
-* In order to get the..^1. Oh^1, nevermind. Macaron?/%
+* Sólo para conseguir..^1. Oh^1, no importa. ¿Quieren macarones?/%
 obj_shop_ch2_swatch_slash_Draw_0_gml_557_0
 spamton_neo_after.ogg
 soldout
