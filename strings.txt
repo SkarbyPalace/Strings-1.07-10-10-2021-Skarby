@@ -5520,10 +5520,10 @@ scr_text_slash_scr_text_gml_6759_0
 scr_text_slash_scr_text_gml_6760_0
 \EH* HEY!^1! NO TENEMOS TIEMPO PARA ESTO!!/%
 scr_text_slash_scr_text_gml_6771_0
-\EH* Don't try to run away^1, you little.../%
+\EH* No intentes escapar^1, pequeño.../%
 gml_Script_c_msgsetloc
 scr_text_slash_scr_text_gml_6777_0
-\E5* HEY^1, WAIT A SEC!/%
+\E5* ¡OYE^1, ESPERA UN SEGUNDO!/%
 scr_text_slash_scr_text_gml_6782_0
 scr_text_slash_scr_text_gml_6783_0
 scr_text_slash_scr_text_gml_6784_0
@@ -8133,16 +8133,16 @@ Mannequin
 scr_iteminfo_slash_scr_iteminfo_gml_129_0
 Useless
 scr_iteminfo_slash_scr_iteminfo_gml_135_0
-Kris Tea
+Té de Kris
 scr_iteminfo_slash_scr_iteminfo_gml_136_0
 scr_iteminfo_slash_scr_iteminfo_gml_142_0
-Noelle Tea
+Té de Noelle
 scr_iteminfo_slash_scr_iteminfo_gml_143_0
 scr_iteminfo_slash_scr_iteminfo_gml_149_0
-Ralsei Tea
+Té de Ralsei
 scr_iteminfo_slash_scr_iteminfo_gml_150_0
 scr_iteminfo_slash_scr_iteminfo_gml_156_0
-Susie Tea
+Té de Susie
 scr_iteminfo_slash_scr_iteminfo_gml_157_0
 scr_iteminfo_slash_scr_iteminfo_gml_163_0
 DD-Hamburgesa
@@ -17437,82 +17437,82 @@ obj_npc_sign_slash_Other_10_gml_863_0
 obj_npc_sign_slash_Other_10_gml_873_0
 Te refieres a una mamá?
 obj_npc_sign_slash_Other_10_gml_876_0
-\E1* Susie^1, Kris^1! Toothpaste boy!/
+\E1* ¡Susie^1, Kris^1! ¡El chico de pasta de dientes!/
 obj_npc_sign_slash_Other_10_gml_877_0
-\E2* Queen is teaching me all sorts of things about being a bad guy./
+\E2* Queen me está enseñando todo tipo de cosas sobre cómo ser el malo./
 obj_npc_sign_slash_Other_10_gml_878_0
-\E1* She's like..^1. How do I put this.../
+\E1* Ella es como..^1. cómo lo digo.../
 obj_npc_sign_slash_Other_10_gml_879_0
-\E2* A third father to me./
+\E2* Un tercer padre para mí./
 obj_npc_sign_slash_Other_10_gml_880_0
-\E3* A girldad^1, if you will...\f0/%
+\E3* Como un padrechica o algo similar...\f0/%
 obj_npc_sign_slash_Other_10_gml_883_0
-Peachboy Peachboy
+Niñopera Niñopera
 obj_npc_sign_slash_Other_10_gml_886_0
-\E1* Go outside and play^1, Peachboy!\f0/%
+\E1* ¡Sal por ahí a jugar^1, niño pera!\f0/%
 obj_npc_sign_slash_Other_10_gml_895_0
-\E1* Ralsei Will Soon Setup.EXE My Room For Me Upstairs/
+\E1* Ralsei Va A Iniciar.EXE Pronto Una Habitación Para Mí Arriba/
 obj_npc_sign_slash_Other_10_gml_896_0
-\ED* Do Not Worry/
+\ED* No Te Preocupes/
 obj_npc_sign_slash_Other_10_gml_897_0
-\EP* I Have A Long Spreadsheet Of Demands Ready Ha Ha/
+\EP* Tengo Una Larga Hoja De Cálculo De Demandas Ha Ha/
 obj_npc_sign_slash_Other_10_gml_898_0
-\E1* Though^1, Even If I Have An Awesome Room/
+\E1* Pero^1, Aunque Tenga Una Habitación Increíble/
 obj_npc_sign_slash_Other_10_gml_899_0
-\E5* Who Will Be There To Force To Enjoy It/
+\E5* Quién Estará Ahí Para Ser Obligado A Disfrutarla/
 obj_npc_sign_slash_Other_10_gml_900_0
 obj_npc_sign_slash_Other_10_gml_901_0
-\EA* ..^1. I Wonder How Noelle Is Doing Now/%
+\EA* ..^1. Me Pregunto Cómo Estará Noelle/%
 obj_npc_sign_slash_Other_10_gml_905_0
 obj_npc_sign_slash_Other_10_gml_913_0
-Peachboy! Peachboy!
+¡Niño pera!¡Niño pera!
 obj_npc_sign_slash_Other_10_gml_916_0
-\E1* Welcome This Entire Castle Is Now My Room/
+\E1* Bienvenidos Todo El Castillo Es Ahora Mi Habitación/
 obj_npc_sign_slash_Other_10_gml_918_0
-\EQ* U-umm^1, I was going to set up something upstairs./
+\EQ* U-umm^1, iba a hacer algo en el piso de arriba./
 obj_npc_sign_slash_Other_10_gml_920_0
-\E1* Why I Already Have Everything I Could Ever Want/
+\E1* Por Qué Si Ya Tengo Todo Lo Que Necesito/
 obj_npc_sign_slash_Other_10_gml_921_0
-\E9* Friendship^1, Fans^1, And A Small Round Boy/
+\E9* Amistades^1, Fans Y Un Niño Pequeño Y Redondito/
 obj_npc_sign_slash_Other_10_gml_922_0
-\ED* Now Go And Play With Your Friends^1, Peachboy\f0/%
+\ED* Ahora ve A Jugar Con Tus Amigos^1, niño pera\f0/%
 obj_npc_sign_slash_Other_10_gml_926_0
-\E1* Kris^1, Do Give Noelle My Regards/
+\E1* Kris^1, Dale Recuerdos A Noelle De Mi Parte/
 obj_npc_sign_slash_Other_10_gml_927_0
-\ED* Any Leftover Regards You Can Give To Berdly/%
+\ED* Los Recuerdos Que Te Sobren Se Los Puedes Dar A Berdly/%
 book_con
 obj_npc_sign_slash_Other_10_gml_952_0
-\E7* Woah^1, this statue rocks!/
+\E7* Woah^1, ¡Esta estatua esta bueno!/
 obj_npc_sign_slash_Other_10_gml_953_0
-\E2* Hey^1, Ralsei^1, can we take this for my room?/
+\E2* Oye^1, Ralsei^1, ¿puedo poner esto en mi habitación?/
 obj_npc_sign_slash_Other_10_gml_955_0
-\EK* Huh? Umm..^1. th-that would be stealing.../
+\EK* ¿Eh? Pero eso..^1. sería robar.../
 obj_npc_sign_slash_Other_10_gml_957_0
-* (You stole the Susie-like Statue...)/%
+* (Robas la Estatua Susiesca...)/%
 steal_susie
 obj_npc_sign_slash_Other_10_gml_970_0
-* (From the search 'is ice e real cryptid')/
+* (De la búsqueda 'es ice e un críptido')/
 obj_npc_sign_slash_Other_10_gml_971_0
-* (It's a cross between ICE-E and something else...)/
+* (Es un cruce entre ICE-E y otra cosa...)/
 obj_npc_sign_slash_Other_10_gml_973_0
-\E2* Hey Kris^1, take this for your room./
+\E2* Oye Kris^1, llévate esto a tu habitación./
 obj_npc_sign_slash_Other_10_gml_975_0
-\EK* Umm^1, that would be stealing.../
+\EK* Umm^1, eso sería robar.../
 obj_npc_sign_slash_Other_10_gml_977_0
-* (You stole the ICE-E statue for some reason.)/%
+* (Robas la estatua de ICE-E por algún motivo.)/%
 steal_icee
 obj_npc_sign_slash_Other_10_gml_991_0
-* (Room has been closed due to kitchen vermin.)/%
+* (La sala está cerrada debido a la plaga en la cocina.)/%
 obj_npc_sign_slash_Other_10_gml_996_0
-* (Room has been closed due to haters.)/%
+* (La sala está cerrada debido a los haters.)/%
 obj_npc_sign_slash_Other_10_gml_1090_0
-* (Closed.)/%
+* (Cerrado.)/%
 obj_npc_sign_slash_Other_10_gml_1046_0
-* (He doesn't seem to be awake.)/%
+* (No parece estar despierto.)/%
 obj_npc_sign_slash_Other_10_gml_1103_0
-* Sorry^1, the roller coaster is under construction./
+* Lo siento^1, la montaña rusa está en construcción./
 obj_npc_sign_slash_Other_10_gml_1104_0
-* Apparently^1, someone tried to use it anyway.../%
+* Aparentemente hubo algunos que han intentando usarla de todas formas.../%
 obj_npc_sign_slash_Other_10_gml_1112_0
 \E2* Oh^1, Kris^1! Es un desafio de deletreo..^1. No es eso G-E-N-I-A-L?/
 obj_npc_sign_slash_Other_10_gml_1114_0
@@ -17619,14 +17619,14 @@ obj_npc_sign_slash_Other_10_gml_1253_0
 obj_npc_sign_slash_Other_10_gml_1258_0
 * (El tesoro de aire. Donde hay tres^1, coloca uno a tres.)/%
 obj_npc_sign_slash_Other_10_gml_1266_0
-* (It's a manhole.)/%
+* (Es una alcantarilla.)/%
 obj_npc_sign_slash_Other_10_gml_1324_0
 obj_npc_sign_slash_Other_10_gml_1330_0
-\E1* Amazing So I Can Turn Your Castle Into My Mansion?/
+\E1* Increíble Así Que Puedo Convertir Tu Castillo En Mi Mansión/
 obj_npc_sign_slash_Other_10_gml_1332_0
-\EL* (W-Wait^1, that's not what I'm saying...)/%
+\EL* (E-Espera^1, eso no es lo que he dicho...)/%
 obj_npc_sign_slash_Other_10_gml_1338_0
-\E2* Kris^1, the Fountain is waiting for you!/%
+\E2* ¡Kris^1, la Fuente te está esperando!/%
 moss_con
 obj_npc_dumpster_slash_Step_0_gml_40_0
 \s0* Encontraste el \cG[Musgo]\cW^8! %%
@@ -17634,7 +17634,7 @@ ateMoss
 obj_npc_dumpster_slash_Step_0_gml_63_0
 * Tu título se ha actualizado a [Buscador de Musgos].~1
 obj_npc_dumpster_slash_Step_0_gml_78_0
-\E1* (Why do they look so pleased?)/%
+\E1* (¿Por qué parece tan contento?)/%
 instance_activate_object
 closetimer
 azul
@@ -17801,7 +17801,7 @@ obj_npc_room_animated_slash_Other_10_gml_271_0
 obj_npc_room_animated_slash_Other_10_gml_272_0
 \m3		*Debemos hacer dinero&de algún modo!^1! Heheh!!/
 obj_npc_room_animated_slash_Other_10_gml_273_0
-\m1		*Tengo que comprar equipo!^2!&\m3 Tengo que conseguir patadas!^2!&\m2 Quiero ser un coche^2./
+\m1		*Tengo que comprar equipo!^2!&\m3 Tengo que conseguir nuevos bombos!^2!&\m2 Quiero ser un coche^2./
 obj_npc_room_animated_slash_Other_10_gml_274_0
 \m1		*¡Buen pensamiento K_K^1! Tienes que moverte por^2!&\m2	Honk^1! Honk^2!/%
 obj_npc_room_animated_slash_Other_10_gml_278_0
@@ -19062,13 +19062,13 @@ obj_readable_room1_slash_Other_10_gml_1972_0
 obj_readable_room1_slash_Other_10_gml_1976_0
 \EG* Disculpa^1, trabajo en proceso!/%
 obj_readable_room1_slash_Other_10_gml_2031_0
-* (A secret switch...!)/
+* (¡Un interruptor secreto...!)/
 obj_readable_room1_slash_Other_10_gml_2032_0
-* (You heard something opening.)/%
+* (Escuchas algo abrirse.)/%
 obj_readable_room1_slash_Other_10_gml_1989_0
-* I'm the hacker. I got the feeling there's a secret backdoor in this room..^1. but.../
+* Soy el hacker. Creo que hay una entrada secreta en esta habitación^1, pero.../
 obj_readable_room1_slash_Other_10_gml_1990_0
-* Where could it be...? Hmmmmmmmmm..../%
+* ¿Dónde podría estar...? Hmmmmmmmmm..../%
 southcon
 northcon
 obj_readable_room1_slash_Other_10_gml_2019_0
@@ -20751,7 +20751,7 @@ dojoPrizeType
 dojoFlag
 tasqueRecruited
 obj_fusionmenu_slash_Step_0_gml_176_0
-Tasque Manager Says
+Tasque Manager Dice
 obj_fusionmenu_slash_Step_0_gml_178_0
 $250
 obj_fusionmenu_slash_Step_0_gml_180_0
@@ -23642,7 +23642,7 @@ obj_tasque_manager_enemy_slash_Step_0_gml_176_0
 obj_tasque_manager_enemy_slash_Step_0_gml_181_0
 * Tasque Manager ha llegado a su&hora de acostarse programada meticulosamente.
 obj_tasque_manager_enemy_slash_Step_0_gml_186_0
-* Tasque Manager ha encontrado que&las cosas esten suficientemente organizadas.
+* Tasque Manager ha encontrado que las cosas esten suficientemente organizadas.
 obj_tasque_manager_enemy_slash_Step_0_gml_205_0
 * TASQUE MANAGER - Obsesionado con el orden, y aborrece el Caos. Azotalo bien!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_254_0
@@ -37579,26 +37579,26 @@ shade
 topLoc
 entranceblock
 obj_controller_dining3_slash_Step_0_gml_19_0
-\E1* Welcome To My Extravagant Dining Bonanza/%
+\E1* Bienvenidos A Mi Extravagante Comedor De La Bonanza/%
 obj_controller_dining3_slash_Step_0_gml_72_0
-\ED* Only One Of These Delicious Platters Has The Key/
+\ED* Sólo Una De Estas Deliciosas Bandejas Tiene La Llave/
 obj_controller_dining3_slash_Step_0_gml_73_0
-\E1* I Am Sure Searching Will Be An Addicting Game of Chance/%
+\E1* Estoy Segura Que Buscarla Será Un Adictivo Juego De Azar/%
 obj_controller_dining3_slash_Step_0_gml_82_0
-\EH* H-how the hell are we gonna search all these!?/%
+\EH* ¿¡C-cómo DIABLOS vamos a encontrarla entre todas estas!?/%
 obj_controller_dining3_slash_Step_0_gml_98_0
-\E1* ERROR: Results: Key Not Found/
+\E1* ERROR: Resultados: Llave No Encontrada/
 obj_controller_dining3_slash_Step_0_gml_99_0
-\EN* Did You Mean: Give Up?/%
+\EN* ¿Querras Decir: Rendirse?/%
 obj_controller_dining3_slash_Step_0_gml_210_0
-\EL* All the platters got mixed up again!?/%
+\EL* ¿¡Todas las bandejas han vuelto a mezclarse!?/%
 obj_controller_dining3_slash_Step_0_gml_217_0
-\EK* Hey^1, Kris^1, isn't there something else we can do!?/%
+\EK* Oye^1, Kris^1, ¿¡no hay algo más que podamos hacer!?/%
 botright
 above
 below
 obj_controller_dining3_slash_Step_0_gml_246_0
-\E6* Hey^1, there's something under this one!/%
+\E6* Oye^1, ¡aqui hay algo debajo!/%
 draw_mode
 toss
 tossdir
@@ -37606,9 +37606,9 @@ dogtable
 drawcustom
 raspr
 obj_controller_dining3_slash_Step_0_gml_539_0
-\EJ* There's the key!!^1! Now we just have to--/%
+\EJ* ¡¡¡Ahí está la llave!!^1! Ahora sólo tenemos que--/%
 obj_controller_dining3_slash_Step_0_gml_603_0
-\EL* It BROKE IT?!/%
+\EL* ¡¿LA ROMPIO?!/%
 TILES_Doorway_FG
 dogIndex
 raise
@@ -37641,11 +37641,11 @@ memx
 memy
 tablespawn
 obj_controller_dininghall_slash_Step_0_gml_146_0
-\E9* Hahah^1, was that awesome or what?!/
+\E9* Jajaja^1, ¡eso ha sido increíble, no lo crees?!/
 obj_controller_dininghall_slash_Step_0_gml_149_0
-\EK* Umm^1, maybe minus the blatant destruction.../%
+\EK* Umm^1, quizás si le quitamos la destrucción fragrante.../%
 obj_controller_dininghall_slash_Step_0_gml_160_0
-\E2* Let's go^1, Kris^1! We're almost at the third floor!/%
+\E2* ¡Vámonos^1, Kris^1! ¡Ya casi llegaremos a la tercera planta!/%
 noleave
 SLIDE_TILES
 realral
@@ -37658,9 +37658,9 @@ hintcon
 obj_controller_keyboard_puzzle_2_slash_Step_0_gml_18_0
 \E0* Espera, es esto otro acertijo? Tu hazlo./%
 obj_controller_keyboard_puzzle_2_slash_Step_0_gml_109_0
-\EQ* Um..^1. Kris?/
+\EQ* Um..^1. ¿Kris?/
 obj_controller_keyboard_puzzle_2_slash_Step_0_gml_110_0
-\EJ* Maybe you can press the same key more than once?/%
+\EJ* ¿A lo mejor puedes pulsar la misma tecla más de una vez?/%
 SLIDE_DECOR
 SLIDE_TILES_Overlay
 teacup1
@@ -37671,7 +37671,7 @@ State:
 teacup1.y: 
 noleavefield
 obj_controller_dw_cyber_viromaze2_slash_Step_0_gml_9_0
-* Sounded like a forcefield deactivating./%
+* Se escucha el sonido de un campo de fuerza desactivándose./%
 movingwall1
 sndinit
 endwall
@@ -37699,7 +37699,7 @@ enemySwatch
 newspeed
 obj_controller_dw_mansion_bridges_funny_slash_Step_0_gml_180_0
 obj_controller_dw_mansion_bridges_funny_slash_Step_0_gml_181_0
-* I suppose we'll just have to let it go this once./%
+* Supongo que tendré que dejarlo pasar esta vez./%
 havenoelle
 makeviro
 global.flag[438]=
@@ -37809,7 +37809,7 @@ bularea
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_29_0
 \E1* Veo Que Has Escapado De: Las Unidades De Sus Habitaciónes/%
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_50_0_b
-\EC* Quién Puede Culparte Por Querer Ver Mi Gloriosa Mansión/
+\EC* Quien puede culparte Por observar Mi Gloriosa Mansión/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_51_0
 \ED* No Querrás Quitarte Los Ojos De Este Hermoso Arte/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_53_0
