@@ -5000,9 +5000,9 @@ scr_text_slash_scr_text_gml_5811_0
 scr_text_slash_scr_text_gml_5812_0
 #Derecha
 scr_text_slash_scr_text_gml_5813_0
-Top
+Arriba
 scr_text_slash_scr_text_gml_5814_0
-Bottom
+Abajo
 scr_text_slash_scr_text_gml_5819_0
 * Qué refinado./
 scr_text_slash_scr_text_gml_5820_0
@@ -7390,25 +7390,25 @@ scr_monstersetup_slash_scr_monstersetup_gml_1347_0
 Mauswheel
 scr_monstersetup_slash_scr_monstersetup_gml_1367_0
 scr_monstersetup_slash_scr_monstersetup_gml_1362_0
-Catch
+Atrapar
 scr_monstersetup_slash_scr_monstersetup_gml_1366_0
-CatchX
+AtraparX
 scr_monstersetup_slash_scr_monstersetup_gml_1378_0
 scr_monstersetup_slash_scr_monstersetup_gml_1384_0
 scr_monstersetup_slash_scr_monstersetup_gml_1385_0
 Rouxls
 scr_monstersetup_slash_scr_monstersetup_gml_1405_0
 scr_monstersetup_slash_scr_monstersetup_gml_1408_0
-Take House
+Tomar la Casa
 scr_monstersetup_slash_scr_monstersetup_gml_1413_0
-Take House 2
+Tomar la Casa 2
 scr_monstersetup_slash_scr_monstersetup_gml_1419_0
-Take House 3
+Tomar la Casa 3
 scr_monstersetup_slash_scr_monstersetup_gml_1425_0
-Take House 4
+Tomar la Casa 4
 scr_monstersetup_slash_scr_monstersetup_gml_1430_0
 scr_monstersetup_slash_scr_monstersetup_gml_1433_0_b
-Distract
+Distraer
 scr_monstersetup_slash_scr_monstersetup_gml_1433_0
 scr_monstersetup_slash_scr_monstersetup_gml_1453_0
 scr_monstersetup_slash_scr_monstersetup_gml_1456_0
@@ -7416,7 +7416,7 @@ Glare
 scr_monstersetup_slash_scr_monstersetup_gml_1456_1
 Actuar Tonto
 scr_monstersetup_slash_scr_monstersetup_gml_1460_0
-Wake
+Despertar
 scr_monstersetup_slash_scr_monstersetup_gml_1460_1
 Actuar Listo
 scr_monstersetup_slash_scr_monstersetup_gml_1465_0
@@ -7802,7 +7802,7 @@ yoffy
 _pspell
 pacifycon
 fail
-red
+rojo
 _mistcount
 _spelli
 _icemist
@@ -10216,7 +10216,7 @@ instance_number
 gml_Script_scr_terminate_writer
 scr_terminate_writer
 __heartcolor
-yellow
+amarillo
 gml_Script_scr_heartcolor
 scr_heartcolor
 __actnamecheck
@@ -17637,9 +17637,9 @@ obj_npc_dumpster_slash_Step_0_gml_78_0
 \E1* (Why do they look so pleased?)/%
 instance_activate_object
 closetimer
-blue
-green
-orange
+azul
+verde
+naranja
 current_pal
 swatch_color
 sprite_palette
@@ -17838,48 +17838,48 @@ obj_npc_room_animated_slash_Other_10_gml_354_0
 obj_npc_room_animated_slash_Other_10_gml_358_0
 \m2		*Sorry^1, I'm out of bagels./%
 obj_npc_room_animated_slash_Other_10_gml_374_0
-* Having a wide-open space is great for us kids./
+* Tener un espacio abierto es genial para nosotros los niños./
 obj_npc_room_animated_slash_Other_10_gml_375_0
-* Sometimes it's good to get your freak out./%
+* A veces es bueno sacar tu pánico./%
 obj_npc_room_animated_slash_Other_10_gml_379_0
-* And sometimes..^1. It's bad to get your freak out./%
+* Y a veces..^1. Es malo hacer que te asustes./%
 obj_npc_room_animated_slash_Other_10_gml_391_0
-* M-m-mouse!!/
+* R-r-ratón!!/
 obj_npc_room_animated_slash_Other_10_gml_392_0
-* And it's n-not wearing a wig!!/%
+* Y n-no es usar una peluca!!/%
 obj_npc_room_animated_slash_Other_10_gml_405_0
-* Thanks for the help^1. We'll open up the \cYEAST\cW dining hall now./%
+* Gracias por la ayuda^1. Abriremos el \cYESTE\cW comedor ahora./%
 obj_npc_room_animated_slash_Other_10_gml_408_0
 * (Ouch^1, ouch)/
 obj_npc_room_animated_slash_Other_10_gml_409_0
-* The mouse can't get me up here!!/
+* El ratón no puede subirme aquí!!/
 obj_npc_room_animated_slash_Other_10_gml_410_0
-* Even if the (ouch^1, ouch) stove is burning my feet!/%
+* Incluso si la estufa (ouch^1, ouch) me está quemando los pies!/%
 obj_npc_room_animated_slash_Other_10_gml_414_0
 obj_npc_room_animated_slash_Other_10_gml_415_0
-* How do I get down from here?/%
+* Cómo puedo bajar de aquí?/%
 obj_npc_room_animated_slash_Other_10_gml_425_0
-* Oh me^1, oh my^1! The kitchen is infested with..^1. vermin!!!/
+* Oh dios^1! La cocina está infestada de..^1. Parasitos!!!/
 obj_npc_room_animated_slash_Other_10_gml_426_0
-* I knew we should have properly finished dumping all the cheese in that alleyway!/%
+* Sabía que debíamos haber terminado de tirar todo el queso en ese callejón!/%
 obj_npc_room_animated_slash_Other_10_gml_430_0
-* Queen's making us prepare a massive feast for her upcoming guests./
+* Queen nos está haciendo preparar una gran fiesta para sus invitados./
 obj_npc_room_animated_slash_Other_10_gml_431_0
-* ..^1. I wonder if people can really eat platters^1, though./%
+* ..^1. Sin embargo, me pregunto si la gente realmente puede comer platos./%
 obj_npc_room_animated_slash_Other_10_gml_455_0
-* Queen told us to take out the garbage./
+* Queen nos dijo que sacáramos la basura./
 obj_npc_room_animated_slash_Other_10_gml_456_0
-* I'd never seen a garbage that big before./%
+* Nunca antes había visto una basura tan grande./%
 obj_npc_room_animated_slash_Other_10_gml_460_0
-* Except for the dancing garbage that lives in the trash heap./%
+* Excepto por la basura bailable que vive en el montón de basura./%
 obj_npc_room_animated_slash_Other_10_gml_469_0
-* It was a horrible statue^1, but the execution was very good./
+* Era una estatua horrible^1, pero la ejecución fue muy buena./
 obj_npc_room_animated_slash_Other_10_gml_470_0
-* I would give it 2 stars.../
+* Le daría 2 estrellas.../
 obj_npc_room_animated_slash_Other_10_gml_471_0
-* One to cover each of the nipples./%
+* Uno por cubrir cada uno de los pezones./%
 obj_npc_room_animated_slash_Other_10_gml_475_0
-* It's in a better place now./%
+* Ahora está en un lugar mejor./%
 nubert_check
 obj_npc_room_animated_slash_Other_10_gml_489_0
 Enserio, donde!?
@@ -23298,9 +23298,9 @@ mock
 mocktimer
 spr_poppup_smiley
 obj_blocked_total_fx_slash_Draw_0_gml_9_0
-Blocked
+Bloquear
 obj_blocked_total_fx_slash_Draw_0_gml_10_0
- ads!
+ anuncios!
 useSprite
 cursor_sprite
 startdirection
@@ -23329,95 +23329,95 @@ global.flag[426]=
 talkOrder
 color_index
 obj_swatchling_enemy_slash_Step_0_gml_46_0
-Mi atuendo está coordinado ahora.&Conmigo mismo.
+Mi atuendo esta coordinado ahora.&Conmigo mismo.
 changedcolor
 obj_swatchling_enemy_slash_Step_0_gml_54_0
-Bienvenido,&maestros jóvenes.
+Bienvenido,&maestros jovenes.
 obj_swatchling_enemy_slash_Step_0_gml_57_0
 Hemos preparado varios&patrones de ataque&para su disfrute.
 obj_swatchling_enemy_slash_Step_0_gml_60_0
-Please enjoy them&at your convenience.
+Por favor, disfrútelos&y a su conveniencia.
 justchanged
 allprimary
 mismatch_check
 justcoordinated
 obj_swatchling_enemy_slash_Step_0_gml_106_0
-We feel so&coordinated.
+Nos sentimos tan&coordinados.
 obj_swatchling_enemy_slash_Step_0_gml_109_0
-Thank you,&young masters.
+Gracias,&jovenes maestros.
 obj_swatchling_enemy_slash_Step_0_gml_112_0
-Thank you.
+Gracias.
 obj_swatchling_enemy_slash_Step_0_gml_119_0
-I'm feeling&blue.
+Me siento&azul.
 obj_swatchling_enemy_slash_Step_0_gml_122_0
-I'm seeing&red.
+Estoy viendo&rojo.
 obj_swatchling_enemy_slash_Step_0_gml_125_0
-I'm a yellow&fellow.
+Soy un tipo&amarillo.
 myRandom
 obj_swatchling_enemy_slash_Step_0_gml_147_0
 obj_swatchling_enemy_slash_Step_0_gml_150_0
 obj_swatchling_enemy_slash_Step_0_gml_153_0
 obj_swatchling_enemy_slash_Step_0_gml_157_0
-Tut, tut.&It looks like pain.
+Tut, tut.&Parece dolor.
 obj_swatchling_enemy_slash_Step_0_gml_162_0
-We'll shine your shoes&'til they're black and blue.
+Brillaremos tus zapatos&hasta que sean negros y azules.
 obj_swatchling_enemy_slash_Step_0_gml_165_0
-We'll make your bed&with sheets blood red.
+Vamos a hacer su cama&con sabanas rojo sangre.
 obj_swatchling_enemy_slash_Step_0_gml_168_0
-We'll make yellow sweets&for you, just try&not to hurt your tooth.
+Haremos dulces amarillos&para ti, solo intenta y no lastimarte el diente.
 obj_swatchling_enemy_slash_Step_0_gml_174_0
-What? The lasagna&has some kind of&explosive in it?
+¿Qué? ¿La lasana&tiene algun&tipo de explosivo?
 obj_swatchling_enemy_slash_Step_0_gml_174_1
-Please enjoy this&complimentary body slam.
+Disfrute de este&corporal de cortesia.
 blueText
 obj_swatchling_enemy_slash_Step_0_gml_178_0
-Please enjoy this&complimentary shockwave.
+Por favor, disfrute de&esta onda de choque de cortesia.
 obj_swatchling_enemy_slash_Step_0_gml_181_0
-Would you like&some horse'dovours?
+¿Te gustaria&algunos caballos dovorous?
 Bounce
 Shockwave
 Platter
 monsterPop
 obj_swatchling_enemy_slash_Step_0_gml_284_0
-* The Swatchlings are cleaning each other off with feather dusters.
+* Los Swatchlings se están limpiando unos a otros con plumeros.
 obj_swatchling_enemy_slash_Step_0_gml_284_1
-* Swatchling feather dusts itself.
+* La pluma de Swatchling se polvorea en sí misma.
 obj_swatchling_enemy_slash_Step_0_gml_285_0
-* Swatchlings flex their backs while bending over to inspect a teacup.
+* Los Swatchlings flexionan sus espaldas mientras se agachan para inspeccionar una taza de té.
 obj_swatchling_enemy_slash_Step_0_gml_285_1
-* Swatchling flexes all of its back muscles while inspecting a teacup.
+* Swatchling flexiona todos los músculos de la espalda mientras inspecciona una taza de té.
 obj_swatchling_enemy_slash_Step_0_gml_286_0
-* The Swatchlings wipe at the face of their chained pocketwatch, which is digital.
+* Los Swatchlings limpian la cara de su reloj de bolsillo encadenado, que es digital.
 obj_swatchling_enemy_slash_Step_0_gml_287_0
-* The Swatchlings are adjusting their hue and saturation.
+* Los Swatchlings están ajustando su tono y saturación.
 obj_swatchling_enemy_slash_Step_0_gml_288_0
-* Smells like paint and feathers.
+* Huele a pintura y plumas.
 obj_swatchling_enemy_slash_Step_0_gml_302_0
-* The Swatchlings are relieved their wardrobe has been coordinated.
+* Los Swatchlings se sienten aliviados de que su vestuario haya sido coordinado.
 obj_swatchling_enemy_slash_Step_0_gml_307_0
-* The Swatchling is dreading doing all of the work by itself.
+* El Swatchling está temiendo hacer todo el trabajo por sí mismo.
 obj_swatchling_enemy_slash_Step_0_gml_328_0
-* SWATCHLING - Happiest when their outfits are color-coordinated./%
+* SWATCHLING - Más felices cuando sus trajes están coordinados en color./%
 obj_swatchling_enemy_slash_Step_0_gml_336_0
-* Talked about the color of the summer sun shining on a beach ball./%
+* Hablaste sobre el color del sol del verano brillando en una bola de playa./%
 obj_swatchling_enemy_slash_Step_0_gml_337_0
-* Talked about the steam of a fresh hot chocolate./%
+* Hablaste del vapor de un chocolate caliente fresco./%
 obj_swatchling_enemy_slash_Step_0_gml_338_0
-* Talked about the warmth of a loving embrace./%
+* Hablaste sobre la calidez de un abrazo amoroso./%
 obj_swatchling_enemy_slash_Step_0_gml_348_0
-* Talked about the crunch of the last pickle in the refrigerator./%
+* Hablaste del crujido del último pepinillo en el refrigerador./%
 obj_swatchling_enemy_slash_Step_0_gml_349_0
-* Talked about the chill of the wind on the ice skating pond./%
+* Hablaste del frío del viento en el estanque de patinaje sobre hielo./%
 obj_swatchling_enemy_slash_Step_0_gml_350_0
-* Talked about the snow matted on your brother's nose./%
+* Hablaste sobre la nieve enmarañada en la nariz de tu hermano./%
 warmify
 extreme
 obj_swatchling_enemy_slash_Step_0_gml_383_0
-cold
+frío
 obj_swatchling_enemy_slash_Step_0_gml_383_1
-warm
+cálido
 obj_swatchling_enemy_slash_Step_0_gml_395_0
-* But Swatchling is already as ~1 as can be!/%
+* ¡Pero Swatchling ya es tan ~1 como puede ser!/%
 obj_swatchling_enemy_slash_Step_0_gml_422_0_b
 colorText
 obj_swatchling_enemy_slash_Step_0_gml_425_0
@@ -23425,29 +23425,29 @@ obj_swatchling_enemy_slash_Step_0_gml_428_0
 obj_swatchling_enemy_slash_Step_0_gml_431_0
 obj_swatchling_enemy_slash_Step_0_gml_434_0
 obj_swatchling_enemy_slash_Step_0_gml_404_0
-a little bit
+un poco
 obj_swatchling_enemy_slash_Step_0_gml_404_1
-a lot
+mucho
 obj_swatchling_enemy_slash_Step_0_gml_419_0
-* Swatchling's color got ~1 warmer...! It's now ~2!/%
+* El color de Swatchling es ~1 más cálido... Es ahora ~2!/%
 obj_swatchling_enemy_slash_Step_0_gml_422_0
-* Swatchling's color turned ~1 colder...! It's now ~2!/%
+* El color de Swatchling se volvió ~1 más frío...! Es ahora ~2!/%
 newly_coordinated
 random_text
 obj_swatchling_enemy_slash_Step_0_gml_444_0
-* Susie mentions explosions.~1
+* Susie menciona explosiones.~1
 obj_swatchling_enemy_slash_Step_0_gml_432_0
-* Susie mentions lava.~1
+* Susie menciona lava.~1
 obj_swatchling_enemy_slash_Step_0_gml_436_0
-* Susie mentions hot peppers.~1
+* Susie menciona pimientos calientes.~1
 obj_swatchling_enemy_slash_Step_0_gml_437_0
-* But nothing happened!/%
+* Pero no pasó nada!/%
 obj_swatchling_enemy_slash_Step_0_gml_456_0
-* Ralsei mentions mint tea.~1
+* Ralsei menciona el té de menta.~1
 obj_swatchling_enemy_slash_Step_0_gml_465_0
-* Ralsei mentions icy scarves.~1
+* Ralsei menciona bufandas heladas.~1
 obj_swatchling_enemy_slash_Step_0_gml_469_0
-* Ralsei mentions ice cream.~1
+* Ralsei menciona el helado.~1
 obj_swatchling_enemy_slash_Step_0_gml_460_0
 easestyle
 sizemultiplier
@@ -23595,112 +23595,112 @@ violenceusedcon
 simonsayscon
 obj_tasque_manager_enemy_slash_Step_0_gml_15_0
 obj_tasque_manager_enemy_slash_Step_0_gml_19_0
-Processes! Services!&Performance! Details!
+Procesos! Servicios!&Rendimiento! Detalles!
 obj_tasque_manager_enemy_slash_Step_0_gml_23_0
 obj_tasque_manager_enemy_slash_Step_0_gml_27_0
-Wrinkly clothing?
+Ropa arrugada?
 obj_tasque_manager_enemy_slash_Step_0_gml_30_0
-Slouched back?
+Andas con los hombros caidos?
 obj_tasque_manager_enemy_slash_Step_0_gml_33_0
-Delinquent tendencies?
+Tendencia criminal?
 obj_tasque_manager_enemy_slash_Step_0_gml_36_0
-Untied shoelaces?
+Cordones desatados?
 obj_tasque_manager_enemy_slash_Step_0_gml_39_0
-~1&Let me whip it into shape!
+~1&Dejame ponerlo en forma!
 obj_tasque_manager_enemy_slash_Step_0_gml_46_0
-Hors d'oeuvre,&Hors d'oeuvre...&I mean, order, order!
+Hors d'oeuvre,&Hors d'oeuvre...&Digo, orden, orden!
 obj_tasque_manager_enemy_slash_Step_0_gml_46_1
-Order, order!
+Orden, Orden!
 obj_tasque_manager_enemy_slash_Step_0_gml_53_0
-Kitties!!
+Gatitos!!
 obj_tasque_manager_enemy_slash_Step_0_gml_53_1
-Aren't my kitties just&so well behaved? Watch!
+Mis gatitos no se&comportan tan bien? Mira!
 hasTail
 obj_tasque_manager_enemy_slash_Step_0_gml_68_0
-Chaos, chaos!?&No, no! Order, order!&Now get rid of that&silly tail!
+Caos, caos!?&No, no! Orden, orden!&Ahora deshazte de esa y tonta cola!
 obj_tasque_manager_enemy_slash_Step_0_gml_74_0
-Chaos, chaos!?&No, no! Order, order!&Now get rid of that&silly Devilsknife!
+Caos, caos!?&No, no! Orden, orden!&¡Ahora deshazte de ese y&tonto Devilsknife!
 obj_tasque_manager_enemy_slash_Step_0_gml_106_0
-How dare you&touch my pretty kitty!
+Como te atreves a tocar&a mi bonito gatito!
 obj_tasque_manager_enemy_slash_Step_0_gml_112_0
-How dare you!
+Como te atreves!
 obj_tasque_manager_enemy_slash_Step_0_gml_113_0
-You've been a&bad dog...
+Has sido un&perro malo...
 WhipAttack
 QuizAttack
 obj_tasque_manager_enemy_slash_Step_0_gml_161_0
 obj_tasque_manager_enemy_slash_Step_0_gml_164_0
-* Tasque Manager makes a list of her outfits for the next year. She only has one outfit.
+* Tasque Manager hace una lista de sus trajes para el próximo año. Sólo tiene un traje.
 obj_tasque_manager_enemy_slash_Step_0_gml_167_0
-* Tasque Manager is writing "manage tasks" next to every entry in her daily planner.
+* Tasque Manager está escribiendo “administrar tareas” junto a cada entrada en su planificador diario.
 obj_tasque_manager_enemy_slash_Step_0_gml_170_0
-* Tasque Manager is straightening her whip with a hair straightener.
+* Tasque Manager está enderezando su látigo con un alisador de pelo.
 obj_tasque_manager_enemy_slash_Step_0_gml_173_0
-* Tasque Manager is making herself take priority over everything.
+* Tasque Manager está haciendo que tome prioridad sobre todo.
 obj_tasque_manager_enemy_slash_Step_0_gml_176_0
-* Smells like live wiring.
+* Huele a cableado vivo.
 obj_tasque_manager_enemy_slash_Step_0_gml_181_0
-* Tasque Manager has reached her&meticulously scheduled bedtime.
+* Tasque Manager ha llegado a su&hora de acostarse programada meticulosamente.
 obj_tasque_manager_enemy_slash_Step_0_gml_186_0
-* Tasque Manager has found things&to be sufficiently organized.
+* Tasque Manager ha encontrado que&las cosas esten suficientemente organizadas.
 obj_tasque_manager_enemy_slash_Step_0_gml_205_0
-* TASQUE MANAGER - Obsessed with order, and abhors Chaos. Whip it good!/%
+* TASQUE MANAGER - Obsesionado con el orden, y aborrece el Caos. Azotalo bien!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_254_0
-* (Your act failed...)/%
+* (Tu act fallo...)/%
 obj_tasque_manager_enemy_slash_Step_0_gml_263_0
-* (You asked Tasque Manager to show you order. She obliges!)/%
+* (Le pediste a Tasque Manager que le mostrara el pedido. ¡Ella lo obliga!)/%
 obj_tasque_manager_enemy_slash_Step_0_gml_264_0
-* (You asked for order!)/%
+* (Pediste una orden!)/%
 obj_tasque_manager_enemy_slash_Step_0_gml_277_0
-* (You talked to Tasque Manager, but no effect...)/%
+* (Hablaste con Tasque Manager, pero no hubo ningún efecto...)/%
 obj_tasque_manager_enemy_slash_Step_0_gml_282_0
-* (Everyone asked Tasque Manager to show you order. She obliges!)/%
+* (Todos le pidieron a Tasque Manager que le mostrara el pedido. ¡Ella lo obliga!)/%
 obj_tasque_manager_enemy_slash_Step_0_gml_293_0
-* S-Action failed!/%
+* S-Action fallo!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_301_0
-* Susie barked madly!/%
+* Susie ladró locamente!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_302_0
-* Susie's mouth froths!/%
+* ¡La boca de Susie espumea!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_314_0
-* R-Action failed!/%
+* R-Action fallo!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_322_0
-* Ralsei fell in line!/%
+* Ralsei cayó en línea!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_323_0
-* Ralsei listened closely!/%
-You've selected QUIZZLER
-Next attack will be random
-Quiz difficulty = 
+* Ralsei escuchó atentamente!/%
+Has seleccionado QUIZZLER
+El siguiente ataque será aleatorio
+Dificultad de acertijo = 
 obj_tasque_manager_enemy_slash_Other_24_gml_235_0
-* Kris got trained like an animal!!/%
+* Kris se entrenó como un animal!!/%
 obj_tasque_manager_enemy_slash_Other_24_gml_238_0
-* Kris got managed!/%
+* Kris se las arregló!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_231_0
-Hush, puppy!&No growling...
+Silencio, cachorro!&Sin gruñir...
 obj_tasque_manager_enemy_slash_Step_0_gml_231_1
-Oh, what a&perfect little&puppy you are!
+Oh, qué pequeño perfecto y cachorro eres!
 trainText
 obj_tasque_manager_enemy_slash_Step_0_gml_236_0
-* Tasque Manager seemed slightly pleased at the Order!!/%
+* Tasque Manager parecía un poco satisfecho con la Orden!!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_256_0
-* Susie was trained like an animal.../
+* Susie fue entrenada como un animal.../
 obj_tasque_manager_enemy_slash_Step_0_gml_265_0
-A treat!! Somebody give her a treat!!
+Una delicia!! Alguien le dé un capricho!!
 obj_tasque_manager_enemy_slash_Step_0_gml_269_0
-\EH* Play dead!? I'll teach YOU to play dead!!~1
+\EH* Jugar muerto!? TE enseñaré a jugar muerto!!~1
 obj_tasque_manager_enemy_slash_Step_0_gml_274_0
-* Susie got managed!/%
+* Susie se las arregló!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_284_0
-What a wonderfully crafted&signpost^1! I'm giving it an&obedience medal!
+Magníficamente elaborado y señalizado^1! ¡Te dare una medalla de obediencia!
 obj_tasque_manager_enemy_slash_Step_0_gml_299_0
-* Ralsei got trained like an animal!!/
+* Ralsei se entrenó como un animal!/
 obj_tasque_manager_enemy_slash_Step_0_gml_307_0
-Why the hell do YOU get one of those!!
+Por qué demonios TÚ obtienes uno de esos!!
 obj_tasque_manager_enemy_slash_Step_0_gml_311_0
-* Due to good behavior^1, he received an obedience badge.~1
+* Debido al buen comportamiento^1, recibió una insignia de obediencia.~1
 obj_tasque_manager_enemy_slash_Step_0_gml_316_0
-* Ralsei got managed!/%
+* Ralsei se las arregló!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_326_0
-He really&loves to do&what he's told^1,&doesn't he?/%
+Realmente le&encanta hacer&lo que le dicen^1,&no?/%
 mercy
 tailsprite
 handSprite
@@ -26853,31 +26853,31 @@ recording_cursor
 basket_size
 tasque_manager_recruited
 obj_mauswheel_enemy_slash_Step_0_gml_18_0
-(I'm no cheater!&It's just cheese...)
+(No soy un tramposo!&Es solo quezo...)
 obj_mauswheel_enemy_slash_Step_0_gml_23_0
-(We are grippable.&We are many.)
+(Somos atrapables.&Somos muchos.)
 obj_mauswheel_enemy_slash_Step_0_gml_27_0
-(Rolling around at&the speed of mouse...)
+(Rodando a&la velocidad del ratón...)
 obj_mauswheel_enemy_slash_Step_0_gml_31_0
-(Wired is FASTER!)
+(Cableado es MAS RÁPIDO!)
 obj_mauswheel_enemy_slash_Step_0_gml_36_0
-(Well, everyone's captured.)&(What does that make me?)
+(Bueno, todos estan capturados.)&(Qué me hace eso?)
 obj_mauswheel_enemy_slash_Step_0_gml_112_0
-* Mauswheel's DPI is lowering.
+* El DPI de Mauswheel está bajando.
 obj_mauswheel_enemy_slash_Step_0_gml_115_0
-* Mauswheel is just a spareable husk now.
+* Mauswheel es solo una cáscara perdonable ahora.
 obj_mauswheel_enemy_slash_Step_0_gml_130_0
-* Mauswheel is rolling around with an annoying wheel sound.
+* Mauswheel está rodando con un molesto sonido de rueda.
 obj_mauswheel_enemy_slash_Step_0_gml_131_0
-* Mauswheel might make a good wreath, as a prank.
+* Mauswheel podría hacer una buena corona, como una broma.
 obj_mauswheel_enemy_slash_Step_0_gml_132_0
-* It's a cacophony of clicks.
+* Es una cacofonía de clics.
 obj_mauswheel_enemy_slash_Step_0_gml_133_0
-* Smells like a three-cheese pizza.
+* Huele a pizza de tres quesos.
 obj_mauswheel_enemy_slash_Step_0_gml_157_0
-* MAUSWHEEL - Two mice are better than one! ... Three^1, maybe not./
+* MAUSWHEEL - Dos ratones son mejores que uno! ... Tres^1, tal vez no./
 obj_mauswheel_enemy_slash_Step_0_gml_132_0_b
-* The cursor will follow you everywhere^1. Keep moving!/%
+* El cursor te seguirá a todas partes^1. Mantente en movimiento!/%
 obj_mauswheel_enemy_slash_Step_0_gml_163_0
 obj_mauswheel_enemy_slash_Step_0_gml_173_0
 obj_mauswheel_enemy_slash_Step_0_gml_183_0
@@ -26888,21 +26888,21 @@ obj_mauswheel_enemy_slash_Step_0_gml_209_0
 obj_mauswheel_enemy_slash_Step_0_gml_230_0
 obj_mauswheel_enemy_slash_Step_0_gml_243_0
 obj_mauswheel_enemy_slash_Step_0_gml_269_0
-* Fallastes!/%
+* Fallaste!/%
 obj_mauswheel_enemy_slash_Step_0_gml_270_0
-* You caught them!/%
+* Los atrapaste!/%
 obj_mauswheel_enemy_slash_Step_0_gml_296_0
 obj_mauswheel_enemy_slash_Step_0_gml_297_0
 obj_mauswheel_enemy_slash_Step_0_gml_312_0
 * Mauswheel ran out of maice!/%
 obj_mauswheel_enemy_slash_Step_0_gml_317_0
-* Mauswheel reached 100`% mercy!/%
+* Mauswheel alcanzo el 100`% de piedad!/%
 obj_mauswheel_enemy_slash_Step_0_gml_324_0
-* But, it's still rolling out of control.../%
+* Pero, todavía está fuera de control.../%
 obj_mauswheel_enemy_slash_Step_0_gml_331_0
-* Suddenly...!/%
+* De repente...!/%
 obj_mauswheel_enemy_slash_Step_0_gml_337_0
-* We'll take it from here!/%
+* Lo tomaremos de aquí!/%
 obj_mauswheel_enemy_slash_Step_0_gml_360_0
 addIndex
 xtrail
@@ -26911,9 +26911,9 @@ recording
 memory
 easespeed
 obj_mauswheel_cursor_slash_Draw_0_gml_10_0
-Movements from turn 2
+Movimientos desde el turno 2
 obj_mauswheel_cursor_slash_Draw_0_gml_11_0
-Movements from turn 1
+Movimientos desde el turno 1
 cursor
 listlength
 startpoint
@@ -27805,23 +27805,23 @@ $~1 ?
 obj_shop1_slash_Draw_0_gml_169_0
 obj_shop1_slash_Draw_0_gml_170_0
 obj_shop1_slash_Draw_0_gml_217_0
-About yourself
+Sobre ti
 obj_shop1_slash_Draw_0_gml_218_0
 Lightners
 obj_shop1_slash_Draw_0_gml_220_0
-Kingdom
+El reino
 obj_shop1_slash_Draw_0_gml_224_0
-About JEVIL
+Sobre JEVIL
 obj_shop1_slash_Draw_0_gml_227_0
-We're legendary
+Somos legendarios
 obj_shop1_slash_Draw_0_gml_241_0
-Strange Prisoner
+Extraño prisionero
 _legendstring
 obj_shop1_slash_Draw_0_gml_244_0
 We Won
 obj_shop1_slash_Draw_0_gml_240_0
 obj_shop1_slash_Draw_0_gml_255_0
-\E0Don't have&anything&better&to do.
+\E0No tienes&nada&mejor&que hacer.
 obj_shop1_slash_Draw_0_gml_278_0
 Vender Items
 obj_shop1_slash_Draw_0_gml_279_0
@@ -28473,27 +28473,27 @@ Sotano Robot
 obj_shop_ch2_swatch_slash_Draw_0_gml_217_0
 Tu Atuendo
 obj_shop_ch2_swatch_slash_Draw_0_gml_236_0
-Charlar#sería#un#placer.
+Charlar&sería&un#placer.
 obj_shop_ch2_swatch_slash_Draw_0_gml_273_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_274_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_278_0
-Queen...&Nos hace&comprar basura&para ella.
+Queen...&Nos hace&comprar&para ella.
 obj_shop_ch2_swatch_slash_Draw_0_gml_279_0
 Eso es todo.&Necesitas ayuda&con tus&maletas?
 obj_shop_ch2_swatch_slash_Draw_0_gml_280_0
 Parece que&no tienes&nada.
 obj_shop_ch2_swatch_slash_Draw_0_gml_366_0
-Un ITEM&para deleitar&a Queen?
+Un ITEM&para&deleitar&a Queen?
 obj_shop_ch2_swatch_slash_Draw_0_gml_367_0
-Un ARMA&para proteger&a Queen?
+Un ARMA&para&proteger&a Queen?
 obj_shop_ch2_swatch_slash_Draw_0_gml_368_0
-Una ARMADURA&para adornar&a Queen?
+Una&Armadura&para&Queen?
 obj_shop_ch2_swatch_slash_Draw_0_gml_369_0
-Estoy seguro&de que ella&va a disfrutar&de esto.
+Ella&lo&va a&disfrutar
 obj_shop_ch2_swatch_slash_Draw_0_gml_370_0
 ¿Cambió de&opinión?&Esperaremos.
 obj_shop_ch2_swatch_slash_Draw_0_gml_371_0
-Hay&cosas&que no podemos&comprar.
+Hay&cosas&que no se&compra.
 obj_shop_ch2_swatch_slash_Draw_0_gml_372_0
 El negro es&el color&de la tristeza.
 obj_shop_ch2_swatch_slash_Draw_0_gml_387_0
@@ -37938,21 +37938,21 @@ monsterCount
 init_butler
 readcount
 obj_controller_dw_mansion_potBalance_slash_Step_0_gml_83_0
-* Heh^1, not bad^1, Kris!/%
+* Heh^1, nada mal^1, Kris!/%
 tasquespawn
 tasqueTrig
 tasquemarker_head1
 tasquemarker1
 obj_tasquepainting_slash_Other_10_gml_5_0
-* (The painting is labelled "Task".)/%
+* (La pintura está etiquetada como "Task".)/%
 obj_tasquepainting_slash_Other_10_gml_10_0
-* (The painting is labelled "Timberly".)/%
+* (La pintura está etiquetada como "Timberly".)/%
 obj_tasquepainting_slash_Other_10_gml_15_0
-* (The painting is labelled "Tasq".)/%
+* (La pintura está etiquetada como "Tasq".)/%
 obj_tasquepainting_slash_Other_10_gml_20_0
-* (The painting is labelled "Tasc".)/%
+* (La pintura está etiquetada como "Tasc".)/%
 obj_tasquepainting_slash_Other_10_gml_25_0
-* (The painting is empty.)/%
+* (La pintura está vacia.)/%
 satisfied
 startside
 spawnedGates
