@@ -24145,7 +24145,7 @@ xshake
 character_offset_x
 character_offset_y
 obj_berdlyb_enemy_slash_Step_0_gml_450_0
-Q-qué...?&Mi coche, esta...!/%
+Q-que...?&Mi coche, esta...!/%
 berdly is PISS
 berdly is not piss
 health = 
