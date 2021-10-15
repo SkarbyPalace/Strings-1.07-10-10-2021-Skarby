@@ -7272,7 +7272,7 @@ Sacudidita
 scr_monstersetup_slash_scr_monstersetup_gml_934_0
 LanzarAKris
 scr_monstersetup_slash_scr_monstersetup_gml_935_0
-Lanzar a#Kris para#soltar cable
+Lanzar a#Kris
 scr_monstersetup_slash_scr_monstersetup_gml_939_0
 scr_monstersetup_slash_scr_monstersetup_gml_943_0
 scr_monstersetup_slash_scr_monstersetup_gml_947_0
