@@ -22976,7 +22976,7 @@ obj_omawaroid_enemy_slash_Step_0_gml_199_0
 obj_omawaroid_enemy_slash_Step_0_gml_201_0
 * (Ralsei te animó a \cYDejarteAtropellar\cW por las ambulancias!)/%
 obj_omawaroid_enemy_slash_Step_0_gml_227_0
-* Susie minte acerca de cada cuando se cepilla y usa hilo dental!/%
+* Susie miente acerca de cada cuando se cepilla y usa hilo dental!/%
 obj_omawaroid_enemy_slash_Step_0_gml_227_1
 * Susie miente acerca de su salud!/%
 simultext
