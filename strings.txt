@@ -32060,11 +32060,11 @@ obj_ch2_scene21_loop_slash_Step_0_gml_435_0
 obj_ch2_scene21_loop_slash_Step_0_gml_436_0
 \E2* Me pregunto que pasa si los cambiamos todos!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_454_0
-* Ge hahahaha..^1. Ustedesq ORUGAS pensarronst quet.../
+* Ge hahahaha..^1. Ustedesq ORUGAS pensarronst que.../
 obj_ch2_scene21_loop_slash_Step_0_gml_455_0
 * Vieront todoq de mist???/%
 obj_ch2_scene21_loop_slash_Step_0_gml_511_0
-\E3* Chips Ahoyeth^1, Landlubbers!/
+\E3* Qrue talst^1, marinos de agua dulce!/
 obj_ch2_scene21_loop_slash_Step_0_gml_512_0
 \E2* Arrrrrr-t thou ready-eth to visiteth Davith Jones' Lockre???/
 obj_ch2_scene21_loop_slash_Step_0_gml_514_0
