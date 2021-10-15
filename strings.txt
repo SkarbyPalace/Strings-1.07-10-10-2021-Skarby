@@ -4797,9 +4797,9 @@ scr_text_slash_scr_text_gml_5399_0
 scr_text_slash_scr_text_gml_5400_0
 \E1* Nadie..^1. Nadie me ha dicho eso antes.../
 scr_text_slash_scr_text_gml_5401_0
-\EO* I..^1. I.../
+\EO* Yo..^1. Yo.../
 scr_text_slash_scr_text_gml_5402_0
-\E1* Quiero decir^1, es-todo es una primicia para mí^1, pero.../
+\E1* Quiero decir^1, todo esto es una primicia para mí^1, pero.../
 scr_text_slash_scr_text_gml_5403_0
 \EO* Escuchándolo de ti^1, um.../
 scr_text_slash_scr_text_gml_5404_0
@@ -18047,7 +18047,7 @@ obj_queencar_slash_Step_0_gml_147_0
 \EM* Ahora, tenemos que pensar en alguna forma de distraer a Queen.../%
 queen_heckle
 obj_queencar_slash_Step_0_gml_155_0
-\EM* ¿Cuáles son estos...^1. ¿Casas pequeñas?/%
+\EM* ¿Qué son estas...^1. ¿Casas pequeñas?/%
 house_sprite
 bumped
 global.flag[458]:
@@ -32020,49 +32020,49 @@ obj_ch2_scene21_loop_slash_Step_0_gml_285_0
 obj_ch2_scene21_loop_slash_Step_0_gml_286_0
 \E3* She's a nice girl^1, isn't she...?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_299_0
-\EB* When we first met^1, I.../
+\EB* Cuando nos conocimos^1, yo.../
 obj_ch2_scene21_loop_slash_Step_0_gml_300_0
-\EQ* I was so nervous about first impressions./
+\EQ* Estaba nervioso por mi primera impresión./
 obj_ch2_scene21_loop_slash_Step_0_gml_301_0
-\E1* I even hid my face so you wouldn't see.../
+\E1* Incluso escondí mi cara para que no noten mi cara de.../
 obj_ch2_scene21_loop_slash_Step_0_gml_302_0
-\EQ* "How do I even be a friend...?"/
+\EQ* "Cómo hago un amigo...?"/
 obj_ch2_scene21_loop_slash_Step_0_gml_303_0
-\EJ* All I have to do is be nice..^1. is what I thought./
+\EJ* Ser gentil con ellos ..^1. es lo que pensé./
 obj_ch2_scene21_loop_slash_Step_0_gml_304_0
-\EB* But I'm starting to realize^1, being friends.../
+\EB* Pero me comenzé a dar cuenta que^1, ser amigos.../
 obj_ch2_scene21_loop_slash_Step_0_gml_305_0
-\E2* Is more than that^1, isn't it?/
+\E2* Es más que eso^1, no es así?/
 obj_ch2_scene21_loop_slash_Step_0_gml_306_0
-\EJ* Susie..^1. sometimes she isn't nice at all!/
+\EJ* Susie..^1. no siempre es gentil!/
 obj_ch2_scene21_loop_slash_Step_0_gml_307_0
-\EK* She's selfish^1, she's rude^1, she's sarcastic.../
+\EK* Ella es egoista^1, ruda^1, sarcástica.../
 obj_ch2_scene21_loop_slash_Step_0_gml_308_0
-\E1* But.../
+\E1* Pero.../
 obj_ch2_scene21_loop_slash_Step_0_gml_309_0
-\E2* Isn't it wonderful that she's..^1. her?/
+\E2* No es genial que ella es..^1. ella?/
 obj_ch2_scene21_loop_slash_Step_0_gml_310_0
-\EI* Is what I..^1. started thinking^1, today./%
+\EI* Es lo que..^1. empezé a pensar^1, hoy./%
 obj_ch2_scene21_loop_slash_Step_0_gml_322_0
 \EI* .../
 obj_ch2_scene21_loop_slash_Step_0_gml_323_0
-\EQ* I just wonder what..^1. being "Ralsei-like" even is...?/
+\EQ* Me pregunto como..^1. será "Ser-Ralsei"...?/
 obj_ch2_scene21_loop_slash_Step_0_gml_324_0
 obj_ch2_scene21_loop_slash_Step_0_gml_325_0
-\E2* Sorry^1! Haha^1, I got off-track./
+\E2* Perdón^1! Jaja^1, me distraje un poco./
 obj_ch2_scene21_loop_slash_Step_0_gml_326_0
-\EQ* Let's just enjoy the ride^1, Kris. Haha./%
+\EQ* Solo disfrutemos el paseo^1, Kris. Jaja./%
 auto_scroll_stop
 rouxls_ypos
 boatfront
 obj_ch2_scene21_loop_slash_Step_0_gml_435_0
-\EJ* W..^1. wow^1, Kris^1! Look at all those houses!/
+\EJ* W..^1. wow^1, Kris^1! Mira todas esas casas!/
 obj_ch2_scene21_loop_slash_Step_0_gml_436_0
-\E2* I wonder what'll happen if we change their color!/%
+\E2* Me pregunto que pasa si los cambiamos todos!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_454_0
-* Ge hahahaha..^1. Thoust WORMS reallyst thoughtst.../
+* Ge hahahaha..^1. Ustedesq ORUGAS pensarronst quet.../
 obj_ch2_scene21_loop_slash_Step_0_gml_455_0
-* Thoust had seeneth the Lastest of Me???/%
+* Vieront todoq de mist???/%
 obj_ch2_scene21_loop_slash_Step_0_gml_511_0
 \E3* Chips Ahoyeth^1, Landlubbers!/
 obj_ch2_scene21_loop_slash_Step_0_gml_512_0
