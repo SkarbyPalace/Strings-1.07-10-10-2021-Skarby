@@ -3507,24 +3507,24 @@ scr_text_slash_scr_text_gml_3494_0
 scr_text_slash_scr_text_gml_3495_0
 undyne
 scr_text_slash_scr_text_gml_3497_0
-* HEY!^1! GET OUT OF THE ROAD!!/
+* OYE!^1! SAL DE LA CARRETERA!!/
 scr_text_slash_scr_text_gml_3498_0
-* Uhh^1, sorry. Bad habit./
+* Uhh^1, perdon. Mal habito./
 scr_text_slash_scr_text_gml_3499_0
-* Anything I can help you with^1, punk?/
+* Necesitas ayudar en algo^1, mocoso?/
 scr_text_slash_scr_text_gml_3500_0
 scr_text_slash_scr_text_gml_3507_0
-\E1* Huh? A super-dangerous alternate world in the Library?/
+\E1* ¿Qué? ¿Hay un mundo súper peligroso en la biblioteca?/
 scr_text_slash_scr_text_gml_3508_0
-\E1* More are appearing? People might fall inside...?/
+\E1* ¿Y qué están apareciendo más? ¿Que gente podría caer dentro...?/
 scr_text_slash_scr_text_gml_3509_0
-\E5* Hahahaha..^1. listen^1, punk!/
+\E5* Jajajaja..^1. ¡escucha^1, mocoso!/
 scr_text_slash_scr_text_gml_3510_0
-\E2* Hahah..^1. You seriously think I'm gonna believe that?/%
+\E2* Jaja..^1. ¿De verdad te crees que me voy a creer algo así?/%
 scr_text_slash_scr_text_gml_3518_0
-\E0* Nothing to report^1, huh? At times like this.../
+\E0* Conque nada que reportar^1, ¿eh? En momentos como este.../
 scr_text_slash_scr_text_gml_3519_0
-\E6* Punks like you should be home playing video games./%
+\E6* Mocosos como tú, deberían estar en casa jugando a videojuegos./%
 scr_text_slash_scr_text_gml_3547_0
 #Complain#About#Police
 scr_text_slash_scr_text_gml_3548_0
@@ -3534,79 +3534,79 @@ See ya
 scr_text_slash_scr_text_gml_3550_0
 timesread
 scr_text_slash_scr_text_gml_3564_0
-* Hi Kris!^1! Getting your project done? Eheheh.../
+* ¡¡Hola Kris!^1! ¿Trabajando en tu proyecto? Eheheh.../
 scr_text_slash_scr_text_gml_3565_0
-\E4* O..^1. oh^1, my bike...? It's eh..^1. eheh^1, totaled.../
+\E4* O..^1. oh^1, ¿mi bicicleta...? Ha sido eh..^1. eheh^1, totalmente.../
 scr_text_slash_scr_text_gml_3566_0
-\E5* I..^1. Um..^1. I had a little crash^1, err.../
+\E5* Yo..^1. Um..^1. he tuve un pequeño accidente^1, err.../
 scr_text_slash_scr_text_gml_3567_0
-\E6* You see^1, there was this p-police officer^1, and..^1. er.../
+\E6* Verás^1, había una agente de p-policía^1, y..^1. er.../
 scr_text_slash_scr_text_gml_3568_0
 \EB* .../
 scr_text_slash_scr_text_gml_3569_0
-\E4* It's complicated. How are you doing?/
+\E4* Es complicado. ¿Y tú cómo estás?/
 scr_text_slash_scr_text_gml_3570_0
 scr_text_slash_scr_text_gml_3574_0
-* K..^1. Kris^1! D-did you need something...?/
+* ¡K..^1. Kris^1! ¿N-Necesitas algo...?/
 scr_text_slash_scr_text_gml_3575_0
 scr_text_slash_scr_text_gml_3583_0
-\E0* Kris^1, it's no secret the^1, er^1, police in this town are.../
+\E0* Kris^1, no es un secreto que^1, er^1, la policía en este pueblo es.../
 scr_text_slash_scr_text_gml_3584_0
-\E2* Err..^1. how do I put this..^1. Just..^1. um.../
+\E2* Err..^1. cómo lo digo..^1. um.../
 scr_text_slash_scr_text_gml_3585_0
-\E7* Eye candy^1, I guess?/
+\E7* ¿Caramelo para la vista^1, supongo?/
 scr_text_slash_scr_text_gml_3586_0
-\E9* W-wait^1, th-that came out wrong!/
+\E9* ¡E-Espera^1, e-eso no ha sono nada bien!/
 scr_text_slash_scr_text_gml_3587_0
-\E5* I mean they're s-symbolic^1! They barely do anything!/
+\E5* ¡Quiero decir que es s-simbólica^1! ¡Casi no hacen nada!/
 scr_text_slash_scr_text_gml_3588_0
-\E3* It's because of the mayor^1, there..^1. there.../
+\E3* Y eso se debe a que gracias a la alcaldesa^1, no..^1. no.../
 scr_text_slash_scr_text_gml_3589_0
-\E1* There isn't any crime./
+\E1* No hay crimen./
 scr_text_slash_scr_text_gml_3590_0
-\E3* Makes me wonder if she even needs the police.../
+\E3* Me pregunto si siquiera necesita que haya policía.../
 scr_text_slash_scr_text_gml_3591_0
-\E4* Or if they're just..^1. g..^1. getting in her way?/
+\E4* O incluso si ..^1. sólo..^1. ¿se interponen en su camino?/
 scr_text_slash_scr_text_gml_3592_0
-\E5* ..^1. eheh sorry. I'm just saying what you already know./
+\E5* ..^1. eheh perdon. Sólo estoy diciendo cosas que ya sabes./
 scr_text_slash_scr_text_gml_3593_0
-\E0* After all^1, she's.../
+\E0* Después de todo^1, ella es.../
 scr_text_slash_scr_text_gml_3594_0
-\E4* Your neighbor^1, right?/%
+\E4* Tu vecina^1, ¿verdad?/%
 scr_text_slash_scr_text_gml_3598_0
-\E0* Oh^1, how's your project going with^1, err..^1. Susie?/
+\E0* Oh^1, ¿cómo va el proyecto con^1, err..^1. Susie?/
 scr_text_slash_scr_text_gml_3599_0
-\E3* What? Y-you went to the LIBRARY?^1! Together!?/
+\E3* ¿Qué? ¡¿Ha-Habéis ido a la BILIOTECA?^1! ¿¡Los dos!?/
 scr_text_slash_scr_text_gml_3600_0
-\E0* With Noelle and Berdly!? Th-that's amazing^1, Kris!!/
+\E0* ¿¡Y además con Noelle y Berdly!? ¡¡E-Eso es increíble^1, Kris!!/
 scr_text_slash_scr_text_gml_3601_0
-\E5* And^1, um..^1. while you were there.../
+\E5* Y^1, um..^1. mientras estaban allí.../
 scr_text_slash_scr_text_gml_3602_0
-\E6* This has nothing to do with me^1, but the Teen Zone.../
+\E6* Esto no tiene nada que ver conmigo^1, pero en la Teen Zone.../
 scr_text_slash_scr_text_gml_3603_0
-\E5* Seems to have some..^1. g-good anime reviews^1, you know?/
+\E5* Parece que hay algunas..^1. b-buenas reseñas sobre anime..^1./
 scr_text_slash_scr_text_gml_3604_0
-\E4* Not sure if you and the gang^1, were^1,/
+\E4* No estoy segura si tú y el grupo le habran^1,/
 scr_text_slash_scr_text_gml_3605_0
-\E6* Ch-checking that out as you studied?/
+\E6* ¿V-Visto un vistazo mientras estudiaban?/
 scr_text_slash_scr_text_gml_3606_0
-\E5* Next time you go you might want to.../
+\E5* Para la próxima vez te podría interesar.../
 scr_text_slash_scr_text_gml_3607_0
-\E6* Casually bring that up^1, among your fellow teens./
+\E6* Mencionarlo con naturalidad^1, entre tus compañeros adolescentes./
 scr_text_slash_scr_text_gml_3608_0
-\EB* I..^1. I know your dad liked Mew Mew 2 at least!!/
+\EB* ¡¡A..^1. Almenos se que a tu padre le gustaba Mew Mew 2!!/
 scr_text_slash_scr_text_gml_3609_0
-\E5* A-again^1, nothing to do with me!^1! Eheheh!!/%
+\E5* ¡¡D-De nuevo^1, esto no tiene nada que ver conmigo!^1! ¡¡Eheheh!!/%
 scr_text_slash_scr_text_gml_3614_0
-\E0* S-see you tomorrow^1, Kris!/
+\E0* ¡N-Nos vemos mañana^1, Kris!/
 scr_text_slash_scr_text_gml_3615_0
-\E3* U-umm^1, there's^1, no school tomorrow though!!/%
+\E3* U-umm^1, ¡¡a-aunque mañana no hay escuela!!/%
 scr_text_slash_scr_text_gml_3620_0
 scr_text_slash_scr_text_gml_3621_0
 scr_text_slash_scr_text_gml_3622_0
 scr_text_slash_scr_text_gml_3623_0
 scr_text_slash_scr_text_gml_3625_0
-\M0* ..^1. hey!!/
+\M0* ..^1. ¡¡oye!!/
 scr_text_slash_scr_text_gml_3626_0
 Hyper-Potato-Mouse!
 scr_text_slash_scr_text_gml_3626_1
@@ -5124,27 +5124,27 @@ scr_text_slash_scr_text_gml_6076_0
 scr_text_slash_scr_text_gml_6083_0
 * (Según la tarjeta de atrás...)/
 scr_text_slash_scr_text_gml_6084_0
-* (..^1. parece que su madre lo tomó repetidamente hace muchos años.)/%
+* (..^1. parece que tu madre lo ha tomado prestado varias veces hace años.)/%
 scr_text_slash_scr_text_gml_6090_0
-* (There are photos of unfamiliar humans inside.)/
+* (Hay fotos de humanos que no conoces dentro.)/
 scr_text_slash_scr_text_gml_6091_0
-* (You shut the book quickly.)/%
+* (Cerraste el libro al instante.)/%
 scr_text_slash_scr_text_gml_6097_0
-#Read
+#Leer
 scr_text_slash_scr_text_gml_6098_0
 scr_text_slash_scr_text_gml_6099_0
 scr_text_slash_scr_text_gml_6100_0
 scr_text_slash_scr_text_gml_6103_0
-* (It's Book 1 about SOULS. Read it?)/
+* (Es el Libro 1 sobre ALMAS. ¿Leer?)/
 scr_text_slash_scr_text_gml_6104_0
 scr_text_slash_scr_text_gml_6111_0
-* The SOUL has long been called many things./
+* Al ALMA se le ha llamado de muchas maneras./
 scr_text_slash_scr_text_gml_6112_0
-* The font of our compassion. The source of our will./
+* La fuente de nuestra compasión. El origen de nuestra voluntad./
 scr_text_slash_scr_text_gml_6113_0
-* The container of our "life force."/
+* El contenedor de nuestra "fuerza vital."/
 scr_text_slash_scr_text_gml_6114_0
-* But even now^1, the true function of it is unknown./%
+* Pero incluso a día de hoy^1, su verdadera función es desconocida./%
 scr_text_slash_scr_text_gml_6119_0
 scr_text_slash_scr_text_gml_6124_0
 #Occupation
@@ -5292,15 +5292,15 @@ scr_text_slash_scr_text_gml_6295_0
 scr_text_slash_scr_text_gml_6296_0
 scr_text_slash_scr_text_gml_6297_0
 scr_text_slash_scr_text_gml_6300_0
-* (It's someone's diary. Read it?)/
+* (Es el diario de alguien. ¿Leer?)/
 scr_text_slash_scr_text_gml_6301_0
 napstablook
 scr_text_slash_scr_text_gml_6308_0
-* (oh no..^1. someone else's been taking out my diary...)/
+* (oh no..^1. alguien ha estado leyendo mi diario...)/
 scr_text_slash_scr_text_gml_6309_0
-* (oh no..^1. they're printing a review in the paper...)/
+* (oh no..^1. han publicado una reseña en el periódico...)/
 scr_text_slash_scr_text_gml_6310_0
-* (oh no..^1. i'm being highly acclaimed...)/%
+* (oh no..^1. está siendo muy aclamado...)/%
 scr_text_slash_scr_text_gml_6315_0
 scr_text_slash_scr_text_gml_6323_0
 scr_text_slash_scr_text_gml_6324_0
@@ -17049,21 +17049,21 @@ obj_npc_sign_slash_Other_10_gml_23_0
 obj_npc_sign_slash_Other_10_gml_27_0
 * (It's ~1 flower^1, protected in a container...)/%
 obj_npc_sign_slash_Other_10_gml_32_0
-* (It's your dad's truck.)/
+* (Es la camioneta de tu papá.)/
 obj_npc_sign_slash_Other_10_gml_33_0
-* (The floor of the front seat is littered with old papers and country CDs...)/%
+* (El suelo de los asientos está lleno de papeles viejos y CDs country...)/%
 obj_npc_sign_slash_Other_10_gml_46_0
-* (Closed!)/%
+* (¡Cerrado!)/%
 obj_npc_sign_slash_Other_10_gml_62_0
-* (It's a metal picnic table.)/
+* (Es una mesa metálica para picnics.)/
 obj_npc_sign_slash_Other_10_gml_64_0
-\EK* (Damnit^1, my fingers won't fit through the holes.)/%
+\EK* (Maldisión^1, no me caben los dedos por los agujeros.)/%
 obj_npc_sign_slash_Other_10_gml_55_0
-* (It's your mom's van.)/%
+* (Es la furgoneta de tu mamá.)/%
 obj_npc_sign_slash_Other_10_gml_97_0
-* (It's a beaten bike.)/
+* (Es una bicicleta destrozada.)/
 obj_npc_sign_slash_Other_10_gml_98_0
-* (The horn looks like it might give a honk of despair.)/%
+* (Sientes que el horno soltaría un pitido de desesperación.)/%
 obj_npc_sign_slash_Other_10_gml_116_0
 * Somos los infames ladrones^1, los bandidos de nariz húmeda./
 obj_npc_sign_slash_Other_10_gml_117_0
@@ -28329,7 +28329,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_175_0
 obj_shop_ch2_music_slash_Draw_0_gml_176_0
 \m2		*Buena canción.
 obj_shop_ch2_music_slash_Draw_0_gml_194_0
-Tocar Música
+Tocar
 obj_shop_ch2_music_slash_Draw_0_gml_195_0
 custommenu
 obj_shop_ch2_music_slash_Draw_0_gml_250_0
@@ -35509,29 +35509,29 @@ susxpos
 susypos
 alphysbike
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_33_0
-\E0* Uh oh. Alphys. Hell if I'm going any further./
+\E0* Uh oh. Alphys. No pienso avanzar más./
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_34_0
-\E0* Already close enough to getting banned from school./
+\E0* Ya estoy muy cerca de que me expulsen de la escuela./
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_35_0
-\E0* Don't wanna be banned from outside of school too./
+\E0* No quiero que me expulsen fuera de ella también./
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_36_0
-\E1* (..^1. that's a thing^1, right?)/%
+\E1* (..^1. eso existe^1, ¿no?)/%
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_39_0
-\E0* Alphys? You're on your own./%
+\E0* ¿Alphys? Vas por tu cuenta./%
 obj_ch2_room_town_south_alphys_slash_Step_0_gml_96_0
-\E2* (Alright^1, let's go.)/%
+\E2* (De acuerdo^1, vámonos.)/%
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_22_0_b
-\E1* Whoa^1, go in there if you want^1, but...^1 I'm staying here./
+\E1* Whoa^1, entra si quieres^1, pero...^1 yo me quedo aquí./
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_22_0
-\E0* Catti's working there today.&* She hates me./
+\E0* Catti está trabajando hoy aquí.&* Ella me odia./
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_25_0
-\EA* So WHAT if I took Jockboy's hat once?&* I looked cool!/
+\EA* ¿Y QUÉ si le quité la gorra al jocky una vez?&* ¡Me quedaba bien!/
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_27_0
-\E0* Jockington fans.../
+\E0* Ugh^1, los fans de Jockington.../
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_28_0
-\E1* They're crazy^1, man./%
+\E1* Están locos^1, amigo./%
 obj_ch2_room_town_mid_diner_slash_Step_0_gml_33_0
-\E0* Kris^1, go in by yourself./%
+\E0* Kris^1, entra tú solo./%
 snowy
 monsterkid
 susiegox
@@ -58343,3 +58343,5 @@ gml_GlobalScript_0
 gml_GlobalScript_1
 gml_GlobalScript_2
 gml_GlobalScript_3
+EQUIPADO
+RESERVA
