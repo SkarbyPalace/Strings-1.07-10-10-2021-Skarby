@@ -1274,9 +1274,9 @@ scr_text_slash_scr_text_gml_719_0_b
 scr_text_slash_scr_text_gml_718_0
 * (Banco conmemorativo Gerson Boom)/
 scr_text_slash_scr_text_gml_719_0
-"* A lo largo de mi carrera^1, algunas de mis mejores ideas vinieron de sueños."/
+* "A lo largo de mi carrera^1, algunas de mis mejores ideas vinieron de sueños."/
 scr_text_slash_scr_text_gml_720_0
-"* Descansa aquí. Si alguien pregunta, ¡estás escribiendo!"/%
+* "Descansa aquí. Si alguien pregunta, ¡estás escribiendo!"/%
 scr_text_slash_scr_text_gml_721_0
 scr_text_slash_scr_text_gml_724_0
 scr_text_slash_scr_text_gml_730_0
@@ -2252,7 +2252,7 @@ scr_text_slash_scr_text_gml_2023_0
 scr_text_slash_scr_text_gml_2028_0
 #Alphys
 scr_text_slash_scr_text_gml_2029_0
-#Dark World
+#Mundo Oscuro
 scr_text_slash_scr_text_gml_2030_0
 Help you
 scr_text_slash_scr_text_gml_2031_0
@@ -3511,20 +3511,20 @@ scr_text_slash_scr_text_gml_3497_0
 scr_text_slash_scr_text_gml_3498_0
 * Uhh^1, perdon. Mal habito./
 scr_text_slash_scr_text_gml_3499_0
-* Necesitas ayudar en algo^1, mocoso?/
+* Necesitas ayudar en algo^1, piltrafa?/
 scr_text_slash_scr_text_gml_3500_0
 scr_text_slash_scr_text_gml_3507_0
-\E1* ¿Qué? ¿Hay un mundo súper peligroso en la biblioteca?/
+\E1* ¿Qué? ¿Hay un mundo súper peligroso en la bilioteca?/
 scr_text_slash_scr_text_gml_3508_0
 \E1* ¿Y qué están apareciendo más? ¿Que gente podría caer dentro...?/
 scr_text_slash_scr_text_gml_3509_0
-\E5* Jajajaja..^1. ¡escucha^1, mocoso!/
+\E5* Jajajaja..^1. ¡escucha^1, piltrafa!/
 scr_text_slash_scr_text_gml_3510_0
 \E2* Jaja..^1. ¿De verdad te crees que me voy a creer algo así?/%
 scr_text_slash_scr_text_gml_3518_0
-\E0* Conque nada que reportar^1, ¿eh? En momentos como este.../
+\E0* No hay nada que reportar^1, ¿eh? En momentos como este.../
 scr_text_slash_scr_text_gml_3519_0
-\E6* Mocosos como tú, deberían estar en casa jugando a videojuegos./%
+\E6* Piltrafas como tú, deberían estar en casa jugando a videojuegos./%
 scr_text_slash_scr_text_gml_3547_0
 #Complain#About#Police
 scr_text_slash_scr_text_gml_3548_0
@@ -3943,131 +3943,131 @@ scr_text_slash_scr_text_gml_3939_0
 Asriel
 scr_text_slash_scr_text_gml_3940_0
 scr_text_slash_scr_text_gml_3942_0
-* Kris. Welcome./
+* Kris. Bienvenido./
 scr_text_slash_scr_text_gml_3943_0
-* Did you seek something from me?/
+* ¿Buscas algo de mí?/
 scr_text_slash_scr_text_gml_3944_0
 scr_text_slash_scr_text_gml_3955_0
-* It's been a few years since my father passed on.../
+* Han pasado años desde que mi padre pasó a una mejor vida.../
 scr_text_slash_scr_text_gml_3956_0
-* Fans of his famous book series^1, Lord of the Hammer.../
+* Los fans de su famosa saga de libros^1, Señor del Martillo.../
 scr_text_slash_scr_text_gml_3957_0
-* We still received condolences from them until just recently./
+* Seguíamos recibiendo condolencias de ellos hasta hace poco./
 scr_text_slash_scr_text_gml_3958_0
-* A brave man^1, brilliant^1, and sharp./
+* Era un hombre valiente^1, brillante y ocurrente./
 scr_text_slash_scr_text_gml_3959_0
-* Kris^1, it is a shame you were not able to have him as a teacher./
+* Kris^1, es una pena que no hayas podido tenerlo como un profesor./
 scr_text_slash_scr_text_gml_3960_0
-* And^1, difficult for Ms. Alphys^1, as his replacement./
+* Y también debe ser difícil para la Sra. Alphys como su reemplazo./
 scr_text_slash_scr_text_gml_3961_0
-* Let us pray that the Angel will smile upon her./%
+* Recemos para que el Ángel le sonría./%
 scr_text_slash_scr_text_gml_3970_0
-* As per the ritual^1, a hammer is buried in the earth here./
+* Como manda la tradición^1, enterramos un martillo en este lugar./
 scr_text_slash_scr_text_gml_3971_0
-* To symbolize his existence./
+* Para simbolizar su existencia./
 scr_text_slash_scr_text_gml_3972_0
-* To connect his spirit to the divine./
+* Para conectar su espíritu con lo divino./
 scr_text_slash_scr_text_gml_3973_0
-* Originally a smith by trade^1, he began writing history.../
+* Originalmente como un herrero de profesión^1, comenzó a escribir la historia.../
 scr_text_slash_scr_text_gml_3974_0
-* And made a turn into telling stories^1,/
+* Y pasó a escribir historias^1,/
 scr_text_slash_scr_text_gml_3975_0
-* As a means to entertain his children./
+* Como medio para entretener a sus niños./
 scr_text_slash_scr_text_gml_3976_0
-* That such a story^1, created for a such a simple purpose^1,/
+* Quién iba a pensar que una historia como esa^1, creada para tan simple propósito^1,/
 scr_text_slash_scr_text_gml_3977_0
-* Could blossom into such a large^1, wonderful^1, world-changing thing.../
+* Podría florecer en algo tan grande^1, maravilloso e influyente.../
 scr_text_slash_scr_text_gml_3978_0
-* That is the majesty of words^1, Kris./
+* Esa es la grandeza de las palabras^1, Kris./
 scr_text_slash_scr_text_gml_3979_0
 scr_text_slash_scr_text_gml_3980_0
-* My father was blessed to have such a talent for writing./%
+* Mi padre fue bendecido con mucho talento para la escritura./%
 scr_text_slash_scr_text_gml_3984_0
-* Ah^1, Kris. Your brother. He is a very kind young man./
+* Ah^1, Kris. Tu hermano. Es un joven muy bueno./
 scr_text_slash_scr_text_gml_3985_0
-* Perhaps even a little..^1. overzealous^1, in his younger days./
+* Quizás incluso..^1. demasiado honesto^1, cuando era pequeño./
 scr_text_slash_scr_text_gml_3986_0
-* He would visit me often to confess..^1. to various^1, "sins"./
+* Me solía visitar mucho para confesar..^1. algunos "pecados"./
 scr_text_slash_scr_text_gml_3987_0
-* Despite the absence of sin^1, or confession^1, in our religion./
+* A pesar de que en nuestra religión no existen ni el pecado ni la confesión./
 scr_text_slash_scr_text_gml_3988_0
-* I remember his small face^1, sobbing^1, as he admitted he had^1,/
+* Aún recuerdo su pequeña carita^1, llorando mientras admitía que^1,/
 scr_text_slash_scr_text_gml_3989_0
-* "Dropped the lizard in the pit to jump high."/
+* "Dejó caer al lagarto al vacío para poder saltar más alto."/
 scr_text_slash_scr_text_gml_3990_0
-* Nearly omitting the fact that he had done so in a "videos game."/
+* Casi omitiendo el hecho de que lo había hecho en "juegos de video."/
 scr_text_slash_scr_text_gml_3991_0
-* He also confessed to various "sins" on your behalf^1,/
+* También me confesó algunos "pecados" de tu parte^1,/
 scr_text_slash_scr_text_gml_3992_0
-* Begging for your forgiveness for "dropping the lizard on purpose."/
+* Rogando que te perdonase por "dejar caer al lagarto a propósito."/
 scr_text_slash_scr_text_gml_3993_0
-* I would always "forgive" him and send him home./%
+* Siempre lo "perdonaba" y le enviaba a casa./%
 scr_text_slash_scr_text_gml_3997_0
-* Good day^1, Kris. May the Angel watch over you.../%
+* Que tengas un buen día^1, Kris. Que el Ángel vele por ti.../%
 scr_text_slash_scr_text_gml_4002_0
-#Current#situation
+#Situación#actual
 scr_text_slash_scr_text_gml_4003_0
 scr_text_slash_scr_text_gml_4004_0
 Noelle
 scr_text_slash_scr_text_gml_4005_0
 rudy
 scr_text_slash_scr_text_gml_4014_0
-\E4* Sorry^1, I..^1. heheh./
+\E4* Lo siento^1, yo..^1. jeje./
 scr_text_slash_scr_text_gml_4015_0
-\E5* Used up..^1. a lot of my energy just now./
+\E5* He usado..^1. demasiada energía./
 scr_text_slash_scr_text_gml_4016_0
-\E4* Probably..^1. not gonna be very fun to talk to./
+\E4* Probablemente..^1. no sea muy divertido hablar conmigo./
 scr_text_slash_scr_text_gml_4017_0
-\E0* Thanks for visiting though^1, Kris./
+\E0* Aunque te agradezco que me visites^1, Kris./
 scr_text_slash_scr_text_gml_4018_0
-\E2* And you too^1, Susie./
+\E2* Y a ti también^1, Susie./
 scr_text_slash_scr_text_gml_4021_0
-\E2* What is it^1, Krismas?/
+\E2* ¿Acaso estamos en ..^1. Krismas?/
 scr_text_slash_scr_text_gml_4024_0
 scr_text_slash_scr_text_gml_4031_0
-\E4* Heheh..^1. seems like^1, I need some more tests./
+\E4* Jeje..^1. parece que me haran mas pruebas./
 scr_text_slash_scr_text_gml_4032_0
-\E5* So just..^1. gotta wait it out./
+\E5* Así que..^1. tendré que seguir esperando./
 scr_text_slash_scr_text_gml_4033_0
-\E3* They can't keep me down for too long^1, baby!/
+\E3* ¡No podrán mantenerme encerrado por mucho tiempo^1, baby!/
 scr_text_slash_scr_text_gml_4034_0
-\E2* Sooner or later..^1. I'm bustin' out of here!/%
+\E2* Más temprano que tarde..^1. ¡Me fugaré de este sitio!/%
 coughcon
 scr_text_slash_scr_text_gml_4043_0
-\E0* Hey^1, Kris^1, she's a nice girl^1, huh?/
+\E0* Oye^1, Kris^1, es una buena chica^1, no?/
 scr_text_slash_scr_text_gml_4044_0
-\E2* The hell you taking her HERE for?/
+\E2* ¿Por qué diablos la traes AQUÍ?/
 scr_text_slash_scr_text_gml_4045_0
-* Why don't you take her to the movies?/
+* ¿Por qué no la llevas a ver una pelicula o otra cosa?/
 2
 scr_text_slash_scr_text_gml_4047_0
-\E2* Hey^1, yeah^1, the hell didn't we go to the movies^1, Kris?/
+\E2* Eso digo yo, Kris^1, ¿por qué no hemos ido a ver una peli?/
 scr_text_slash_scr_text_gml_4049_0
-\E2* Yeah^1! And take me too while you're at it!/
+\E2* ¡Eso^1! ¡Y de paso me lleven a mí también!/
 scr_text_slash_scr_text_gml_4051_0
-\E2* Yeah^1, Kris^1! C'mon!!/
+\E2* ¡Eso es^1, Kris^1! ¡¡Vamos!!/
 scr_text_slash_scr_text_gml_4053_0
-\E2* Kettle corn^1, Kris^1! Big^1! Don't skimp out!/%
+\E2* ¡Palomitas^1, Kris^1! ¡De las grandes^1! ¡No te enojes!/%
 scr_text_slash_scr_text_gml_4057_0
-\E6* (Look^1, Kris. Can't say much^1, but...)/
+\E6* (Mira^1, Kris. No puedo decir mucho^1, pero...)/
 scr_text_slash_scr_text_gml_4058_0
-\E5* (Noelle..^1. might look like she has it all.)/
+\E5* (Noelle..^1. podrá parecer que lo tiene todo.)/
 scr_text_slash_scr_text_gml_4059_0
-\E4* (But her mother. Her mother^1, you know?)/
+\E4* (Pero su madre. Su madre^1, ¿sabes?)/
 scr_text_slash_scr_text_gml_4060_0
-\E1* (Love her^1, but..^1. she's..^1. tough on her.)/
+\E1* (La adoro^1, pero..^1. ella..^1. es un poco dura con Noelle.)/
 scr_text_slash_scr_text_gml_4061_0
-\E5* (Normally^1, I balance it all out.)/
+\E5* (Normalmente soy el encargado de equilibrar esa balanza.)/
 scr_text_slash_scr_text_gml_4062_0
-\E6* (But...)/
+\E6* (Pero...)/
 scr_text_slash_scr_text_gml_4063_0
-\E5* (I can't..^1. do much. When I'm not there.)/
+\E5* (No puedo..^1. hacer mucho. Cuando no estoy ahi.)/
 scr_text_slash_scr_text_gml_4064_0
-\E1* (But I'm gonna get better.)/
+\E1* (Pero me voy a poner bien.)/
 scr_text_slash_scr_text_gml_4065_0
-\E4* (I have to.)/%
+\E4* (Tengo que hacerlo.)/%
 scr_text_slash_scr_text_gml_4069_0
-\E2* Yeah^1, get on outta here and do something fun!/%
+\E2* ¡Eso^1, salgan de aquí y hagan algo divertido!/%
 scr_text_slash_scr_text_gml_4074_0
 #Lo tomas
 scr_text_slash_scr_text_gml_4075_0
@@ -4089,72 +4089,72 @@ scr_text_slash_scr_text_gml_4096_0
 scr_text_slash_scr_text_gml_4097_0
 scr_text_slash_scr_text_gml_4098_0
 obj_readable_room1_slash_Other_10_gml_1483_0
-* (Knock knock knock)/
+* (Toc toc toc)/
 scr_text_slash_scr_text_gml_4099_0
-* What. What? WHAT!?/
+* Qué. ¿Qué? ¿¡QUÉ!?/
 scr_text_slash_scr_text_gml_4100_0
-* If you're looking for Blooky^1, they aren't here!!/
+* Si estás buscando a Blooky^1, ¡¡no está aquí!!/
 scr_text_slash_scr_text_gml_4101_0
-* ..^1. unless you're looking for someone else?/
+* ..^1. ¿acaso estás buscando a alguien más?/
 scr_text_slash_scr_text_gml_4102_0
 scr_text_slash_scr_text_gml_4108_0
-* Me? Me? ME!?!/
+* ¿A mí? ¿A mí? ¡¿¡A MÍ!?!/
 scr_text_slash_scr_text_gml_4109_0
-* What have I got to say to YOU!? Nothing!!/
+* ¿¡Qué tenemos que hablar TÚ Y YO!? Olvidalo!!/
 scr_text_slash_scr_text_gml_4110_0
-* Like I'd even recognize a pathetic face like THAT!/
+* ¡Como si fuera capaz de reconocer una cara tan patética como la TUYA!/
 scr_text_slash_scr_text_gml_4111_0
-* By the way^1, say hi to your dad for me~!/
+* Por cierto^1, ¡saluda a tu padre de mi parte~!/
 scr_text_slash_scr_text_gml_4112_0
-* WAIT!^1! WAIT!^1! DON'T do that!^1! He doesn't know I -- Nothing!!/%
+* ¡ESPERA^1! ¡¡ESPERA!^1! ¡¡No^1, no lo hagas!^1! Él no sabe que yo -- Olvidalo!!/%
 scr_text_slash_scr_text_gml_4129_0
-* ..^1. Fine^1! FINE^1! FINE!!^1! Wanna talk to someone else!? Here!/
+* ..^1. ¡Vale^1! ¡¡Vale^1!! ¡¡VALE!^1! ¿¡Quieres hablar con alguien más!? ¡Vale!/
 scr_text_slash_scr_text_gml_4130_0
 scr_text_slash_scr_text_gml_4131_0
-* ..^1. Oh my^1, someone's here to see me?/
+* ..^1. Oh cielos^1, ¿alguien ha venido a verme?/
 visitedyest
 scr_text_slash_scr_text_gml_4137_0
-* ..^1. It's you again^1, is it^1, darling?/
+* ..^1. Eres tú otra vez^1, ¿verdad^1, encanto?/
 scr_text_slash_scr_text_gml_4138_0
-* Ohh my. Why do you keep coming to our door?/
+* Ohh cielos. ¿Por qué sigues viniendo a nuestra puerta?/
 scr_text_slash_scr_text_gml_4139_0
-* Are you..^1. a fan of mine?/
+* ¿Acaso eres..^1. un fan mío?/
 scr_text_slash_scr_text_gml_4140_0
-* Haha..^1. as if someone could be a fan of a "nobody" like me./
+* Jaja..^1. como si alguien pudiese ser un fan de un "don nadie" como yo./
 scr_text_slash_scr_text_gml_4141_0
 scr_text_slash_scr_text_gml_4142_0
-* Well^1, if you are a fan. Haha. Could I bother you for a favor?/
+* Bueno^1, si eres un fan. Jaja. ¿Podría pedirte un favor?/
 scr_text_slash_scr_text_gml_4146_0
-* ..^1. How odd. Knocking on a stranger's door./
+* ..^1. Qué raro. Llamando a la puerta de un extraño./
 scr_text_slash_scr_text_gml_4147_0
-* Don't you have any manners^1, darling?/
+* ¿No tienes modales^1, cariño?/
 scr_text_slash_scr_text_gml_4148_0
 * Bueno./
 scr_text_slash_scr_text_gml_4149_0
-* A nobody like me can't be picky with their company^1, I suppose./
+* Nadie como yo no puede ser exigente con su compañía^1, supongo./
 scr_text_slash_scr_text_gml_4150_0
 scr_text_slash_scr_text_gml_4151_0
-* Allow me to take this chance to ask you something./
+* Permítame aprovechar esta oportunidad para preguntarle algo./
 scr_text_slash_scr_text_gml_4154_0
-* Since the internet went down^1, I haven't had much.../
+* Ya que el internet está caído^1, no he podido tener mucho.../
 scr_text_slash_scr_text_gml_4155_0
-* Entertainment./
+* Entretenimiento./
 scr_text_slash_scr_text_gml_4156_0
-* If you have anything entertaining^1, darling.../
+* Si tienes algo que sea entretenido^1, encanto.../
 scr_text_slash_scr_text_gml_4173_0
-* Could you bring it by to me \cYtomorrow\c0?/
+* ¿Podrías traérmelo \cYmañana\c0?/
 scr_text_slash_scr_text_gml_4157_0
-* It would mean the world to me. Thank you./%
+* Significaría mucho para mí. Gracias./%
 scr_text_slash_scr_text_gml_4160_0
-* ..^1. Are you still there^1, darling?/
+* ..^1. ¿Sigues ahí^1, cariño?/
 scr_text_slash_scr_text_gml_4161_0
-* Oh my. So obsessed with a nobody like me./
+* Oh cielos. Tanta obsesión con un don nadie como yo./
 scr_text_slash_scr_text_gml_4162_0
-* It's almost as if you're... a fan of mine./
+* Casi parece... que eres fan mío de verdad./
 scr_text_slash_scr_text_gml_4163_0
-* ..^1. Go home^1, darling./%
+* ..^1. Vete a casa^1, cariño./%
 scr_text_slash_scr_text_gml_4169_0
-* Then leave^1! Leave^1! LEAVE!!!/%
+* ¡Pues vete^1! ¡Vete^1! ¡¡¡VETE!!!/%
 scr_text_slash_scr_text_gml_4174_0
 #Ir con#Ralsei
 scr_text_slash_scr_text_gml_4175_0
@@ -5245,48 +5245,48 @@ scr_text_slash_scr_text_gml_6228_0
 scr_text_slash_scr_text_gml_6229_0
 scr_text_slash_scr_text_gml_6230_0
 scr_text_slash_scr_text_gml_6233_0
-\E6* Woah^1, Kris^1, you can play the piano?/
+\E6* Wow^1, Kris^1, puedes tocar el piano piano?/
 scr_text_slash_scr_text_gml_6234_0
 scr_text_slash_scr_text_gml_6243_0
 * (Plink...)/
 Y
 scr_text_slash_scr_text_gml_6245_0
-\EY* Hahaha^1! Almost thought you were serious for a sec!/
+\EY* ¡Jajaja^1! ¡Por un momento pensé que era en serio!/
 scr_text_slash_scr_text_gml_6246_0
-\EK* (..^1. what's with that pissed off look?)/%
+\EK* (..^1. ¿De qué viene esa mirada asesina?)/%
 scr_text_slash_scr_text_gml_6252_0
-\E0* ..^1. damn. Got kinda hyped for a sec./%
+\E0* ..^1. Bueno. Me había emocionado por un momento./%
 scr_text_slash_scr_text_gml_6257_0
-#Give chocolate
+#Dar la caja
 scr_text_slash_scr_text_gml_6258_0
-#Hoard chocolate
+#Reservar la caja
 scr_text_slash_scr_text_gml_6259_0
 scr_text_slash_scr_text_gml_6260_0
 scr_text_slash_scr_text_gml_6263_0
-\E3* ..^1. Huh? Kris? Do you have something for me?/
+\E3* ..^1. ¿Eh? ¿Kris? ¿Tienes algo para mí?/
 scr_text_slash_scr_text_gml_6264_0
 scr_text_slash_scr_text_gml_6274_0
-\E3* H..^1. huh...? Kris...? What is that you're giving me...?/
+\E3* ¿E..^1. eh...? ¿Kris...? ¿Qué me estás regalando...?/
 scr_text_slash_scr_text_gml_6275_0
-\E4* A..^1. a box of..^1. heart shaped ch..^1. chocolates?/
+\E4* Una..^1. una caja de..^1. ¿bombones con forma de c..^1. corazón?/
 scr_text_slash_scr_text_gml_6276_0
-\E9* W-woah^1, woah^1, no!^1! I c-can't accept that from YOU!!/
+\E9* ¡¡W-woah^1, woah^1, no!^1! ¡¡No p-puedo a-aceptar esto de TI!!/
 scr_text_slash_scr_text_gml_6277_0
-\E7* ..^1. What? It's from the..^1. police?/
+\E7* ..^1. ¿Qué? ¿Es de..^1. la policía?/
 scr_text_slash_scr_text_gml_6278_0
-\EB* You mean sh..^1. SHE's giving me this..^1. um.../
+\EB* Quieres decir que e..^1. ELLA me está regalando esto..^1. um.../
 scr_text_slash_scr_text_gml_6279_0
-\E3* Um..^1. Get well soon? Gift? To my bike?/
+\E3* Um..^1. ¿Mejórate pronto? ¿Un regalo? ¿Para mi bici?/
 scr_text_slash_scr_text_gml_6280_0
-\E9* A-and um^1, there's a note on this that says^1,/
+\E9* Y-Y um^1, hay una nota que dice^1,/
 scr_text_slash_scr_text_gml_6281_0
-\E4* "Open this and I'll arrest you^1, you little punk."/
+\E4* "Abre esto y te arrestaré^1, piltrafa."/
 scr_text_slash_scr_text_gml_6282_0
-\E3* Kris^1, I.../
+\E3* Kris^1, yo.../
 scr_text_slash_scr_text_gml_6283_0
-\E4* T..^1. Tell her I..^1. uh^1, appreciate it?/%
+\E4* D..^1. Dile que..^1. uh^1, ¿lo aprecio?/%
 scr_text_slash_scr_text_gml_6289_0
-\EB* Umm^1, okay^1, ehehe. Don't know why I thought that./%
+\EB* Umm^1, vale^1, ehehe. No sé por qué he pensado eso./%
 scr_text_slash_scr_text_gml_6294_0
 scr_text_slash_scr_text_gml_6295_0
 scr_text_slash_scr_text_gml_6296_0
@@ -15536,45 +15536,45 @@ jail_collider_side
 doorcollider
 napsta_alarm.ogg
 obj_npc_police_slash_Step_0_gml_60_0
-\E0* Haha..^1. DARK WORLD??/
+\E0* Haha..^1. MUNDO OSCURO??/
 obj_npc_police_slash_Step_0_gml_61_0
-\E7* Hahahaha..^1. seriously!? Hahahaha!!/
+\E7* Hahahaha..^1. estas bromeando!? Hahahaha!!/
 obj_npc_police_slash_Step_0_gml_62_0
 \E5* NGAAAHahahahahahahah!!!/%
 stopcon
 runspeed
 obj_npc_police_slash_Step_0_gml_430_0
-\E2* H-HEY^1, WAIT!!!!/%
+\E2* O-OIGAN^1, ALTO!!!!/%
 un
 un_actor
 obj_npc_police_slash_Step_0_gml_501_0
-\E2* NGAAHHHH!!^1! NOT AGAIN!!!/%
+\E2* NGAAHHHH!!^1! NO DE NUEVO!!!/%
 obj_npc_police_slash_Step_0_gml_508_0
-\E4* Looks like I gotta go recapture those criminals.../%
+\E4* Parece que tengo que recapturar a esos criminales.../%
 obj_npc_police_slash_Step_0_gml_522_0
-\E0* Hey^1, by the way^1, that yellow glasses lady./
+\E0* Oye^1, por cierto^1, esa señorita amarilla de las gafas./
 obj_npc_police_slash_Step_0_gml_523_0
-\E2* Is she your teacher?/
+\E2* ¿Es tu profesora?/
 obj_npc_police_slash_Step_0_gml_524_0
-\E7* She kinda had an accident earlier with her^1, uh^1, bike./
+\E7* Antes como que ha tenido un accidente con su^1, uh^1, bici./
 obj_npc_police_slash_Step_0_gml_525_0
-\E7* Just wanted to make sure she was feeling better./
+\E7* Quiero asegurarme de que se sienta mejor./
 obj_npc_police_slash_Step_0_gml_526_0
-\E1* So^1, uh..^1. give her this!/
+\E1* Así que^1, hmm..^1. ¡dale esto!/
 obj_npc_police_slash_Step_0_gml_528_0
-* (You got a heart-shaped box of candies that says "Get Well Soon".)/
+* (Recibes una caja de bombones con forma de corazón con la frase "Mejórate Pronto".)/
 obj_npc_police_slash_Step_0_gml_529_0
-* (It has "to your bike" hastily scrawled underneath the Get Well Soon.)/
+* (Hay un "a tu bicicleta" garabateado con prisa debajo con un Mejórate Pronto.)/
 obj_npc_police_slash_Step_0_gml_531_0
-\E1* LOOK^1, "GET WELL SOON"S ALL THE STORE HAD!!/
+\E1* ¡¡ESCUCHA^1, EN LA TIENDA SÓLO TENÍAN DE "MEJÓRATE PRONTO"!!/
 obj_npc_police_slash_Step_0_gml_532_0
-\E2* OPEN IT AND I'LL ARREST YOU!^1! LOOK!!/
+\E2* ¡¡SI LO ABRES TE ARRESTARÉ!^1! ¡¡MIRA!!/
 obj_npc_police_slash_Step_0_gml_533_0
-\E1* I'LL EVEN PUT A NOTE ON IT!!!/
+\E1* ¡¡¡TE ESCRIBO UNA NOTA PARA QUE NO SE TE OLVIDE!!!/
 obj_npc_police_slash_Step_0_gml_534_0
-\E2* NOW STOP INTERRUPTING ME!^1! I GOTTA GO!!/
+\E2* ¡¡AHORA DEJA DE INTERRUMPIRME!^1! ¡¡EL DEBER ME LLAMA!!/
 obj_npc_police_slash_Step_0_gml_536_0
-* (You got the previously described box of candy with a note on it.)/%
+* (Consigues la anteriormente descrita caja de bombones con una nota encima.)/%
 alarm_sounded
 na
 na_actor
@@ -16066,9 +16066,9 @@ obj_npc_room_slash_Other_10_gml_712_0_b
 obj_npc_room_slash_Other_10_gml_715_0
 * (Parece ser un carro.)/
 obj_npc_room_slash_Other_10_gml_716_0
-* (There is even a man inside this one.)/
+* (Hay un hombre dentro del coche.)/
 obj_npc_room_slash_Other_10_gml_717_0
-* (He waves at you happily.)/%
+* (El hombre te saluda alegremente.)/%
 obj_npc_room_slash_Other_10_gml_691_0
 * Yo^1, Kris^1!&* You survived Susie^1, haha!/
 obj_npc_room_slash_Other_10_gml_692_0
@@ -16100,25 +16100,25 @@ obj_npc_room_slash_Other_10_gml_712_0
 obj_npc_room_slash_Other_10_gml_713_0
 * ... That's actually not even remotely funny./%
 obj_npc_room_slash_Other_10_gml_765_0
-* This is a great parking place!/
+* ¡Este es un sitio genial para estacionarme!/
 obj_npc_room_slash_Other_10_gml_766_0
-* I can see myself settling down here.../%
+* Quizás considerare este sitio mi nuevo hogar.../%
 obj_npc_room_slash_Other_10_gml_770_0
-* Home is where the car is!/%
+* ¡El coche estara donde se encuentra el hogar!/%
 obj_npc_room_slash_Other_10_gml_779_0
-* I just wanna go home^1, but I'm still stuck in a traffic jam.../
+* Sólo quiero volver a casa^1, pero sigo en un atasco.../
 obj_npc_room_slash_Other_10_gml_780_0
-* ..^1. even though it's only one other person.../%
+* ..^1. aunque solo haya una persona más.../%
 obj_npc_room_slash_Other_10_gml_784_0
-* That's the trouble with cars./
+* Ese es el problema de los coches./
 obj_npc_room_slash_Other_10_gml_785_0
-* If you wanna do donuts^1, you have to be prepared for jam!/%
+* Si quieres hacer donuts^1, ¡tienes que estar listo para un atasco!/%
 obj_npc_room_slash_Other_10_gml_794_0
-* You kids came out of the library^1, didn't you? Studying..^1. How wonderful./
+* Has estado en la biblioteca^1, ¿si? Estudiando..^1. Qué maravilloso./
 obj_npc_room_slash_Other_10_gml_795_0
-* Personally^1, I hate libraries^1, but.../%
+* Personalmente^1, odio las bibliotecas^1, pero.../%
 obj_npc_room_slash_Other_10_gml_799_0
-* Libraries are outdated. We have things like newspapers now./%
+* Las bibliotecas están obsoletas. Ahora tenemos cosas como los periodicos./%
 obj_npc_room_slash_Other_10_gml_731_0
 * Hey neighbor-beighbor^1! When's yah brother Doug gonna come by^1? Huh huh huh!/
 obj_npc_room_slash_Other_10_gml_732_0
@@ -16138,43 +16138,43 @@ obj_npc_room_slash_Other_10_gml_741_0
 obj_npc_room_slash_Other_10_gml_848_0
 * Ribbit^1, ribbit./
 obj_npc_room_slash_Other_10_gml_849_0
-* (I sometimes hear beautiful singing from that house over there.)/
+* (A veces escucho preciosos cantos viniendo de esa casa de ahí.)/
 obj_npc_room_slash_Other_10_gml_850_0
-* (How eerie..^1. could it be a ghost?)/%
+* (Qué aterrador..^1. ¿podría ser un fantasma?)/%
 obj_npc_room_slash_Other_10_gml_854_0
 * Ribbit./
 obj_npc_room_slash_Other_10_gml_855_0
-* (That would make sense. A ghost lives there.)/%
+* (Eso tendría sentido. Un fantasma vive ahí.)/%
 obj_npc_room_slash_Other_10_gml_862_0
-* My brother's too old to take for a walk anymore..^1. hm.../
+* Mi hermano ya está muy grande como para seguir sacándo de paseo..^1. hm.../
 obj_npc_room_slash_Other_10_gml_863_0
-* I'm aimless..^1. wish I had someone to whip me into shape./%
+* Ahora no tengo propósitos..^1. ojalá tuviera a alguien que mostrase el camino./%
 obj_npc_room_slash_Other_10_gml_871_0
-* I wanted to buy flowers^1, but the store's closed./
+* Quería comprar flores^1, pero la tienda está cerrada./
 obj_npc_room_slash_Other_10_gml_872_0
-* The door around back's unlocked^1, but I don't think I should go in.../%
+* La puerta trasera está abierta^1, pero no creo que deba entrar.../%
 obj_npc_room_slash_Other_10_gml_876_0
-* I saw a bed through the back window..^1. Wonder what the deal is./%
+* He visto una cama por la ventana de atrás..^1. ¿por qué será?/%
 obj_npc_room_slash_Other_10_gml_895_0
-* I'm not Jerry. I'm Terry./
+* No soy Jerry. Soy Terry./
 obj_npc_room_slash_Other_10_gml_896_0
-* I'm super cool./
+* Soy súper cool./
 obj_npc_room_slash_Other_10_gml_897_0
-* I totally DON'T have to go to the bathroom./%
+* Literalmente NO necesito ir al baño./%
 obj_npc_room_slash_Other_10_gml_903_0
-* Oh!!^1! Terry!^1! Say it again!!/
+* ¡¡¡Oh!!^1! ¡¡Terry!^1! ¡¡Dilo de nuevo!!/
 obj_npc_room_slash_Other_10_gml_904_0
-* Say you don't have to go to the bathroom again!!/%
+* ¡¡Di lo de que no tienes que ir al baño otra vez!!/%
 obj_npc_room_slash_Other_10_gml_910_0
-* Nothing like admiring the great paint job^1, me and my bro did on our church./%
+* Nada como admirar el resultado tras pintar la iglesia con mi hermano./%
 obj_npc_room_slash_Other_10_gml_916_0
-* ...^1. missed a spot./%
+* ...^1 nos hemos olvidado de un hueco./%
 obj_npc_room_slash_Other_10_gml_924_0
-* We tried to play baseball^1, but that kid kept dancing in the middle of the lot./
+* Intentamos jugar al baseball^1, pero ese niño se puso a bailar en mitad del campo./
 obj_npc_room_slash_Other_10_gml_925_0
-* I..^1. don't feel like there's any way to stop him.../%
+* No..^1. creo que haya forma de detenerlo.../%
 obj_npc_room_slash_Other_10_gml_929_0
-* If I can't stop him..^1. Should I join him? No..^1. no./%
+* Si no puedo vencerlo..^1. ¿Debería unirme? No..^1. no./%
 obj_npc_room_slash_Other_10_gml_796_0
 * Oh^1, it's you^1.&* Are you here to play the piano again?/
 obj_npc_room_slash_Other_10_gml_797_0
@@ -16224,73 +16224,73 @@ obj_npc_room_slash_Other_10_gml_1049_0
 * Ice Wolf^1, big fan.../%
 dogchase
 obj_npc_room_slash_Other_10_gml_1067_0
-* oh....^1. jailbreak..../
+* oh....^1. una fuga..../
 obj_npc_room_slash_Other_10_gml_1068_0
-* i'll sound the alarm..../%
+* haré sonar la alarma..../%
 obj_npc_room_slash_Other_10_gml_1071_0
-* i made the jailbreak alarm my mixtape.../
+* la alarma de fuga es uno de mis mixtapes.../
 obj_npc_room_slash_Other_10_gml_1072_0
-* it's a nice beat to study or relax to while you escape from prison/%
+* es una buena canción para estudiar o relajarte mientras escapas de prisión/%
 obj_npc_room_slash_Other_10_gml_1078_0
-* (oh no...^1. i accidentally ended up as a police officer...)/
+* (oh no...^1. he acabado siendo accidentalmente agente de policía...)/
 obj_npc_room_slash_Other_10_gml_1079_0
-* (oh no...^1. i can't quit because my cousins are relying on me...)/
+* (oh no...^1. no puedo dejarlo porque mis primos confían en mí...)/
 obj_npc_room_slash_Other_10_gml_1080_0
-* oh..^1. hey.../
+* oh..^1. oye.../
 obj_npc_room_slash_Other_10_gml_1081_0
-* don't do anything illegal..^1. please.../%
+* no hagas nada ilegal..^1. por favor.../%
 obj_npc_room_slash_Other_10_gml_1085_0
-* oh..^1. sorry..^1. did i intimidate you too much.../
+* oh..^1. lo siento..^1. he sido demasiado intimidante.../
 obj_npc_room_slash_Other_10_gml_1086_0
 * oh..../
 obj_npc_room_slash_Other_10_gml_1087_0
-* it's ok to do a little crime sometimes./
+* está bien hacer un poco de crimen a veces./
 obj_npc_room_slash_Other_10_gml_1088_0
-* like if you eat candy off the floor.../
+* como comer caramelos del suelo.../
 obj_npc_room_slash_Other_10_gml_1089_0
-* even after 5 seconds.../
+* incluso aunque hayan pasado 5 segundos.../
 obj_npc_room_slash_Other_10_gml_1090_0
-* i won't arrest you./%
+* no te arrestaré./%
 obj_npc_room_slash_Other_10_gml_1103_0
-* Yea i'm tha sicko that looks at all the milks to find the best expiration date/
+* Sí soy el loco que mira todas las leches para ver cuál tiene la mejor fecha de caducidad/
 obj_npc_room_slash_Other_10_gml_1104_0
-* You got something about it?/%
+* ¿Algún problema?/%
 obj_npc_room_slash_Other_10_gml_1110_0
-* Don't talk to me unless you want to look at milk/%
+* No me hables a no ser que quieras mirar la leche/%
 obj_npc_room_slash_Other_10_gml_1114_0
-* Can your family not come in here when I'm looking at milk/%
+* Podría no venir tu familia cuando estoy mirando la leche/%
 obj_npc_room_slash_Other_10_gml_1121_0
-* Sometimes the hoofed girl comes here^1,/
+* A veces la chica con capucha pasa por aquí^1,/
 obj_npc_room_slash_Other_10_gml_1122_0
-* Opens the freezer door.../
+* Abre la puerta del congelador.../
 obj_npc_room_slash_Other_10_gml_1123_0
-* Then stands in front of it^1, lost in thought./
+* Y se queda parada delante de él^1, ensimismada./
 obj_npc_room_slash_Other_10_gml_1124_0
-* Guess she really likes the cold. Or waffles./%
+* Parece que le gusta mucho el frío. O los gofres./%
 obj_npc_room_slash_Other_10_gml_1106_0
-\E9* Lancer!^1! Hey^1, Lancer!^1! How you feeling!?/
+\E9* ¡¡Lancer!^1! ¡¡Oye^1, Lancer!^1! ¿¡Cómo te sientes!?/
 obj_npc_room_slash_Other_10_gml_1108_0
-\E3* (huff^1, puff...) One-hundred percent^1, my purplish pal!/
+\E3* (huff^1, puff...) ¡Muy bien^1, mi púrpura compañera!/
 obj_npc_room_slash_Other_10_gml_1110_0_b
-\EK* Uhh^1, you sure? You're breathing kinda heavy./
+\EK* Uhh^1, ¿estás seguro? Noto tu respiración esta algo agitada./
 obj_npc_room_slash_Other_10_gml_1112_0
-\E2* Haha^1! Just a little winded from jumping from Kris's POCKET!/
+\E2* ¡Jaja^1! ¡Sólo estoy un poco cansado por saltar del BOLSILLO de Kris!/
 obj_npc_room_slash_Other_10_gml_1113_0
-\E3* Feel free to clown around town. I'll be in your ITEMs!/
+\E3* Sientanse libres de hacer el payaso por la villa. ¡Yo estaré en tus ITEMS!/
 obj_npc_room_slash_Other_10_gml_1115_0
-\EA* No idea what you mean^1, but^1, sure./%
+\EA* No sé a qué te refieres^1, pero como gustes./%
 obj_npc_room_slash_Other_10_gml_1121_0_c
-\E3* Susie^1, Susie^1! Can you carry me on your back?/
+\E3* ¡Susie^1, Susie^1! ¿Puedes llevarme a caballito?/
 obj_npc_room_slash_Other_10_gml_1119_0
-\E3* Susie^1, Susie^1! Can you carry me on your back again?/
+\E3* ¡Susie^1, Susie^1! ¿Puedes llevarme a caballito otra vez?/
 obj_npc_room_slash_Other_10_gml_1121_0_b
-\EY* Heh^1, sure^1! If you can stay on when I'm at full speed!/
+\EY* ¡Je^1, claro^1! ¡Si eres capáz de aguantar cuando este a toda velocidad!/
 obj_npc_room_slash_Other_10_gml_1123_0_b
-\E1* Wow!^1! The Susie-train!^1! Castle Town's most exciting attraction!!!/
+\E1* ¡Wow!^1! ¡¡El Tren-Susie!^1! ¡¡¡La atracción más emocionante del Castillo!!!/
 obj_npc_room_slash_Other_10_gml_1125_0
 \EJ* .../
 obj_npc_room_slash_Other_10_gml_1127_0
-\EH* YOU AND KRIS STOP FORMING A LINE!!/%
+\EH* ¡¡DEJAD DE FORMAR UNA LÍNEA, LANCER, KRIS!!/%
 obj_npc_room_slash_Other_10_gml_1139_0
 \E9* Lancer^1, no vas a creer lo asombroso que es mi cuarto!/
 obj_npc_room_slash_Other_10_gml_1141_0
@@ -16302,15 +16302,15 @@ obj_npc_room_slash_Other_10_gml_1144_0
 obj_npc_room_slash_Other_10_gml_1146_0
 \E1* Una puerta!? Wow^1, moradita^1, enloquecistes!!!/%
 obj_npc_room_slash_Other_10_gml_1150_0
-\E1* This is the best room ever!!!/
+\E1* ¡¡¡Esta es la mejor habitación del mundo!!!/
 obj_npc_room_slash_Other_10_gml_1151_0
-\E2* How'd you know what I like??/
+\E2* ¿¿Cómo sabes lo que me gusta??/
 obj_npc_room_slash_Other_10_gml_1153_0
-\E2* Err^1, I just sort of^1, had a hunch.../
+\E2* Err^1, digamos que^1, me dio una corazonada.../
 obj_npc_room_slash_Other_10_gml_1155_0
-\E1* The quasimodo of kindness^1, people!!/%
+\E1* ¡¡Tenemos aquí a un quasimodo de la generosidad!!/%
 obj_npc_room_slash_Other_10_gml_1124_0_b
-\E1* Amo que mi piso este lleno de hoyos!/%
+\E1* ¡Me encanta que mi habitación esté llena de agujeros!/%
 obj_npc_room_slash_Other_10_gml_975_0
 * (Soy Goulden Sam.)/%
 obj_npc_room_slash_Other_10_gml_1168_0
@@ -18774,24 +18774,24 @@ obj_readable_room1_slash_Other_10_gml_1121_0
 obj_readable_room1_slash_Other_10_gml_1126_0
 * (Seems like the police aren't really feelin' it right now...)/%
 obj_readable_room1_slash_Other_10_gml_1136_0
-* (Here at ICE-E'S PEZZA, You're Family.)/
+* (Aquí En ICE-E'S PEZZA, Tu Familia.)/
 obj_readable_room1_slash_Other_10_gml_1137_0
-* (... Is Going to Love it!)/%
+* (... ¡Lo va a pasar bien!)/%
 obj_readable_room1_slash_Other_10_gml_1141_0
-* (The entrance is locked.^1)&* (No one's inside.)/
+* (La entrada está cerrada.^1)&* (No hay nadie dentro.)/
 obj_readable_room1_slash_Other_10_gml_1142_0
 * (Seems like all of the employees are outside in costume.)/%
 obj_readable_room1_slash_Other_10_gml_1146_0
-* (Ice E's P"E"ZZA, You're number "#1" Spot for a piping hot pe"E"ce of PEZZA.)/%
+* (Ice E's P"E"ZZA^1, ven a devorar una ardiente pie"E"za de PEZZA.)/%
 obj_readable_room1_slash_Other_10_gml_1154_0
 * (Knock knock knock...)/
 obj_readable_room1_slash_Other_10_gml_1444_0
 obj_readable_room1_slash_Other_10_gml_1156_0
-* (No response...^1)&* (... but the distant trousle of bones.)/%
+* (No hay respuesta...^1)&* (... solo el traqueteo distante de huesos.)/%
 obj_readable_room1_slash_Other_10_gml_1451_0
-* (Knock knock knock.)/
+* (Toc toc toc.)/
 obj_readable_room1_slash_Other_10_gml_1452_0
-* (Faintly...^1. faintly^1, a trousle..^1. growing further away...)/%
+* (Débilmente...^1. muy débilmente^1, escuchas un traqueteo..^1. alejándose cada vez más...)/%
 obj_readable_room1_slash_Other_10_gml_1170_0
 * Ooo^1, are you the human that lives at the top of town?/
 obj_readable_room1_slash_Other_10_gml_1171_0
@@ -18799,19 +18799,19 @@ obj_readable_room1_slash_Other_10_gml_1171_0
 obj_readable_room1_slash_Other_10_gml_1172_0
 * Does it hurt to be made of blood???/%
 obj_readable_room1_slash_Other_10_gml_1467_0
-* Oooo^1, is that a humannnn?!/
+* Oooo^1, ¡¿eso que veo es un humaaaaano?!/
 obj_readable_room1_slash_Other_10_gml_1468_0
-* If humans are made of bones.../
+* Si los humanos están hechos de huesos.../
 obj_readable_room1_slash_Other_10_gml_1469_0
-* Where does skeletons come from...?/%
+* ¿De dónde vienen los esqueletos...?/%
 obj_readable_room1_slash_Other_10_gml_1187_0
-* Huh..^1. that sounds like the knock of a beginner./
+* Huh..^1. llamas la puerta como un principiante./
 obj_readable_room1_slash_Other_10_gml_1188_0
-* Come back when you've gotten better at knocking!/%
+* ¡Vuelve cuando sepas llamar las puertas!/%
 obj_readable_room1_slash_Other_10_gml_1484_0
-* Hmm..^1. that knocking..^1. it's amateur!/
+* Hmm..^1. ese toque..^1. ¡es de novato!/
 obj_readable_room1_slash_Other_10_gml_1485_0
-* You've still got a long way to go!/%
+* ¡Aún te queda mucho por aprender!/%
 obj_readable_room1_slash_Other_10_gml_1204_0
 * OY^1, Snowy^1, whaddid I TELL YAH about knockin' the door so hahd!/
 obj_readable_room1_slash_Other_10_gml_1205_0
@@ -18821,40 +18821,40 @@ obj_readable_room1_slash_Other_10_gml_1206_0
 visitedshelter
 obj_readable_room1_slash_Other_10_gml_1504_0
 obj_readable_room1_slash_Other_10_gml_1506_0
-\EC* Hey^1, uh^1, Kris..^1. what are you doing?/
+\EC* Oye^1, uh^1, Kris..^1. ¿qué estás haciendo?/
 obj_readable_room1_slash_Other_10_gml_1507_0
-\E1* We're going to your house^1, right?/%
+\E1* Vamos a tu casa^1, ¿no?/%
 obj_readable_room1_slash_Other_10_gml_1510_0
 obj_readable_room1_slash_Other_10_gml_1511_0
-* (Yo^1, uhh^1, Kris..^1. haha. Is that you? Haha...)/
+* (Amigo^1, uhh^1, Kris..^1. jaja. ¿Eres tú? Jaja...)/
 obj_readable_room1_slash_Other_10_gml_1512_0
-* (We're not hanging out if Susie's with you!)/
+* (¡No pensamos salir si Susie está contigo!)/
 obj_readable_room1_slash_Other_10_gml_1513_0
-* (Kris..^1. Susie sucks^1! Why didn't you stop her^1, haha...)/%
+* (Kris..^1. ¡Susie apesta^1! Por qué no la has parado^1, jaja...)/%
 obj_readable_room1_slash_Other_10_gml_1236_0
-* (It's an ornate gate.^1)&* (It appears to be locked.)/%
+* (Es una verja ornamentada.^1)&* (Parece que está cerrada.)/%
 obj_readable_room1_slash_Other_10_gml_1245_0
 * Aww^1, Kris^1, like^1, if you wanna come in.../
 obj_readable_room1_slash_Other_10_gml_1246_0
 \E4* Our cat-flap^1, is like^1, always open to you.../%
 obj_readable_room1_slash_Other_10_gml_1539_0
-* (There's a cat flap.)/
+* (Es una puerta para gatos.)/
 obj_readable_room1_slash_Other_10_gml_1540_0
 * (Está bloqueado.)/
 obj_readable_room1_slash_Other_10_gml_1541_0
-* (Somehow.)/%
+* (Por algún motivo.)/%
 obj_readable_room1_slash_Other_10_gml_1258_0
-* (Various cat-themed junk is piled up inside the house.)/
+* (Hay una gran variedad de basura con temática gatuna dentro de la casa.)/
 obj_readable_room1_slash_Other_10_gml_1259_0
-* (It seems to be a bit of a cat-sty...)/%
+* (Parece toda una gatástrofe...)/%
 obj_readable_room1_slash_Other_10_gml_1263_0
-* (It's a broken grill.)/
+* (Es una barbacoa rota.)/
 obj_readable_room1_slash_Other_10_gml_1264_0
-* (... It smells like burnt cat food.)/%
+* (... Huele a comida de gato quemada.)/%
 obj_readable_room1_slash_Other_10_gml_1268_0
-* (There's some kind of scratching noise coming from inside...)/%
+* (Suena una especie de sonido de arañazos viene de dentro...)/%
 obj_readable_room1_slash_Other_10_gml_1563_0
-* (There's some kind of scratching and hissing from inside.)/%
+* (Suena una especie de sonido de arañazos y siseos viene de dentro.)/%
 obj_readable_room1_slash_Other_10_gml_1276_0
 obj_readable_room1_slash_Other_10_gml_1277_0
 * Ah, I'm afraid no one's home right now^1, darling./
@@ -18868,122 +18868,122 @@ obj_readable_room1_slash_Other_10_gml_1284_0
 obj_readable_room1_slash_Other_10_gml_1285_0
 * My apologies^1, beautiful^1.&* I'm afraid I'm a bit of a nobody./%
 obj_readable_room1_slash_Other_10_gml_1617_0
-* (There's a door behind the flower shop.)/
+* (Hay una puerta tras la florería.)/
 obj_readable_room1_slash_Other_10_gml_1618_0
-* (... but there's flowers blocking the way.)/%
+* (... pero hay flores bloqueando el camino.)/%
 obj_readable_room1_slash_Other_10_gml_1302_0
 obj_readable_room1_slash_Other_10_gml_1615_0
-* (There's some condiments at the table.)/
+* (Hay algunos condimentos en la mesa.)/
 obj_readable_room1_slash_Other_10_gml_1616_0
-* ICE-E's "Original" Parmajohn Che"E"ese!/%
+* ¡Que"E"so Parmejiano "Original" de ICE-E!/%
 obj_readable_room1_slash_Other_10_gml_1621_0
 obj_readable_room1_slash_Other_10_gml_1622_0
 * ICE-E'S Squeezable Pasta Now With New "Shape"/%
 obj_readable_room1_slash_Other_10_gml_1629_0
-* (Try our new CHOCCOLATE PEZZA)/
+* (Prueba nuestra nueva PEZZA DE CHOCCOLATE)/
 obj_readable_room1_slash_Other_10_gml_1630_0
-* (Melts in your pants not in your mouth)/%
+* (Se derrite en tus pantalones no en tu boca)/%
 obj_readable_room1_slash_Other_10_gml_1640_0
-* (Various frozen bagels and treats.)/
+* (Hay varios donuts y aperitivos congelados.)/
 obj_readable_room1_slash_Other_10_gml_1642_0
-\E2* Hey Kris^1, wanna see if we can fit inside?/
+\E2* Oye Kris^1, ¿te gustaría averiguar si podemos meternos dentro?/
 obj_readable_room1_slash_Other_10_gml_1643_0
-\E5* If you just crouch down under the waffles -/
+\E5* Si te agachas y te metes por debajo de los gofres -/
 obj_readable_room1_slash_Other_10_gml_1644_0
-\EK* Damn^1, think someone's looking./%
+\EK* Maldisión^1, creo que alguien nos está mirando./%
 obj_readable_room1_slash_Other_10_gml_1651_0
-* (It looks like a normal basket of fruit^1, but when you reach in...)/
+* (Parece una cesta de fruta normal y corriente^1, pero cuando metes la mano...)/
 obj_readable_room1_slash_Other_10_gml_1652_0
-* (..^1. It's incredibly deep and holds all sorts of things.)/%
+* (..^1. Es increíblemente profunda y hay todo tipo de cosas.)/%
 obj_readable_room1_slash_Other_10_gml_1659_0
-* LOOSE EGGS $1/
+* HUEVOS SUELTOS $1/
 obj_readable_room1_slash_Other_10_gml_1660_0
-* (It's too much responsibility for an egg.)/%
+* (Demasiada responsabilidad para un huevo.)/%
 obj_readable_room1_slash_Other_10_gml_1684_0
-* (Seems like there's more eggs here than usual.)/%
+* (Parece que hay más huevos de lo normal.)/%
 obj_readable_room1_slash_Other_10_gml_1691_0_b
-* (It's a pile of eggs.)/
+* (Es una pila de huevos.)/
 obj_readable_room1_slash_Other_10_gml_1692_0
 obj_readable_room1_slash_Other_10_gml_1693_0
-\S1* (You put the Egg into the eggpile.)/
+\S1* (Metes el Huevo en la pila.)/
 obj_readable_room1_slash_Other_10_gml_1695_0_b
-* ... did you just^1, uh^1, reverse-steal that egg?/%
+* ... acabas de^1, uh^1, ¿robar a la inversa ese huevo?/%
 obj_readable_room1_slash_Other_10_gml_1667_0
-* (Grapes^1, melons^1, oranges^1, and the scent of fresh pineapples...)/%
+* (Uvas^1, melones^1, naranjas y el aroma de piñas frescas...)/%
 obj_readable_room1_slash_Other_10_gml_1674_0
-* (It looks like a normal palm tree^1, but it's chock-full of useful groceries.)/%
+* (Parece una palmera normal y corriente^1, pero está llena de todo tipo de alimentos.)/%
 obj_readable_room1_slash_Other_10_gml_1683_0
-* (It's a rack of candy^1, jerky^1, and various nuts.)/
+* (Hay un estante con caramelos^1, cecina y frutos secos.)/
 obj_readable_room1_slash_Other_10_gml_1685_0
-\EA* See? Jerky is candy. ..^1. And^1, uh^1, peanuts too./
+\EA* ¿Ves? La cecina cuenta como un chuche. ..^1. Y^1, uh^1, los cacahuates también./
 obj_readable_room1_slash_Other_10_gml_1687_0
-\E5* actually they're a legume./
+\E5* en realidad son legumbres./
 obj_readable_room1_slash_Other_10_gml_1689_0
-\E1* Peanuts?/
+\E1* ¿Los cacahuates?/
 obj_readable_room1_slash_Other_10_gml_1691_0
-\E2* jerky./%
+\E2* la cecina./%
 obj_readable_room1_slash_Other_10_gml_1695_0
-* How about we don't look at anything.../
+* Qué te parece si no miramos nada.../
 obj_readable_room1_slash_Other_10_gml_1696_0
-\E1* That's gonna make him say something stupid./
+\E1* Eso hará que diga algo estúpido./
 obj_readable_room1_slash_Other_10_gml_1698_0
-\E5* ..^1. pickings are looking slim^1, ma'am./%
+\E5* ..^1. las ventas se van al suelo^1, jefa./%
 obj_readable_room1_slash_Other_10_gml_1708_0
-* Ice-E's Pizza Pin-Ups Mangazine./
+* Hay una revista provocativa de Ice-E./
 obj_readable_room1_slash_Other_10_gml_1709_0
-* HOt and fresh chease^1, pepperonie^1, Just like in your Dream's.../%
+* Qeso calientE y recin hecho^1, pepperonie^1, como en tus más salvajes Sueños.../%
 obj_readable_room1_slash_Other_10_gml_1716_0
-* Hot Piza Picks! Now with 3 Pixels Or MOre, In Hot and Spicy REsolution!/%
+* ¡Fotos de Pizas Calientes! ¡Ahora con 3 Píxeles O MÁs y la REsolución mÁS ARDIENTE!/%
 obj_readable_room1_slash_Other_10_gml_1726_0
-* There're some car magazines on the racks./
+* Hay algunas revistas de coches en los estantes./
 obj_readable_room1_slash_Other_10_gml_1727_0
-* It might be fun to look at them^1,/
+* Podría ser divertido hojearlas^1,/
 obj_readable_room1_slash_Other_10_gml_1728_0
-* But there's other people around.../%
+* Pero hay más gente alrededor.../%
 obj_readable_room1_slash_Other_10_gml_1734_0
-* It's a fluffy dog magazine^1. The inside has samples like fragrance ads.../
+* Hay una revista con un perro^1. Dentro hay muestras como en los anuncios de colonia.../
 obj_readable_room1_slash_Other_10_gml_1735_0
-* But it's all different dog fur for you to touch./
+* Pero hay distintos tipos de pelaje de perro para que los toques./
 obj_readable_room1_slash_Other_10_gml_1737_0
-\E5* Hey^1, don't hog the ads!!/%
+\E5* ¡¡Oye^1, no acumules todas las muestras!!/%
 obj_readable_room1_slash_Other_10_gml_1746_0
-* It's a zine for Jockington fans. Seems popular./%
+* Hay una revista para fans de Jockington. Parece popular./%
 obj_readable_room1_slash_Other_10_gml_1753_0
-* It's a bunch of cards and heart shaped chocolates./
+* Hay unas cuantas tarjetas y cajas de bombones con forma de corazón./
 obj_readable_room1_slash_Other_10_gml_1755_0
-* "Get well soon!"&* "I'm glad your bike crashed"/%
+* "¡Mejórate pronto!"&* "Me alegra que tu bici se haya estrellado"/%
 obj_readable_room1_slash_Other_10_gml_1774_0
-\E2* that stuff? it's used. half off./
+\E2* eso de ahi esta usado. a mitad de precio./
 obj_readable_room1_slash_Other_10_gml_1776_0
-* ..^1. What is it?/
+* ..^1. Qué es eso?/
 obj_readable_room1_slash_Other_10_gml_1778_0
-\E5* trash./%
+\E5* basura./%
 obj_readable_room1_slash_Other_10_gml_1787_0
-* (You can't reach the top^1, rendering it impossible to get a basket.)/
+* (No puedes alcanzar la cima^1, es imposible conseguir una cesta.)/
 obj_readable_room1_slash_Other_10_gml_1788_0
-* (You'll never be able to buy something in this state...)/%
+* (En este estado nunca serás capaz de comprar algo...)/%
 obj_readable_room1_slash_Other_10_gml_1792_0
-* (One was the Throne of God's^1, this is the Throne of Evil's.)/%
+* (Uno era el Trono de los Dioses^1, este es el Trono de las Maldades.)/%
 obj_readable_room1_slash_Other_10_gml_1806_0
-* (You skimmed a news article about Undyne.)/
+* (Echas un vistazo a un artículo de las noticias sobre Undyne.)/
 obj_readable_room1_slash_Other_10_gml_1807_0
-* New Police Chief Undyne's Explosive Debut/
+* El Debut Explosivo De La Nueva Jefa De Policía Undyne/
 obj_readable_room1_slash_Other_10_gml_1808_0
-* ..^1. passionate young rookie..^1. becomes the new police chief./
+* ..^1. joven aprendiz apasionada..^1. se vuelve la nueva jefa de policía./
 obj_readable_room1_slash_Other_10_gml_1809_0
-* Though energetic^1, it may be hard to live up to the legacy.../
+* Aunque enérgica^1, será difícil que esté a la altura del legado.../
 obj_readable_room1_slash_Other_10_gml_1810_0
-* ..^1. after Asgore Dreemurr was removed from the force.../
+* ..^1. que dejó Asgore Dreemurr antes de ser retirado de las fuerzas.../
 obj_readable_room1_slash_Other_10_gml_1811_0
-* (..^1. there's no need to read any more.)/%
+* (..^1. no hay necesidad de leer más.)/%
 obj_readable_room1_slash_Other_10_gml_1818_0
-* (Photos of Chief Undyne and Deputy Napstablook.)/
+* (Hay fotos de Undyne y del Agente Napstablook.)/
 obj_readable_room1_slash_Other_10_gml_1819_0
-* (Undyne is rescuing all of Catti's family from a tree.)/
+* (Undyne aparece rescatando a toda la familia de Catti de un árbol.)/
 obj_readable_room1_slash_Other_10_gml_1820_0
-* (..^1. Napstablook is also stuck in the tree somehow.)/%
+* (..^1. Napstablook también está atascado en el árbol de alguna forma.)/%
 obj_readable_room1_slash_Other_10_gml_1827_0
-* (Well-cared-for flowers.)/%
+* (Son Flores muy bien cuidadas.)/%
 obj_readable_room1_slash_Other_10_gml_1837_0
 * Es un guardaropas lleno de todo tipo de prendas./
 obj_readable_room1_slash_Other_10_gml_1838_0
@@ -35542,81 +35542,81 @@ mk
 mk_actor
 monster_kid
 obj_ch2_room_town_shelter_slash_Step_0_gml_61_0
-* You think it's true? You really think there's..../%
+* ¿Crees que los rumores son ciertos? Crees que ahí dentro..../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_68_0
-* What^1, you chicken? Haha^1, you gotta beak and wings? Like a chicken?/%
+* Qué^1, ¿eres un gallina? Jaja^1, ¿tienes picos y alas? ¿Como una gallina?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_75_0
-* ..^1. no..^1. just.../%
+* ..^1. no..^1. es que.../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_82_0
-* I ain't afraid^1! Only kids believe that stuff!/%
+* ¡No tengo miedo^1! ¡Sólo los niños se creen esas tonterías!/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_89_0
-* ..^1. b-but Kris.../%
+* ..^1. P-Pero Kris.../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_96_0
-* You gonna be a weenie like Kris!?/%
+* ¿¡Vas a ser una cobarde como Kris!?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_109_0
-\EV* You wanna say that again?/%
+\EV* ¿Te importa repetir eso?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_126_0
-* Susie. Didn't see ya there./%
+* Susie. No te había visto./%
 obj_ch2_room_town_shelter_slash_Step_0_gml_138_0
-\EW* Wow^1, really something SCARY in there^1, huh?/%
+\EW* Wow^1, con que ahí dentro hay algo que da MIEDO^1, ¿eh?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_145_0
 * Uhh--/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_157_0
-\EW* Sounds to me like you'd better worry.../%
+\EW* Me parece que os deberíais preocupar.../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_188_0
-\EX* About what's OUT HERE^1, first./%
+\EX* Por lo que hay FUERA^1, primero./%
 obj_ch2_room_town_shelter_slash_Step_0_gml_192_0
-* AHHHHHHHHHHH!!!!!!!!/%
+* ¡¡¡¡¡AHHHHHHHHHHH!!!!!/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_278_0
 obj_ch2_room_town_shelter_slash_Step_0_gml_279_0
-\E1* You OK^1, Kris?/%
+\E1* ¿Estás bien^1, Kris?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_284_0
-\E0* ...What's...the deal with this place?/%
+\E0* ...¿Qué... pasa con este lugar?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_293_0
-\E2* Well^1, you don't gotta talk about it./%
+\E2* Bueno^1, no tienes porque hablar de eso./%
 noellegame
 gamecon
 doormoved
 obj_ch2_room_town_hospital_slash_Step_0_gml_68_0
-\E2* Silver Drake^1, huh? That's a new one./
+\E2* Dragón Plateado^1, ¿eh? Esto es nuevo./
 obj_ch2_room_town_hospital_slash_Step_0_gml_69_0_b
-\E3* Alright^1, what's the plan^1, honey?/
+\E3* Bueno^1, ¿cuál es el plan^1, cielo?/
 obj_ch2_room_town_hospital_slash_Step_0_gml_71_0
-\E8* Hmm..^1. maybe we could try.../
+\E8* Hmm..^1. podríamos probar.../
 obj_ch2_room_town_hospital_slash_Step_0_gml_72_0_b
-\E4* Iceshock?/
+\E4* ¿Crioshock?/
 obj_ch2_room_town_hospital_slash_Step_0_gml_74_0_b
-\E5* Ice on the Ice Palace boss?/
+\E5* ¿Vas a usar hielo contra el jefe del Palacio de Hielo?/
 obj_ch2_room_town_hospital_slash_Step_0_gml_75_0
-\E4* Don't you wanna try Fireshock or something?/%
+\E4* ¿No sería mejor usar Piroshock o algo similar?/%
 obj_ch2_room_town_hospital_slash_Step_0_gml_83_0_b
-\E2* H-huh? Yeah^1, you're right./
+\E2* ¿E-Eh? Sí^1, tienes razón./
 obj_ch2_room_town_hospital_slash_Step_0_gml_85_0
-\E7* Here^1, how about letting me control for a bit?/%
+\E7* Ven^1, ¿por qué no le dejas a papá que lo haga?/%
 obj_ch2_room_town_hospital_slash_Step_0_gml_94_0_b
-\E2* N-no^1! I'll..^1. control it myself./
+\E2* ¡N-no^1! Yo..^1. puedo con esto./
 obj_ch2_room_town_hospital_slash_Step_0_gml_96_0
-\E2* Not like you to be a controller hog^1, honey./
+\E2* ¿Desde cuando acaparas tú tanto el mando^1, cielo?/
 obj_ch2_room_town_hospital_slash_Step_0_gml_97_0_b
-\E4* You feeling alright?/%
+\E4* ¿Te encuentras bien?/%
 obj_ch2_room_town_hospital_slash_Step_0_gml_104_0
-\E3* Huh? Me? Of course^1! I'm fine^1, dad.../%
+\E3* ¿Eh? ¿Yo? ¡Claro^1! Estoy bien^1, papá.../%
 obj_ch2_room_town_hospital_slash_Step_0_gml_111_0
-\Ee* I just.../%
+\Ee* Es que.../%
 obj_ch2_room_town_hospital_slash_Step_0_gml_118_0
-\E8* I fell asleep in the library^1, and.../
+\E8* Hoy me quedé dormida en la biblioteca y.../
 obj_ch2_room_town_hospital_slash_Step_0_gml_119_0
-\E4* ..^1. you know^1, just had a weird dream. Haha./
+\E4* ..^1. Ya sabes^1, he tenido un sueño extraño. Jaja./
 obj_ch2_room_town_hospital_slash_Step_0_gml_121_0_b
 \E1* Noelle.../
 obj_ch2_room_town_hospital_slash_Step_0_gml_122_0
-\E2* I knew that birdbrain'd put you to sleep^1! Haha!/
+\E2* ¡Sabía que ese cabeza de chorlito te dejaría sopa en algún momento^1! ¡Jaja!/
 obj_ch2_room_town_hospital_slash_Step_0_gml_123_0_b
-\E3* What'd he do? Start lecturing you on his theorum.../
+\E3* ¿Qué ha hecho esta vez? Darte una charla sobre su teorema.../
 obj_ch2_room_town_hospital_slash_Step_0_gml_124_0
-\E7* Of the inequality in children's fighter games?/%
+\E7* Sobre lo desequilibrados que están los juegos de lucha para niños?/%
 obj_ch2_room_town_hospital_slash_Step_0_gml_130_0
-\E4* Hahah^1, no^1, no^1! He.../%
+\E4* ¡Jajaja^1, no^1, no^1! Él.../%
 obj_ch2_room_town_hospital_slash_Step_0_gml_137_0
 \Ee* ..^1. he fell asleep^1, too./
 obj_ch2_room_town_hospital_slash_Step_0_gml_139_0
