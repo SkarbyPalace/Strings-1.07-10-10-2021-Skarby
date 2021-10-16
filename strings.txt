@@ -8853,7 +8853,7 @@ Este tipo... ¿familiar?
 scr_armorinfo_slash_scr_armorinfo_gml_149_0
 ¡Chu! ¡Poder curativo!
 scr_armorinfo_slash_scr_armorinfo_gml_151_0
-... from the family entertainment center?
+... del centro de entretenimiento familiar?
 scr_armorinfo_slash_scr_armorinfo_gml_161_0
 scr_armorinfo_slash_scr_armorinfo_gml_167_0
 Jevilstail
@@ -8970,13 +8970,13 @@ scr_armorinfo_slash_scr_armorinfo_gml_389_0
 scr_armorinfo_slash_scr_armorinfo_gml_390_0
 scr_armorinfo_slash_scr_armorinfo_gml_401_0
 scr_armorinfo_slash_scr_armorinfo_gml_408_0
-SkyMantle
+MantaCielo
 scr_armorinfo_slash_scr_armorinfo_gml_409_0
 un cabo que brilla con fluorescencia.#Protege contra los ataques ELEC y HOLY.
 scr_armorinfo_slash_scr_armorinfo_gml_433_0_b
 Elec/Holy
 scr_armorinfo_slash_scr_armorinfo_gml_430_0
-SpikeShackle
+CadenaEspinosa
 scr_armorinfo_slash_scr_armorinfo_gml_431_0
 scr_armorinfo_slash_scr_armorinfo_gml_432_0
 ¡Consigue una carga de ESTO!
@@ -18793,11 +18793,11 @@ obj_readable_room1_slash_Other_10_gml_1451_0
 obj_readable_room1_slash_Other_10_gml_1452_0
 * (Débilmente...^1. muy débilmente^1, escuchas un traqueteo..^1. alejándose cada vez más...)/%
 obj_readable_room1_slash_Other_10_gml_1170_0
-* Ooo^1, are you the human that lives at the top of town?/
+* Ooo^1, eres el humano que vive por arriba?/
 obj_readable_room1_slash_Other_10_gml_1171_0
-* Wow^1, my mommy told me about you.../
+* Wow^1, mi mamá me habló de ti.../
 obj_readable_room1_slash_Other_10_gml_1172_0
-* Does it hurt to be made of blood???/%
+* Duele estar hecho de sangre???/%
 obj_readable_room1_slash_Other_10_gml_1467_0
 * Oooo^1, ¡¿eso que veo es un humaaaaano?!/
 obj_readable_room1_slash_Other_10_gml_1468_0
@@ -18813,11 +18813,11 @@ obj_readable_room1_slash_Other_10_gml_1484_0
 obj_readable_room1_slash_Other_10_gml_1485_0
 * ¡Aún te queda mucho por aprender!/%
 obj_readable_room1_slash_Other_10_gml_1204_0
-* OY^1, Snowy^1, whaddid I TELL YAH about knockin' the door so hahd!/
+* OY^1, Snowy^1, quet te dije acerca de tocar tan fuertet!/
 obj_readable_room1_slash_Other_10_gml_1205_0
-* Don't^1!&* Do^1!&* It!/
+* No^1!&* Lo^1!&* Hagas!/
 obj_readable_room1_slash_Other_10_gml_1206_0
-* It's REALLY gonna hurt yah face^1! We don't have arms^1, yah know!/%
+* Enserio te lastimará^1! No tenemos brazos^1, sabías!/%
 visitedshelter
 obj_readable_room1_slash_Other_10_gml_1504_0
 obj_readable_room1_slash_Other_10_gml_1506_0
@@ -18878,7 +18878,7 @@ obj_readable_room1_slash_Other_10_gml_1616_0
 * ¡Que"E"so Parmejiano "Original" de ICE-E!/%
 obj_readable_room1_slash_Other_10_gml_1621_0
 obj_readable_room1_slash_Other_10_gml_1622_0
-* ICE-E'S Squeezable Pasta Now With New "Shape"/%
+* Pasta Aplastable De ICE-E Ahora Con Nueva "Forma"/%
 obj_readable_room1_slash_Other_10_gml_1629_0
 * (Prueba nuestra nueva PEZZA DE CHOCCOLATE)/
 obj_readable_room1_slash_Other_10_gml_1630_0
@@ -19127,7 +19127,7 @@ obj_readable_room1_slash_Other_10_gml_2124_0
 obj_readable_room1_slash_Other_10_gml_2125_0
 * Nuestro chef especial cocino productos a la ALTURA de su clase!/%
 obj_readable_room1_slash_Other_10_gml_2160_0
-* (Seems like it's gone stray without its master...)/%
+* (Parece que se ha perdido sin ningun maestro...)/%
 obj_readable_room1_slash_Other_10_gml_2165_0
 * (Squeak...)/%
 obj_readable_room1_slash_Other_10_gml_2170_0
@@ -19373,163 +19373,163 @@ lifetimer
 ralsei_dw
 susie_dw
 obj_npc_facing_slash_Other_10_gml_12_0
-* Is that a cut on your face^1, or part of your eye?/%
+* Es eso un corte en tu cara^1, o es parte de tu ojo?/%
 * [NO TEXT] (obj_npc_facing)/%
 obj_npc_facing_slash_Other_10_gml_31_0
-* Don't worry^1, Kris!/
+* No te preocupes^1, Kris!/
 obj_npc_facing_slash_Other_10_gml_32_0
-\E4* I've always thought Susie can't be so bad^1, you know?/
+\E4* Siempre he pensado que Susie no está tan mal^1, sabes?/
 obj_npc_facing_slash_Other_10_gml_33_0
-\E0* I'm sure everything will turn out fine!/%
+\E0* Estoy seguro de que todo estará bien!/%
 obj_npc_facing_slash_Other_10_gml_39_0
-* And^1, if you have time^1, could you say hi to her for me...?/%
+* Y^1, si tienes tiempo^1, puedes decirle hola a ella por mi...?/%
 obj_npc_facing_slash_Other_10_gml_50_0
-* Ah^1, Kris^1.&* Late again^1, I see./
+* Ah^1, Kris^1.&* Tarde otra vez^1, Ya veo./
 obj_npc_facing_slash_Other_10_gml_51_0
-\E0* Hmm? You need a partner?/
+\E0* Hmm? Necesitas un compañero?/
 obj_npc_facing_slash_Other_10_gml_52_0
-\E1* Sorry^1, I'm already partners with the 2nd smartest student./
+\E1* Perdón^1, yo ya soy compañero con la otra persona más lista./
 obj_npc_facing_slash_Other_10_gml_53_0
-\E3* Though..^1. wait^1!&* Kris^1, now that I think about it.../
+\E3* Aunque..^1. espera^1!&* Kris^1, ahora que lo pienso.../
 obj_npc_facing_slash_Other_10_gml_54_0
-\E4* Your unique skillset might help a LOT on this assignment!/
+\E4* Tus habilidades únicas pueden ser útiles en esta materia!/
 obj_npc_facing_slash_Other_10_gml_55_0
-\E2* Pfft^1, NOT^1!&* I actually want to get an "A!"/%
+\E2* Pfft^1, NO^1!&* En realidad quiero tener una "A!"/%
 obj_npc_facing_slash_Other_10_gml_59_0
-* Ask elsewhere^1, Kris! I actually want to get an "A!"/
+* Pregunta en otra parte^1, Kris! Quiero obtener una "A!"/
 obj_npc_facing_slash_Other_10_gml_60_0
-\E2* If you can't get anyone^1, maybe your mom will be your partner again!/%
+\E2* Si no encuentras a alguien^1, talvez tu mamá te ayudará denuevo!/%
 obj_npc_facing_slash_Other_10_gml_67_0
-\E3* Kris^1, didn't I SAY being late was a bad idea?/
+\E3* Kris^1, no DIJE que llegar tarde era algo malo?/
 obj_npc_facing_slash_Other_10_gml_68_0
-\E0* Hmm^1, it's almost as if you should have^1, as they say.../
+\E0* Hmm^1, es como si no hubieras^1, como ellos dicen.../
 obj_npc_facing_slash_Other_10_gml_69_0
-\E1* Listened?/%
+\E1* Esuchado?/%
 obj_npc_facing_slash_Other_10_gml_73_0
-\E0* Alas^1, Kris^1.&* I already tried to help you.../%
+\E0* Alas^1, Kris^1.&* Intenté ayudarte.../%
 obj_npc_facing_slash_Other_10_gml_83_0
-* Partn'er^1?&* I hardly know 'er!!/
+* Compañere^1?&* Apenas la conozce!!/
 obj_npc_facing_slash_Other_10_gml_84_0
-* Ha ha ha!^1!&* Whaddya think of that one!^1?&* Funny^1, right???/
+* Ja ja ja!^1!&* Qué piensas de esa!^1?&* Divertida^1, verdad???/
 obj_npc_facing_slash_Other_10_gml_85_0
 * ... No?/
 obj_npc_facing_slash_Other_10_gml_86_0
-* Well^1, I got NEWS for you^1, PAL^1!&* I already GOT a partner!^1!&* SCRAM!/%
+* Buenos^1, NOTICIA para ti^1, COMPA^1!&* yo ya tengo un COMPAÑERO!^1!&* BASURA!/%
 obj_npc_facing_slash_Other_10_gml_90_0
-* That's right^1, KRIS^1!&* I got the GOOD partner!/
+* Está bien^1, KRIS^1!&* yo tengo un BUEN compañero!/
 obj_npc_facing_slash_Other_10_gml_91_0
-* And WE'RE going to be laughing all the way to the BANK!/
+* Y NOS reirémos en el camino hacia el BANCO!/
 obj_npc_facing_slash_Other_10_gml_92_0
-* Because I need money^1, and I'm also VERY funny./%
+* Porque necesito dinero^1, y también soy MUY gracioso./%
 obj_npc_facing_slash_Other_10_gml_98_0
-* Kris^1, don't listen to 'em^1.&* It's not that bad./
+* Kris^1, no los escuches^1.&* No es tan malo./
 obj_npc_facing_slash_Other_10_gml_99_0
-* You'll PROBABLY survive Susie beating you up./
+* PROBABLEMENTE sobrevivas siendo golpeado por Susie./
 obj_npc_facing_slash_Other_10_gml_100_0
-* You're just gonna fail when she doesn't do ANY of your project!!/
+* Solo vas a reprobar cuando ella no haga NADA de nuestro proyecto!!/
 obj_npc_facing_slash_Other_10_gml_101_0
-* It's like we always say^1, Kris..^1.&* You SUZ, you LOSE!!!/
+* Es como siempre digo^1, Kris..^1.&* Tú SUZEAS, tu PIERDES!!!/
 obj_npc_facing_slash_Other_10_gml_102_0
-* ... uhhh^1, that's not very reassuring, huh./%
+* ... uhhh^1, eso no es muy tranquilizador, huh./%
 obj_npc_facing_slash_Other_10_gml_106_0
-\E0* Hey Kris^1, if you die^1, can I have your brother's CDs?/%
+\E0* Hey Kris^1, si mueres^1, puedo tener los CDs de tu hermano?/%
 obj_npc_facing_slash_Other_10_gml_116_0
-* Yo^1, Kris^1!&* Show up earlier next time!/
+* Yo^1, Kris^1!&* Ven más temprano para la próxima!/
 obj_npc_facing_slash_Other_10_gml_117_0
-* I ended up having to partner with Snowy^1, haha.../
+* Terminé estando con Snowy^1, jaja.../
 obj_npc_facing_slash_Other_10_gml_118_0
-* Now he keeps turning to me and saying "Howdy, Partner!" like a cowboy.../%
+* Ahora el pasa viendome y me dice "Howdy, Partner!" como un compañero.../%
 obj_npc_facing_slash_Other_10_gml_122_0
-* Yo^1, Kris^1, you're lucky^1.&* I'd rather be partnerless than this^1, haha.../%
+* Yo^1, Kris^1, tienes suerte^1.&* Prefiero no tener compañero a esto^1, jaja.../%
 obj_npc_facing_slash_Other_10_gml_128_0
-* Yo^1! Kris^1! I'm sorry^1!&* If I had just waited to be your partner.../
+* Yo^1! Kris^1! Perdón^1!&* Si hubiera esperado para ser tu compañero.../
 obj_npc_facing_slash_Other_10_gml_129_0
-* You wouldn't have to be HER'S^1!&* She's gonna pound you to pieces^1, Kris!/
+* No tuvieras que ir con ELLA^1!&* Ella te destruira en pedazos^1, Kris!/
 obj_npc_facing_slash_Other_10_gml_130_0
-* And then kick the butts of all those little pieces!/%
+* Y luego pateará el trasero de esos pequeños pedazos!/%
 obj_npc_facing_slash_Other_10_gml_134_0
-\E0* Kris^1, just keep running and don't look back!/%
+\E0* Kris^1, solo sigue corriendo y no veas atrás!/%
 obj_npc_facing_slash_Other_10_gml_147_0
 \E0* (Click, click, tap, tap...)/
 obj_npc_facing_slash_Other_10_gml_148_0
-\E1* ... taken./%
+\E1* ... tomado./%
 obj_npc_facing_slash_Other_10_gml_152_0
 obj_npc_facing_slash_Other_10_gml_153_0
-\E2* ... don't die./%
+\E2* ... no mueras./%
 obj_npc_facing_slash_Other_10_gml_161_0
-* Kris^1! You KNOW Jockington and Catti^1, Are ALWAYS partners!/
+* Kris^1! Tú SABES que Jockington y Catty^1, Son SIEMPRE compañeros!/
 obj_npc_facing_slash_Other_10_gml_162_0
-* We're the ultimate academic duo^1, Ever since our first gym class!/
+* Somos el duo dinámico final^1, desde nuestra primera clase de gimnasia!/
 obj_npc_facing_slash_Other_10_gml_163_0
-* It was hula hoop day^1, and they ran out of hoops^1, for us.../
+* Era día de hula hula^1, y se quedaron sin un hula hula^1, para nosotros.../
 obj_npc_facing_slash_Other_10_gml_164_0
-* So she used me instead^1!&* That's our origin story!/%
+* Así que ella me uso a mi^1!&* Esa es nuestra historia de origen!/%
 obj_npc_facing_slash_Other_10_gml_168_0
-* We SEEM different^1, but me and Catti have a TON^1, In common!/
+* PARECEMOS ser diferentes^1, pero yo y CATTI tenemos MUCHO^1, en común!/
 obj_npc_facing_slash_Other_10_gml_169_0
-* We both like breathing^1, and unhinging our jaws!/%
+* Nos gusta respirar^1, y desarmar nuestra mandíbula!/%
 obj_npc_facing_slash_Other_10_gml_176_0
-\E0* Kris^1, if I had arms.../
+\E0* Kris^1, si tuviera brazos.../
 obj_npc_facing_slash_Other_10_gml_177_0
-\E2* I would take off this cool hat in rememberance of you./%
+\E2* Me quitaría este sombrero en memoria de ti./%
 obj_npc_facing_slash_Other_10_gml_189_0
-\E3* Que?&* Wh-what am I watching on my phone?/
+\E3* Qué?&* Qu-qué estoy viendo en mi celular?/
 obj_npc_facing_slash_Other_10_gml_190_0
-\E0* It's schoolwork^1, of course./
+\E0* Es trabajo escolar^1, por supuesto./
 obj_npc_facing_slash_Other_10_gml_191_0
-\E4* A..^1. animated schoolwork..^1. and.../
+\E4* T..^1. trabajo escolar animado..^1. y.../
 obj_npc_facing_slash_Other_10_gml_192_0
-\E5* H-hey^1, Kris^1, have you chosen a partner yet?/%
+\E5* H-hey^1, Kris^1, ya tienes un compañero?/%
 obj_npc_facing_slash_Other_10_gml_196_0
-\E7* (Don't worry^1, Mew Mew.^1)&* (You'll ALWAYS be MY partner.)/%
+\E7* (No te preocupes^1, Mew Mew.^1)&* (Tú SIEMPRE serás mi compañera.)/%
 obj_npc_facing_slash_Other_10_gml_202_0
-* Kris^1? What's the hold-up?&* Go out there!/%
+* Kris^1? Cual es la espera?&* Sal de aquí!/%
 obj_npc_facing_slash_Other_10_gml_208_0
 \E0* Kris^1, descansa bien esta noche^1, okay?/%
 obj_npc_facing_slash_Other_10_gml_230_0
-\E3* Kris^1!&* You survived Susie^1!&* I was getting worried!/
+\E3* Kris^1!&* Sobreviviste a Susie^1!&* ya me estaba preocupando!/
 obj_npc_facing_slash_Other_10_gml_232_0
-\E0* OK^1, Kris^1, now for something more important./
+\E0* OK^1, Kris^1, ahora en temas más importantes./
 obj_npc_facing_slash_Other_10_gml_233_0
-\E1* Now you can finally pay off your family debt./
+\E1* Ya puedes pagar tu deuda familiar./
 obj_npc_facing_slash_Other_10_gml_234_0
-\E0* How to Draw Dragons is 2583 days overdue./
+\E0* Como Dibujar Dragones tiene 2458 días de atraso./
 obj_npc_facing_slash_Other_10_gml_235_0
-\E2* However^1, Kris^1.&* I am a benevolent volunteer assistant./
+\E2* Como sea^1, Kris^1.&* soy un asistente voluntario benevolente./
 obj_npc_facing_slash_Other_10_gml_236_0
-\E4* If you turn it in this week^1, I'll reduce your fine to.../
+\E4* Si lo regresas esta semana^1, reducire la cuenta a.../
 obj_npc_facing_slash_Other_10_gml_237_0
-\E2* A mere $64.23^1!&* Consider it^1, Kris!/%
+\E2* Unos $64.53^1!&* Consideralo^1, Kris!/%
 obj_npc_facing_slash_Other_10_gml_241_0
-\E3* Ah^1, did you forget what it looks like?/
+\E3* Ah^1, olvidaste como se ve?/
 obj_npc_facing_slash_Other_10_gml_242_0
-\E0* The front is^1, perhaps..^1. a mauve dragon wearing lipstick./
+\E0* El frente es^1, quizás..^1. un dragón malva usando labial./
 obj_npc_facing_slash_Other_10_gml_243_0
-\E0* And as for her clothes^1, I believe they are^1, well.../
+\E0* Y la ropa de ella^1, creo que era^1, pues.../
 obj_npc_facing_slash_Other_10_gml_244_0
-\E2* You know^1, Kris^1, I think you'll know it when you see it!/%
+\E2* Ya sabes^1, Kris^1, creo que sabrás cuando lo veas!/%
 obj_npc_facing_slash_Other_10_gml_249_0
-\E3* What^1? Hospital window^1? What are you talking about?/
+\E3* Qué^1? Una ventana de hospital^1? De que estás hablando?/
 obj_npc_facing_slash_Other_10_gml_250_0
-\E5* I'm sorry^1, Kris^1.&* I don't have time to do such things./
+\E5* Lo siento^1, Kris^1.&* No tengo tiempo para esas cosas./
 obj_npc_facing_slash_Other_10_gml_251_0
-\E0* Because I'm..^1. Hmm..^1. What do they say?/
+\E0* Porque yo..^1. Hmm..^1. Como le dicen?/
 obj_npc_facing_slash_Other_10_gml_252_0
-\E2* CONTRIBUTING TO SOCIETY?/
+\E2* CONTRIBUYO A LA SOCIEDAD?/
 obj_npc_facing_slash_Other_10_gml_253_0
-\E2* You should try it someday^1, Kris!/
+\E2* Deberías intentarlo algún día^1, Kris!/
 obj_npc_facing_slash_Other_10_gml_254_0
-\E2* It's actually quite gratifying!/%
+\E2* En realidad es gratificante!/%
 obj_npc_facing_slash_Other_10_gml_269_0
-* Kris^1! What'sup!/
+* Kris^1! Que tal!/
 obj_npc_facing_slash_Other_10_gml_270_0
-* Catti's working^1, so I'm starting^1, on our Project!/
+* Catti está trabajando^1, así que estoy empezando^1, nuestro Proyecto!/
 obj_npc_facing_slash_Other_10_gml_271_0
-* I've already^1, copied a bunch of pictures./
+* Ya copié^1, un montón de imágenes./
 obj_npc_facing_slash_Other_10_gml_273_0
-* (It's the same picture of a soccer ball 73 times.)/%
+* (Es la misma imágen de futbol 73 veces.)/%
 obj_npc_facing_slash_Other_10_gml_277_0
-* You could say I'm having a Ball^1!&* Hah haha!/%
+* Podrías decir que tengo las Bolas^1!&* Jaj jaja!/%
 obj_npc_facing_slash_Other_10_gml_283_0
 * gotta go to colleg..^1.&* so tem stuby..^1.&* HARD!!!!/
 obj_npc_facing_slash_Other_10_gml_284_0
@@ -27075,15 +27075,15 @@ o_boxingcontroller_slash_Step_0_gml_170_0
 * (Presiona ~1 o ~2 golpear a Queen despues de que ella ataque!)
 didntpunchthisturn
 o_boxingcontroller_slash_Step_0_gml_174_0
-* (Punch during Queen's turn with ~1 or ~2 after she attacks!)
+* (Golpea durante el turno de Queen con ~1 o ~2 luego de que ataca!)
 didntdodgethisturn
 o_boxingcontroller_slash_Step_0_gml_178_0
-* (Dodge Queen's attacks with ~1, ~2, and ~3!)
+* (Esquiva sus ataques con ~1, ~2, y ~3!)
 recentphasetransition
 o_boxingcontroller_slash_Step_0_gml_182_0
-* ROUND 2 begins.&* Queen's attacks got tougher!
+* RONDA 2 empieza.&* Los ataques de Queen son más fuertes!
 o_boxingcontroller_slash_Step_0_gml_186_0
-* ROUND 3 begins.&* Queen's attacks got extreme!
+* RONDA 3 empieza.&* Los ataques de Queen son extremos!
 pacifist_timer
 canpunch
 punch_buffer_amount
@@ -27110,7 +27110,7 @@ o_boxingqueen_janky_image_index
 blocking
 hshake
 o_boxingcontroller_slash_Step_0_gml_361_0
-You can Punch on both sides!
+Puedes golpear en ambos lados!
 text_reset_timer
 damage_multiplier_extra
 attackorderlooping
@@ -27534,20 +27534,20 @@ hintcount
 losscount
 surface
 o_boxing_wireframe_slash_Step_0_gml_17_0
-Callate!!
+Cállate!!
 o_boxing_wireframe_slash_Step_0_gml_18_0
 Dije que te calles!!
 suballoon3
 o_boxing_wireframe_slash_Draw_0_gml_85_0
-HIT IT
+GOLPÉALO
 o_boxing_wireframe_slash_Draw_0_gml_87_0
 o_boxing_wireframe_slash_Draw_0_gml_145_0
 Presiona ~1&O ~2 Si&Te Atreves
 o_boxing_wireframe_slash_Draw_0_gml_316_0
-Callate, eso era&un calentamiento!
+Cállate, eso era&un calentamiento!
 susieballoon1
 o_boxing_wireframe_slash_Draw_0_gml_334_0
-Callate! Eso era solo&una prueba!
+Cállate! Eso era solo&una prueba!
 susieballoon2
 movecount
 returnToOrigin
@@ -27562,11 +27562,11 @@ speedtimer
 obj_dojograzeenemy_slash_Step_0_gml_71_0
 * ¿¡Cómo pasaste!?
 obj_dojograzeenemy_slash_Step_0_gml_91_0
-* GRAZECHALLENGE - Roza las balas!/%
+* DESAFÍOPASTOREO - Roza las balas!/%
 obj_dojograzeenemy_slash_Step_0_gml_97_0
-* Susie actuo!/%
+* Susie actuó!/%
 obj_dojograzeenemy_slash_Step_0_gml_106_0
-* Ralsei actuo!/%
+* Ralsei actuó!/%
 battlestate
 beardcount
 shaved
