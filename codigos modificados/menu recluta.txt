@@ -84,7 +84,7 @@ if (type == 3 && init == true)
         {
             draw_set_halign(fa_center)
             draw_set_color(c_lime)
-            draw_text_transformed((xx + 298), (yy + 30), stringsetloc("PROGRESO", "obj_fusionmenu_slash_Draw_0_gml_56_0"), squished, 1, 0)
+            draw_text_transformed((xx + 298), (yy + 30), stringsetloc("PROGRESO", "obj_fusionmenu_slash_Draw_0_gml_56_0"), squished, 1, 1)
             draw_set_halign(fa_left)
         }
     }
@@ -112,9 +112,9 @@ if (type == 3 && init == true)
         draw_set_color(c_white)
         draw_text((xx + 300), (yy + 70), recruitName[menuCoord[1]])
         draw_set_halign(fa_right)
-        draw_text_transformed((xx + 590), (yy + 30), ((string((menuCoord[menu] + 1)) + "/") + string((menuMaximumID[menu] + 1))), squished, 1, 0)
+        draw_text_transformed((xx + 590), (yy + 30), ((string((menuCoord[menu] + 1)) + "/") + string((menuMaximumID[menu] + 1))), squished, 1, 1)
         draw_set_halign(fa_left)
-        draw_text_transformed((xx + 300), (yy + 30), (stringsetloc("CAPÍTULO ", "obj_fusionmenu_slash_Draw_0_gml_84_0") + string(recruitChapter[menuCoord[1]])), squished, 1, 0)
+        draw_text_transformed((xx + 300), (yy + 30), (stringsetloc("CAPÍTULO ", "obj_fusionmenu_slash_Draw_0_gml_84_0") + string(recruitChapter[menuCoord[1]])), squished, 1, 1)
         var ymod = 120
         if jp
             ymod = 104
@@ -164,11 +164,11 @@ if (type == 3 && init == true)
             draw_set_halign(fa_right)
             if (i != 3)
             {
-                draw_text_transformed((xx + 560), ((yy + 240) + (i * 40)), string_hash_to_newline(stringn[i]), squished, 1, 0)
-                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringo[i]), squished, 1, 0)
+                draw_text_transformed((xx + 560), ((yy + 240) + (i * 40)), string_hash_to_newline(stringn[i]), stringmscale, 1, 0)
+                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringo[i]), stringmscale, 1, 0)
             }
             else
-                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringel), squished, 1, 0)
+                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringel), stringmscale, 1, 0)
             draw_set_halign(fa_left)
         }
         if (alternateMenu == 0)
