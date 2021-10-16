@@ -25954,7 +25954,7 @@ TU ESTABAS&[Haciendo],&NO!?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_177_0
 Y AHORA QUE&TIENES TU PROPIO&SOPORTE,&NO ME NECESITAS!!!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_178_0
-SIEMPRE HE SIDO UNA&PERSONA DE [PIPIS].&UNA PERSONA DE[PIPIS]&ESPECIAL!/%
+SIEMPRE HE SIDO UNA&PERSONA DE [PIPIS].&UNA PERSONA DE [PIPIS]&ESPECIAL!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_179_0
 OH, [Verdad].&POR ESO TE LO &DI A TI/%
 obj_spamton_neo_enemy_slash_Step_0_gml_180_0
@@ -33463,7 +33463,7 @@ books
 bo_be
 bo_be_actor
 obj_ch2_scene28b_slash_Step_0_gml_120_0
-\EF* H-huh..^1. La alarma de berly...?/
+\EF* H-huh..^1. La alarma de Berdly...?/
 obj_ch2_scene28b_slash_Step_0_gml_121_0
 \E4* Fue un sueño...? Realmente fue solo un.../%
 obj_ch2_scene28b_slash_Step_0_gml_131_0
@@ -35017,7 +35017,7 @@ obj_ch2_city08_slash_Step_0_gml_405_0
 obj_ch2_city08_slash_Step_0_gml_406_0
 \EM* Literalmente No Se Ja Ja Ja Ja/%
 obj_ch2_city08_slash_Step_0_gml_528_0
-\E0* Parece que al fin hemos encontrado la fuente.../
+\E0* Parece que al fin encontramos la fuente.../
 obj_ch2_city08_slash_Step_0_gml_530_0
 \E0* Sí^1, ¿pero dónde se habra metido Kris...?/%
 obj_ch2_city08_slash_Step_0_gml_541_0
@@ -35922,7 +35922,7 @@ obj_ch2_room_mansion_entrance_slash_Step_0_gml_61_0
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_73_0
 * Huh.../%
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_78_0
-* Debemos traerlos de vuelta a la ciudad castillo.../
+* Tenemos que traerlos de vuelta a la ciudad castillo.../
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_79_0
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_85_0
 * ¿Tenemos que hacer eso?/
@@ -36150,13 +36150,13 @@ obj_ch2_room_castle_area_1_slash_Step_0_gml_196_0
 obj_ch2_room_castle_area_1_slash_Step_0_gml_203_0
 \EE* O Tasque Manager/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_210_0
-\E5* O incluso Regular Tasque/%
+\E5* O Incluso Regular Tasque/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_220_0
 \E2* Hey Kris Dónde Está Todo El Mundo/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_235_0
-*¡No te preocupes^1, Reina^1! Estoy aquí.
+* ¡No te preocupes^1, Queen^1! Estoy aquí.
 obj_ch2_room_castle_area_1_slash_Step_0_gml_236_0
-*¡Yo^1, y sólo yo!/%
+* ¡Yo^1, y sólo yo!/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_246_0
 obj_ch2_room_castle_area_1_slash_Step_0_gml_254_0
 \EB* Bueno, supongo Que Haré/
