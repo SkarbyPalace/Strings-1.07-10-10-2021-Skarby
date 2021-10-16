@@ -36154,7 +36154,7 @@ obj_ch2_room_castle_area_1_slash_Step_0_gml_210_0
 obj_ch2_room_castle_area_1_slash_Step_0_gml_220_0
 \E2* Hey Kris Dónde Está Todo El Mundo/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_235_0
-* ¡No te preocupes^1, Queen^1! Estoy aquí.
+* ¡No te preocupes^1, Queen^1! Estoy aquí./
 obj_ch2_room_castle_area_1_slash_Step_0_gml_236_0
 * ¡Yo^1, y sólo yo!/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_246_0
