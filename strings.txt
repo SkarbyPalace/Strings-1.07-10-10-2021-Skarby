@@ -8075,7 +8075,7 @@ RevivirMenta
 scr_iteminfo_slash_scr_iteminfo_gml_23_0
 Cura#Aliados#Caidos
 scr_iteminfo_slash_scr_iteminfo_gml_29_0
-Casco Brillante
+FragBrillante
 scr_iteminfo_slash_scr_iteminfo_gml_30_0
 Se Vende#en la#tienda
 scr_iteminfo_slash_scr_iteminfo_gml_36_0
