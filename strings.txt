@@ -19894,21 +19894,21 @@ Pero... es eso&algo malo...?/
 obj_fountainkris_slash_Step_0_gml_115_0
 Desde que comenzaron&a mostrarse,/
 obj_fountainkris_slash_Step_0_gml_116_0
-Everything's gotten a lot&more interesting,&hasn't it...?/
+Todo se ha vuelto&más interesante,&no es así...?/
 obj_fountainkris_slash_Step_0_gml_117_0
 .../
 obj_fountainkris_slash_Step_0_gml_118_0
-Well, we don't have to&think about that now.../
+Bueno, no tenemos que&pensar en eso ahora.../
 obj_fountainkris_slash_Step_0_gml_119_0
-Kris, it's your turn./%
+Kris, es tu turno./%
 obj_fountainkris_slash_Step_0_gml_150_0
-(As you stood in front&of the fountain,)/
+(Mientras te parabas&al frente de la fuente,)/
 obj_fountainkris_slash_Step_0_gml_151_0
-(You felt something strange.)/
+(Sentiste algo extraño.)/
 obj_fountainkris_slash_Step_0_gml_152_0
-(It was as if)/
+(Era como si)/
 obj_fountainkris_slash_Step_0_gml_153_0
-(Your very SOUL was glowing...)/%
+(Tu misma ALMA&estuviera brillando...)/%
 obj_fountainkris_slash_Step_0_gml_160_0
 ignorebuffer
 checkid
@@ -27405,9 +27405,9 @@ extradamage
 actpunchtext
 obj_gigaqueen_enemy_slash_Destroy_0_gml_4_0
 obj_gigaqueen_enemy_slash_Step_0_gml_56_0
-Oh No Did You&Forget How To&Control A Giant&Robot/%
+Oh No Acaso&Olvidaste Como&Controlar Un Robot&Gigante/%
 obj_gigaqueen_enemy_slash_Step_0_gml_57_0_b
-One More Time,&Press ~1 And&~2 To Dodge/%
+Una Vez Mas,&Presiona ~1 Y&~2 Para Esquivar/%
 obj_gigaqueen_enemy_slash_Step_0_gml_63_0
 The Time For&Words Is Over/%
 obj_gigaqueen_enemy_slash_Step_0_gml_64_0
@@ -27476,35 +27476,35 @@ Ha Ha Bye/%
 gigamissle
 gigabreath
 obj_gigaqueen_enemy_slash_Step_0_gml_213_0
-* The cityscape roars past.
+* El paisaje urbane esta rugiendo.
 obj_gigaqueen_enemy_slash_Step_0_gml_214_0
-* The night is young for fighting.
+* La noche es joven para pelear.
 obj_gigaqueen_enemy_slash_Step_0_gml_215_0
-* The battle is really heating up.
+* La batala enserio se está calentando.
 obj_gigaqueen_enemy_slash_Step_0_gml_216_0
-* Susie mashes the controls trying to punch more.
+* Susie golpea los controles para hacer más daño.
 obj_gigaqueen_enemy_slash_Step_0_gml_217_0
-* Ralsei advises you to "dodge, then counter punch."
+* Ralsei te advierte de "Esquivar y hacer un golpe en contra"
 obj_gigaqueen_enemy_slash_Step_0_gml_218_0
-* Smells like gigantic batteries.
+* Huele a baterías gigantes.
 obj_gigaqueen_enemy_slash_Step_0_gml_219_0
-* Your machine is charged up for special moves!
+* Tu máquina esta cargada para movimientos especiales!
 obj_gigaqueen_enemy_slash_Step_0_gml_220_0
-* Your machine's inner lighting turns red.
+* La luz interna de tu máquina está en rojo.
 obj_gigaqueen_enemy_slash_Step_0_gml_243_0
-* FLAME MODE engaged!&* A power-boosting aura fired up...!/%
+* MODO FLAMA puesto!&* Un aura de poder se enciende...!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_248_0
-* SWORD MODE engaged!&* Damage grows until you miss!/%
+* MODO ESPADA puesto!&* Daño incrementa hasta que falles!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_253_0
-* LASER MODE engaged!&* A light-quick aura fired up...!/%
+* MODO LASER puesto!&* Un aura de rapidez se enciende...!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_258_0
-* DUCK MODE engaged!&* A totally-sucking aura fired up...!/%
+* MODO PATO puesto!&* Un aura de succionamiento se enciende...!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_309_0
-* TURBODODGE engaged!&* A dodge-enhancing aura fired up...!/%
+* MODO TURBOESQUIVE puesto!&* Un aura de esquive se enciende...!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_320_0
-* SELF-FIX engaged!&* A healing aura fired up...!/%
+* AUTO-REPARACIÓN puesta!&* Un aura de cura se enciende...!/%
 obj_gigaqueen_enemy_slash_Step_0_gml_321_0
-* SELF-FIX engaged!&* A healing aura fired up...!&* (But, the TP cost increased!)/%
+* AUTO-REPARACIÓN puesta!&* Un aura de cura se enciende...!&* (Pero, el costo de TP aumento!)/%
 confirm
 topyy
 bottomyy
@@ -33527,7 +33527,7 @@ obj_ch2_scene28b_slash_Step_0_gml_125_0
 obj_ch2_scene28b_slash_Step_0_gml_126_0
 \E5* ..^1. po..^1. por supuesto!^1! Eso DEBE haber sido un sueño!!/
 obj_ch2_scene28b_slash_Step_0_gml_127_0
-\E6* Tales sentimientos..^1. tales pensamientos..^1. Oh^1, dulce dama de justicia!!/
+\E6* Tales sentimientos..^1. tales pensamientos..^1. Oh^1, dulce justicia!!/
 obj_ch2_scene28b_slash_Step_0_gml_128_0
 \E7* Pensar que^1, alguna vez pensaría que Susie sería.../%
 obj_ch2_scene28b_slash_Step_0_gml_141_0
@@ -33546,7 +33546,7 @@ obj_ch2_scene28b_slash_Step_0_gml_174_0
 \EI* Noelle!^1! ¡Cielos a los cielos!^1! Ellos son..^1. Ellos son.../%
 obj_ch2_scene28b_slash_Step_0_gml_182_0
 obj_ch2_scene28b_slash_Step_0_gml_189_0
-\E5* ..^1. Bueno^1, Supongo que podríamos.. ↑1. PROBARLO./%
+\E5* ..^1. Bueno^1, Supongo que podríamos..^1. PROBARLO./%
 obj_ch2_scene28b_slash_Step_0_gml_202_0
 \E3* H..^1. Huh?? Mi..^1. mi alarma??/%
 obj_ch2_scene28b_slash_Step_0_gml_206_0
@@ -33554,7 +33554,7 @@ obj_ch2_scene28b_slash_Step_0_gml_206_0
 obj_ch2_scene28b_slash_Step_0_gml_214_0
 \EE* Oh no^1, cómo es que tarde ya!?/%
 obj_ch2_scene28b_slash_Step_0_gml_226_0
-\E1* Well^1, adeu a todos. Debo reunir mis libros./%
+\E1* Bueno^1, adeu a todos. Debo reunir mis libros./%
 obj_ch2_scene28b_slash_Step_0_gml_469_0
 \E1* Ahh^1, cómo me encanta la textura de los libros recién recogidos!/%
 obj_ch2_scene28b_slash_Step_0_gml_493_0
