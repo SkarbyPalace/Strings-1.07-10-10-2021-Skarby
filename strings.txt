@@ -32524,116 +32524,116 @@ queen_marker
 new_berdly
 queen_boss.ogg
 obj_ch2_scene25_slash_Step_0_gml_657_0
-\E8* Oh Dear It Seems/
+\E8* Oh Querido Parece Ser Que/
 obj_ch2_scene25_slash_Step_0_gml_658_0
-\E8* Someone Sipped Up All Of My Shield Power/
+\E8* Alguien Se Tomo Todo Mi Escudo De Poder/
 obj_ch2_scene25_slash_Step_0_gml_660_0
-\EW* In other words.../%
+\EW* En otras palabras.../%
 obj_ch2_scene25_slash_Step_0_gml_685_0
-\EY* Nothing's stopping us from beating you up now^1, huh?/
+\EY* Nada nos detiene de derrotarte^1, huh?/
 obj_ch2_scene25_slash_Step_0_gml_687_0
-\E9* Well/
+\E9* Bueno/
 obj_ch2_scene25_slash_Step_0_gml_688_0
-\E7* Not Nothing/%
+\E7* Si Hay Algo/%
 obj_ch2_scene25_slash_Step_0_gml_740_0
-\E1* Mr. Birdy Here Still Has Maximum HP/
+\E1* Mr. Pajarin Aun Tiene Máximo HP/
 obj_ch2_scene25_slash_Step_0_gml_741_0
-\EA* So Unless You Want Your Dear Friend To Get Hurt/
+\EA* Asi Que A Menos Que Quieran Lastimarlo/
 obj_ch2_scene25_slash_Step_0_gml_742_0
-\ED* I Recommend/%
+\ED* Les Recomiendo Que/%
 obj_ch2_scene25_slash_Step_0_gml_754_0
-\E7* Letting Him Hurt You Instead/%
+\E7* Se Dejen Lastimar Por Él/%
 obj_ch2_scene25_slash_Step_0_gml_776_0
-* You..^1. won't..^1. control..^1. me.../
+* Tú..^1. no..^1. vas a..^1. controlarme.../
 obj_ch2_scene25_slash_Step_0_gml_778_0
-\EE* What/
+\EE* Qué/
 obj_ch2_scene25_slash_Step_0_gml_779_0
-\EH* What Are You Doing/%
+\EH* Qué estás haciendo/%
 obj_ch2_scene25_slash_Step_0_gml_795_0
-* Taking..^1. off..^1. this..^1. plug!/%
+* Sacandome..^1. este..^1. cable!/%
 obj_ch2_scene25_slash_Step_0_gml_803_0
-\EE* Stop--/
+\EE* Detente--/
 obj_ch2_scene25_slash_Step_0_gml_804_0
-\EH* Stop That At Once Your Arm Will--/%
+\EH* Deten Eso Ahora O Tu Brazo Va A--/%
 obj_ch2_scene25_slash_Step_0_gml_822_0
-\EH* STOP!!!/%
+\EH* DETENTE!!!/%
 obj_ch2_scene25_slash_Step_0_gml_965_0
-\EZ* Berdly..^1. what the hell^1, man!?/
+\EZ* Berdly..^1. que diablos^1, hombre!?/
 obj_ch2_scene25_slash_Step_0_gml_966_0
-* Your arm is..^1.&* That was stupid...!/
+* Tu brazo está..^1.&* Eso fue estúpido...!/
 obj_ch2_scene25_slash_Step_0_gml_539_0
-\EE* Yes..^1. It was^1, wasn't it...? \f1 /
+\EE* Si..^1. lo fue^1, no es así...? \f1 /
 obj_ch2_scene25_slash_Step_0_gml_838_0
-IT'S NOT PRAISE!!
+NO ES UN CUMPLIDO!!
 obj_ch2_scene25_slash_Step_0_gml_540_0
-\E9* Kris. Susie. I can't do much with a fried wing.../
+\E9* Kris. Susie. No puedo hacer mucho con una ala quemada.../
 obj_ch2_scene25_slash_Step_0_gml_541_0
-\EH* Please..^1. promise. You'll save Noelle./
+\EH* Por favor..^1. prometanme que. Salvarán a Noelle./
 obj_ch2_scene25_slash_Step_0_gml_543_0
-\EF* We..^1. we promise!/%
+\EF* Lo..^1. lo prometemos!/%
 obj_ch2_scene25_slash_Step_0_gml_870_0
 \E9* Queen...!/
 obj_ch2_scene25_slash_Step_0_gml_871_0
-\EA* You may have mastered the number three.../
+\EA* Talvez puedes contra el número tres.../
 obj_ch2_scene25_slash_Step_0_gml_872_0
-\EI* But can you stand up against FOUR of us!?/
+\EI* Pero podrás contra CUATRO de nosotros!?/
 obj_ch2_scene25_slash_Step_0_gml_874_0
-\E2* Running Simulation For: The Number Four/
+\E2* Corriendo Simulación Para: El Número Cuatro/
 obj_ch2_scene25_slash_Step_0_gml_875_0
 obj_ch2_scene25_slash_Step_0_gml_876_0
 \E2* Hmm/
 obj_ch2_scene25_slash_Step_0_gml_877_0
-\E1* You Are Definitely Going To Kick: My Ass/
+\E1* Definitivamente Me Van A Partir: El Culo/
 obj_ch2_scene25_slash_Step_0_gml_878_0
-\E9* Unless/%
+\E9* A Menos/%
 obj_ch2_scene25_slash_Step_0_gml_909_0
-\EE* Oh No What That/%
+\EE* Oh No Que Es Eso/%
 obj_ch2_scene25_slash_Step_0_gml_962_0
-\EC* W-wait^1! Wait one nanosecond^1! You..^1. you cowardette!/
+\EC* E-espera^1! Espera un nanosegundo^1! Tú..^1. cobarde!/
 obj_ch2_scene25_slash_Step_0_gml_969_0
-\ED* You..^1. you.../%
+\ED* Tú..^1. tú.../%
 obj_ch2_scene25_slash_Step_0_gml_1009_0
 \EH* Alas.../
 obj_ch2_scene25_slash_Step_0_gml_1011_0
 \E6* B-Berdly!?/
 obj_ch2_scene25_slash_Step_0_gml_1013_0
-\E5* Haha^1, just now^1, was nothing more than simple bravado.../
+\E5* Jaja^1, hace un poco^1, no era mas que un simple caballero.../
 obj_ch2_scene25_slash_Step_0_gml_1014_0
-\E8* The truth is^1, that wire.../
+\E8* La verdad es que^1, ese cable.../
 obj_ch2_scene25_slash_Step_0_gml_1015_0
-\EH* Already absorbed all of my succulent energy juices./%
+\EH* Ya absorbió todo mi jugo suculento de energía./%
 obj_ch2_scene25_slash_Step_0_gml_573_0
-\EZ* Berdly!^1! Hey!^1! Hey^1, Berdly!^1! Are you OK!?/
+\EZ* Berdly!^1! Hey!^1! Hey^1, Berdly!^1! Estás bien!?/
 obj_ch2_scene25_slash_Step_0_gml_575_0
-\EG* Everything..^1. getting dark.../
+\EG* Todo..^1. se está volviendo oscuro.../
 obj_ch2_scene25_slash_Step_0_gml_576_0
-\EH* (Only...)/%
+\EH* (Solo...)/%
 obj_ch2_scene25_slash_Step_0_gml_583_0
-\EF* (Only a kiss from a beautiful gamer girl can save me now...)/%
+\EF* (Solo el beso de una chica gamer me puede salvar ahora...)/%
 obj_ch2_scene25_slash_Step_0_gml_1035_0
 \E8* Berdly.../%
 obj_ch2_scene25_slash_Step_0_gml_599_0
-\EC* What?/
+\EC* Qué?/
 obj_ch2_scene25_slash_Step_0_gml_600_0
-\EK* Like^1, get you're^1, like^1, losing consciousness and stuff^1, but^1,/
+\EK* Como^1, entiendo que^1, has^1, perdido consciencia y así^1, pero^1,/
 obj_ch2_scene25_slash_Step_0_gml_601_0
-\EP* Could you speak up?/%
+\EP* Puedes hablar más fuerte?/%
 obj_ch2_scene25_slash_Step_0_gml_610_0
-\EN* Umm^1, aha^1, s-sorry^1, suddenly I..^1. I..^1. I'm feeling a bit better!/
+\EN* Umm^1, aha^1, p-perdón^1, de repente yo..^1. Me siento un poco mejor!/
 obj_ch2_scene25_slash_Step_0_gml_612_0
-\E2* Hey^1, that's a relief!/%
+\E2* Hey^1, eso es un alivio!/%
 obj_ch2_scene25_slash_Step_0_gml_621_0
-\EK* Well^1, uh^1, gotta hurry and save Noelle^1, so..^1. later./%
+\EK* Bueno^1, uh^1, me apresurare para salvar a Noelle^1, asi que..^1. nos vemos./%
 obj_ch2_scene25_slash_Step_0_gml_638_0
-\E5* Ahh^1, dear Susan. So enigmatic in her ways./
+\E5* Ahh^1, querida Susan. Tan enigmática a su manera./
 obj_ch2_scene25_slash_Step_0_gml_639_0
-\E4* But I can read her heart^1, Kris. Like a health meter./
+\E4* Pero puedo leer su corazón^1, Kris. Como un medidor de corazones./
 obj_ch2_scene25_slash_Step_0_gml_640_0
-\EF* And it's beeping..^1. for love./
+\EF* Y está sonando..^1. por amor./
 obj_ch2_scene25_slash_Step_0_gml_641_0
-\E4* Haha^1! Well enough tales^1, Kris. Good luck./
+\E4* Jaja^1! Suficientes historias^1, Kris. Buena suerte./
 obj_ch2_scene25_slash_Step_0_gml_642_0
-\E5* May the smarts..^1. NOT be with you./%
+\E5* Que los listos..^1. NO te acompañen./%
 obj_ch2_scene25_slash_Step_0_gml_659_0
 \EK* Okay./%
 fountain_index
@@ -32716,156 +32716,156 @@ queenfistleft
 damage1
 damage2
 obj_ch2_scene26_slash_Step_0_gml_98_0
-* The Knight/
+* El Caballero/
 obj_ch2_scene26_slash_Step_0_gml_99_0
-* The Roaring Knight.../%
+* El Caballero Rugiente.../%
 obj_ch2_scene26_slash_Step_0_gml_100_0
-* Today^1, It Deigned To Create This World/%
+* Hoy^1, Es Digno De Crear Este Mundo/%
 cityscape_reveal
 obj_ch2_scene26_slash_Step_0_gml_101_0
-* Reaching Its Long Hand To The Sky/%
+* Alzando Su Mano Larga Hacia El Cielo/%
 hand_both_reveal_finish
 obj_ch2_scene26_slash_Step_0_gml_102_0
-* It Coursed Its Will Into Its Blade/%
+* Curso Su Disposición En Esta Espada/%
 knife_hover
 obj_ch2_scene26_slash_Step_0_gml_103_0
-* And Made/%
+* E Hizo/%
 obj_ch2_scene26_slash_Step_0_gml_104_0
-* Thrusting The Fountain From The Earth/%
+* Empujando La Fuente Desde La Tierra/%
 obj_ch2_scene26_slash_Step_0_gml_115_0
 obj_ch2_scene26_slash_Step_0_gml_116_0
-* Unfortunately The World They Created/
+* Desafortunadamente El Mundo Que Ellos Crearon/
 obj_ch2_scene26_slash_Step_0_gml_117_0
-* Is Trapped Within The Confines Of The Library/
+* Está Atrapado En Los Confines De La Librería/
 obj_ch2_scene26_slash_Step_0_gml_118_0
-* If Only We Had A Way To Make More Darkness/
+* Si Tuvieramos Una Manera De Hacer Más Oscuridad/
 obj_ch2_scene26_slash_Step_0_gml_119_0
-* We Might Be Able To Cover The Whole World/
+* Puede Que Seamos Capaces De Cubrir Todo El Mundo/
 obj_ch2_scene26_slash_Step_0_gml_120_0
 obj_ch2_scene26_slash_Step_0_gml_131_0
-* That Is When I Realized/
+* Fue Entonces Que Me Di Cuenta/
 obj_ch2_scene26_slash_Step_0_gml_132_0
-* This Power..^1. This Power Of The Will/
+* Este Poder..^1. Este Poder De Voluntad/
 obj_ch2_scene26_slash_Step_0_gml_133_0
-* This Power Of Determination.../%
+* Este Poder De Determinación.../%
 obj_ch2_scene26_slash_Step_0_gml_146_0
-* Is This Not Something That All Lightners Possess...?/
+* No Es Algo Que Todos Los Lightners Poseen...?/
 obj_ch2_scene26_slash_Step_0_gml_159_0
-* If One Was Simply/
+* Si Uno Estuviera Simplemente/
 obj_ch2_scene26_slash_Step_0_gml_160_0
-* Determined Enough/%
+* Lo Suficientemente Determinado/%
 obj_ch2_scene26_slash_Step_0_gml_161_0
-* Could Not Anyone Make A Dark Fountain?/
+* No Podría Cualquiera Hacer Una Fuente Oscura?/
 obj_ch2_scene26_slash_Step_0_gml_172_0
-* So Then/
+* Entonces/
 obj_ch2_scene26_slash_Step_0_gml_173_0
-* If The Knight Has Taken Its Leave/
+* Si El Caballero Se Ha Marchado/
 obj_ch2_scene26_slash_Step_0_gml_184_0
-* Then I Will Simply.../%
+* Entonces Yo Simplemente.../%
 obj_ch2_scene26_slash_Step_0_gml_185_0
-* Make A New One/%
+* Haré Uno Nuevo/%
 obj_ch2_scene26_slash_Step_0_gml_207_0
-\EB* Noelle Honey Darling Sweetie Gravy/
+\EB* Noelle Cariño Querida Dulcura Linda/
 obj_ch2_scene26_slash_Step_0_gml_208_0
-\E1* How Do You Find The Giant Hand?/%
+\E1* Cómo Sientes La Mano Gigante?/%
 obj_ch2_scene26_slash_Step_0_gml_210_0
 obj_ch2_scene26_slash_Step_0_gml_212_0
-\E1* Great And How Do You Feel About Worlddomination?/%
+\E1* Genial Y Cómo Te Sientes Por La Dominación Mundial?/%
 obj_ch2_scene26_slash_Step_0_gml_235_0
 \E8* Oooooo Ouchie Mama/%
 obj_ch2_scene26_slash_Step_0_gml_277_0
-\EN* S-Susie...^1! You..^1. you came to save me!/%
+\EN* S-Susie...^1! Tú..^1. viniste a salvarme!/%
 obj_ch2_scene26_slash_Step_0_gml_285_0
-\E6* Somehow^1, I..^1. I..^1. I knew you would.../%
+\E6* De alguna manera^1, yo..^1. yo..^1. sabía que lo harías.../%
 obj_ch2_scene26_slash_Step_0_gml_292_0
-\E3* Uh^1, you did?/%
+\E3* Uh^1, enserio?/%
 obj_ch2_scene26_slash_Step_0_gml_298_0
-\EP* Umm^1, I mean..^1. I..^1. umm.. well.../
+\EP* Umm^1, digo..^1. yo..^1. umm.. bueno.../
 obj_ch2_scene26_slash_Step_0_gml_306_0
 obj_ch2_scene26_slash_Step_0_gml_319_0
-\EB* W..^1. Wait^1! Wait wait wait!!/
+\EB* E..^1. Esperen^1! Esperen esperen esperen!!/
 obj_ch2_scene26_slash_Step_0_gml_320_0
-\EE* You need to get out of here!^1! Hurry!!/%
+\EE* Tienen que salir de aquí!^1! Ahora!!/%
 obj_ch2_scene26_slash_Step_0_gml_333_0
 \E6* H-huh?!/%
 giant_queen_appears.ogg
 obj_ch2_scene26_slash_Step_0_gml_436_0
 \EC* Q..^1. Queen!?/
 obj_ch2_scene26_slash_Step_0_gml_438_0
-\EB* Seems That You Failed To Notice/
+\EB* Creo Que No Notaron/
 obj_ch2_scene26_slash_Step_0_gml_439_0
-\E6* The Giant Freaking Robot In The Middle Of My Palace/
+\E6* El Maldito Robot Gigante En Medio De Mi Palacio/
 obj_ch2_scene26_slash_Step_0_gml_441_0
-\EC* Th..^1. this isn't good..^1. she's..^1. she's invincible like this!!/
+\EC* E..^1. esto no es bueno..^1. ella..^1. es invencible así!!/
 obj_ch2_scene26_slash_Step_0_gml_443_0
 \EK* Huh?/
 obj_ch2_scene26_slash_Step_0_gml_445_0
-\EB* She..^1. she's been bragging about her final form all day!!/%
+\EB* Ella..^1. ha estado alardeando de su forma final todo el día!!/%
 obj_ch2_scene26_slash_Step_0_gml_464_0
 \E4* H..^1. heh.../%
 obj_ch2_scene26_slash_Step_0_gml_475_0
-\EH* You think growing a few inches is gonna help!?/
+\EH* Crees que crecer unos centímetros ayudará!?/
 obj_ch2_scene26_slash_Step_0_gml_477_0
-\EO* Yes/%
+\EO* Si/%
 obj_ch2_scene26_slash_Step_0_gml_645_0
-\E9* Are We Cool To Take Over The World Now/%
+\E9* Estamos Listos Para Tomar Al Mundo Entero/%
 obj_ch2_scene26_slash_Step_0_gml_651_0
-\EA* S..^1. Susie..^1. let's just give up and.../%
+\EA* S..^1. Susie..^1. solo rindamonos y.../%
 obj_ch2_scene26_slash_Step_0_gml_659_0
-\EH* Hell if we're giving up now!!/%
+\EH* Ni creas que nos rendiremos ahora!!/%
 obj_ch2_scene26_slash_Step_0_gml_671_0
 \EF* S..^1. Susie...?/%
 obj_ch2_scene26_slash_Step_0_gml_682_0
-\EQ* So what if you got another form!?/
+\EQ* Y que si tienes otra forma!?/
 obj_ch2_scene26_slash_Step_0_gml_683_0
-\E5* We've got one too!!/%
+\E5* Nosotros también tenemos una!!/%
 obj_ch2_scene26_slash_Step_0_gml_700_0
-\EN* Kris^1, Ralsei^1, c'mon!!/%
+\EN* Kris^1, Ralsei^1, vámos!!/%
 obj_ch2_scene26_slash_Step_0_gml_740_0
-\EK* Wh..^1. what are you doing!?/
+\EK* Qu..^1. qué están haciendo!?/
 obj_ch2_scene26_slash_Step_0_gml_742_0
-\E1* This is our ultimate.../
+\E1* Está es nuestra última.../
 obj_ch2_scene26_slash_Step_0_gml_743_0
-\EK* Uh...^1. w-wait a sec^1, now that you mention it.../%
+\EK* Uh...^1. e-espera un rato^1, ahora que lo mencionas.../%
 obj_ch2_scene26_slash_Step_0_gml_750_0
-\EB* Oh No It Appears I Am Evenly Matched/
+\EB* Oh No Parece Que Estoy Emparejada/
 obj_ch2_scene26_slash_Step_0_gml_751_0
-\E7* I Hope You Won't Mind If I Don't Hold Back/%
+\E7* Ojala No Les Importe Que No Me Contenga/%
 obj_ch2_scene26_slash_Step_0_gml_756_0
-\EU* We're falling!!/
+\EU* Estamos cayendo!!/
 obj_ch2_scene26_slash_Step_0_gml_758_0
-\EE* Any bright ideas on how we're getting out of this one?!/
+\EE* Alguna idea de cómo salimos de esta?!/
 obj_ch2_scene26_slash_Step_0_gml_760_0
-\EU* Um^1, we could try flapping our arms...?/%
+\EU* Um^1, podemos intentar mover los brazos...?/%
 obj_ch2_scene26_slash_Step_0_gml_820_0
-* Fear not!!/
+* No teman!!/
 obj_ch2_scene26_slash_Step_0_gml_821_0
-* Your knight in glow in the dark armor is here!!/%
+* Su caballero brillante en armadura oscura está aquí!!/%
 obj_ch2_scene26_slash_Step_0_gml_823_0
 \E6* Berdly!?/%
 gigaqueen_pre.ogg
 obj_ch2_scene26_slash_Step_0_gml_846_0
-\EG* Kris^1, Susie..^1. I can't do much for you like this.../
+\EG* Kris^1, Susie..^1. no puedo hacer mucho para ustedes así.../
 obj_ch2_scene26_slash_Step_0_gml_809_0
-\EG* Kris^1, Susie..^1. My energy is still too low to help you fight.../
+\EG* Kris^1, Susie..^1. Mi energía sigue baja como para ayudar en pelea.../
 obj_ch2_scene26_slash_Step_0_gml_847_0
-\E4* So I found help for you!^1! Behold!^1! Comrades!!/%
+\E4* Así que encontre ayuda para ustedes!^1! Contemplen!^1! Camaradas!!/%
 obj_ch2_scene26_slash_Step_0_gml_850_0
-I shalt also take Credite for This
+Tambiénst debot tomarq crédito de estoq
 obj_ch2_scene26_slash_Step_0_gml_855_0
-\m1		*On your quest against Queen,/
+\m1		*En tu misión para derrotar a Queen,/
 obj_ch2_scene26_slash_Step_0_gml_856_0
-\m3		*You've made all sorts of&	buddies, right?!/
+\m3		*Has hecho todo tipo de& amigos verdad?!/
 obj_ch2_scene26_slash_Step_0_gml_857_0
-\m1		*Using our junk-making&	skills.../
+\m1		*Usando nuestras& habilidades con basura.../
 obj_ch2_scene26_slash_Step_0_gml_858_0
-\m3		*We modified everyone.../
+\m3		*Modificamos a todos.../
 obj_ch2_scene26_slash_Step_0_gml_859_0
-\m2		*To work together!\f0/%
+\m2		*Para trabajar juntos!\f0/%
 obj_ch2_scene26_slash_Step_0_gml_891_0
-\E4* Kris!^1! Susie!^1! Behold!!/
+\E4* Kris!^1! Susie!^1! Contemplen!!/
 obj_ch2_scene26_slash_Step_0_gml_892_0
-\EL* The ULTIMATE Group Project!!/%
+\EL* El Trabajo Grupal FINAL!!/%
 bigqueen
 head_x_pos
 head_y_pos
@@ -33019,23 +33019,23 @@ recruit_color
 recruit_sprite_map
 recruit_dialog_map
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_43_0
-* My strongest JPEGs!/%
+* Mis JPEGs más fuertes!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_44_0
-* Flashing lights!/%
+* Luces Brillantes!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_45_0
-* HAPPI... BRAVARY.../%
+* FELI... VALENTÍA.../%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_46_0
-* (meow noise)/%
+* (sonido de gato)/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_47_0
-* My energy!/%
+* Mi energía!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_48_0
-* (squeak noise)/%
+* (sonidos de squeak)/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_49_0
-* Tender loving care!/%
+* Ciudado amor y cariño!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_50_0
-* Fresh cooking!/%
+* Cocina fresca!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_51_0
-* Organization!/%
+* Organización!/%
 obj_ch2_scene26_powers_combined_slash_Create_0_gml_52_0
 * Star Walker/%
 recruit_index
@@ -33050,14 +33050,14 @@ miniflash
 big_square
 streak_timer
 obj_ch2_scene26_powers_combined_slash_Step_0_gml_16_0
-\EJ* With a splendid base.../%
+\EJ* Con una base esplendida.../%
 array_get
 dialog
 could not find recruit info for 
 obj_ch2_scene26_powers_combined_slash_Step_0_gml_159_0
-* And...^1. mosteth of all.../%
+* Y...^1. lot másq importantest.../%
 obj_ch2_scene26_powers_combined_slash_Step_0_gml_160_0
-\E6* Whatevereth this thingeth is!!!/%
+\E6* Lo quet seaq que estot est!!!/%
 orb_con
 image_play
 frame_offset
@@ -36244,7 +36244,7 @@ effect
 _sparkdir
 _sparks
 obj_bqueen_intro_slash_Step_0_gml_13_0
-* Finally... a worthy opponent.../%
+* Finalmente... un digno oponente.../%
 image_spin
 motion_set
 step
