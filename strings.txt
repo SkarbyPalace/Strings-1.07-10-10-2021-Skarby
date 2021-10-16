@@ -15487,13 +15487,13 @@ pushSound
 obj_npc_king_slash_Other_10_gml_35_0_b
 \E5* No tenemos NADA que discutir./%
 obj_npc_king_slash_Other_10_gml_35_0
-\E0* ..^1. talk to you? Hah./
+\E0* ..^1. ¿hablar contigo? Ja./
 obj_npc_king_slash_Other_10_gml_36_0
-\E7* You \cYleft them behind\cW^1, didn't you?/
+\E7* \cYLos abandonaste\cW^1, ¿no es así?/
 obj_npc_king_slash_Other_10_gml_37_0
-\E5* Just as you left us.../%
+\E5* Justo como nos abandonaron a nosotros.../%
 obj_npc_king_slash_Other_10_gml_44_0
-\E5* Begone./%
+\E5* Largo de mi vista./%
 bathbombs
 jongler
 tutoriel
@@ -20716,7 +20716,7 @@ Resultado
 obj_fusionmenu_slash_Step_0_gml_48_0
 Ingredientes
 obj_fusionmenu_slash_Step_0_gml_114_0
-¿Realmente quieres fusionarlo?
+¿Fusionar?
 obj_fusionmenu_slash_Step_0_gml_119_0
 obj_fusionmenu_slash_Step_0_gml_124_0
 dojoEncounter
