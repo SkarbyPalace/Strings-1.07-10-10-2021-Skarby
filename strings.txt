@@ -8071,28 +8071,28 @@ Dulce Oscuro
 scr_iteminfo_slash_scr_iteminfo_gml_16_0
 Cura#40HP
 scr_iteminfo_slash_scr_iteminfo_gml_22_0
-ReviveMenta
+RevivirMenta
 scr_iteminfo_slash_scr_iteminfo_gml_23_0
 Cura#Aliados#Caidos
 scr_iteminfo_slash_scr_iteminfo_gml_29_0
-Glowshard
+Casco Brillante
 scr_iteminfo_slash_scr_iteminfo_gml_30_0
 Se Vende#en la#tienda
 scr_iteminfo_slash_scr_iteminfo_gml_36_0
 Manual
 scr_iteminfo_slash_scr_iteminfo_gml_37_0
-Se lee#fuera#de batalla
+Lectura#de#batalla
 scr_iteminfo_slash_scr_iteminfo_gml_43_0
 scr_iteminfo_slash_scr_iteminfo_gml_44_0
 Cura#20HP
 scr_iteminfo_slash_scr_iteminfo_gml_50_0
-Top Cake
+Tarta Superior
 scr_iteminfo_slash_scr_iteminfo_gml_51_0
-Cura#a todos#160HP
+Cura#equipo#160HP
 scr_iteminfo_slash_scr_iteminfo_gml_58_0
-Spincake
+Torbellino
 scr_iteminfo_slash_scr_iteminfo_gml_59_0
-Cura#a todos#~1HP
+Cura#equipo#~1HP
 scr_iteminfo_slash_scr_iteminfo_gml_65_0
 HamburgesaOsc
 scr_iteminfo_slash_scr_iteminfo_gml_66_0
@@ -8108,11 +8108,11 @@ Cura#4HP
 scr_iteminfo_slash_scr_iteminfo_gml_86_0
 ClubsSandwich
 scr_iteminfo_slash_scr_iteminfo_gml_87_0
-Cura#a todos#70HP
+Cura#equipo#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_93_0
-HeartsDonut
+CorazónDonut
 scr_iteminfo_slash_scr_iteminfo_gml_94_0
-Cura#variada
+Curación#variada
 scr_iteminfo_slash_scr_iteminfo_gml_100_0
 ChocDiamond
 scr_iteminfo_slash_scr_iteminfo_gml_101_0
@@ -8129,9 +8129,9 @@ CD Bagel
 scr_iteminfo_slash_scr_iteminfo_gml_122_0
 Cura#80 HP
 scr_iteminfo_slash_scr_iteminfo_gml_128_0
-Mannequin
+Maniquí
 scr_iteminfo_slash_scr_iteminfo_gml_129_0
-Useless
+Inútil
 scr_iteminfo_slash_scr_iteminfo_gml_135_0
 Té de Kris
 scr_iteminfo_slash_scr_iteminfo_gml_136_0
@@ -8145,57 +8145,57 @@ scr_iteminfo_slash_scr_iteminfo_gml_156_0
 Té de Susie
 scr_iteminfo_slash_scr_iteminfo_gml_157_0
 scr_iteminfo_slash_scr_iteminfo_gml_163_0
-DD-Hamburgesa
+DD-Burguer
 scr_iteminfo_slash_scr_iteminfo_gml_164_0
 Cura#60HP 2x
 scr_iteminfo_slash_scr_iteminfo_gml_171_0
-LightCandy
+Caramelo de luz
 scr_iteminfo_slash_scr_iteminfo_gml_172_0
 Cura#120HP
 scr_iteminfo_slash_scr_iteminfo_gml_178_0
 ButJuice
 scr_iteminfo_slash_scr_iteminfo_gml_179_0
 scr_iteminfo_slash_scr_iteminfo_gml_185_0
-SpagettiCode
+Código Espagueti
 scr_iteminfo_slash_scr_iteminfo_gml_186_0
-Cura#a todos#30HP
+Cura el#equipo#30HP
 scr_iteminfo_slash_scr_iteminfo_gml_192_0
 JavaCookie
 scr_iteminfo_slash_scr_iteminfo_gml_193_0
 scr_iteminfo_slash_scr_iteminfo_gml_199_0
-TrozoTenso
+TensionBit
 scr_iteminfo_slash_scr_iteminfo_gml_200_0
-Aumenta#TP#32%
+Sube#TP#32%
 scr_iteminfo_slash_scr_iteminfo_gml_206_0
 TensionGem
 scr_iteminfo_slash_scr_iteminfo_gml_207_0
-Aumenta#TP#50%
+Sube#TP#50%
 scr_iteminfo_slash_scr_iteminfo_gml_213_0
 TensionMax
 scr_iteminfo_slash_scr_iteminfo_gml_214_0
-Aumenta#TP#Max
+Sube#TP#Max
 scr_iteminfo_slash_scr_iteminfo_gml_220_0
-ReviveDust
+RevivirPolvo
 scr_iteminfo_slash_scr_iteminfo_gml_221_0
-Revive al#team#25%
+Revive#equipo#25%
 scr_iteminfo_slash_scr_iteminfo_gml_227_0
-ReviveBrite
+RevivirBrite
 scr_iteminfo_slash_scr_iteminfo_gml_228_0
-Revive al#team#100%
+Revive#equipo#100%
 scr_iteminfo_slash_scr_iteminfo_gml_234_0
-S.POISON
+S. VENENO
 scr_iteminfo_slash_scr_iteminfo_gml_235_0
 Lastima#a#un miembro
 scr_iteminfo_slash_scr_iteminfo_gml_241_0
-DogDollar
+PerroDólar
 scr_iteminfo_slash_scr_iteminfo_gml_242_0
-No es#tan#útil
+No#tan#útil
 scr_iteminfo
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_1_0
 __itemdesc
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_5_0
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_8_0
-Heals 40 HP. Una estrella roja y negra#que sabe como malvaviscos.
+Cura 40 HP. Una estrella roja y negra#que sabe como malvaviscos.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_11_0
 Cura a un aliado caído al MÁXIMO.#Un cristal verde mentoso.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_14_0
@@ -8238,13 +8238,13 @@ Es té con sabor propio.#El sabor sólo dice "Ralsei."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_69_0
 Es té con sabor propio.#El sabor sólo dice "Susie."
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_72_0
-Es una Double-Dark-Burger.#Tomarán dos mordidas para acabarla!
+Es una Double-Dark-Burger.#Tomará dos mordidas para acabarla!
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_75_0
-Caramelo blanco con textura tiza.#Te recuperará 120HP.
+Caramelo blanco con textura tiza.#Te cura 120HP.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_78_0
-Es la abreviatura de ButlerJuice.#Cambia de color con la temperatura.
+También conocido como Zumo de Mayordomo.#Cambia de color con la temperatura.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_81_0
-Spaghetti tejido por maestros codificadores, hecho#de macarrones y cintas. +30HP para todos.
+Spaghetti tejido por maestros codificadores, hecho#de macarrones y cintas. Cura +30HP a todos.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_84_0
 Una galleta con sabor a café y chocolate.#Las palabras se apagan cuando la muerdes.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_87_0
