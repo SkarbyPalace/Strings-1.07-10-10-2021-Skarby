@@ -19875,24 +19875,24 @@ something really&important, didn't we...?/
 obj_fountainkris_slash_Step_0_gml_78_0
 .../%
 obj_fountainkris_slash_Step_0_gml_85_0
-It looks like we're&here again, huh.../
+Parece que estamos&aquí denuevo, huh.../
 obj_fountainkris_slash_Step_0_gml_86_0
-The Roaring Knight.../
+El Caballero Rugiente.../
 obj_fountainkris_slash_Step_0_gml_87_0
-Whatever they are,&they're making&these fountains.../
+Sea lo que sea,&están haciendo&estas fuentes.../
 obj_fountainkris_slash_Step_0_gml_88_0
 obj_fountainkris_slash_Step_0_gml_104_0
-Well, there's no time to&think about that now./
+Bueno, no hay tiempo para&pensar en eso ahora./
 obj_fountainkris_slash_Step_0_gml_105_0
-Right now.../
+En este momento.../
 obj_fountainkris_slash_Step_0_gml_106_0
-It's time to go home,/
+Es hora de ir a casa,/
 obj_fountainkris_slash_Step_0_gml_107_0
-right^1, Kris?/%
+verdad^1, Kris?/%
 obj_fountainkris_slash_Step_0_gml_114_0
-But... is that really&a bad thing...?/
+Pero... es eso&algo malo...?/
 obj_fountainkris_slash_Step_0_gml_115_0
-Since they started&showing up,/
+Desde que comenzaron&a mostrarse,/
 obj_fountainkris_slash_Step_0_gml_116_0
 Everything's gotten a lot&more interesting,&hasn't it...?/
 obj_fountainkris_slash_Step_0_gml_117_0
@@ -27298,19 +27298,19 @@ cam_vspeed
 charge
 hide_ui_quick
 o_boxingqueen_slash_Step_0_gml_3078_0
-* Battle Power... Dropping.../%
+* Poder De Batalla... Cayendo.../%
 o_boxingqueen_slash_Step_0_gml_3082_0
-* Overheat... Activated/%
+* Sobrecalentación... Activada/%
 o_boxingqueen_slash_Step_0_gml_3086_0
-* Listen Well/%
+* Escuchenmé Bien/%
 o_boxingqueen_slash_Step_0_gml_3090_0
-* You May Have Defeated Me/%
+* Puede Que Me Hayan Derrotado/%
 o_boxingqueen_slash_Step_0_gml_3094_0
-* But I Still Possess One Thing/%
+* Pero Aún Poseo Una Cosa/%
 o_boxingqueen_slash_Step_0_gml_3098_0
-* You Three Will Never Have/%
+* Ustedes Tres Nunca Tendrán/%
 o_boxingqueen_slash_Step_0_gml_3148_0
-* Detachable Hands/%
+* Manos Desmontables/%
 in event user 2
 move_flame
 roll
@@ -33186,251 +33186,251 @@ queen_sad
 obj_ch2_scene27_slash_Step_0_gml_70_0
 \E1* Noelle/%
 obj_ch2_scene27_slash_Step_0_gml_71_0
-\E1* Darling/%
+\E1* Querida/%
 obj_ch2_scene27_slash_Step_0_gml_72_0
-\E1* Honey/%
+\E1* Cariño/%
 obj_ch2_scene27_slash_Step_0_gml_73_0
-\E1* Sweetie/%
+\E1* Dulcura/%
 obj_ch2_scene27_slash_Step_0_gml_74_0
-\E1* Gravy/%
+\E1* Linda/%
 obj_ch2_scene27_slash_Step_0_gml_82_0
-\E6* Take..^1. The Pin..^1. I Gave You/
+\E6* Toma..^1. El Pin..^1. Que Te Di/
 obj_ch2_scene27_slash_Step_0_gml_83_0
-\E6* And..^1. Stab The Earth/
+\E6* Y..^1. Apuñala La Tierra/
 obj_ch2_scene27_slash_Step_0_gml_84_0
-\E7* Creating..^1. Our New..^1. Supreme Empire/
+\E7* Creando..^1. Nuestro Nuevo..^1. Imperio Supremo/
 obj_ch2_scene27_slash_Step_0_gml_86_0
-\EC* I..^1. I.../
+\EC* Yo..^1. yo.../
 obj_ch2_scene27_slash_Step_0_gml_88_0
-\EB* What's..^1. Wrong..^1. Noelle?/
+\EB* Qué..^1. Pasa..^1. Noelle?/
 obj_ch2_scene27_slash_Step_0_gml_89_0
-\EB* I Know It Would..^1. Make You..^1. Happy/
+\EB* Se Que..^1. Esto Te Hará..^1. Feliz/
 obj_ch2_scene27_slash_Step_0_gml_90_0
-\EB* Or..^1. Should I^1, With The Last 1`% Of My Battery.../%
+\EB* O..^1. Debo^1, Con Mi Último 1`% De Mi Batería.../%
 obj_ch2_scene27_slash_Step_0_gml_103_0
-\E7* Crush Susie Into 8..^1. Bits?/%
+\E7* Romper A Susie a 8..^1. Bits?/%
 obj_ch2_scene27_slash_Step_0_gml_112_0
-\EW* Leave.../%
+\EW* Deja.../%
 obj_ch2_scene27_slash_Step_0_gml_125_0
-\Ef* Leave Susie ALONE!!/
+\Ef* Deja a Susie EN PAZ!!/
 obj_ch2_scene27_slash_Step_0_gml_126_0
-\Ef* You think listening to YOU makes me happy!?/
+\Ef* Crees que escucharte a TI me hace feliz!?/
 obj_ch2_scene27_slash_Step_0_gml_127_0
 \Ef* No!/
 obj_ch2_scene27_slash_Step_0_gml_128_0
-\Ef* I'll never be happy^1! Not if I'm controlled by you!/
+\Ef* Nunca seré feliz^1! No si estoy controlada por ti!/
 obj_ch2_scene27_slash_Step_0_gml_129_0
-\Ef* Why can't you understand that!?/
+\Ef* Por qué no puedes entender eso!?/
 obj_ch2_scene27_slash_Step_0_gml_131_0
 obj_ch2_scene27_slash_Step_0_gml_132_0
 obj_ch2_scene27_slash_Step_0_gml_133_0
 \E5* ..^1. Noelle.../
 obj_ch2_scene27_slash_Step_0_gml_134_0
-\E5* Perhaps My Computations Were/
+\E5* Quizás Mis Cálculos Fueron/
 obj_ch2_scene27_slash_Step_0_gml_135_0
-\E5* Miscalibrated/
+\E5* Descalibrados/
 obj_ch2_scene27_slash_Step_0_gml_137_0
 obj_ch2_scene27_slash_Step_0_gml_139_0
 \E5* Noelle/
 obj_ch2_scene27_slash_Step_0_gml_140_0
-\E5* Disregard..^1. Me..^1. And.../
+\E5* Indiferente A..^1. Mi..^1. Y.../
 obj_ch2_scene27_slash_Step_0_gml_141_0
-\E5* With Your Own Power/
+\E5* Tu Propio Poder/
 obj_ch2_scene27_slash_Step_0_gml_142_0
-\E1* Choose The World..^1. That Makes You Happy/%
+\E1* Escoge El Mundo..^1. Que Te Haga Feliz/%
 obj_ch2_scene27_slash_Step_0_gml_161_0
 \E2* ..^1. Queen?/
 obj_ch2_scene27_slash_Step_0_gml_162_0
 \EC* Q-Queen!/
 obj_ch2_scene27_slash_Step_0_gml_163_0
-\ED* Queen^1, are you okay...?/
+\ED* Queen^1, estás bien...?/
 obj_ch2_scene27_slash_Step_0_gml_165_0
-\EI* Seems she ran out of battery power./
+\EI* Parece que se quedo sin batería./
 obj_ch2_scene27_slash_Step_0_gml_166_0
-\E2* Guess we can seal the fountain now^1, right everybody?/%
+\E2* Parece que podemos sellar la fuente^1, no es así todos?/%
 obj_ch2_scene27_slash_Step_0_gml_173_0
-\EK* Everybody?/%
+\EK* Todos?/%
 obj_ch2_scene27_slash_Step_0_gml_180_0
-\Ee* Queen..^1. she said.../
+\Ee* Queen..^1. ella dijo.../
 obj_ch2_scene27_slash_Step_0_gml_181_0
-\Ee* "Choose the world that makes you happy..."/
+\Ee* "Escoge el mundo que te haga feliz..."/
 obj_ch2_scene27_slash_Step_0_gml_182_0
-\Ee* I..^1. don't want to live in a world ruled by her./
+\Ee* Yo..^1. no quiero vivir en un mundo gobernado por ella./
 obj_ch2_scene27_slash_Step_0_gml_183_0
-\Ed* ..^1. but^1, if that wasn't the case.../
+\Ed* ..^1. pero^1, si ese no fuera el caso.../
 obj_ch2_scene27_slash_Step_0_gml_184_0
-\Eb* I wonder if this world..^1. wouldn't be so bad?/
+\Eb* Me pregunto si este mundo..^1. no fuera tan malo?/
 obj_ch2_scene27_slash_Step_0_gml_186_0
 \EL* Huh?/
 obj_ch2_scene27_slash_Step_0_gml_188_0
-\Eb* ..^1. Susie^1, don't you think so too...?/
+\Eb* ..^1. Susie^1, no crees lo mismo...?/
 obj_ch2_scene27_slash_Step_0_gml_190_0
-\E6* I..^1. uh^1,/
+\E6* Yo..^1. uh^1,/
 obj_ch2_scene27_slash_Step_0_gml_191_0
-\ED* Now that you mention it.../
+\ED* Ahora que lo mencionas.../
 obj_ch2_scene27_slash_Step_0_gml_192_0
-\E2* Kris^1, isn't this world just..^1. BETTER?/
+\E2* Kris^1, no es este mundo..^1. MEJOR?/
 obj_ch2_scene27_slash_Step_0_gml_193_0
-\EA* We make so many..^1. friends here. Y'know?/
+\EA* Hacemos tantos..^1. amigos aquí. Sabes?/
 obj_ch2_scene27_slash_Step_0_gml_195_0
-\E2* I've never..^1. had an adventure like this before./
+\E2* Nunca..^1. he tenido una aventura como esta./
 obj_ch2_scene27_slash_Step_0_gml_197_0
-\E2* With axes..^1. and battles..^1. and magic./
+\E2* Con hachas..^1. y batallas..^1. y mágia./
 obj_ch2_scene27_slash_Step_0_gml_199_0
-\E9* Where everything can be healed with a little spell./
+\E9* Donde todo puede ser curado con un pequeño hechizo./
 obj_ch2_scene27_slash_Step_0_gml_201_0
-\EQ* And no matter what happens.../
+\EQ* Y sin importar lo que pase.../
 obj_ch2_scene27_slash_Step_0_gml_202_0
-\EY* No one tells us what to do!/
+\EY* Nadie nos dice que hacer!/
 obj_ch2_scene27_slash_Step_0_gml_204_0
-\E8* Gosh^1, yeah!/
+\E8* Dios^1, si!/
 obj_ch2_scene27_slash_Step_0_gml_205_0
-\E9* S-so^1, even if things were really scary just now.../
+\E9* A-asi que^1, incluso si las cosas dan miedo ahora.../
 obj_ch2_scene27_slash_Step_0_gml_206_0
-\Ed* ..^1. I mean.../%
+\Ed* ..^1. Digo.../%
 obj_ch2_scene27_slash_Step_0_gml_221_0
-\EI* So is there any reason not to...?/
+\EI* Así que hay alguna razón para no hacerlo...?/
 obj_ch2_scene27_slash_Step_0_gml_223_0
-\E4* Not that I can think of./
+\E4* No ahora que lo pienso./
 obj_ch2_scene27_slash_Step_0_gml_225_0
-\E2* Me neither./
+\E2* Yo tampoco./
 obj_ch2_scene27_slash_Step_0_gml_227_0
-\E5* Then^1, Noelle..^1. let THIS be my real apology!/%
+\E5* Entonces^1, Noelle..^1. deja que ESTA sea mi disculpa real!/%
 obj_ch2_scene27_slash_Step_0_gml_244_0
-\E4* Concentrating my will into this blade.../
+\E4* Concentrando mi voluntad en esta hacha.../
 obj_ch2_scene27_slash_Step_0_gml_245_0
-\EI* I will make a new Fountain.../
+\EI* Crearé una nueva Fuente.../
 obj_ch2_scene27_slash_Step_0_gml_246_0
-\E4* And unleash a bright future!/
+\E4* Y desataré un brillante futuro!/
 obj_ch2_scene27_slash_Step_0_gml_378_0
-* A future that shines for US!/
+* Un futuro que brille para nosotros!/
 obj_ch2_scene27_slash_Step_0_gml_247_0
-* A future whose brightness... is born from DARKNESS!/%
+* Un futuro donde la luz... nace de la OSCURIDAD!/%
 obj_ch2_scene27_slash_Step_0_gml_403_0
-\EY* STOP!/%
+\EY* DETENTE!/%
 obj_ch2_scene27_slash_Step_0_gml_256_0
-\EY* What.../
+\EY* Qué.../
 obj_ch2_scene27_slash_Step_0_gml_257_0
-\EZ* In the world are you all doing?/%
+\EZ* En el mundo estás haciendo?/%
 obj_ch2_scene27_slash_Step_0_gml_268_0
-\EI* Well^1, we thought we would just%%
+\EI* Bueno^1, pensé que podríamos%%
 obj_ch2_scene27_slash_Step_0_gml_275_0
-\EY* Stop./%
+\EY* Detente./%
 obj_ch2_scene27_slash_Step_0_gml_277_0
-\E3* I mean -%%
+\E3* Digo -%%
 obj_ch2_scene27_slash_Step_0_gml_283_0
-\EY* Stop!/
+\EY* Detente!/
 obj_ch2_scene27_slash_Step_0_gml_284_0
-\EZ* Do you realize what will happen if you do that?/
+\EZ* Te das cuenta de lo que pasará si haces eso?/
 obj_ch2_scene27_slash_Step_0_gml_286_0
-\E5* I..^1. we'll..^1. just.../
+\E5* Yo..^1. nosotros..^1. solo.../
 obj_ch2_scene27_slash_Step_0_gml_288_0
-\ET* You'll bring the Roaring./%
+\ET* Traerás al Rugiente./%
 room_persistent
 obj_ch2_scene27_slash_Step_0_gml_343_0
-\E8* Oh Damn I Did Not Know That/
+\E8* Oh Rayos No Sabía Eso/
 obj_ch2_scene27_slash_Step_0_gml_345_0
-\EL* You..^1. didn't!?/
+\EL* No..^1. sabías!?/
 obj_ch2_scene27_slash_Step_0_gml_346_0
-\EC* But your whole plan was to --/%
+\EC* Pero todo tu plan era --/%
 obj_ch2_scene27_slash_Step_0_gml_361_0
-\EN* I'm Just A Computer LMAO I Don't Know Everything/
+\EN* Solo Soy Una Computadora LOL No Lo Se Todo/
 obj_ch2_scene27_slash_Step_0_gml_362_0
-\ED* I Was Just Guessing Based Off The Knight's Actions/
+\ED* Solo Adivinaba Basandome En Las Acciones Del Caballero/
 obj_ch2_scene27_slash_Step_0_gml_363_0
-\EB* Why The Heck (Hell) Would I Want To End The World/%
+\EB* Por Que Diablos (Carajos) Querría Destruir El Mundo/%
 obj_ch2_scene27_slash_Step_0_gml_377_0
-\EI* W..^1. well^1, that's a relief!/%
+\EI* B..^1. bueno^1, eso es un alivio!/%
 obj_ch2_scene27_slash_Step_0_gml_388_0
-\E5* Uhh..^1. ummm..^1. I'm sorry. I..^1. I.../
+\E5* Uhh..^1. ummm..^1. Lo siento. Yo..^1. yo.../
 obj_ch2_scene27_slash_Step_0_gml_389_0
-\E8* After everything^1, I just caused trouble for you again^1, Noelle./
+\E8* Después de todo^1, sigo causando problemas para ti^1, Noelle./
 obj_ch2_scene27_slash_Step_0_gml_656_0
-I Thought About It While Charging My Battery
+Lo Pensé Mientras Cargaba Mi Batería
 obj_ch2_scene27_slash_Step_0_gml_391_0
-\ED* That's Okay Berdly I Understand \f1 /
+\ED* Está Bien Berdly Lo Entiendo \f1 /
 obj_ch2_scene27_slash_Step_0_gml_392_0
-\E1* You Cannot Calculate Other People's Feelings/%
+\E1* No Puedes Calcular Los Sentimientos De Otros/%
 obj_ch2_scene27_slash_Step_0_gml_402_0
-\E3* You..^1. you understand how I feel?/%
+\E3* Tú..^1. entiendes como me siento?/%
 obj_ch2_scene27_slash_Step_0_gml_417_0
-\EN* Not Really LMAO I Just Don't Want Noelle To Be Sad/%
+\EN* No Realmente LOL Solo Quiero Ver Feliz A Noelle/%
 obj_ch2_scene27_slash_Step_0_gml_437_0
-\E4* Haha^1, well..^1. I'm glad..^1. you two kind of get it now./%
+\E4* Jaja^1, bueno..^1. Me alegra..^1. que ahora se entiendan./%
 obj_ch2_scene27_slash_Step_0_gml_446_0
-\EE* Guess we all..^1. made a pretty sweet team in the end./%
+\EE* Parece que todos..^1. hacemos un buen equipo al final./%
 obj_ch2_scene27_slash_Step_0_gml_486_0
-\EI* No We Freaking Didn't?/%
+\EI* No Lo Somos?/%
 obj_ch2_scene27_slash_Step_0_gml_494_0
-\EH* CAN YOU LET GO OF US NOW!?/%
+\EH* NOS PUEDES DEJAR IR YA!?/%
 obj_ch2_scene27_slash_Step_0_gml_498_0
-\ED* Oh Yeah/%
+\ED* Oh Si/%
 obj_ch2_scene27_slash_Step_0_gml_567_0
 \E4* S..^1. Susie!!/%
 obj_ch2_scene27_slash_Step_0_gml_575_0
-\E2* Hey^1, you stood up to Queen. Not half bad./%
+\E2* Hey^1, enfrentaste a Queen. Nada mal./%
 obj_ch2_scene27_slash_Step_0_gml_583_0
-\E3* R..^1. really?/
+\E3* E..^1. enserio?/
 obj_ch2_scene27_slash_Step_0_gml_585_0
-\EA* Uh^1, yeah./%
+\EA* Uh^1, si./%
 obj_ch2_scene27_slash_Step_0_gml_592_0
-\EK* ..^1. just^1, guess you gotta wake up soon^1, huh?/%
+\EK* ..^1. solo que^1, creo que despertarás pronto^1, huh?/%
 obj_ch2_scene27_slash_Step_0_gml_599_0
 \EN* H-huh?/%
 obj_ch2_scene27_slash_Step_0_gml_609_0
-\E8* (Everything got so intense^1, I forgot it was a dream...)/%
+\E8* (Todo se volvió tan intenso^1, que olvide que era un sueño...)/%
 obj_ch2_scene27_slash_Step_0_gml_620_0
-\E9* Then..^1. I just hope.../%
+\E9* Entonces..^1. solo espero.../%
 obj_ch2_scene27_slash_Step_0_gml_629_0
-\E4* I get to have more dreams like this./%
+\E4* Tener mas sueños así./%
 obj_ch2_scene27_slash_Step_0_gml_637_0
 obj_ch2_scene27_slash_Step_0_gml_644_0
-\EC* Hey^1, Noelle^1, when you wake up..^1. um.../%
+\EC* Hey^1, Noelle^1, cuando despiertes..^1. um.../%
 obj_ch2_scene27_slash_Step_0_gml_651_0
-\EK* Well^1, I just wanted to say..^1. uhh.../%
+\EK* Bueno^1, solo quería decir..^1. uhh.../%
 obj_ch2_scene27_slash_Step_0_gml_682_0
-\E1* Well Then I Suppose It Is Time For You All To Exit/
+\E1* Bueno Supongo Que Es Hora De Que Se Vayan/
 obj_ch2_scene27_slash_Step_0_gml_683_0
-\EB* Running Program..^1. Tender Goodbye.EXE/
+\EB* Corriendo Programa..^1. Despedida Dulce.EXE/
 obj_ch2_scene27_slash_Step_0_gml_684_0
-\ED* I Will Miss Each Of You/
+\ED* Los Extrañare A Todos/
 obj_ch2_scene27_slash_Step_0_gml_685_0
-\E9* Noelle^1, Your Un-needed Honesty/
+\E9* Noelle^1, Tu Honestidad Innecesaria/
 obj_ch2_scene27_slash_Step_0_gml_686_0
-\E1* Susie^1, Your Foolish Bravery/
+\E1* Susie^1, Tu Tonta Valentía/
 obj_ch2_scene27_slash_Step_0_gml_687_0
-\EB* Kris^1, Your Chill Vibes/
+\EB* Kris^1, Tus Buenas Vibras/
 obj_ch2_scene27_slash_Step_0_gml_688_0
 \ED* .../
 obj_ch2_scene27_slash_Step_0_gml_689_0
 \EF* B...Burghley?/%
 obj_ch2_scene27_slash_Step_0_gml_711_0
-\E2* It doesn't have to be goodbye^1, Queen!/
+\E2* No tiene que ser un adiós^1, Queen!/
 obj_ch2_scene27_slash_Step_0_gml_712_0
-\E2* Kris can take you back to our Castle Town!/
+\E2* Kris te puede traer a nuestra Ciudad Castillo!/
 obj_ch2_scene27_slash_Step_0_gml_713_0
-\EH* You and all our recruits can live there!/
+\EH* Tú y todos nuestros reclutas pueden vivir allí!/
 obj_ch2_scene27_slash_Step_0_gml_715_0
 \E3* Oh/%
 obj_ch2_scene27_slash_Step_0_gml_728_0
-\E1* Deleting Tender Goodbye.EXE/%
+\E1* Borrando Despedida Dulce.EXE/%
 obj_ch2_scene27_slash_Step_0_gml_734_0
-\E2* Alright^1! Time to do what we came here for.../%
+\E2* Bueno^1! Hora de hacer lo que debemos hacer.../%
 obj_ch2_scene27_slash_Step_0_gml_742_0
 obj_ch2_scene27_slash_Step_0_gml_750_0
 \E0* Hey^1, Noelle./
 obj_ch2_scene27_slash_Step_0_gml_751_0
-\EC* ..^1. If you see the real Susie^1, just.../%
+\EC* ..^1. Si ves a la Susie real^1, solo.../%
 obj_ch2_scene27_slash_Step_0_gml_759_0
-\EK* Just know that maybe^1, she's.../%
+\EK* Tienes que saber que talvez^1, ella.../%
 obj_ch2_scene27_slash_Step_0_gml_769_0
-\EH* Look^1, she doesn't have a tail^1, OK!?/%
+\EH* Mira^1, ella no tiene una cola^1, OK!?/%
 obj_ch2_scene27_slash_Step_0_gml_778_0
-It's not a secret!!
+No es un secreto!!
 obj_ch2_scene27_slash_Step_0_gml_780_0
-\ER* Hahaha^1, okay^1! I got it!!\f0/%
+\ER* Jajaja^1, okay^1! Lo entiendo!!\f0/%
 obj_ch2_scene27_slash_Step_0_gml_788_0
-\EK* (Let's just go^1, Kris!!!)/%
+\EK* (Solo vámonos^1, Kris!!!)/%
 berdly_halberd
 shakething
 dmgsnd
@@ -33463,7 +33463,7 @@ books
 bo_be
 bo_be_actor
 obj_ch2_scene28b_slash_Step_0_gml_120_0
-\EF* H-huh..^1. Alarma de berly...?/
+\EF* H-huh..^1. La alarma de berly...?/
 obj_ch2_scene28b_slash_Step_0_gml_121_0
 \E4* Un sueño...? Realmente fue solo un.../%
 obj_ch2_scene28b_slash_Step_0_gml_131_0
@@ -36768,29 +36768,29 @@ flamesiner
 flamealph
 flamey
 obj_legend_neo_slash_Draw_0_gml_38_0
-When the LIGHT is&subsumed by SHADOW
+Cuando la LUZ es&subsumida por SOMBRAS
 obj_legend_neo_slash_Draw_0_gml_46_0
-When the FOUNTAINS fill the sky
+Cuando las FUENTES llenan el cielo
 flameya
 flameyb
 wave_maxa
 wave_maxb
 obj_legend_neo_slash_Draw_0_gml_69_0
-All will fall into CHAOS.
+Todo caerá en CAOS.
 obj_legend_neo_slash_Draw_0_gml_80_0
-The TITANS will take&form from the FOUNTAINS
+Los TITANES tomarán&forma por la FUENTES
 obj_legend_neo_slash_Draw_0_gml_99_0
-          And envelop&   the land in devastation.
+          Y envolveran&   la tierra en devastación.
 obj_legend_neo_slash_Draw_0_gml_167_0
-The surviving Darkners,&crushed by the darkness
+Los Darkners Sobrevivientes,&aplastados por la oscuridad
 obj_legend_neo_slash_Draw_0_gml_180_0
-Will slowly, one by one,&turn into statues...
+Lentamente, uno por uno,&se tornaran en estatuas...
 obj_legend_neo_slash_Draw_0_gml_196_0
-Leaving the Lightners&to fend for themselves
+Dejando a los Lightners&defendiéndose solos
 obj_legend_neo_slash_Draw_0_gml_211_0
-Lost eternally in an&    endless night...
+Perdidos en una&    eterna noche...
 obj_legend_neo_slash_Draw_0_gml_225_0
-Is that your idea&  of paradise?
+Es esa tu idea&  de paraíso?
 saved
 xcoord
 ycoord
