@@ -5408,7 +5408,7 @@ gml_Script_scr_weaponget
 scr_text_slash_scr_text_gml_6503_0
 * ¡AQUÍ ESTÁ TU [Anillo]^1! CUIDADO^1, PODRÍA [Picarte]&* EAHEAHEAH/
 scr_text_slash_scr_text_gml_6504_0
-\S1* (Obtuviste la PlatTrono.)/%
+\S1* (Obtuviste el AnilloEspinas.)/%
 scr_text_slash_scr_text_gml_6509_0
 * DÉJAME REVISAR TUS [Bolsillos]/
 scr_text_slash_scr_text_gml_6510_0
@@ -5688,7 +5688,7 @@ scr_text_slash_scr_text_gml_7102_0
 scr_text_slash_scr_text_gml_7104_0
 \E3* M..^1. Mira Kris^1! Otro acertijo!/
 scr_text_slash_scr_text_gml_6971_0
-\E2* H..^1. ¿Cómo debemos resolverlo esta vez?/
+\E2* C..^1. ¿Cómo debemos resolverlo esta vez?/
 scr_text_slash_scr_text_gml_7105_0
 scr_text_slash_scr_text_gml_7114_0
 \E4* Y..^1. Sí^1, tienes razón^1, Kris!/
@@ -7231,9 +7231,9 @@ SerGolpeado
 scr_monstersetup_slash_scr_monstersetup_gml_791_0
 Hospitalidad
 scr_monstersetup_slash_scr_monstersetup_gml_797_0
-Mentir
+Acción-S
 scr_monstersetup_slash_scr_monstersetup_gml_801_0
-Limpiarse
+R-Action
 canactnoe
 scr_monstersetup_slash_scr_monstersetup_gml_805_0
 Acción-N
@@ -8653,7 +8653,7 @@ Es como una espiral.
 scr_weaponinfo_slash_scr_weaponinfo_gml_264_0
 Es... un poco aterrador ...
 scr_weaponinfo_slash_scr_weaponinfo_gml_277_0
-ElAprieto
+El Aprieto
 scr_weaponinfo_slash_scr_weaponinfo_gml_282_0
 AnilloNevado
 scr_weaponinfo_slash_scr_weaponinfo_gml_283_0
@@ -8665,7 +8665,7 @@ Estas... ¿Proponiendo?
 scr_weaponinfo_slash_scr_weaponinfo_gml_286_0
 (Menos mal...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_305_0
-PlatTrono
+AnilloEspinas
 scr_weaponinfo_slash_scr_weaponinfo_gml_306_0
 El usuario toma daño del dolor#Reduce el costo TP de los hechizos de hielo
 scr_weaponinfo_slash_scr_weaponinfo_gml_307_0
@@ -17581,7 +17581,7 @@ obj_npc_sign_slash_Other_10_gml_1206_0
 \E2* Incluso si no es real^1, aún te puedes divertir^1, cierto?/%
 obj_npc_sign_slash_Other_10_gml_1214_0
 obj_npc_sign_slash_Other_10_gml_1227_0
-* WOAH!!^1! TU, FRESCA Y DIMINUTA [Esponja]!/
+* WOAH!!^1! TU, FRESCA Y DIMINUTA [Sponge]!/
 obj_npc_sign_slash_Other_10_gml_1228_0
 * NO ENTRE CUANDO UN HOMBRE ESTÉ [Camb1ando de f0rma]!/
 obj_npc_sign_slash_Other_10_gml_1229_0
@@ -17589,7 +17589,7 @@ obj_npc_sign_slash_Other_10_gml_1229_0
 obj_npc_sign_slash_Other_10_gml_1230_0_b
 * ES QUE MI [EstimadoGRACIAS A TI Y A ESE CLIENTE LIL [Hochi Mama]]/
 obj_npc_sign_slash_Other_10_gml_1231_0
-* ESTOY VIVIENDO [Grande]!/
+* ESTOY VIVIENDO EN [BIG]!/
 obj_npc_sign_slash_Other_10_gml_1232_0
 * PRONTO TENDRÉ A [CADA UNO] EN ESTA CIUDAD COMIENDO DE MI [$!$!]!/
 obj_npc_sign_slash_Other_10_gml_1233_0
@@ -17597,7 +17597,7 @@ obj_npc_sign_slash_Other_10_gml_1233_0
 obj_npc_sign_slash_Other_10_gml_1234_0
 * HA HA HA^1! ESPERO QUE SÍ. ESPERO QUE SÍ./%
 obj_npc_sign_slash_Other_10_gml_1240_0_b
-* NIÑO^1! ESTOY OCUPADO CONVIRTIÉNDOME EN [Dios]. ¡VE A JUGAR [Minecrap] O ALGO ASÍ!/
+* ¡NIÑO^1! ESTOY OCUPADO CONVIRTIÉNDOME EN [Dios]. ¡VE A JUGAR [Minecrap] O ALGO ASÍ!/
 obj_npc_sign_slash_Other_10_gml_1241_0
 * NO ES MI TRABAJO SER EL [Jefe Extra] DE ALGUNOS NIÑOS!/%
 obj_npc_sign_slash_Other_10_gml_1247_0
@@ -18180,7 +18180,7 @@ obj_readable_room1_slash_Other_10_gml_29_0
 obj_readable_room1_slash_Other_10_gml_36_0
 * Es un escritorio de computadora^1.&* Hay muchas cajas debajo llenas de libros viejos./%
 obj_readable_room1_slash_Other_10_gml_42_0
-* En el escritorio de la computadora hay una carpeta llamada "Cosas de Epic Games!!!!"/
+* En el escritorio de la computadora hay una carpeta llamada "JUEGOS epicos!!!!"/
 obj_readable_room1_slash_Other_10_gml_43_0
 * Es un diseño pobre para un juego.../
 obj_readable_room1_slash_Other_10_gml_44_0
@@ -20553,7 +20553,7 @@ ln_xoff2
 charname_xoff
 bicon
 obj_darkcontroller_slash_Draw_0_gml_453_0
-(Nothing)
+(Nada)
 obj_darkcontroller_slash_Draw_0_gml_465_0
 obj_darkcontroller_slash_Draw_0_gml_477_0
 eq_xoff
@@ -23632,7 +23632,7 @@ obj_tasque_manager_enemy_slash_Step_0_gml_161_0
 obj_tasque_manager_enemy_slash_Step_0_gml_164_0
 * Tasque Manager hace una lista de sus trajes para el próximo año. Sólo tiene un traje.
 obj_tasque_manager_enemy_slash_Step_0_gml_167_0
-* Tasque Manager está escribiendo “administrar tareas” junto a cada entrada en su planificador diario.
+* Tasque Manager está escribiendo "administrar tareas" a cada entrada de su planificador diario.
 obj_tasque_manager_enemy_slash_Step_0_gml_170_0
 * Tasque Manager está enderezando su látigo con un alisador de pelo.
 obj_tasque_manager_enemy_slash_Step_0_gml_173_0
@@ -23961,7 +23961,7 @@ obj_werewire_enemy_slash_Step_0_gml_106_0
 attackcheck
 misscheck
 obj_werewire_enemy_slash_Step_0_gml_122_0
-* Try timing your attacks by pressing ~1!
+* Intenta calcular tus ataques pulsando ~1!
 Chirashi
 shootcount
 anim_add
@@ -26352,7 +26352,7 @@ obj_sweet_enemy_slash_Step_0_gml_268_0
 \EL* S-Susie^1, n-no creo que debas.../%
 rals
 obj_sweet_enemy_slash_Step_0_gml_307_0
-\EH* ¡Pies felices, a bailar!/%
+\EH* ¡Happy feet, a bailar!/%
 obj_sweet_enemy_slash_Step_0_gml_354_0
 * (Susie hizo que Ralsei aprendiera \cVAcción-R\cW aunque el no quería!)/
 obj_sweet_enemy_slash_Step_0_gml_356_0
@@ -26361,14 +26361,14 @@ happyfeetscene
 obj_sweet_enemy_slash_Step_0_gml_403_0
 * SWEET - El energético. Mira hacia K_K./%
 obj_sweet_enemy_slash_Step_0_gml_422_0
-* Bailastes!/
+* Bailaste!/
 obj_sweet_enemy_slash_Step_0_gml_423_0
 * Sweet se perdió en el ritmo!/%
 obj_sweet_enemy_slash_Step_0_gml_435_0
-* Bailastes con Sweet!/
+* Bailaste con Sweet!/
 obj_sweet_enemy_slash_Step_0_gml_436_0
 obj_sweet_enemy_slash_Step_0_gml_534_0
-* Bailastes con Sweet!/%
+* Bailaste con Sweet!/%
 obj_sweet_enemy_slash_Step_0_gml_441_0
 obj_sweet_enemy_slash_Step_0_gml_470_0
 * Todos bailaron con Sweet! Todos se perdieron en el ritmo!/%
@@ -29286,12 +29286,12 @@ WHAT AN INTERESTING BEHAVIOR.
 DEVICE_MENU_slash_Step_0_gml_86_0
 PREPARATIONS ARE COMPLETE.
 DEVICE_MENU_slash_Step_0_gml_91_0
-Copia completada.
+Copia exitosa.
 DEVICE_MENU_slash_Step_0_gml_105_0
 DEVICE_MENU_slash_Step_0_gml_126_0
 IT WAS AS IF IT WAS NEVER THERE AT ALL.
 DEVICE_MENU_slash_Step_0_gml_127_0
-Eliminacion completada.
+Eliminación completada.
 DEVICE_MENU_slash_Step_0_gml_149_0
 IT RETAINED ITS ORIGINAL SHAPE.
 DEVICE_MENU_slash_Step_0_gml_156_0
@@ -29304,7 +29304,7 @@ DEVICE_MENU_slash_Step_0_gml_227_0
 DEVICE_MENU_slash_Step_0_gml_238_0
 IT IS IMMUNE TO ITS OWN IMAGE.
 DEVICE_MENU_slash_Step_0_gml_239_0
-No puedes copiar aquí.
+No puedes copiarlo aquí.
 DEVICE_MENU_slash_Step_0_gml_261_0
 IT IS BARREN AND CANNOT BE COPIED.
 DEVICE_MENU_slash_Step_0_gml_264_0
@@ -29316,7 +29316,7 @@ BUT IT WAS ALREADY GONE.
 DEVICE_MENU_slash_Step_0_gml_292_0
 BUT THERE WAS NOTHING LEFT TO ERASE.
 DEVICE_MENU_slash_Step_0_gml_294_0
-No hay nada que borrar.
+No hay nada que borrar aquí.
 MAXY
 _NEWNAME
 _NEWTIME
@@ -29347,7 +29347,7 @@ NOWTIME
 DEVICE_MENU_slash_Draw_0_gml_130_0
 FILE not found.
 DEVICE_MENU_slash_Draw_0_gml_125_0
-ARCHIVO completo no hayado
+ARCHIVO concluido no hayado
 DEVICE_MENU_slash_Draw_0_gml_115_0
 SELTEXT_C
 DEVICE_MENU_slash_Draw_0_gml_116_0
@@ -29381,17 +29381,17 @@ DEVICE_MENU_slash_Draw_0_gml_129_1
 DEVICE_MENU_slash_Draw_0_gml_131_0
 DEVICE_MENU_slash_Draw_0_gml_131_1
 DEVICE_MENU_slash_Draw_0_gml_131_2
-Copiar sobre este  archivo?
+Reescribir este archivo?
 DEVICE_MENU_slash_Draw_0_gml_132_0
 DEVICE_MENU_slash_Draw_0_gml_132_1
 DEVICE_MENU_slash_Draw_0_gml_132_2
 Borrar este archivo?
 DEVICE_MENU_slash_Draw_0_gml_133_0
-Si!
+¡Si!
 DEVICE_MENU_slash_Draw_0_gml_133_1
-No!
+¡No!
 DEVICE_MENU_slash_Draw_0_gml_133_2
-Borrar enserio?
+¿CONFIRMAR ELIMINACIÓN?
 DEVICE_MENU_slash_Draw_0_gml_164_0
 DEVICE_MENU_slash_Draw_0_gml_165_0
 DEVICE_MENU_slash_Draw_0_gml_166_0
@@ -29399,12 +29399,12 @@ NOWPLACE
 DEVICE_MENU_slash_Draw_0_gml_194_0
 Tu Habitación [FINAL Cap. 1]
 DEVICE_MENU_slash_Draw_0_gml_195_0
-[Hecho en creditos visibles.]
+[Hecho al ver los creditos.]
 DEVICE_MENU_slash_Draw_0_gml_189_0
 CANCELTEXT
 DEVICE_MENU_slash_Draw_0_gml_190_0
 DEVICE_MENU_slash_Draw_0_gml_242_0
-No usar ARCHIVO Cap. 1
+No usar ARCHIVO Capítulo 1
 DEVICE_MENU_slash_Draw_0_gml_199_0
 COPY
 COPYTEXT
@@ -29441,15 +29441,15 @@ Por favor, selecciona un archivo.
 DEVICE_MENU_slash_Draw_0_gml_224_0
 Escoge un archivo para copiar.
 DEVICE_MENU_slash_Draw_0_gml_225_0
-Escoge un archivo para copiar a.
+Escoge un slot para copiar.
 DEVICE_MENU_slash_Draw_0_gml_226_0
 El archivo será sobreescrito.
 DEVICE_MENU_slash_Draw_0_gml_227_0
 Escoge un archivo para borrar.
 DEVICE_MENU_slash_Draw_0_gml_291_0
-Empezar Cap 2 desde un ARCHIVO del Cap 1
+Empezar Cap. 2 desde un ARCHIVO del Cap. 1
 DEVICE_MENU_slash_Draw_0_gml_292_0
-Esto empezara el cap 2 dentro de ARCHIVO ~1.
+Comenzara el Cap. 2 dentro del ARCHIVO ~1.
 xstretch
 ystretch
 o_insurance
@@ -31661,7 +31661,7 @@ obj_ch2_scene20_slash_Step_0_gml_266_0
 obj_ch2_scene20_slash_Step_0_gml_328_0
 \EZ* Lancer!? Lancer^1, hey...!!/%
 obj_ch2_scene20_slash_Step_0_gml_336_0
-\E4* Verás^1, cada Fuente Oscura crea un "mundo" diferente."/
+\E4* Verás^1, cada Fuente Oscura crea un "mundo diferente."/
 obj_ch2_scene20_slash_Step_0_gml_337_0
 \E4* Un "mundo" cuyos Darkners reflejan la voluntad de su fuente./
 obj_ch2_scene20_slash_Step_0_gml_375_0_b
@@ -34239,61 +34239,61 @@ kr_y
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_58_0
 \E6* H..^1. huh?/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_80_0
-\E7* Hey^1, it says this is Noelle's room!/
+\E7* Oye^1, ¡aquí pone que es el cuarto de Noelle!/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_81_0
-\E9* Kris^1, let's go in and save her!/
+\E9* ¡Kris^1, vamos a entrar y a salvarla!/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_82_0
-\EA* And uh^1, y'know^1, teach her not to get in our way./%
+\EA* Y uh^1, ya sabes^1, decirle que no se meta en nuestro camino./%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_93_0
-\E6* ..^1. Kris?/%
+\E6* ..^1. ¿Kris?/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_100_0
-\E5* Fine^1, I'll do it myself!/%
+\E5* ¡Vale^1, lo haré yo misma!/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_122_0
 \E0* Kris.../
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_123_0
-\E2* Don't you wonder..^1. how they're doing in there?/%
+\E2* ¿No te preguntaras..^1. qué estaran haciendo?/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_133_0
-\EQ* Umm^1, I said^1, don't you wonder.../
+\EQ* Umm^1, he dicho que si te preguntaras.../
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_134_0
-\EI* ..^1. how Noelle and Susie are doing?/%
+\EI* ..^1. qué estarán haciendo Noelle y Susie./%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_144_0
-\EQ* Y-you're right^1, Kris^1, it has only been 30 seconds.../
+\EQ* T-Tienes razón^1, Kris^1, sólo han pasado 30 segundos.../
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_145_0
-\EQ* (I'll wait a minute first...)/%
+\EQ* (Esperaré un minuto primero...)/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_194_0
-\E7* Alright let's go!/%
+\E7* ¡Bueno, vámonos!/%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_202_0
-\EU* H-huh? What!? W-wait -- wait!?/
+\EU* ¿E-Eh? ¿¡Qué!?/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_203_0
-\EU* Wait^1, we were supposed to --/
+\EU* Espera^1, Qué!? E-espera no se suponía que íbamos a --/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_205_0
-\E7* Hey^1, let's go!/
+\E7* ¡Venga^1, vámonos!/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_207_0
-\EL* W-wait^1! Wait^1, Susie!/
+\EL* ¡E-Espera^1! ¡Espera^1, Susie!/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_208_0
-\EK* What^1, um^1, happened in there?/
+\EK* ¿Qué^1, um^1, paso ahí dentro?/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_210_0
-\EP* What do you mean what happened?/
+\EP* ¿A qué te refieres con que sucedio?/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_212_0
-\EJ* U-umm..^1. in there^1, with Noelle!/
+\EJ* U-umm..^1. ¡ahí dentro^1, con Noelle!/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_214_0
-\EL* Nothin./
+\EL* Nada./
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_216_0
-\EK* N..^1. Nothing? Nothing at all?/
+\EK* ¿N..^1. Nada? ¿Nada de nada?/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_218_0
-\EA* Just told her everything is a dream./
+\EA* Sólo le he dicho que todo esto es un sueño./
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_219_0
-\E2* Now she's feeling better./
+\E2* Ahora se está sintiendo mejor./
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_221_0
-\EK* ..^1. anything else?/
+\EK* ..^1. ¿y ya está?/
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_223_0
-\E7* No and let's go./%
+\E7* No y vámonos./%
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_247_0
-HEY!
+¡OYE!
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_248_0
-\E2* Psst..^1. I'll tell you later^1, Kris. \f0 /
+\E2* Psst..^1. Luego te cuento^1, Kris. \f0 /
 obj_ch2_scene_sideb_noelleroom_slash_Step_0_gml_251_0_b
-\EQ* (Oh well^1, as long as Susie's happy..^1. right?)/%
+\EQ* (Oh bueno^1, mientras Susie esté contenta..^1. ¿verdad?)/%
 backball
 balltimer
 ballcon
@@ -35017,38 +35017,38 @@ obj_ch2_city08_slash_Step_0_gml_405_0
 obj_ch2_city08_slash_Step_0_gml_406_0
 \EM* Literalmente No Se Ja Ja Ja Ja/%
 obj_ch2_city08_slash_Step_0_gml_528_0
-\E0* Looks like we finally found the fountain.../
+\E0* Parece que al fin hemos encontrado la fuente.../
 obj_ch2_city08_slash_Step_0_gml_530_0
-\E0* Yeah^1, but where the hell is Kris...?/%
+\E0* Sí^1, ¿pero dónde se habra metido Kris...?/%
 obj_ch2_city08_slash_Step_0_gml_541_0
-\E7* Kris!/%
+\E7* ¡Kris!/%
 obj_ch2_city08_slash_Step_0_gml_551_0
-\E5* Where the hell were you!?/
+\E5* ¿¡Dónde te habías metido!?/
 obj_ch2_city08_slash_Step_0_gml_553_0
-\EQ* We were searching everywhere for you.../
+\EQ* Estábamos buscándote por todas partes.../
 obj_ch2_city08_slash_Step_0_gml_554_0
-\E2* Even Susie was worried!/%
+\E2* ¡Incluso Susie estaba preocupada!/%
 obj_ch2_city08_slash_Step_0_gml_560_0
-\EP* Huh!? No I wasn't!/%
+\EP* ¿¡Eh!? ¡Eso no es verdad!/%
 obj_ch2_city08_slash_Step_0_gml_566_0
-\EO* Just^1, y'know^1, tell us if you're gonna.../%
+\EO* Pero^1, ya sabes^1, avísanos si vas a.../%
 obj_ch2_city08_slash_Step_0_gml_570_0
 obj_ch2_city08_slash_Step_0_gml_571_0
-\E1* Hey..^1. Kris^1, you^1, uh^1, ok?/
+\E1* Oye..^1. Kris^1, ¿estás^1, eh^1, bien?/
 obj_ch2_city08_slash_Step_0_gml_572_0
-\E0* You look kinda.../%
+\E0* Pareces un poco.../%
 obj_ch2_city08_slash_Step_0_gml_577_0
-\EH* Aww Kris^1, if you're hurt^1, Susie can heal you!/%
+\EH* Aww Kris^1, ¡si te has hecho daño^1, Susie puede curarte!/%
 obj_ch2_city08_slash_Step_0_gml_582_0
-\E2* Yeah^1, that's right^1! I'm a healing master now^1, Kris!/
+\E2* ¡Sí^1, eso es^1! ¡Ahora soy una maestra de la curación^1, Kris!/
 obj_ch2_city08_slash_Step_0_gml_583_0
-\EA* I'm even better than Ralsei^1, so.../%
+\EA* Ahora soy incluso mejor que Ralsei^1, así que.../%
 obj_ch2_city08_slash_Step_0_gml_591_0
-\E3* If^1, uh^1, you hurt yourself or something^1, then.../%
+\E3* Si^1, eh^1, te haces daño^1, entonces.../%
 obj_ch2_city08_slash_Step_0_gml_599_0
-\EG* You could try doing a hug like I did earlier!/%
+\EG* ¡Puedes intentar dar un abrazo como el que te di antes!/%
 obj_ch2_city08_slash_Step_0_gml_606_0
-\EH* SHUT UP AND LET'S JUST GO ALREADY!/%
+\EH* ¡CÁLLATE Y VÁMONOS YA!/%
 north_collider
 obj_ch2_city_berdly_slash_Step_0_gml_28_0
 \EB* Uh-uh oh--/%
@@ -35911,18 +35911,18 @@ TILES_Secret
 bookcase_left
 bookcase_right
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_46_0
-* Huh...? No es esto.../%
+* Huh...? No es este.../%
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_51_0
 * Uhh^1, ese tipo de antes?/%
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_57_0
-* ¿Por qué hay una estatua de él?/
+* ¿Por qué hay una estatua de él aqui?/
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_59_0
-* Eso..^1. No una estatua^1, Susie./
+* Eso..^1. No es una estatua^1, Susie./
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_61_0
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_73_0
 * Huh.../%
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_78_0
-* Debemos traemos de vuelta a la ciudad castillo.../
+* Debemos traerlos de vuelta a la ciudad castillo.../
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_79_0
 obj_ch2_room_mansion_entrance_slash_Step_0_gml_85_0
 * ¿Tenemos que hacer eso?/
@@ -37405,7 +37405,7 @@ leaveCon
 leaveBlock
 towerinit
 obj_controller_city_mice3_slash_Step_0_gml_53_0
-\E2* Lo haré..^1. ¡adelante y haz el rompecabezas!/%
+\E2* Lo haré..^1. ¡voy a ir a hacer el puzzle!/%
 obj_controller_city_mice3_slash_Step_0_gml_74_0_b
 * ¿No es algo bueno?/
 obj_controller_city_mice3_slash_Step_0_gml_75_0_b
@@ -37859,7 +37859,7 @@ obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_117_0
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_118_0
 \EB* (En realidad, acabo de...)/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_119_0
-\E3* (No^1, ellos..^1. deben habérnosla dado. El anillo.)/
+\E3* (No^1, el..^1. nos deben habérnosla dado. El anillo.)/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_120_0
 \Ee* (...)/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_121_0_b
