@@ -8508,14 +8508,14 @@ scr_itemuse_slash_scr_itemuse_gml_561_0
 scr_itemuse_slash_scr_itemuse_gml_575_0
 * (¿De dónde viene esto?)/%
 scr_itemuse_slash_scr_itemuse_gml_426_0
-* (Trastes de llamar en el celular.)
+* (Intentaste llamar con tu celular.)
 scr_itemuse_slash_scr_itemuse_gml_441_0
 * (Usaste el Huevo.)/%
 scr_itemuse_slash_scr_itemuse_gml_616_0
 * Sostuviste el cristal hasta tu ojo./
 scr_itemuse_slash_scr_itemuse_gml_617_0
 scr_itemuse_slash_scr_itemuse_gml_618_0
-*Pensaste que habías visto el laboratorio de computación./
+* Pensaste que habías visto el laboratorio de computación./
 scr_itemuse_slash_scr_itemuse_gml_619_0
 * ...pero^1, debe haber sido sólo tu imaginación./%
 scr_itemuse_slash_scr_itemuse_gml_624_0
@@ -16276,7 +16276,7 @@ obj_npc_room_slash_Other_10_gml_1110_0_b
 obj_npc_room_slash_Other_10_gml_1112_0
 \E2* ¡Jaja^1! ¡Sólo estoy un poco cansado por saltar del BOLSILLO de Kris!/
 obj_npc_room_slash_Other_10_gml_1113_0
-\E3* Sientanse libres de hacer el payaso por la villa. ¡Yo estaré en tus ITEMS!/
+\E3* Son libres de hacer payasadas por la ciudad.. ¡Yo estaré en tus ITEMS!/
 obj_npc_room_slash_Other_10_gml_1115_0
 \EA* No sé a qué te refieres^1, pero como gustes./%
 obj_npc_room_slash_Other_10_gml_1121_0_c
@@ -16286,11 +16286,11 @@ obj_npc_room_slash_Other_10_gml_1119_0
 obj_npc_room_slash_Other_10_gml_1121_0_b
 \EY* ¡Je^1, claro^1! ¡Si eres capáz de aguantar cuando este a toda velocidad!/
 obj_npc_room_slash_Other_10_gml_1123_0_b
-\E1* ¡Wow!^1! ¡¡El Tren-Susie!^1! ¡¡¡La atracción más emocionante del Castillo!!!/
+\E1* Wow!^1! El Tren-Susie!^1! La atracción más epica del Castillo!!!/
 obj_npc_room_slash_Other_10_gml_1125_0
 \EJ* .../
 obj_npc_room_slash_Other_10_gml_1127_0
-\EH* ¡¡DEJAD DE FORMAR UNA LÍNEA, LANCER, KRIS!!/%
+\EH* TÚ Y KRIS DEJEN DE FORMAR UNA LÍNEA!!/%
 obj_npc_room_slash_Other_10_gml_1139_0
 \E9* Lancer^1, no vas a creer lo asombroso que es mi cuarto!/
 obj_npc_room_slash_Other_10_gml_1141_0
@@ -25974,7 +25974,7 @@ ADMITO QUE&TIENES [Agallas]&NIÑO!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_212_0
 PERO EN UNA BATALLA&[1 contra 1], NEO&NUNCA PERDERA!!!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_213_0
-ES HORA DE UNA&PEQUEÑA [Luces Especiales]/%
+ES HORA DE UNA&PEQUEÑA [Luz Especial]/%
 obj_spamton_neo_enemy_slash_Step_0_gml_214_0
 * Los Ataques de Spamton Neo bajo!&* Pero su DEFENSA aumento!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_217_0
@@ -29483,7 +29483,7 @@ song0
 obj_credits_slash_Step_0_gml_21_0
 obj_credits_slash_Step_0_gml_22_0
 obj_credits_slash_Step_0_gml_24_0
-by Toby Fox
+por Toby Fox
 obj_credits_slash_Step_0_gml_38_0
 Main Artist, Animator, & Cleanup
 obj_credits_slash_Step_0_gml_39_0
@@ -29557,7 +29557,7 @@ Betty Kwong
 obj_credits_slash_Step_0_gml_191_0
 Continuará
 obj_credits_slash_Step_0_gml_192_0
-en Capítulo 3
+en el Capítulo 3...
 sndplay
 obj_darkphone_event_slash_Step_0_gml_42_0
 * No es nada mas que ruidos basura./%
