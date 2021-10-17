@@ -563,7 +563,7 @@ Huevo
 scr_litemname_slash_scr_litemname_gml_14_0
 Cartas
 scr_litemname_slash_scr_litemname_gml_15_0
-Caja con Dulces en forma de corazón
+Caja con Dulces#en forma de corazón
 scr_litemname_slash_scr_litemname_gml_16_0
 Vidrio
 scr_litemname_slash_scr_litemname_gml_17_0
@@ -8075,7 +8075,7 @@ RevivirMenta
 scr_iteminfo_slash_scr_iteminfo_gml_23_0
 Cura#Aliados#Caidos
 scr_iteminfo_slash_scr_iteminfo_gml_29_0
-Casco Brillante
+FragBrillante
 scr_iteminfo_slash_scr_iteminfo_gml_30_0
 Se Vende#en la#tienda
 scr_iteminfo_slash_scr_iteminfo_gml_36_0
@@ -12085,7 +12085,7 @@ scr_84_load_ini_slash_scr_84_load_ini_gml_13_0
 TIME
 ------------
 PLACE
-NIVEL
+NIVEL:
 --:--
 TIME_STRING
 INITLANG
@@ -17057,7 +17057,7 @@ obj_npc_sign_slash_Other_10_gml_46_0
 obj_npc_sign_slash_Other_10_gml_62_0
 * (Es una mesa metálica para picnics.)/
 obj_npc_sign_slash_Other_10_gml_64_0
-\EK* (Maldisión^1, no me caben los dedos por los agujeros.)/%
+\EK* (Demonios^1, no me caben los dedos por los agujeros.)/%
 obj_npc_sign_slash_Other_10_gml_55_0
 * (Es la furgoneta de tu mamá.)/%
 obj_npc_sign_slash_Other_10_gml_97_0
@@ -18890,7 +18890,7 @@ obj_readable_room1_slash_Other_10_gml_1642_0
 obj_readable_room1_slash_Other_10_gml_1643_0
 \E5* Si te agachas y te metes por debajo de los waffles-/
 obj_readable_room1_slash_Other_10_gml_1644_0
-\EK* Maldisión^1, creo que alguien nos está mirando./%
+\EK* Demonios^1, creo que alguien nos está mirando./%
 obj_readable_room1_slash_Other_10_gml_1651_0
 * (Parece una cesta de fruta normal y corriente^1, pero cuando metes la mano...)/
 obj_readable_room1_slash_Other_10_gml_1652_0
@@ -20884,11 +20884,11 @@ obj_fusionmenu_slash_Draw_0_gml_94_0
 obj_fusionmenu_slash_Draw_0_gml_95_0
 stringn
 obj_fusionmenu_slash_Draw_0_gml_96_0
-ATAQUE
+ATAQUE:
 obj_fusionmenu_slash_Draw_0_gml_97_0
-DEFENSA
+DEFENSA:
 obj_fusionmenu_slash_Draw_0_gml_98_0
-ELEMENTO  
+ELEMENTO:  
 stringo
 stringel
 stringlscale
@@ -35544,7 +35544,7 @@ monster_kid
 obj_ch2_room_town_shelter_slash_Step_0_gml_61_0
 * ¿Crees que los rumores son ciertos? Crees que ahí dentro..../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_68_0
-* Qué^1, ¿eres un gallina? Jaja^1, ¿tienes picos y alas? ¿Como una gallina?/%
+* Qué^1, ¿eres una gallina? Jaja^1, ¿tienes picos y alas? ¿Como una gallina?/%
 obj_ch2_room_town_shelter_slash_Step_0_gml_75_0
 * ..^1. no..^1. es que.../%
 obj_ch2_room_town_shelter_slash_Step_0_gml_82_0
