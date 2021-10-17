@@ -84,7 +84,7 @@ if (type == 3 && init == true)
         {
             draw_set_halign(fa_center)
             draw_set_color(c_lime)
-            draw_text_transformed((xx + 298), (yy + 30), stringsetloc("PROGRESO", "obj_fusionmenu_slash_Draw_0_gml_56_0"), squished, 1, 1)
+            draw_text_transformed((xx + 298), (yy + 30), stringsetloc("PROGRESO", "obj_fusionmenu_slash_Draw_0_gml_56_0"), squished, 1, 0)
             draw_set_halign(fa_left)
         }
     }
@@ -112,9 +112,9 @@ if (type == 3 && init == true)
         draw_set_color(c_white)
         draw_text((xx + 300), (yy + 70), recruitName[menuCoord[1]])
         draw_set_halign(fa_right)
-        draw_text_transformed((xx + 590), (yy + 30), ((string((menuCoord[menu] + 1)) + "/") + string((menuMaximumID[menu] + 1))), squished, 1, 1)
+        draw_text_transformed((xx + 590), (yy + 30), ((string((menuCoord[menu] + 1)) + "/") + string((menuMaximumID[menu] + 1))), squished, 1, 0)
         draw_set_halign(fa_left)
-        draw_text_transformed((xx + 300), (yy + 30), (stringsetloc("CAPÍTULO ", "obj_fusionmenu_slash_Draw_0_gml_84_0") + string(recruitChapter[menuCoord[1]])), squished, 1, 1)
+        draw_text_transformed((xx + 300), (yy + 30), (stringsetloc("CAPÍTULO ", "obj_fusionmenu_slash_Draw_0_gml_84_0") + string(recruitChapter[menuCoord[1]])), squished, 1, 0)
         var ymod = 120
         if jp
             ymod = 104
@@ -138,10 +138,10 @@ if (type == 3 && init == true)
         stringm[1] = recruitDislike[menuCoord[1]]
         stringm[2] = stringsetloc("?????????", "obj_fusionmenu_slash_Draw_0_gml_93_0")
         stringm[3] = stringsetloc("?????????", "obj_fusionmenu_slash_Draw_0_gml_94_0")
-        stringn[0] = stringsetloc("NIVEL", "obj_fusionmenu_slash_Draw_0_gml_95_0")
-        stringn[1] = stringsetloc("ATAQUE", "obj_fusionmenu_slash_Draw_0_gml_96_0")
-        stringn[2] = stringsetloc("DEFENSA", "obj_fusionmenu_slash_Draw_0_gml_97_0")
-        stringn[3] = stringsetloc("ELEMENTO  ", "obj_fusionmenu_slash_Draw_0_gml_98_0")
+        stringn[0] = stringsetloc("NIVEL:", "obj_fusionmenu_slash_Draw_0_gml_95_0")
+        stringn[1] = stringsetloc("ATAQUE:", "obj_fusionmenu_slash_Draw_0_gml_96_0")
+        stringn[2] = stringsetloc("DEFENSA:", "obj_fusionmenu_slash_Draw_0_gml_97_0")
+        stringn[3] = stringsetloc("ELEMENTO:  ", "obj_fusionmenu_slash_Draw_0_gml_98_0")
         stringo[0] = string(recruitLevel[menuCoord[1]])
         stringo[1] = string(recruitAttack[menuCoord[1]])
         stringo[2] = string(recruitDefense[menuCoord[1]])
@@ -164,11 +164,11 @@ if (type == 3 && init == true)
             draw_set_halign(fa_right)
             if (i != 3)
             {
-                draw_text_transformed((xx + 560), ((yy + 240) + (i * 40)), string_hash_to_newline(stringn[i]), stringmscale, 1, 0)
-                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringo[i]), stringmscale, 1, 0)
+                draw_text_transformed((xx + 560), ((yy + 240) + (i * 40)), string_hash_to_newline(stringn[i]), squished, 1, 0)
+                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringo[i]), squished, 1, 0)
             }
             else
-                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringel), stringmscale, 1, 0)
+                draw_text_transformed((xx + 590), ((yy + 240) + (i * 40)), string_hash_to_newline(stringel), squished, 1, 0)
             draw_set_halign(fa_left)
         }
         if (alternateMenu == 0)
@@ -219,7 +219,7 @@ if (type == 4 && init == true)
     {
         memfont = draw_get_font()
         draw_set_font(fnt_ja_kakugo)
-        draw_text_transformed((xx + 60), (yy + 140), stringsetloc("EQUIPADO", "obj_fusionmenu_slash_Draw_0_gml_154_0"), 1, 1, 0)
+        draw_text_transformed((xx + 60), (yy + 140), stringsetloc("HELD", "obj_fusionmenu_slash_Draw_0_gml_154_0"), 1, 1, 0)
         draw_set_font(memfont)
     }
     else
@@ -235,7 +235,7 @@ if (type == 4 && init == true)
     {
         memfont = draw_get_font()
         draw_set_font(fnt_ja_kakugo)
-        draw_text_transformed((xx + 60), (yy + 290), stringsetloc("RESERVA", "obj_fusionmenu_slash_Draw_0_gml_159_0"), 1, 1, 0)
+        draw_text_transformed((xx + 60), (yy + 290), stringsetloc("RESERVE", "obj_fusionmenu_slash_Draw_0_gml_159_0"), 1, 1, 0)
         draw_set_font(memfont)
     }
     else
@@ -261,11 +261,11 @@ if (type == 5 && init == true)
     draw_text_transformed(480, 280, (((stringsetloc("Página ", "obj_fusionmenu_slash_Draw_0_gml_171_0") + string(((floor(menuScrollCurrent[0]) / 6) + 1))) + " / ") + string(ceil((menuMaximumID[0] / 6)))), 1, 1, 0)
     tickerTimer++
     scr_84_set_draw_font("dotumche")
-    draw_text_transformed(440, 375, stringsetloc("Izquierda / Derecha: \nCambiar Página.", "obj_fusionmenu_slash_Draw_0_gml_181_0"), 1, 1, 0)
+    draw_text_transformed(440, 375, stringsetloc("Left / Right: \nChange Pages.", "obj_fusionmenu_slash_Draw_0_gml_181_0"), 1, 1, 0)
     if (subtype == 1)
-        draw_text_transformed(440, 410, stringsetloc("La cancion que pongas\nestara en la ciudad\nBGM.", "obj_fusionmenu_slash_Draw_0_gml_182_0"), 1, 1, 0)
+        draw_text_transformed(440, 410, stringsetloc("The song you play\nwill be the town\nBGM.", "obj_fusionmenu_slash_Draw_0_gml_182_0"), 1, 1, 0)
     else
-        draw_text_transformed(440, 410, stringsetloc("Reproduce música\nlibremente.", "obj_fusionmenu_slash_Draw_0_gml_183_0"), 1, 1, 0)
+        draw_text_transformed(440, 410, stringsetloc("Play songs\nfreely.", "obj_fusionmenu_slash_Draw_0_gml_183_0"), 1, 1, 0)
     var tempSongName = (chosenSongName + "    ")
     var songNameLength = string_length(tempSongName)
     if (songNameLength >= 24)

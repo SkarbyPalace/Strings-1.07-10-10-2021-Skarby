@@ -20905,7 +20905,7 @@ obj_fusionmenu_slash_Draw_0_gml_132_0
 ~1: Regresar
 button_x
 obj_fusionmenu_slash_Draw_0_gml_199_0
-Pressiona         para Regresar
+Presiona         para Regresar
 obj_fusionmenu_slash_Draw_0_gml_136_0
 Presiona ~1 para Regresar
 obj_fusionmenu_slash_Draw_0_gml_154_0
@@ -58343,5 +58343,3 @@ gml_GlobalScript_0
 gml_GlobalScript_1
 gml_GlobalScript_2
 gml_GlobalScript_3
-EQUIPADO
-RESERVA
