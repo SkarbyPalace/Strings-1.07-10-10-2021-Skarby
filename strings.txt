@@ -27409,45 +27409,45 @@ Oh No Acaso&Olvidaste Como&Controlar Un Robot&Gigante/%
 obj_gigaqueen_enemy_slash_Step_0_gml_57_0_b
 Una Vez Mas,&Presiona ~1 Y&~2 Para Esquivar/%
 obj_gigaqueen_enemy_slash_Step_0_gml_63_0
-The Time For&Words Is Over/%
+El Tiempo Para&Hablar Se Acabó/%
 obj_gigaqueen_enemy_slash_Step_0_gml_64_0
-Ha Ha Just Kidding&I Totally Will&Keep Monologuing&As I Kick At: Your&Face/%
+Ja Ja Bromeaba&Obviamente&Seguiré Monologando&Mientras Golpeo:&Tu Cara/%
 obj_gigaqueen_enemy_slash_Step_0_gml_65_0
-The Time Has&Come For Noelle&To Realize Her&Own Strength/%
+La Hora Llego&De Noelle Para&Darse Cuenta De&Su Propia Fuerza/%
 obj_gigaqueen_enemy_slash_Step_0_gml_66_0
-Focusing Into&Her Blade, She&Will Create A&Neo Dark Fountain/%
+Concentrándose En&Su Espada, Ella&Creará Una&Nueva Fuente Oscura/%
 obj_gigaqueen_enemy_slash_Step_0_gml_67_0
-Then, When The&Whole World Is&Covered In Darkness/%
+Entonces, Cuando Todo&El Mundo Este&Cubierto En Oscuridad/%
 obj_gigaqueen_enemy_slash_Step_0_gml_68_0
-Kris, Susie,&Why Don't You&Help Me Too?/%
+Kris, Susie,&Por Que No&Me Ayudan?/%
 obj_gigaqueen_enemy_slash_Step_0_gml_69_0
 Susie/%
 obj_gigaqueen_enemy_slash_Step_0_gml_70_0
-And Kris, My&Dearest Trucie&You Can Have&As Many/%
+Y Kris, Mis&Queridas Treguitas&Podrás Tener&Cuantas Quieras/%
 obj_gigaqueen_enemy_slash_Step_0_gml_71_0
-Hey Was There&A Third&Guy?????????/%
+Hey Había&Alguien&Tercero?????????/%
 obj_gigaqueen_enemy_slash_Step_0_gml_72_0
-Join Me And&All Of You&Will Become&Super Strong&And Cool/%
+Únanse Y&Todos Ustedes&Se Volverán&Super Fuertes&Y Geniales/%
 obj_gigaqueen_enemy_slash_Step_0_gml_73_0
-Okay I Believe&I've Made My Point&I'm Going To&Procedurally&Loop My Dialogue&Now/%
+Okay Creo Que&Ya Me Di A Entender&Voy A&Procedimentalmente&Ciclar Mi&Diálogo Ahora/%
 obj_gigaqueen_enemy_slash_Step_0_gml_73_0_b
-Kris&Susie&Other Guy/%
+Kris&Susie&El Otro/%
 obj_gigaqueen_enemy_slash_Step_0_gml_74_0
-You Think You're&Finished?/%
+Creen Que Han&Terminado?/%
 obj_gigaqueen_enemy_slash_Step_0_gml_75_0
-I Have More Extremely&Slow Moving Obviously&Punchable Giant Baseballs&Where That One Came From/%
+Tengo Otra Extremadamente&Lento Y Obviamente&Golpeable Bola De Beisbol&De Donde Esa Vino/%
 obj_gigaqueen_enemy_slash_Step_0_gml_106_0
-Now Is The&Time To Fight&(Only)/%
+Ahora Es&De Pelear&(Solamente Eso)/%
 obj_gigaqueen_enemy_slash_Step_0_gml_107_0
-Her Own Will&Her Own&Determination/%
+Su Voluntad&Su Propia&Determinación/%
 obj_gigaqueen_enemy_slash_Step_0_gml_108_0
-Then Another,&Then Another/%
+Luego Otro,&Luego Otro/%
 obj_gigaqueen_enemy_slash_Step_0_gml_109_0
-She - And Everyone -&Can Live In Bliss,&Free Of Fear And&Suffering/%
+Ella - Y Todos -&Podrán Vivir En La,&Brisa De Miedo Y&Sufrimiento/%
 obj_gigaqueen_enemy_slash_Step_0_gml_110_0
-Create The World&Of Your Dreams&(Also My Dreams)/%
+Creen El Mundo&De Sus Sueños&(También Los Míos)/%
 obj_gigaqueen_enemy_slash_Step_0_gml_111_0
-Bro Just Let Me&Karate Chop You&And You Can Have&As Many Skateboards&As You Want/%
+Bro Solo Dejame&Golpearte Como En Karate&Y Podrás Tener&Cuantas Patinetas&Te De La Gana/%
 obj_gigaqueen_enemy_slash_Step_0_gml_113_0
 obj_gigaqueen_enemy_slash_Step_0_gml_114_0_b
 Okay I Don't&Remember What&You Liked/%
