@@ -17047,7 +17047,7 @@ obj_npc_sign_slash_Other_10_gml_22_0
 obj_npc_sign_slash_Other_10_gml_23_0
 \f0 \f1 \f2 \f3 \f4 \f5 /%
 obj_npc_sign_slash_Other_10_gml_27_0
-* (It's ~1 flower^1, protected in a container...)/%
+* (Es ~1 flor^1, protegido por un contenedor...)/%
 obj_npc_sign_slash_Other_10_gml_32_0
 * (Es la camioneta de tu papá.)/
 obj_npc_sign_slash_Other_10_gml_33_0
@@ -21539,9 +21539,9 @@ shieldactmaxhp
 xx2
 shieldhp
 obj_queen_enemy_slash_Draw_0_gml_78_0
-(Protected)
+(Protegida)
 obj_queen_enemy_slash_Draw_0_gml_82_0
-(Defenseless)
+(Indefensa)
 futuredir
 dont
 grazetpfactor
@@ -24962,127 +24962,127 @@ Plug
 Unknown
 alphacon
 obj_queen_enemy_slash_Step_0_gml_462_0
-* The skyline echoes with regal laughter.
+* El cielo se llena de una risa malévola.
 obj_queen_enemy_slash_Step_0_gml_463_0
-* The fountain flows ominously.
+* La fuente fluye anónimamente.
 obj_queen_enemy_slash_Step_0_gml_464_0
-* The battlefield feels electric.
+* El campo de batalla se siente eléctrico.
 obj_queen_enemy_slash_Step_0_gml_465_0
-* Smells like overclocked high heels.
+* Huele a tacones altos overlockeados.
 obj_queen_enemy_slash_Step_0_gml_467_0
-* Queen's acid shield is down!
+* El escudo ácido de Queen está bajo!
 obj_queen_enemy_slash_Step_0_gml_468_0
-* Queen's acid shield is formed!
+* El escudo ácido de Queen está formado!
 shieldbreaking
 obj_queen_enemy_slash_Step_0_gml_338_0
-* QUEEN - Her drinking glass generates a powerful barrier. Break or lower it!/%
+* QUEEN - Su bebida genera un escudo poderoso. Rompe o debilitalo!/%
 obj_queen_enemy_slash_Step_0_gml_346_0
-* You shook Berdly's wire!/%
+* Electrocutaste el cable de Berdly!/%
 mercyset
 obj_queen_enemy_slash_Step_0_gml_764_0
-* You made a memorable and charming toast to Queen!/
+* Hiciste un brindis memorable hacia Queen!/
 obj_queen_enemy_slash_Step_0_gml_766_0
-(Why did they make it so emotional?)
+(Por qué lo hicieron tan emocional?)
 obj_queen_enemy_slash_Step_0_gml_768_0
-\EC* Wow Spoken Like A Real Trucie\f0 /%
+\EC* Wow Hablo Como Una Treguita Real\f0 /%
 obj_queen_enemy_slash_Step_0_gml_788_0
-* You made a memorable and charming toast to Queen!/%
+* Hiciste un brindis encantador y memorable a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_803_0
-* You toasted Queen!/%
+* Hiciste un brindis a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_371_0
-* Everyone loosens Berdly!/%
+* Todos aflojan a Berdly!/%
 obj_queen_enemy_slash_Step_0_gml_840_0
-\EF* (That glass of acid is generating her shield!)/
+\EF* (El vaso de ácido esta generando el escudo de Queen!)/
 obj_queen_enemy_slash_Step_0_gml_842_0
-\E3* So, uh... you gonna drink all that?/
+\E3* Así que, uh... te tomaras todo eso?/
 obj_queen_enemy_slash_Step_0_gml_844_0
-\E6* No This Is All Mine You Can't Have It/%
+\E6* No Es Todo Mio No Puedes Tenerlo/%
 obj_queen_enemy_slash_Step_0_gml_384_0
-* Everyone toasted to Queen!/%
+* Todos hicieron un brindis a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_410_0
-* Your SOUL shined its power on Susie!/%
+* El poder de tu ALMA brillo en SUSIE!/%
 obj_queen_enemy_slash_Step_0_gml_419_0
-* Your SOUL shined its power on RALSEI!/%
+* El poder de tu ALMA brillo en RALSEI!/%
 _susie_simul
 obj_queen_enemy_slash_Step_0_gml_429_0
-* Susie loosens one of Berdly's wires!/%
+* Susie aflojo uno de los cables de Berdly!/%
 obj_queen_enemy_slash_Step_0_gml_928_0
-* Susie made a toast to Queen...?/
+* Susie hizo un brindis a Queen...?/
 obj_queen_enemy_slash_Step_0_gml_930_0
-\EK* Pretty cool how we're... uh, gonna kick your ass./
+\EK* Increible como vamos a... uh, patearte el culo./
 obj_queen_enemy_slash_Step_0_gml_932_0
-\E1* It's A Good Thing I Have No Standards For This/%
+\E1* Es Algo Bueno Que No Tengo Estándares Para Esto/%
 obj_queen_enemy_slash_Step_0_gml_946_0
-* Susie made an offensive toast to Queen!/%
+* Susie hizo un brindis ofensivo a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_955_0
-* Susie toasted Queen!/%
+* Susie hizo un brindis a Queen!/%
 _ralsei_simul
 obj_queen_enemy_slash_Step_0_gml_457_0
-* Ralsei loosens one of Berdly's wires!/%
+* Ralsei aflojó uno de los cables de Berdly!/%
 obj_queen_enemy_slash_Step_0_gml_1003_0
-* Ralsei made a toast to Queen!/
+* Ralsei hizo un brindis a Queen!/
 obj_queen_enemy_slash_Step_0_gml_1005_0
-\E2* A toast to you, er, making me wear a butler outfit!/
+\E2* Un brindis por, er, hacerme usar un lindo traje!/
 obj_queen_enemy_slash_Step_0_gml_1007_0
-\EL* Bro That's Weird But OK/%
+\EL* Bro Eso Es Raro Pero OK/%
 obj_queen_enemy_slash_Step_0_gml_1015_0
-* Ralsei made a slightly cringeworthy toast to Queen!/%
+* Ralsei hizo un brindis medio vergonzoso a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_472_0
-* Ralsei toasted Queen!/%
+* Ralsei hizo un brindis a Queen!/%
 obj_queen_enemy_slash_Step_0_gml_483_0
-* Aiming with Throw is easier next turn!/%
+* Apuntar será más fácil en el siguiente turno!/%
 obj_queen_enemy_slash_Step_0_gml_504_0
-* Queen sips from her acid!/%
+* Queen toma un sorbo!/%
 obj_queen_enemy_slash_Step_0_gml_505_0
-* She is out of acid, her shield powers down!/%
+* Se quedó sin ácido, sus poderes de escudo están fuera!/%
 obj_queen_enemy_slash_Step_0_gml_510_0
 obj_queen_enemy_slash_Step_0_gml_519_0
 obj_queen_enemy_slash_Step_0_gml_520_0
-* Use UP and DOWN to Aim for the wires!
+* Usa ARRIBA y ABAJO para apuntar a los cables!
 heartanim
 obj_queen_enemy_slash_Step_0_gml_1067_0
-Not Bad You&Foolish Children/%
+Nada Mal&Niños Tontos/%
 obj_queen_enemy_slash_Step_0_gml_1074_0
 ...?/%
 obj_queen_enemy_slash_Step_0_gml_1108_0
-But No Matter&How Long This&Battle Drags On/%
+Pero No Importa&Cuanto Dure&Esta Batalla/%
 obj_queen_enemy_slash_Step_0_gml_1109_0
-But Even If You&Deplete The Health&Points (Of My: Chair)/%
+Aunque Ustedes Bajen&Los Puntos Deh&Salud (De Mi: Silla)/%
 obj_queen_enemy_slash_Step_0_gml_1114_0
-I Can Simply Make&Another Barrier Using&My: Drink/%
+Simplemente Puedo&Hacer Otra Barrera&Usando Mi: Bebida/%
 obj_queen_enemy_slash_Step_0_gml_1118_0
-Bottoms Up/%
+Hasta El Fondo/%
 obj_queen_enemy_slash_Step_0_gml_1123_0
-Wait A Second/%
+Esperen Un Segundo/%
 obj_queen_enemy_slash_Step_0_gml_1128_0
-Hey Chat Does Anyone&Know What Happened&To That Stuff/%
+Hey Chat Alguien&Sabe Que Le Paso&A Esta Cosa/%
 shake2
 obj_queen_enemy_slash_Step_0_gml_1181_0
-What The/%
+Pero Que/%
 obj_queen_enemy_slash_Step_0_gml_1186_0
-What Are&You Doing/%
+Que Estas&Haciendo/%
 obj_queen_enemy_slash_Step_0_gml_1190_0
-Why Isn't&My Control&Wire Working/%
+Por Que&Mi Cable&Controlador No Sirve/%
 obj_queen_enemy_slash_Step_0_gml_1195_0
-Thanks to...&my comrades'&kindness...&their MERCY!/%
+Gracias a...&la amabilidad&de mis camaradas...&su PIEDAD!/%
 obj_queen_enemy_slash_Step_0_gml_1200_0
-Now.../%
+Ahora.../%
 obj_queen_enemy_slash_Step_0_gml_1204_0
-It's time...&for me to&take my&freedom!!/%
+Es tiempo...&para mi de&tomar mi&libertad!!/%
 savey
 whiteall
 Queen difficulty = 
 obj_queen_enemy_slash_Other_11_gml_10_0
 obj_queen_enemy_slash_Other_11_gml_11_0
 obj_queen_enemy_slash_Other_11_gml_15_0
-Toast
+Brindis
 obj_queen_enemy_slash_Other_11_gml_16_0
-GroupToast
+BrindisGrupal
 obj_queen_enemy_slash_Other_11_gml_22_0
 obj_queen_enemy_slash_Other_11_gml_26_0
 obj_queen_enemy_slash_Other_11_gml_32_0
 obj_queen_enemy_slash_Other_11_gml_36_0
-Shield Destroyed
+Escudo Destruido
 Queen health = 
 ctimer
 wineadded
@@ -25334,7 +25334,7 @@ obj_spamton_enemy_slash_Step_0_gml_405_0
 obj_spamton_enemy_slash_Step_0_gml_406_0
 \M3TOMARAS EL TRATO FINAL?/
 obj_spamton_enemy_slash_Step_0_gml_407_0
-\M4RECUERDA..^1.&ESTO DEPENDE DE TI^1!&No T e FORZARE./%
+\M4RECUERDA..^1.&ESTO DEPENDE DE TI^1!&No Te FORZARE./%
 obj_spamton_enemy_slash_Step_0_gml_413_0
 \M2YUM YUM BUEN&TRATO AMIGO!!/
 obj_spamton_enemy_slash_Step_0_gml_414_0
@@ -26326,13 +26326,13 @@ theystoppeddancing
 obj_sweet_enemy_slash_Step_0_gml_184_0
 \EZ* K... Kris!? Hey, Kris!/
 obj_sweet_enemy_slash_Step_0_gml_185_0
-\EK* ...The hell do we do now!?/
+\EK* ...Por que diablos no podemos!?/
 obj_sweet_enemy_slash_Step_0_gml_186_0
-\EC* ...We can't ACT if Kris is down!/
+\EC* ...No podemos ACTUAR cuando Kris está caído!/
 obj_sweet_enemy_slash_Step_0_gml_188_0
-\E2* Don't worry^1, Susie! I'll just heal them, and.../
+\E2* No te preocupes^1, Susie! solo los curaré y.../
 obj_sweet_enemy_slash_Step_0_gml_190_0
-\EL* ... hey, wait^1. Why can't we ACT without Kris?/
+\EL* ... hey, espera^1. Por qué no podemos actuar sin Kris?/
 obj_sweet_enemy_slash_Step_0_gml_280_0
 \EK* Hey, esto esta funcionando!?/
 obj_sweet_enemy_slash_Step_0_gml_198_0
@@ -26656,29 +26656,29 @@ addstat2
 topstat
 topstatlevel
 obj_rouxls_enemy_slash_Step_0_gml_19_0
-Fly, mine Duckie! Fly!/%
+Vuela, patito mío! Vuela!/%
 obj_rouxls_enemy_slash_Step_0_gml_22_0
-Go forth,&my caravan!/%
+Sigue adelante, &mi caravana!/%
 obj_rouxls_enemy_slash_Step_0_gml_28_0
-Solveth my puzzleth,&yon Maties!/%
+Resuelvet miq&rompecabezast amigot mío!/%
 obj_rouxls_enemy_slash_Step_0_gml_33_0
-Thrashst off&the Porthbow!/%
+¡Arrancat el&arcoq del reyt!/%
 obj_rouxls_enemy_slash_Step_0_gml_42_0
-The Rouxls&(pronounced Rules)&art Simple!/%
+Él Rouxls&(pronunciado Rules)&Simple arte!!/%
 obj_rouxls_enemy_slash_Step_0_gml_45_0
-O-oweth! The houses,&thoust fool! THE&HOUSES!!!/%
+¡O-oweth! ¡Last casasq,&tú tonto! LAS CASAS!!!/%
 obj_rouxls_enemy_slash_Step_0_gml_46_0
-Soon, Victorie&will be Mineth,&and Queene will&maketh me her&Left Hande Man.../%
+Pronto, la Victorria&será miast,&Y Queene me&harást su&Manoq Izquierdat.../%
 obj_rouxls_enemy_slash_Step_0_gml_50_0
-STOP HITTINGETH&ME AND PLAYETH&MY MINI-GAME,&YOU ROGUES!!!/%
+DEJA DE GOLPEARME&Y JUEGAT&MI MINI-JUEGO,&GROSEROS!!!/%
 obj_rouxls_enemy_slash_Step_0_gml_51_0
-Umm,&Mr. Kaard?&What happens&if WE win?/%
+Umm,&Mr. Kaard?&Qué pasa&si ganamos?/%
 ballooncount = 
 hasplayerplacedhouses = 
 obj_rouxls_enemy_slash_Step_0_gml_57_0
-STOP!!! STOP&BUILDINGETH HOUSES!!!&I HAVE TO WIN!!!/%
+PARA!!! PARA DE&CONSTRUIRT CASAS!!!&TENGO QUE GANAR!!!/%
 obj_rouxls_enemy_slash_Step_0_gml_85_0
-Conquer Houses!&Whoeverest has the&most, Winst!/%
+Conqista casas!&Quient tengaq&más, Ganast!/%
 obj_rouxls_enemy_slash_Step_0_gml_86_0
 obj_rouxls_enemy_slash_Step_0_gml_102_0
 Uh oh/%
@@ -26689,31 +26689,31 @@ PuzzleBlocks
 random_zone
 zone_word
 obj_rouxls_enemy_slash_Step_0_gml_136_0
-* You need more ~1 Zones.
+* Necesitas más ~1 Zonas.
 city_word
 obj_rouxls_enemy_slash_Step_0_gml_142_0
-* Your city is lacking ~1.
+* A tu ciudad le falta ~1.
 obj_rouxls_enemy_slash_Step_0_gml_230_0
 cool
 shipStatus
 obj_rouxls_enemy_slash_Step_0_gml_235_0
-elegant
+elegante
 obj_rouxls_enemy_slash_Step_0_gml_239_0
-lively
+animada
 obj_rouxls_enemy_slash_Step_0_gml_243_0
-cute
+linda
 obj_rouxls_enemy_slash_Step_0_gml_247_0
-hot
+caliente
 obj_rouxls_enemy_slash_Step_0_gml_251_0
-gun's
+armada
 obj_rouxls_enemy_slash_Step_0_gml_147_0
-* The enemy's ship seems to have fallen in love with yours.
+* La nave del enemigo parece haberse enamorado de la tuya.
 obj_rouxls_enemy_slash_Step_0_gml_147_1
-* You can't help but notice the enemy's ship is very ~1.
+* No puedes dejar de notar que la nave del enemigo es muy ~1.
 obj_rouxls_enemy_slash_Step_0_gml_150_0
-* Smells like a model house set.
+* Huele a maqueta de casa.
 obj_rouxls_enemy_slash_Step_0_gml_171_0
-* ROUXLS - Miniboss for hire. Will appear even if unhired.&"I eventh do Partiese"/%
+* ROUXLS - Miniboss de alquiler. Aparecerá incluso si no lo pides./%.
 obj_rouxls_enemy_slash_Step_0_gml_178_0
 obj_rouxls_enemy_slash_Step_0_gml_187_0
 obj_rouxls_enemy_slash_Step_0_gml_196_0
@@ -26721,26 +26721,26 @@ obj_rouxls_enemy_slash_Step_0_gml_205_0
 RalseiDistractTwice
 RalseiDistract
 obj_rouxls_enemy_slash_Step_0_gml_214_0
-* Ralsei distracted! Rouxls will place one less house next turn./%
+* Ralsei distrajo! Rouxls colocará una casa menos en el próximo turno./%
 obj_rouxls_enemy_slash_Step_0_gml_215_0
-* Ralsei distracted! But it failed./%
+* Ralsei distrajo! Pero ha fallado./%
 MyTurn
 HouseCountMax
 obj_rouxls_enemy_slash_Step_0_gml_263_0
-\E0* It seemseth the Game hath been Overed!/
+\E0* Pareceq que el Juegost ha terminadot!/
 lost
 obj_rouxls_enemy_slash_Step_0_gml_266_0
-\E2* And lo! I haveth the moste Real Estate!/
+\E2* Y miren! Tengost el estadot realst!/
 obj_rouxls_enemy_slash_Step_0_gml_270_0
-\E1* What!? Howst doth you have more Houstes?!/
+\E1* Qué!? Cómot tienesq más casast?!/
 obj_rouxls_enemy_slash_Step_0_gml_274_0
-\E5* I haveth noe idea who won or lost./
+\E5* No tengot ideast de quienq ganót./
 obj_rouxls_enemy_slash_Step_0_gml_364_0
-\E5* CUT THE BATTLE!!!/%
-ROUXLS' NEXT ATTACK SHALL BE OF THE HEAD
-ROUXLS' NEXT ATTACK SHALL BE OF THE FOOT
-ROUXLS' NEXT ATTACK SHALL BE OF THE BLOCKSE
-ROUXLS' NEXT ATTACK... COULD BE ANYTHINGE!! PREPAREST THINE ASS
+\E5* CORTEN LA BATALLA!!!/%
+EL PRÓXIMO ATAQUE DE ROUXLS SERÁ DE CABEZA
+EL PRÓXIMO ATAQUE DE ROUXLS SERÁ DE PIES
+EL PRÓXIMO ATAQUE DE ROUXLS SERÁ DE LA CUADRA
+EL PRÓXIMO ATAQUE DE ROUXLS... PUEDE SER LO QUE SEAST!! PREPARA TU CULO
 fixy
 puddx
 puddy
@@ -26798,50 +26798,50 @@ RouxlsTurn
 RouxlsHouseMax
 tileHouseY
 collision_point
-* Build a house!
+* Construir una casa!
 StatusMessage
 specialCursor
 flyaway
 obj_rouxls_simtown_slash_Step_0_gml_93_0
-* Finished!/%
+* Acabado!/%
 RouxlsWaitTimer
 RouxlsHousesBuilt
 RandomHouseX
 RandomHouseY
-Myturn
+Mi turno
 CursorIdealVisualX
 CursorIdealVisualY
 kris_houses
 roulx_houses
 obj_rouxls_simtown_slash_Draw_0_gml_47_0
-* You can take this tile!
+* Puedes coger esta baldosa!
 obj_rouxls_simtown_slash_Draw_0_gml_48_0
-* Press arrows to move!
+* Pulsa las flechas para moverte!
 obj_rouxls_simtown_slash_Draw_0_gml_49_0
-* Too far from own territory!
+* Demasiado lejos de su propio territorio!
 obj_rouxls_simtown_slash_Draw_0_gml_50_0
-* Can't build on acid!
+* No se puede construir en ácido!
 obj_rouxls_simtown_slash_Draw_0_gml_51_0
-* Can't build on enemy territory!
+* No se puede construir en territorio enemigo.
 obj_rouxls_simtown_slash_Draw_0_gml_53_0
-* Swan is lacking#structural support
+* El cisne carece de#soporte estructural
 obj_rouxls_simtown_slash_Draw_0_gml_54_0
 obj_rouxls_simtown_slash_Draw_0_gml_55_0
 obj_rouxls_simtown_slash_Draw_0_gml_56_0
 obj_rouxls_simtown_slash_Draw_0_gml_58_0
-* A familiar-looking machine.
+* Una máquina de aspecto familiar.
 txt
 obj_rouxls_simtown_slash_Draw_0_gml_59_0
-* It seems to be in love with your swan.
+* Parece estar enamorado de su cisne.
 obj_rouxls_simtown_slash_Draw_0_gml_72_0
-* Thoust admireth moi...?
-* Rouxls Turn. TurnCon:
+* Admiradts Mit...
+* Turno de Rouxls. TurnCon:
 button_offset
 obj_rouxls_simtown_slash_Draw_0_gml_103_0
-* Claim with
+* Reclamar con
 ＊ 
 obj_rouxls_simtown_slash_Draw_0_gml_80_0
-* Claim with ~1!
+¡* Reclamar con ~1!
 scalerX
 scalerY
 last_hspeed
@@ -36118,7 +36118,7 @@ obj_ch2_room_castle_area_1_slash_Step_0_gml_72_0
 obj_ch2_room_castle_area_1_slash_Step_0_gml_73_0
 \EB* Gracias/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_81_0
-\EC* Ahora Voy A Ser Tu Compañero De Piso Chiflado/%
+\EC* Ahora Voy A Ser Tu Compañera De Piso Chiflada/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_97_0
 \EF* Espera/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_104_0
