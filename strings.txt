@@ -3391,7 +3391,7 @@ scr_text_slash_scr_text_gml_3377_0
 scr_text_slash_scr_text_gml_3378_0
 queen
 scr_text_slash_scr_text_gml_3380_0
-\EC* /[Carcajadas]/
+\EC* [Carcajadas]/
 scr_text_slash_scr_text_gml_3381_0
 \EP* Oh Dios Eso Fue Un Tanto..^1. Entretenido/
 scr_text_slash_scr_text_gml_3382_0
@@ -3401,9 +3401,9 @@ scr_text_slash_scr_text_gml_3383_0
 scr_text_slash_scr_text_gml_3384_0
 \E6* Entren A Mi Cyber-Ejercito/
 scr_text_slash_scr_text_gml_3385_0
-\E7* Y Solo Será Un Cincuenta Por ciento De Que Reprogame Sus Caras/
+\E7* Y Solo Será Un Cincuenta Por Ciento De Que Reprogame Sus Caras/
 scr_text_slash_scr_text_gml_3386_0
-\E1* Por favor, Haz Tu Elección/
+\E1* Por Favor, Haz Tu Elección/
 scr_text_slash_scr_text_gml_3387_0
 \E7* Perecer En La Calma De La Destrucción Completa/
 scr_text_slash_scr_text_gml_3388_0
@@ -8585,7 +8585,7 @@ scr_weaponinfo_slash_scr_weaponinfo_gml_132_0
 scr_weaponinfo_slash_scr_weaponinfo_gml_145_0
 Espeluznante UP
 scr_weaponinfo_slash_scr_weaponinfo_gml_149_0
-Brave Ax
+HachaDeValor
 scr_weaponinfo_slash_scr_weaponinfo_gml_150_0
 Un hacha brillante de un guerrero de bloques.#Adecuado para héroes.
 scr_weaponinfo_slash_scr_weaponinfo_gml_151_0
@@ -8631,7 +8631,7 @@ Se siente espinoso... Genial!
 scr_weaponinfo_slash_scr_weaponinfo_gml_220_0
 ¡Ouch!... un poco agradable
 scr_weaponinfo_slash_scr_weaponinfo_gml_237_0
-DaintyScarf
+Bufan.Elegante
 scr_weaponinfo_slash_scr_weaponinfo_gml_238_0
 Bufanda delicada que aumenta la cicatrización#poder pero no tiene ataque.
 scr_weaponinfo_slash_scr_weaponinfo_gml_239_0
@@ -8856,7 +8856,7 @@ scr_armorinfo_slash_scr_armorinfo_gml_151_0
 ... del centro de entretenimiento familiar?
 scr_armorinfo_slash_scr_armorinfo_gml_161_0
 scr_armorinfo_slash_scr_armorinfo_gml_167_0
-Jevilstail
+ColadeJevil
 scr_armorinfo_slash_scr_armorinfo_gml_168_0
 Una cola en forma de J que le da devilenergia.
 scr_armorinfo_slash_scr_armorinfo_gml_169_0
@@ -20394,11 +20394,11 @@ obj_darkcontroller_slash_Draw_0_gml_91_0
 obj_darkcontroller_slash_Draw_0_gml_92_0
 Simplificar VFX
 obj_darkcontroller_slash_Draw_0_gml_112_0
-Border
+Borde
 obj_darkcontroller_slash_Draw_0_gml_95_0
 Regresar al Título
 obj_darkcontroller_slash_Draw_0_gml_93_0
-Pantalla completa
+Pantalla Completa
 gamepad_get_description
 Sony DualShock 4
 _yOffset
@@ -30625,7 +30625,7 @@ forcefield_right
 obj_ch2_scene10_slash_Step_0_gml_586_0
 * Intentaste usar la máquina arcade./%
 obj_ch2_scene10_slash_Step_0_gml_595_0
-* (No fuistes lo suficientemente alto o fuerte para usar los controles...)/%
+* (No fuiste lo suficientemente alto o fuerte para usar los controles...)/%
 obj_ch2_scene10_slash_Step_0_gml_611_0
 \EC* Erradicación De Autoestima Completada/
 obj_ch2_scene10_slash_Step_0_gml_612_0
