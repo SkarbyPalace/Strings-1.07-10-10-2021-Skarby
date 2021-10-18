@@ -7199,26 +7199,26 @@ scr_monstersetup_slash_scr_monstersetup_gml_661_0
 Head Hathy
 scr_monstersetup_slash_scr_monstersetup_gml_672_0
 scr_monstersetup_slash_scr_monstersetup_gml_674_0
-Flirt
+Coquetear
 scr_monstersetup_slash_scr_monstersetup_gml_676_0
-X-Flirt
+X-Coquetar
 scr_monstersetup_slash_scr_monstersetup_gml_683_0
-King
+Rey
 scr_monstersetup_slash_scr_monstersetup_gml_694_0
 scr_monstersetup_slash_scr_monstersetup_gml_699_0
 Hablar
 scr_monstersetup_slash_scr_monstersetup_gml_705_0
 scr_monstersetup_slash_scr_monstersetup_gml_711_0
 scr_monstersetup_slash_scr_monstersetup_gml_721_0
-Courage
+Coraje
 scr_monstersetup_slash_scr_monstersetup_gml_722_0
-Defense#Boost
+Más#Defensa
 scr_monstersetup_slash_scr_monstersetup_gml_731_0
-RedBuster
+EmbestidaRoja
 scr_monstersetup_slash_scr_monstersetup_gml_732_0
-Red#Damage
+Daño#Rojo
 scr_monstersetup_slash_scr_monstersetup_gml_741_0
-DualHeal
+DobleCura
 scr_monstersetup_slash_scr_monstersetup_gml_742_0
 Cura#a todos
 scr_monstersetup_slash_scr_monstersetup_gml_760_0
@@ -7412,7 +7412,7 @@ Distraer
 scr_monstersetup_slash_scr_monstersetup_gml_1433_0
 scr_monstersetup_slash_scr_monstersetup_gml_1453_0
 scr_monstersetup_slash_scr_monstersetup_gml_1456_0
-Glare
+Destello
 scr_monstersetup_slash_scr_monstersetup_gml_1456_1
 Actuar Tonto
 scr_monstersetup_slash_scr_monstersetup_gml_1460_0
@@ -7436,11 +7436,11 @@ scr_monstersetup_slash_scr_monstersetup_gml_1499_0
 Queen
 scr_monstersetup_slash_scr_monstersetup_gml_1524_0
 scr_monstersetup_slash_scr_monstersetup_gml_1529_0
-Loosen
+Aflojar
 scr_monstersetup_slash_scr_monstersetup_gml_1534_0
-GroupLoosen
+AflojarGrupo
 scr_monstersetup_slash_scr_monstersetup_gml_1540_0
-Throw
+Tirar
 scr_monstersetup_slash_scr_monstersetup_gml_1552_0
 scr_monstersetup_slash_scr_monstersetup_gml_1553_0
 scr_monstersetup_slash_scr_monstersetup_gml_1558_0
@@ -7473,40 +7473,40 @@ scr_monstersetup_slash_scr_monstersetup_gml_1670_0
 CortarTodos
 scr_monstersetup_slash_scr_monstersetup_gml_1682_0
 scr_monstersetup_slash_scr_monstersetup_gml_1687_0
-Supercharge
+Supercarga
 scr_monstersetup_slash_scr_monstersetup_gml_1685_0
-Charge#faster
+Carga#más#rápido
 scr_monstersetup_slash_scr_monstersetup_gml_1698_0
 scr_monstersetup_slash_scr_monstersetup_gml_1703_0
-FluffyGuard
+GuardiaSuave
 scr_monstersetup_slash_scr_monstersetup_gml_1701_0
-Orbiting#shield
+Escudo#orbitante
 scr_monstersetup_slash_scr_monstersetup_gml_1656_0
 GIGA Queen
 scr_monstersetup_slash_scr_monstersetup_gml_1730_0
-FireMode
+ModoFuego
 scr_monstersetup_slash_scr_monstersetup_gml_1730_1
-Power#Attacks
+AtaquesDe#Poder
 scr_monstersetup_slash_scr_monstersetup_gml_1731_0
-SwordMode
+ModoEspada
 scr_monstersetup_slash_scr_monstersetup_gml_1731_1
-Power up#each hit
+Más daño#por golpe
 scr_monstersetup_slash_scr_monstersetup_gml_1732_0
-LaserMode
+ModoLaser
 scr_monstersetup_slash_scr_monstersetup_gml_1732_1
-Fast#Attacks
+Ataques#Rápidos
 scr_monstersetup_slash_scr_monstersetup_gml_1733_0
-DuckMode
+ModoPato
 scr_monstersetup_slash_scr_monstersetup_gml_1733_1
-Sucky#Attacks
+Ataque#chirreantes
 scr_monstersetup_slash_scr_monstersetup_gml_1738_0
-TurboDodge
+TurboEsquive
 scr_monstersetup_slash_scr_monstersetup_gml_1739_0
-Better#dodge
+Mejor#esquive
 scr_monstersetup_slash_scr_monstersetup_gml_1743_0
-SELF-FIX
+AUTO-REPARAR
 scr_monstersetup_slash_scr_monstersetup_gml_1744_0
-Heals#100HP
+Cura#100HP
 scr_monstersetup_slash_scr_monstersetup_gml_1727_0
 Jigsaw Joe
 scr_monstersetup_slash_scr_monstersetup_gml_1742_0
@@ -7824,7 +7824,7 @@ scr_spelltext_slash_scr_spelltext_gml_14_0
 charname
 * ~1 lanzo RUDE BUSTER!/%
 scr_spelltext_slash_scr_spelltext_gml_18_0
-* ~1 lanzo ORACION de CURA!/%
+* ~1 lanzo ORACIÓN de CURA!/%
 scr_spelltext_slash_scr_spelltext_gml_23_0
 * ~1 lanzo PACIFICAR!/%
 scr_spelltext_slash_scr_spelltext_gml_33_0
@@ -21368,13 +21368,13 @@ obj_room_dw_city_postbaseball_slash_Step_0_gml_977_0
 obj_room_dw_city_postbaseball_slash_Step_0_gml_992_0
 \E6* (Puedo?)/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1047_0
-\E8* I think we're done with the mice for now^1, Kris./%
+\E8* Creo que ya acabamos con los ratones por ahora^1, Kris./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1052_0
-\EK* Hey^1, the hell are you doing with our mice?!/
+\EK* Hey^1, que diablos estás haciendo con mis ratones?!/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1053_0
-\EK* We worked on getting those together!/%
+\EK* Trabajamos para ponerlos juntos!/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1076_0
-\EK* What are you doing? The path is open!/%
+\EK* Que estás haciendo? El camino está abierto!/%
 con   
 instance_number(obj_caterpillarchara)     
 instance_number(obj_actor)    
@@ -24479,41 +24479,41 @@ LOL
 obj_wordbullet_slash_Create_0_gml_10_0
 TOP10
 obj_wordbullet_slash_Create_0_gml_11_0
-FAMILY
+FAMILIA
 obj_wordbullet_slash_Create_0_gml_12_0
-GUY
+CHICO
 obj_wordbullet_slash_Create_0_gml_13_0
-FUNNY
+DIVERTIDO
 obj_wordbullet_slash_Create_0_gml_14_0
-MOMENTS
+MOMENTOS
 obj_wordbullet_slash_Create_0_gml_15_0
-GIRL
+CHICA
 obj_wordbullet_slash_Create_0_gml_16_0
-DOLL
+PELUCHE
 obj_wordbullet_slash_Create_0_gml_17_0
-BOY
+CHICO
 obj_wordbullet_slash_Create_0_gml_18_0
 QUEEN
 obj_wordbullet_slash_Create_0_gml_19_0
-TALE
+HISTORIA
 obj_wordbullet_slash_Create_0_gml_20_0
-JOKE
+BROMA
 obj_wordbullet_slash_Create_0_gml_21_0
-FASHION
+MODA
 obj_wordbullet_slash_Create_0_gml_22_0
 MIX
 obj_wordbullet_slash_Create_0_gml_23_0
-SOUND
+SONIDO
 obj_wordbullet_slash_Create_0_gml_24_0
 VIDEO
 obj_wordbullet_slash_Create_0_gml_25_0
 TOP20
 obj_wordbullet_slash_Create_0_gml_26_0
-LAUGH
+RISA
 obj_wordbullet_slash_Create_0_gml_27_0
-AND
+Y
 obj_wordbullet_slash_Create_0_gml_28_0
-CRY
+LLANTO
 obj_wordbullet_slash_Create_0_gml_29_0
 obj_wordbullet_slash_Create_0_gml_30_0
 RATE
@@ -24741,13 +24741,13 @@ _error
 dot_text
 ..
 obj_queen_ultimate_attack_controller_slash_Draw_0_gml_20_0
-DOWNLOADING
+DESCARGANDO
 obj_queen_ultimate_attack_controller_slash_Draw_0_gml_21_0
-ULTIMATE ATTACK
+ATAQUE FINAL
 obj_queen_ultimate_attack_controller_slash_Draw_0_gml_29_0
-DOWNLOAD
+DESCARGA
 obj_queen_ultimate_attack_controller_slash_Draw_0_gml_30_0
-FAILED
+FALLIDA
 inittimer
 shotsize
 aimx
@@ -24789,7 +24789,7 @@ obj_queen_kristhrown_slash_Step_0_gml_24_0
 block_star
 wirescut
 obj_queen_kristhrown_slash_Collision_7a76bce8_f6fc_4158_8ce1_58bb74085511_gml_23_0
-* The wire was cut!/%
+* El cable fue cortado!/%
 obj_queen_kristhrown_slash_Collision_7a76bce8_f6fc_4158_8ce1_58bb74085511_gml_42_0
 obj_queen_ralseithrown_slash_Step_0_gml_23_0
 obj_queen_ralseithrown_slash_Collision_22f849ff_cd13_405b_a486_5468f83d4033_gml_23_0
@@ -27450,35 +27450,35 @@ obj_gigaqueen_enemy_slash_Step_0_gml_111_0
 Bro Solo Dejame&Golpearte Como En Karate&Y Podrás Tener&Cuantas Patinetas&Te De La Gana/%
 obj_gigaqueen_enemy_slash_Step_0_gml_113_0
 obj_gigaqueen_enemy_slash_Step_0_gml_114_0_b
-Okay I Don't&Remember What&You Liked/%
+Okay No&Recuerdo Que&Te Gustaba/%
 obj_gigaqueen_enemy_slash_Step_0_gml_116_0
-Meanwhile I Don't&Need To Improve&Because I'm Already&Perfect And Can&Shoot Lasers From&My Fancy Glass/%
+Mientras Tanto No&Necesito Mejorar&Porque Ya Soy&Perfecta Y Puedo&Lanzar Láseres De&Mi Vaso Elegante/%
 obj_gigaqueen_enemy_slash_Step_0_gml_118_0
-Now Is The&Time To&(LOOPING ERROR)/%
+La Hora&Llegó De&(ERROR DE CICLO)/%
 obj_gigaqueen_enemy_slash_Step_0_gml_120_0
-There Are&Keyboard Controls&Inside/%
+Hay Controles&De Teclados&Dentro/%
 obj_gigaqueen_enemy_slash_Step_0_gml_121_0
-Press ~1&And ~2 To&Dodge ~3 And ~4&To Punch/%
+Pulsa ~1&Y ~2 Para&Esquivar ~3 Y ~4&Para Golpear/%
 obj_gigaqueen_enemy_slash_Step_0_gml_123_0
-~1 And ~2 To&Punch/%
+~1 Y ~2 Para&Golpear/%
 obj_gigaqueen_enemy_slash_Step_0_gml_121_0_b
-You Have Truly&Proven Yourselves&To Be A Worthy&Opponent/%
+Enserio Que Han&Provado Ser Unos&Muy Dignos&Oponentes/%
 obj_gigaqueen_enemy_slash_Step_0_gml_122_0
-You Have Earned The&Right To Remember What&Your Fighting Machine's&True Purpose Is/%
+Se Han Ganado El&Derecho De Recordar El&Verdadero Propósito De&Su Máquina De Pelea/%
 obj_gigaqueen_enemy_slash_Step_0_gml_123_0_b
-To Get Your Own&Ass Thrashed/%
+Ser Hechado&A La Basura/%
 obj_gigaqueen_enemy_slash_Step_0_gml_124_0_b
-By Me/%
+Por Mi/%
 obj_gigaqueen_enemy_slash_Step_0_gml_125_0
-With My Final Attack/%
+Con Mi Ataque Final/%
 obj_gigaqueen_enemy_slash_Step_0_gml_126_0
-Ha Ha Bye/%
+Ja Ja Adiós/%
 gigamissle
 gigabreath
 obj_gigaqueen_enemy_slash_Step_0_gml_213_0
-* El paisaje urbane esta rugiendo.
+* El paisaje urbano esta rugiendo.
 obj_gigaqueen_enemy_slash_Step_0_gml_214_0
-* La noche es joven para pelear.
+* La noche es jóven para pelear.
 obj_gigaqueen_enemy_slash_Step_0_gml_215_0
 * La batala enserio se está calentando.
 obj_gigaqueen_enemy_slash_Step_0_gml_216_0
@@ -32066,57 +32066,57 @@ obj_ch2_scene21_loop_slash_Step_0_gml_455_0
 obj_ch2_scene21_loop_slash_Step_0_gml_511_0
 \E3* Qrue talst^1, marinos de agua dulce!/
 obj_ch2_scene21_loop_slash_Step_0_gml_512_0
-\E2* Arrrrrr-t thou ready-eth to visiteth Davith Jones' Lockre???/
+\E2* Arrrrrr-t estánst listost para visitarq el Lockre de Davith Jones???/
 obj_ch2_scene21_loop_slash_Step_0_gml_514_0
-\EM* Could..^1. Could you NOT speak with more than one accent?/
+\EM* Podrías..^1. Podrías NO hablar con más de un acento?/
 obj_ch2_scene21_loop_slash_Step_0_gml_516_0
-\E1* Yeahth^1, alright./
+\E1* Sist^1, ok./
 obj_ch2_scene21_loop_slash_Step_0_gml_518_0
-\EC* Oh^1, Mr. Rouxls^1! I just remembered^1! Lancer^1! He's not well!/
+\EC* Oh^1, Mr. Rouxls^1! Acabo de recordar^1! Lancer^1! No está bien!/
 obj_ch2_scene21_loop_slash_Step_0_gml_520_0
-\E6* O dear. Didst thou^1, erm^1, tryeth Burpinge him???/
+\E6* O rayos. Intentarronst^1, erm^1, rebotarlost a élt???/
 obj_ch2_scene21_loop_slash_Step_0_gml_521_0
-\E1* Perhapsth give him a sip of Medieval Ginger Ale??/
+\E1* Quizást darlet un pocoq de tést con limónt??/
 obj_ch2_scene21_loop_slash_Step_0_gml_522_0
-\E0* ..^1. Waite^1! I hath NOT time to spare on such Frivolitese!/
+\E0* ..^1. Esperat^1! No tengot tiempoq que perdert en tonteríast!/
 obj_ch2_scene21_loop_slash_Step_0_gml_523_0
-\E1* I must Conquere this Islande and defeast Thou!/
+\E1* Debot conquistart estast islaq y derrotartet!/
 obj_ch2_scene21_loop_slash_Step_0_gml_524_0
-\E4* Then^1, giftingeth her a succulent Island Presente^1,/
+\E4* Entonces^1, cuandot le dest esteq suculentot regalo de islaq^1,/
 obj_ch2_scene21_loop_slash_Step_0_gml_525_0
-\E3* The Beautious Queene shall reward ME -/
+\E3* La preciosat Queenet me reecompenzarat -/
 obj_ch2_scene21_loop_slash_Step_0_gml_526_0
-\E5* By Makingeth Me Her Left-Hand-Man!!/
+\E5* Y me haráq sut mano izquierdat!!/
 obj_ch2_scene21_loop_slash_Step_0_gml_527_0
-\E6* Hahaha!^1! Me!^1! The ULTIMATE Minion!!/
+\E6* Jajaja!^1! Yo!^1! El secuaz SUPREMO!!/
 obj_ch2_scene21_loop_slash_Step_0_gml_528_0
-\E2* Now^1, beholdeth^1! The forme of thoun Destroyere!/%
+\E2* Ahora^1, contemplent^1! La format de sust destructort!/%
 fallnow
 obj_ch2_scene21_loop_slash_Step_0_gml_538_0
-\E2* ..^1. whatevereth this Thing is!/%
+\E2* ..^1. lo quet sea que seat estot!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_546_0
-\EU* Th..^1. This again!?/%
+\EU* Es..^1. Esto otra vez!?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_553_0
-\E3* Haha^1, squirming with Jealousy at my Battle Caravane!?/
+\E3* Jaja^1, chillando con celos por mi caravana de batalla!?/
 obj_ch2_scene21_loop_slash_Step_0_gml_554_0
-\E4* 'Tis an Effigie of an Ancient God of Combate^1,/
+\E4* Estoq es unaq antiguedadt de losq diosesq del combatet^1,/
 obj_ch2_scene21_loop_slash_Step_0_gml_555_0
-\E6* I rescuedeth it from The King's Trash Heape^1,/
+\E6* Lo recuperet de elt basureroq de el reyt^1,/
 obj_ch2_scene21_loop_slash_Step_0_gml_556_0
-\E1* And fixedeth it up in this Worldes' Scrap Shoppe!!/
+\E1* Y lot reparep en la tiendat deq herreríat!!/
 obj_ch2_scene21_loop_slash_Step_0_gml_561_0
-\EM* It's^1, um..^1. It's actually a rejected^1, uh^1, design we made.../
+\EM* Es^1, um..^1. en realidad es un diseño^1, uh^1, que rechazamos.../
 obj_ch2_scene21_loop_slash_Step_0_gml_563_0
-\E3* Ha ha^1, and Soone^1, THOU shalt tasteth Rejection --/
+\E3* Ja ja^1, y Prontot^1, USTEDES saborearant el rechazot --/
 obj_ch2_scene21_loop_slash_Step_0_gml_564_0
-\E1* Firsthandeth^1, in the form of varieth Bulletst!/%
+\E1* Prrimerost^1, en la forma de variat balast!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_569_0
-\EM* Um..^1. that's..^1. just a duck./
+\EM* Um..^1. eso es..^1. solo un pato./
 obj_ch2_scene21_loop_slash_Step_0_gml_571_0
 obj_ch2_scene21_loop_slash_Step_0_gml_572_0
-\E6* I knoweth what it art^1, Ruffiane!!/
+\E6* Si set loq que est^1, Rufiane!!/
 obj_ch2_scene21_loop_slash_Step_0_gml_573_0
-\E1* Go forth!^1! My Squeakie Duckie!!/%
+\E1* Avanzat!^1! Mi Patitot Chillónt!!/%
 swan_cover
 battle
 battlehey
@@ -35793,99 +35793,99 @@ king_drink
 ki_actor
 ki
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_59_0
-\E0* You may have bested me. But.../
+\E0* Puede que me hayan derrotado. Pero.../
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_60_0
-\E7* You'll soon face someone..^1. More fearsome.../
+\E7* Pronto se enfrentarán a alguien..^1. Más temible.../
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_61_0
-\E4* More tyrannical than you could EVER imagine./
+\E4* Más tiránica de lo que se pueden imaginar./
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_63_0
-\E1* Queen? We already met her./%
+\E1* Queen? Ya la conocimos./%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_71_0
-\E6* WHAT!?/%
+\E6* QUÉ!?/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_96_0
-\E1* Wow Nice Hamster Wheel/%
+\E1* Wow Genial Rueda De Hamster/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_104_0
-\E5* So you^1, too^1, have come to humiliate me.../
+\E5* Asi que^1, tu también^1, has venido a humillarme.../
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_106_0
-\EO* No I Am Serious It's Cool/%
+\EO* No Enserio Es Genial/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_137_0
-\EB* That Water Bottle However/%
+\EB* Esa Botella De Agua Por Otro Lado/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_150_0
-\EA* DO NOT SPEAK ILL OF THE ROYAL WATER BOTTLE!/%
+\EA* NO HABLES MAL DE LA BOTELLA DE AGUA REAL!/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_163_0
-\EO* It's Nothing Compared To The One At My Mansion/%
+\EO* No Es Nada Comparada A La De Mi Mansión/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_171_0
-\E5* Hmph. Materialistic as always./%
+\E5* Hmph. Materialista como siempre./%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_180_0
-\E0* Materialism Evaluation Denied/
+\E0* Evaluación De Materialista Denegada/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_181_0
-\EC* I Simply Give Myself: The Treatment I Deserve/%
+\EC* Simplemente Me Doy: El Trato Que Merezco/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_191_0
-\ED* You Slept Curled Up On A Dirty Throne Every Day/%
+\ED* Tú Dormías En Un Trono Sucio Todos Los Días/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_206_0
-\EA* ENOUGH^1, WENCH!!!/%
+\EA* SUFICIENTE^1, MOZA!!!/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_224_0
-\EB* What purpose have you here... Queenie Beanie./
+\EB* Qué propósitos tienes aquí... Queenie Beanie./
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_226_0
-\ED* Just Thought I Would Send A Message^1, Kingy Wingy/
+\ED* Solo Venía A Traerte Un Mensaje^1, Kingy Wingy/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_227_0
-\E0* That You Don't Have To Worry About Lancer/%
+\E0* Que Ya No Te Tienes Que Preocupar De Lancer/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_235_0
-\E1* I Will Be Looking After Him From Now On/
+\E1* Yo Estaré Con Él De Ahora En Adelante/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_236_0
-\E5* After All..^1. I Am.../%
+\E5* Después De Todo..^1. Yo Soy.../%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_244_0
-\E0* His Mother/%
+\E0* Su Mamá/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_255_0
-\E9* When was that decided!?/%
+\E9* Cuando se decidió eso!?/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_263_0
-\ED* Arbitrarily Right Now/%
+\ED* Arbitrariamente Ahora/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_271_0
 \E5* ...^1. hmph./
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_272_0
-\E5* Do what you please with the boy./
+\E5* Haz lo que quieras con el chico./
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_273_0
-\E5* But if he cries.../
+\E5* Pero si llora.../
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_274_0
-\E8* ..^1. Bounce him on the ground like a ball./%
+\E8* ..^1. Hazlo rebotar como una bola./%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_285_0
-\ED* I Think It Is Time To Abort This Conversation/
+\ED* Creo Que Es Hora De Abortar Esta Conversación/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_287_0
-\EB* ..^1. As you wish./%
+\EB* ..^1. Como desees./%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_295_0
-\E0* Oho^1, quite sorry^1, mine Kinge.../
+\E0* Oho^1, disculpet^1, miq reyt.../
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_296_0
-\E3* Queene hath a nyew Man about Towne now!!/%
+\E3* Queene tienet un nuevoq hombret al tronot!!/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_303_0
-\E5* Who?/%
+\E5* Quién?/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_311_0
-\EI* Yeah Who/%
+\EI* Si Quien/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_320_0
 \E6* Er/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_327_0
-\E1* I think I/%
+\E1* Creo Que Yo/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_333_0
-\E6* Left my puzzle on/%
+\E6* Deje mi acertijo en/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_341_0
-\E5* POSTHASTE!!!/%
+\E5* EL CORREO!!!/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_352_0
-\EL* Who Was That??/%
+\EL* Quién Era Ese??/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_360_0
-\E5* Sigh..^1. That was my son's..../%
+\E5* Sigh..^1. ese era el..../%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_368_0
-\EC* LESSER father./%
+\EC* MENOS padre de mi hijo./%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_378_0
-\EN* Cannot Calculate Someone Less Than You/%
+\EN* No Puedo Calcular A Alguien Menos Que Tú/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_390_0
-\EA* BEGONE!!!!/
+\EA* LARGATE!!!!/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_392_0
-\E0* Bye Bye Kingy Wingy/%
+\E0* Adiosito Kingy Wingy/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_413_0
-\ED* By The Way Did You Want Anything From The Store/
+\ED* Por Cierto Quieres Algo De La Tienda/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_415_0
-\E8* ..^1. cashews./
+\E8* ..^1. anacardos./
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_417_0
-\E1* Order Processed/%
+\E1* Orden Procesada/%
 obj_ch2_room_castle_1f_slash_Step_0_gml_19_0
 \E3* Solo querías mostrarnos tu gran casa^1, huh?/
 obj_ch2_room_castle_1f_slash_Step_0_gml_21_0
@@ -36778,19 +36778,19 @@ wave_maxb
 obj_legend_neo_slash_Draw_0_gml_69_0
 Todo caerá en CAOS.
 obj_legend_neo_slash_Draw_0_gml_80_0
-Los TITANES tomarán&forma por la FUENTES
+Los TITANES tomarán&forma por las FUENTES
 obj_legend_neo_slash_Draw_0_gml_99_0
-          Y envolveran&   la tierra en devastación.
+          Y envolverán&   la tierra en devastación.
 obj_legend_neo_slash_Draw_0_gml_167_0
 Los Darkners Sobrevivientes,&aplastados por la oscuridad
 obj_legend_neo_slash_Draw_0_gml_180_0
-Lentamente, uno por uno,&se tornaran en estatuas...
+Lentamente, uno por uno,&se tornarán en estatuas...
 obj_legend_neo_slash_Draw_0_gml_196_0
 Dejando a los Lightners&defendiéndose solos
 obj_legend_neo_slash_Draw_0_gml_211_0
-Perdidos en una&    eterna noche...
+Perdidos en una&   eterna noche...
 obj_legend_neo_slash_Draw_0_gml_225_0
-Es esa tu idea&  de paraíso?
+Es esa tu idea& de paraíso?
 saved
 xcoord
 ycoord
