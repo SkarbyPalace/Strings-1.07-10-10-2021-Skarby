@@ -8766,7 +8766,7 @@ Si tengo que pelear...
 scr_weaponinfo_slash_scr_weaponinfo_gml_494_0
 (Se siente como cuerdas de guitarra...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_513_0
-AniñoCongelado
+AnilloCongelado
 scr_weaponinfo_slash_scr_weaponinfo_gml_514_0
 Un anillo con un globo de nieve en él.#... ¿Espera, hay alguien dentro?
 scr_weaponinfo_slash_scr_weaponinfo_gml_515_0
@@ -31328,84 +31328,84 @@ puzzle_b
 puzzle_c
 leftcollider
 obj_ch2_scene19a_slash_Step_0_gml_56_0
-* Looks like a puzzle./%
+* Parece un acertijo./%
 obj_ch2_scene19a_slash_Step_0_gml_62_0
-\EK* ..^1. think^1, uh^1, YOU can do it^1, Kris?/%
+\EK* ..^1. creo que^1, uh^1, TÚ puedes hacerlo^1, Kris?/%
 obj_ch2_scene19a_slash_Step_0_gml_69_0
-\EJ* Calm your skinless^1, boneless^1, thighs everyone./
+\EJ* Calma sin piel^1, sin huesos^1, ni muslos todo el mundo./
 obj_ch2_scene19a_slash_Step_0_gml_70_0
-\E7* I'LL think of a solution!/
+\E7* Pensaré en una solución!/
 obj_ch2_scene19a_slash_Step_0_gml_72_0
-\EK* (Kris^1, just ignore him.)/
+\EK* (Kris^1, solo ignoralo.)/
 obj_ch2_scene19a_slash_Step_0_gml_73_0
-\EK* I'll just be over here where I can't hear you./
+\EK* Estaré aquí donde no te pueda oir./
 obj_ch2_scene19a_slash_Step_0_gml_75_0
-\EI* And I'll be here^1, away from your IQ-debuffing aura!/%
+\EI* Y yo estaré acá^1, alejado de tu aura reductora de IQ!/%
 berdlynpc
 obj_ch2_scene19a_slash_Step_0_gml_153_0
-* \E9Yeah!^1! We got it!!/%
+* \E9 Si!^1! Lo tenemos!!/%
 obj_ch2_scene19a_slash_Step_0_gml_162_0
-\E3* Wh..^1. What!? Hey^1, wait a second --/
+\E3* Qu..^1. Qué!? Hey^1, espera un segundo --/
 obj_ch2_scene19a_slash_Step_0_gml_163_0
-\EB* How'd you..^1. How'd you solve it without me!?/
+\EB* Como lo..^1. Cómo lo resolviste sin mi!?/
 obj_ch2_scene19a_slash_Step_0_gml_165_0
-\E2* Hahaha!^1! Kris figured it out before you!^1! Jealous?/%
+\E2* Jajaja!^1! Kris lo averiguo antes que tu!^1! Celoso?/%
 obj_ch2_scene19a_slash_Step_0_gml_172_0
-\EC* Well I.../%
+\EC* Bueno yo.../%
 obj_ch2_scene19a_slash_Step_0_gml_178_0
-\E7* I knew the answer^1, I just wanted to see Kris try^1, first!/
+\E7* Sabía la respuesta^1, solo quería ver a Kris intentarlo^1, primero!/
 obj_ch2_scene19a_slash_Step_0_gml_179_0
-\E6* It's called SUSPENSE^1, Susan!^1! DRAMATIC^1, suspense!!/%
+\E6* Se llama SUSPENSO^1, Susan!^1! suspenso^1, DRAMÁTICO!!/%
 obj_ch2_scene19a_slash_Step_0_gml_192_0
-\EK* Then YOU do the next one./%
+\EK* Entonces TÚ haz el siguiente./%
 obj_ch2_scene19a_slash_Step_0_gml_199_0
-\E7* Fine^1! WATCH me!!/%
+\E7* Bien^1! MIRAME!!/%
 obj_ch2_scene19a_slash_Step_0_gml_205_0
-\EC* (Also my name's not Susan?)/%
+\EC* (Y mi nombre no es Susan?)/%
 obj_ch2_scene19b_slash_Step_0_gml_47_0
-\E7* Ha. Child's play. Couldn't you give me a harder one?/
+\E7* Ja. Juego de niños. No me pudiste dar uno más difícil?/
 obj_ch2_scene19b_slash_Step_0_gml_48_0
-\E1* For example^1, if anyone had a 4x4 Puzzle Cube.../
+\E1* Por ejemplo^1, si alguien tuviera un acertijo de cubo 4x4.../
 obj_ch2_scene19b_slash_Step_0_gml_50_0
-\EB* Just tell us the solution./%
+\EB* Solo dinos la solución./%
 obj_ch2_scene19b_slash_Step_0_gml_52_0
-\EJ* Well^1, hahah - ah^1, you see -/%
+\EJ* Bueno^1, jajaj - ah^1, pues verás -/%
 obj_ch2_scene19b_slash_Step_0_gml_53_0
 \E0* /%
 obj_ch2_scene19b_slash_Step_0_gml_54_0
-\E1* First^1, you/%
+\E1* Primero^1, tú/%
 obj_ch2_scene19b_slash_Step_0_gml_55_0
 obj_ch2_scene19b_slash_Step_0_gml_56_0
-\ED* You align the shadows..^1. with the lines on the floor./%
+\ED* Alineas las sombras..^1. con las líneas en el suelo./%
 obj_ch2_scene19b_slash_Step_0_gml_58_0
-\E1* Alright. What do we move first./
+\E1* Bien. Que movemos primero./
 obj_ch2_scene19b_slash_Step_0_gml_60_0
 \ED* Um.../
 obj_ch2_scene19b_slash_Step_0_gml_62_0
-\EK* Kris^1, just do the puzzle./%
+\EK* Kris^1, solo haz el acertijo./%
 obj_ch2_scene19b_slash_Step_0_gml_64_0
-\EC* J...Just give me a moment!!/
+\EC* S...Solo dame un momento!!/
 obj_ch2_scene19b_slash_Step_0_gml_65_0
-\EB* It's not like Kris could even solve it anyway!!/%
+\EB* No es como si Kris lo pueda resolver de todos modos!!/%
 obj_ch2_scene19b_slash_Step_0_gml_146_0
-\E2* Whoops^1, looks like Kris got it again!/%
+\E2* Whoops^1, parece que Kris lo hizo denuevo!/%
 obj_ch2_scene19b_slash_Step_0_gml_156_0
-\E3* H-huh!? W..^1. wait!^1! Wait just a second!!/
+\E3* H-huh!? E..^1. espera!^1! Espera un segundo!!/
 obj_ch2_scene19b_slash_Step_0_gml_157_0
-\EB* You can't have --/%
+\EB* No puedes tener --/%
 obj_ch2_scene19b_slash_Step_0_gml_163_0
-\EB* You just got lucky^1! It's just trial and error!/
+\EB* Solo tienes suerte Kris^1! Es prueba y error!/
 obj_ch2_scene19b_slash_Step_0_gml_164_0
-\ED* The brute force method^1! Ha^1! A caveman could do it!/
+\ED* La manera más bruta^1! Ja^1! Un cavernícola puede hacerlo!/
 obj_ch2_scene19b_slash_Step_0_gml_165_0
-\E2* Except cavemen died OUT^1, because they're STUPID!/%
+\E2* Excepto que los cavernícolas MURIERON^1, porque son ESTÚPIDOS!/%
 obj_ch2_scene19b_slash_Step_0_gml_173_0
-\EC* I'M solving the next one^1, so --/
+\EC* YO resuelvo el siguiente^1, así que --/
 obj_ch2_scene19b_slash_Step_0_gml_174_0
-\EB* Just STAY HERE until I'm done!!/%
+\EB* QUÉDENSE AQUÍ hasta que termine!!/%
 obj_ch2_scene19b_slash_Step_0_gml_180_0
 obj_ch2_scene19b_slash_Step_0_gml_181_0
-\E2* Yeah^1, like we're gonna wait that long./%
+\E2* Si^1, como si fueramos a esperar tanto./%
 niseberdly
 berdlyoutline
 berdly_crown
@@ -31419,101 +31419,101 @@ sb_crowd
 berdly_applause_start
 berdly_applause_stop
 obj_ch2_scene19c_slash_Step_0_gml_60_0
-\EB* What are you two doing here!? This one's MINE!/
+\EB* Qué están haciendo aquí!? Este es MÍO!/
 obj_ch2_scene19c_slash_Step_0_gml_61_0
-\E7* It'll be over in a second^1, so why don't you just^1,/
+\E7* Terminaré en un segundo^1, así que porque no solo^1,/
 obj_ch2_scene19c_slash_Step_0_gml_62_0
-\E6* Relax in your mind palace^1,/%
+\E6* Se relajan en su palacio mental^1,/%
 obj_ch2_scene19c_slash_Step_0_gml_68_0
-\E2* Which PROBABLY doesn't even have anything in it!/%
+\E2* El cual PROBABLEMENTE no tenga nada!/%
 obj_ch2_scene19c_slash_Step_0_gml_74_0
 obj_ch2_scene19c_slash_Step_0_gml_75_0
-\EC* I just need to figure out..^1. why.../
+\EC* Solo necesito entender..^1. por que.../
 obj_ch2_scene19c_slash_Step_0_gml_76_0
-* The shapes don't go together.../%
+* Las formas no van juntas.../%
 obj_ch2_scene19c_slash_Step_0_gml_88_0
 obj_ch2_scene19c_slash_Step_0_gml_89_0
 \E6* Oh. Hey./
 obj_ch2_scene19c_slash_Step_0_gml_90_0
-\E7* You just gotta fill the whole square thing^1, right?/
+\E7* Solo tienes que llenar el cuadrado^1, cierto?/
 obj_ch2_scene19c_slash_Step_0_gml_91_0
-\E7* What if you just..^1. piled them all in the corners./
+\E7* Que pasa si los..^1. apilamos en una esquina./
 obj_ch2_scene19c_slash_Step_0_gml_93_0
-\E1* Like digging a really wide hole./%
+\E1* Como cavar un gran hoyo./%
 obj_ch2_scene19c_slash_Step_0_gml_95_0
-\E3* Wh..^1. what!?/
+\E3* Qu..^1. qué!?/
 obj_ch2_scene19c_slash_Step_0_gml_97_0
-\E2* Kris^1, wanna try?/%
+\E2* Kris^1, quieres intentar?/%
 obj_ch2_scene19c_slash_Step_0_gml_168_0
-\E3* S-SUSIE's idea worked!? There's..^1. there's no way!!/
+\E3* L-la idea de Susie funcionó!? No hay..^1. no hay manera!!/
 obj_ch2_scene19c_slash_Step_0_gml_169_0
-\EB* It's a computer bug!^1! It's a glitch!!/
+\EB* Eso es un bug!^1! Un glitch!!/
 obj_ch2_scene19c_slash_Step_0_gml_170_0
-\ED* You're cheating!^1! J..^1. just like when you w-wavedash!/%
+\ED* Haces trampa!^1! C..^1. como cuando hacers w-wavedash!/%
 obj_ch2_scene19c_slash_Step_0_gml_190_0
-\E9* HAHAHA!^1! How's it taste^1, idiot!?/%
+\E9* JAJAJA!^1! A que sabe^1, idiota!?/%
 obj_ch2_scene19c_slash_Step_0_gml_203_0
-\EY* Man^1, I'm gonna relish this FOREVER!/
+\EY* Hombre^1, voy a saborear esto por SIEMPRE!/
 obj_ch2_scene19c_slash_Step_0_gml_204_0
-\E9* All those times you acted so high and mighty.../
+\E9* Todo esos tiempos que actuaste sabio e inteligente.../
 obj_ch2_scene19c_slash_Step_0_gml_205_0
-\EY* Well^1, guess what? You're not!!/
+\EY* Bueno^1, adivina que? No lo eres!!/
 obj_ch2_scene19c_slash_Step_0_gml_206_0
-\EH* Face it^1! You're just as big a dumbass as the rest of us!!/
+\EH* Enfréntalo^1! Solo eres un imbécil como el resto!!/
 obj_ch2_scene19c_slash_Step_0_gml_207_0
-\EY* Hahahaha!!/%
+\EY* Jajajaja!!/%
 obj_ch2_scene19c_slash_Step_0_gml_241_0
-\E9* ..^1. fine./
+\E9* ..^1. bien./
 obj_ch2_scene19c_slash_Step_0_gml_242_0
-\EG* I admit it./
+\EG* Lo admito./
 obj_ch2_scene19c_slash_Step_0_gml_243_0
-\EH* I...^1. I'm not that smart./
+\EH* Yo...^1. no soy tan inteligente./
 obj_ch2_scene19c_slash_Step_0_gml_244_0
-\E9* I never was./%
+\E9* Nunca lo fui./%
 obj_ch2_scene19c_slash_Step_0_gml_251_0
-\EB* THERE^1, are you happy!?/%
+\EB* AHÍ^1, estás feliz!?/%
 obj_ch2_scene19c_slash_Step_0_gml_257_0
-\E9* I..^1. I..^1. I just.../%
+\E9* Yo..^1. yo..^1. yo solo.../%
 berdly_flashback.ogg
 obj_ch2_scene19c_slash_Step_0_gml_274_0
-\E8* I used to be a forgettable little bluebird./
+\E8* Solía ser un olvidable azulejo./
 obj_ch2_scene19c_slash_Step_0_gml_275_0
-\EH* No one even remembered my name./%
+\EH* Nadie recordaba mi nombre siquiera./%
 sb_con
 obj_ch2_scene19c_slash_Step_0_gml_288_0
-\E8* Then..^1. one day^1, came the spelling bee Noelle and I studied for./
+\E8* Entonces..^1. un día^1, llego el spelling bee en el que estudiamos Noelle y yo./
 obj_ch2_scene19c_slash_Step_0_gml_289_0
-* When it came down to the two of us.../%
+* Cuando nos toco enfrentarnos.../%
 obj_ch2_scene19c_slash_Step_0_gml_295_0
-\E9* She got nervous and couldn't speak./%
+\E9* Ella se puso nerviosa y no podía hablar./%
 obj_ch2_scene19c_slash_Step_0_gml_325_0
-\E0* She lost./%
+\E0* Ella perdió./%
 obj_ch2_scene19c_slash_Step_0_gml_344_0
-\E4* And I won./
+\E4* Y yo gané./
 obj_ch2_scene19c_slash_Step_0_gml_345_0
-\E7* That was when I tasted it./
+\E7* Ahí fue cuando lo saboree./
 obj_ch2_scene19c_slash_Step_0_gml_346_0
-\E7* The praise. The glory^1! The..^1. SUPERIORITY!!/%
+\E7* Los elogios. La gloria^1! La..^1. SUPERIORIDAD!!/%
 berdly_smart
 obj_ch2_scene19c_slash_Step_0_gml_352_0
-\E6* The addictive POWER of being..^1. SMART!!/%
+\E6* El adictivo PODER de ser..^1. INTELIGENTE!!/%
 obj_ch2_scene19c_slash_Step_0_gml_356_0
-\EI* Since then^1, year after year^1, I've been number 1 in the class./%
+\EI* Desde entonces^1, año tras año^1, he sido el número uno de la clase./%
 obj_ch2_scene19c_slash_Step_0_gml_364_0
-\E8* ..^1. but it's only because Noelle helps me study./
+\E8* ..^1. pero solo porque Noelle me ayuda a estudiar./
 obj_ch2_scene19c_slash_Step_0_gml_365_0
-\EH* She's..^1. the real smart kid./
+\EH* Ella es..^1. la verdadera niña inteligente./
 obj_ch2_scene19c_slash_Step_0_gml_366_0
-\E9* But everyone's expectations for ME are so high now../
+\E9* Pero las expectativas de todos son tan altas hacia mi../
 obj_ch2_scene19c_slash_Step_0_gml_367_0
-\E8* What am I going to do once I go somewhere without her...?/%
+\E8* Que voy a hacer cuando ella no este conmigo...?/%
 obj_ch2_scene19c_slash_Step_0_gml_381_0
-\EA* That's..^1. why I wanted to make a new world. For us./%
+\EA* Es por eso..^1. que quería un nuevo mundo. Para nosotros./%
 berdly_show_word
 obj_ch2_scene19c_slash_Step_0_gml_399_0
-\E6* A world where we'll ALWAYS be number 1 and number 2!!!/%
+\E6* Un mundo donde siempre seremos el número uno y dos!!!/%
 obj_ch2_scene19c_slash_Step_0_gml_417_0
-\E8* But..^1. I was so wrapped up in that^1, I got tricked by Queen./%
+\E8* Pero..^1. I was so wrapped up in that^1, I got tricked by Queen./%
 obj_ch2_scene19c_slash_Step_0_gml_423_0
 \EH* And now..^1. Noelle is going to suffer because of it./
 obj_ch2_scene19c_slash_Step_0_gml_424_0
@@ -33354,7 +33354,7 @@ obj_ch2_scene27_slash_Step_0_gml_392_0
 obj_ch2_scene27_slash_Step_0_gml_402_0
 \E3* Tú..^1. entiendes como me siento?/%
 obj_ch2_scene27_slash_Step_0_gml_417_0
-\EN* No Realmente LOL Solo Quiero Ver Feliz A Noelle/%
+\EN* No Realmente LMAO Solo Quiero Ver Feliz A Noelle/%
 obj_ch2_scene27_slash_Step_0_gml_437_0
 \E4* Jaja^1, bueno..^1. Me alegra..^1. que ahora se entiendan./%
 obj_ch2_scene27_slash_Step_0_gml_446_0
@@ -37409,7 +37409,7 @@ obj_controller_city_mice3_slash_Step_0_gml_53_0
 obj_controller_city_mice3_slash_Step_0_gml_74_0_b
 * ¿No es algo bueno?/
 obj_controller_city_mice3_slash_Step_0_gml_75_0_b
-* Estoy resolviendo las cosas por mí mismo. Tomando cosas nuevas. Derrotar enemigos por mí mismo./
+* Estoy resolviendo las cosas por mí misma. Tomando cosas nuevas. Derrotar enemigos por mí misma./
 obj_controller_city_mice3_slash_Step_0_gml_76_0_b
 * Y cada vez que lo hago.../
 obj_controller_city_mice3_slash_Step_0_gml_77_0
@@ -37443,7 +37443,7 @@ obj_controller_city_mice3_slash_Step_0_gml_168_0
 obj_controller_city_mice3_slash_Step_0_gml_208_0
 \EE* KRIS!!!!!!!/
 obj_controller_city_mice3_slash_Step_0_gml_209_0
-\E8* Dios^1, tienes suerte de que Sussie no esté aquí!/
+\E8* Dios^1, tienes suerte de que Susie no esté aquí!/
 obj_controller_city_mice3_slash_Step_0_gml_210_0
 \E8* De lo contrario, TÚ estarías boca abajo en una pila de ratones!/
 obj_controller_city_mice3_slash_Step_0_gml_211_0
@@ -37843,7 +37843,7 @@ cyber_battle_prelude.ogg
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_28_0
 * Si eres otra cosa^1, tal vez un zapatos de citas no está bien...?/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_29_0
-* Tal vez podría interesarte en un AniñoCongelado?/%
+* Tal vez podría interesarte en un AnilloCongelado?/%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_44_0
 \E2* Huh...? Un aniño...?/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_46_0
@@ -37853,7 +37853,7 @@ obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_47_0
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_49_0
 \E1* Fuerte...? B-bien, Supongo que así es como funciona aquí.../%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_84_0
-* (Obtuviste un AniñoCongelado.)/%
+* (Obtuviste un AnilloCongelado.)/%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_117_0
 \EB* (Que..^1. qué acaba de pasar?)/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_118_0
