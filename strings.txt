@@ -5761,93 +5761,93 @@ scr_text_slash_scr_text_gml_7250_0
 scr_text_slash_scr_text_gml_7254_0
 * (Vamos^1, eso..^1. Fue sólo un mal sueño...)/
 scr_text_slash_scr_text_gml_7255_0
-* (Even so^1, it was so real^1, I can't get it out of my mind...)/
+* (Aun así^1, era tan real^1, que no me lo podía quedar en mente...)/
 scr_text_slash_scr_text_gml_7256_0
-* (..^1. that voice^1, telling me what to do.)/
+* (..^1. esa voz^1, diciendome que hacer.)/
 scr_text_slash_scr_text_gml_7257_0
-* (A voice unlike Kris's...)/
+* (Una voz diferente a la de Kris...)/
 scr_text_slash_scr_text_gml_7258_0
-* (..^1. a terrifying voice...)/
+* (..^1. una voz terorífica...)/
 scr_text_slash_scr_text_gml_7259_0
 scr_text_slash_scr_text_gml_7260_0
 * (Kris...)/
 scr_text_slash_scr_text_gml_7261_0
-* (Recently^1, there's been something..^1. different..^1. about them.)/
+* (Recientemente^1, ha habido algo..^1. diferente..^1. en ellos.)/
 scr_text_slash_scr_text_gml_7262_0
-* (Why hasn't anyone else noticed it...?)/
+* (Nadie más lo ha notado...?)/
 scr_text_slash_scr_text_gml_7263_0
-* (I..^1. I have to figure it out.)/
+* (Yo..^1. tengo que descubrir.)/
 scr_text_slash_scr_text_gml_7264_0
-* (Why Kris is acting so strange...)/
+* (Por que Kris actúa tan extraño...)/
 scr_text_slash_scr_text_gml_7265_0
-* (Why they keep coming..^1. to the hospital...)/
+* (Por qué siguen viniendo..^1. al hospital...)/
 scr_text_slash_scr_text_gml_7266_0
 scr_text_slash_scr_text_gml_7273_0
 * H-huh!?/
 scr_text_slash_scr_text_gml_7274_0
-* K-Kris..^1. how long have you been standing there!?/
+* K-Kris..^1. cuánto tiempo llevas ahí!?/
 scr_text_slash_scr_text_gml_7275_0
-* Phew^1, you..^1. haha^1, you really scared me^1, you know?/
+* Phew^1, tú..^1. jaja^1, enserio me asustaste^1, sabes?/
 scr_text_slash_scr_text_gml_7276_0
-* (Keep it together^1, Noelle...)/
+* (Mantente centrada^1, Noelle...)/
 scr_text_slash_scr_text_gml_7277_0
-* (There's nothing to be afraid of...)/
+* (No hay nada que temer...)/
 scr_text_slash_scr_text_gml_7278_0
-* (After all^1, a dream is just a dream^1, right...?)/%
+* (Después de todo^1, un sueño es solo un sueño^1, verdad...?)/%
 scr_text_slash_scr_text_gml_7283_0
 scr_text_slash_scr_text_gml_7284_0
 scr_text_slash_scr_text_gml_7285_0
 scr_text_slash_scr_text_gml_7286_0
 scr_text_slash_scr_text_gml_7293_0
-#In your#dream
+#En tus#sueños
 scr_text_slash_scr_text_gml_7294_0
 scr_text_slash_scr_text_gml_7295_0
 scr_text_slash_scr_text_gml_7296_0
 * Kris...?/
 scr_text_slash_scr_text_gml_7297_0
-\M1* Why are you wearing..^1. my watch?/
+\M1* Por qué traes puesto..^1. mi reloj?/
 scr_text_slash_scr_text_gml_7298_0
-* Wh..^1. when did you.../
+* Cu..^1. cuando lo.../
 scr_text_slash_scr_text_gml_7299_0
 scr_text_slash_scr_text_gml_7304_0
-Because it#wasn't a#dream
+Porque#no fue un#sueño
 scr_text_slash_scr_text_gml_7305_0
 scr_text_slash_scr_text_gml_7306_0
-* (..^1. th-then...)/
+* (..^1. en-entonces...)/
 scr_text_slash_scr_text_gml_7307_0
-* (Then why did their voice just now..^1. sound...)/
+* (Por qué su voz..^1. suena...)/
 scr_text_slash_scr_text_gml_7308_0
-\M1* (So terrifying?)/
+\M1* (Tan aterradora?)/
 scr_text_slash_scr_text_gml_7309_0
 scr_text_slash_scr_text_gml_7247_0_b
-\M1* S-stop^1! Don't come any closer!
+\M1* P-para^1! No te acerques más!
 gml_Script_scr_script_delayed
 scr_text_slash_scr_text_gml_7317_0
-\E2\M0* Hey^1, Kris^1! Let's beat it already./
+\E2\M0* Hey^1, Kris^1! Ya deja de jugar./
 scr_text_slash_scr_text_gml_7318_0
-\E0* Man^1, he kept telling me about Noelle^1, like.../
+\E0* Hombre^1, el me seguía hablando de Noelle^1, como.../
 scr_text_slash_scr_text_gml_7319_0
-\EC* Her favorite things^1, places she'd like to go.../
+\EC* Sus cosas favoritas^1, lugares que le gusta ir.../
 scr_text_slash_scr_text_gml_7320_0
-\E1* No idea what the hell that was about./
+\E1* Ni idea de para que era eso./
 scr_text_slash_scr_text_gml_7322_0
 scr_text_slash_scr_text_gml_7324_0
-\EK* So^1, uh^1, the hell were you two doing?/
+\EK* Así que^1, uh^1, que carajos están haciendo?/
 F
 scr_text_slash_scr_text_gml_7326_0
-\EF* O-oh^1, u-um^1, n-nothing^1, Susie!/
+\EF* O-oh^1, u-um^1, n-nada^1, Susie!/
 scr_text_slash_scr_text_gml_7327_0
-\ED* I was..^1. I was just about to go home^1! U-umm..^1. see you!/%
+\ED* Solo..^1. estaba apunto de ir a casa^1! U-umm..^1. hasta luego!/%
 scr_text_slash_scr_text_gml_7333_0
 scr_text_slash_scr_text_gml_7334_0
-\ED* Guess she's afraid of me again^1, huh.../
+\ED* Parece que le sigo dando miedo^1, huh.../
 scr_text_slash_scr_text_gml_7335_0
-\E0* Man..^1. would be nice.../
+\E0* Hombre..^1. sería genial.../
 scr_text_slash_scr_text_gml_7336_0
-\E9* If she knew everything that happened was real^1, huh^1, Kris?/
+\E9* Si ella supiera que todo fue real^1, huh^1, Kris?/
 scr_text_slash_scr_text_gml_7337_0
 scr_text_slash_scr_text_gml_7338_0
-\EK* C'mon^1, try to be a little more enthusiastic. Heh./%
+\EK* Vámos^1, intenta ser un poco más entusiasta. Heh./%
 scr_text_slash_scr_text_gml_7344_0
 #Tomar
 scr_text_slash_scr_text_gml_7345_0
@@ -15220,13 +15220,13 @@ specflush
 obj_town_event_slash_Step_0_gml_157_0
 * (Descargaste el retrete!)/%
 obj_town_event_slash_Step_0_gml_186_0
-* Kris...^1?&* Is everything..^1. alright in there?/%
+* Kris...^1?&* Está todo..^1. bien ahí?/%
 obj_town_event_slash_Step_0_gml_191_0
-* Kris^1, WHAT are you doing?/
+* Kris^1, QUÉ estás haciendo?/
 obj_town_event_slash_Step_0_gml_192_0
-* You did not put a bath bomb in the toilet again^1, did you?/%
+* No pusiste una bomba de baño en el retrete^1, verdad?/%
 obj_town_event_slash_Step_0_gml_197_0
-* Kris^1, if anything bad happens^1, you are paying for the plumbing bill./%
+* Kris^1, si algo malo pasa^1, tú pagarás la cuenta de agua./%
 tcon
 counter
 flowera
@@ -15307,13 +15307,13 @@ ocon
 onioncount
 canrest
 obj_onion_event_slash_Step_0_gml_110_0
-\M3* Hey....^1. thought I told you..^1. to come alone.../
+\M3* Hey....^1. pensé que te dije..^1. que vengas solo.../
 obj_onion_event_slash_Step_0_gml_112_0
-* ..^1. you know what^1, hell if I'm getting involved in this./%
+* ..^1. sabes que^1, ni loca me meto en esto./%
 obj_onion_event_slash_Step_0_gml_139_0
-* Hey Kris. So^1, uh.../
+* Hey Kris. Así que^1, uh.../
 obj_onion_event_slash_Step_0_gml_140_0
-\EK* Do you do weird stuff like this every day after school?/%
+\EK* Haces este tipo de cosas raras después de clases?/%
 sx
 sy
 shadow
@@ -24841,7 +24841,7 @@ krismaxhp
 susiemaxhp
 ralseimaxhp
 obj_queen_enemy_slash_Step_0_gml_12_0
-Ah My Sweet&Idiot Children/%
+Ah Mis Dulces&Niños Idiotas/%
 queenhandx
 queenhandy
 wineglass
@@ -24851,103 +24851,103 @@ shieldhurt
 shieldhurttimer
 balloonsubcon
 obj_queen_enemy_slash_Step_0_gml_123_0
-(Regal Laughter)/%
+(Risa Malvada)/%
 obj_queen_enemy_slash_Step_0_gml_124_0
-Enjoy Your:&Destruction/%
+Disfruta Tu:&Destrucción/%
 obj_queen_enemy_slash_Step_0_gml_125_0
-I'm Computer/%
+Soy Una Computadora/%
 obj_queen_enemy_slash_Step_0_gml_126_0
-Perish Under&My Bosom Or&Whatever/%
+Perezcan En&Mi Seno O&Lo Que Sea/%
 obj_queen_enemy_slash_Step_0_gml_328_0
-Enough You Foolish&Children!/%
+Sufuciente Niños&Tontos!/%
 obj_queen_enemy_slash_Step_0_gml_329_0_b
-So That Final Move&Was Supposed To Be&Cooler But The&Internet Is Down/%
+Ese Movimiento Final&Debió Ser Más&Genial Pero El&Internet Se Cayó/%
 obj_queen_enemy_slash_Step_0_gml_329_0
-Yeah My Final&Attack Like/%
+Si Mi Ataquel&Final Osea/%
 obj_queen_enemy_slash_Step_0_gml_330_0
-It Would Have Been&A Really Sick&Final Attack Kris&You Would Have&Loved It/%
+Hubiera Sido Un&Increiblemente Buen&Ataque Final Kris&Lo Hubieras&Amado/%
 obj_queen_enemy_slash_Step_0_gml_331_0
-Yeah Still Thinking&About That Move&HashtagFinalAttack/%
+Si Sigo Pensando&Acerca De Ese&HashtagAtaqueFinal/%
 obj_queen_enemy_slash_Step_0_gml_128_0
-Guys I Think I&Drank Too Much Of&This Battery Acid&(Ages 3 And Up)/%
+Chicos Creo Que&Tome Mucho De Este&Ácido De Batería&(3 Años De Vejez)/%
 obj_queen_enemy_slash_Step_0_gml_131_0
-Queen,&think of the&Lightners!/%
+Queen,&piensa en los&Lightners!/%
 obj_queen_enemy_slash_Step_0_gml_132_0
-Think! Lightners&Have Already Been&Enslaved By Me&And My Kin/%
+Piensa! Los Lightners&Ya Han Sido&Esclavizados Por Mi&Y Mis Familiares/%
 obj_queen_enemy_slash_Step_0_gml_133_0
-Each Day They&Spend Hours&Worshipping&In Glowing Rapture/%
+Cada Día Pasan&Horas Adorando&En Un&Arrebato Resplandeciente/%
 obj_queen_enemy_slash_Step_0_gml_134_0
-Staring, Tapping,&To Receive Joy/%
+Mirando, Tocando,&Para Recibir Alegría/%
 obj_queen_enemy_slash_Step_0_gml_135_0
-... Until Recently,&When The Town's&Internet Disappeared/%
+... Hasta Hace Poco,&Cuando La Ciudad&Del Internete Desapareció/%
 obj_queen_enemy_slash_Step_0_gml_136_0
-Noelle...&Then Who Will&Help Her?/%
+Noelle...&Entonces Quién&La Ayudará?/%
 obj_queen_enemy_slash_Step_0_gml_137_0
-Is What I&Wondered, Until&The KNIGHT&appeared.../%
+Es Lo Que Me&Preguntaba, Hasta Que&El CABALLERO&apareció.../%
 obj_queen_enemy_slash_Step_0_gml_138_0
-Now, The&Path Is Clear/%
+Ahora, El&Camino Es Claro/%
 obj_queen_enemy_slash_Step_0_gml_139_0
-Then With&The World&Covered In&Darkness/%
+Luego Con&El Mundo&Cubierto En&Oscuridad/%
 obj_queen_enemy_slash_Step_0_gml_140_0
-Instead, Everyone&Can Live In&My Perfect Mansion/%
+En Cambio, Todos Pueden&Vivir En&Mi Mansión Perfecta/%
 obj_queen_enemy_slash_Step_0_gml_141_0
-Now, Stop Resisting&And Welcome The&New Age Of Darkness/%
+Ahora, Deja De Resistir&Y Da La Bienvenida A&Una Nueva Era De Oscuridad/%
 obj_queen_enemy_slash_Step_0_gml_142_0
-We won't let&you control&everyone with&your wires!/%
+No te dejaremos&controlar a&todos con&tus cables!/%
 obj_queen_enemy_slash_Step_0_gml_143_0
-Uhh, you're&literally&controlling&Berdly now./%
+Uhh, literalmente&estás contrlando&a Berdly&en este momento./%
 obj_queen_enemy_slash_Step_0_gml_146_0
-Why Did You&Want One/%
+Por Qué&Querías Uno/%
 obj_queen_enemy_slash_Step_0_gml_183_0
-Aren't we&supposed to&make them&happy?/%
+No se supone&que debemos&hacerlos&felices?/%
 obj_queen_enemy_slash_Step_0_gml_184_0
-Is That Not&What I Am Doing?/%
+No Es Eso Lo&Que Estoy Haciendo?/%
 obj_queen_enemy_slash_Step_0_gml_186_0
-Our Screens Of&Funny Animals And&Candied Games/%
+En Nuestras Pantallas&De Animales Divertidos&Y Juegos Confitados/%
 obj_queen_enemy_slash_Step_0_gml_188_0
-Staring, Tapping,&To Avoid Pain/%
+Mirando, Tocando,&Para Evitar Dolor/%
 obj_queen_enemy_slash_Step_0_gml_190_0
-Now The Refuge&They Take In&The Screens Will&Slowly Fade/%
+Ahora El Refugio&Que Toman En Las&Pantallas Se&Desvanecerán Lentamente/%
 obj_queen_enemy_slash_Step_0_gml_192_0
-Her Strange&And Sad Searches/%
+Sus Extrañas Y&Tristes Búsquedas/%
 obj_queen_enemy_slash_Step_0_gml_193_0
-Who Will&Answer Them?/%
+Quién Las&Responderá?/%
 obj_queen_enemy_slash_Step_0_gml_195_0
-And Created&This Wonderful&World Of&Darkness/%
+Y Crearon&Este Maravilloso&Mundo De&Oscuridad/%
 obj_queen_enemy_slash_Step_0_gml_197_0
-All I Have&To Do Is Expand&This Dark World/%
+Todo Lo Que&Debo Hacer Es Expander&Este Mundo Oscuro/%
 obj_queen_enemy_slash_Step_0_gml_199_0
-No One Will&Have To Suffer&Anymore/%
+Nadie Tendrá Que&Sufrir Nunca&Jamás/%
 obj_queen_enemy_slash_Step_0_gml_201_0
-Everyday Blissfully&Worshipping Me&Like We Both Deserve/%
+Todos Los Días&Adorándome Felizmente&Como Ambos Nos Merecemos/%
 obj_queen_enemy_slash_Step_0_gml_203_0
-Woah When&Did I Say&I Would Do&That/%
+Woah Cuando&Dije Que&Haría Eso/%
 obj_queen_enemy_slash_Step_0_gml_205_0
-Oh Yeah&That's Just&For Him Only/%
+Oh Si&Eso Es Justo&Para Él Solo/%
 obj_queen_enemy_slash_Step_0_gml_207_0
 No!!!!/%
 obj_queen_enemy_slash_Step_0_gml_212_0
-You Are Just In&Time To Witness&My World Domination/%
+Estás A&Tiempo Para Presenciar&Mi Dominación Mundial/%
 obj_queen_enemy_slash_Step_0_gml_213_0
-With Noelle In&My Possession/%
+Con Noelle En&Mi Posesión/%
 obj_queen_enemy_slash_Step_0_gml_214_0
-It Is Only A&Matter Of Time&Before Her&Will Turns/%
+Solo Es Cuestión&De Tiempo Para&Que Ella Me&Entregue Su Voluntad/%
 obj_queen_enemy_slash_Step_0_gml_215_0
-And She&Unleashes Her&Power/%
+Y Ella&Desáte Su&Poder/%
 obj_queen_enemy_slash_Step_0_gml_216_0
-Blanketing The&World In --/%
+Cubriendo Al&Mundo En --/%
 obj_queen_enemy_slash_Step_0_gml_218_0
-Too late,&dumbass!/%
+Muy tarde,&imbécil!/%
 obj_queen_enemy_slash_Step_0_gml_219_0
-Noelle's&with Berdly!/%
+Noelle está&con Berdly!/%
 obj_queen_enemy_slash_Step_0_gml_432_0
-You May Have&Survived My&Attacks (Regular)/%
+Puede Que Hallas&Sobrevivido A Mis&Ataques (Regulares)/%
 obj_queen_enemy_slash_Step_0_gml_433_0
-But I've Been:&Secretly Been&Downloading My&Ultimate Move&The Whole Time/%
+Pero He Esto:&Secretamente Descargando&Mi Movimiento Final&Todo Este Tiempo/%
 obj_queen_enemy_slash_Step_0_gml_434_0
-Now, Perish&In The Bosom Of:&My Hellish Reign/%
+Perezcan En&El Seno De:&Mi Reinado Infernal/%
 obj_queen_enemy_slash_Step_0_gml_436_0
-I Was Going To Put&Like Memes In It&And Stuff/%
+Iba A Poner&Momazos Y Cosas Así/%
 ImageSearch
 QueenUltimate
 Wine
