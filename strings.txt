@@ -14969,7 +14969,7 @@ alttalk
 obj_classscene_slash_Step_0_gml_500_0
 \E3* (Kris^1! Estás bien!!)/
 obj_classscene_slash_Step_0_gml_501_0
-\E9* (Estaba muy preocupada después de que desaparecistes ayer...)/
+\E9* (Estaba muy preocupada después de que desaparecieras ayer...)/
 obj_classscene_slash_Step_0_gml_502_0
 \E0* (Supongo que podemos hablar después de clase.)/%
 al
@@ -14985,7 +14985,7 @@ obj_classscene_slash_Step_0_gml_568_0
 obj_classscene_slash_Step_0_gml_574_0
 \E9* Susie^1, no golpees tu pupitre por favor./
 obj_classscene_slash_Step_0_gml_575_0
-\E4* Trata a la propiedad de la escuela^1, como tratas a las personas./%
+\E4* Trata a la propiedad de la escuela^1, como tratarias a las personas./%
 obj_classscene_slash_Step_0_gml_579_0
 \E0* ..../
 obj_classscene_slash_Step_0_gml_580_0
@@ -15218,7 +15218,7 @@ obj_town_event_slash_Step_0_gml_120_0
 * (They just closed the blinds...)/%
 specflush
 obj_town_event_slash_Step_0_gml_157_0
-* (Descargastes el retrete!)/%
+* (Descargaste el retrete!)/%
 obj_town_event_slash_Step_0_gml_186_0
 * Kris...^1?&* Is everything..^1. alright in there?/%
 obj_town_event_slash_Step_0_gml_191_0
@@ -18260,9 +18260,9 @@ obj_readable_room1_slash_Other_10_gml_220_0
 obj_readable_room1_slash_Other_10_gml_226_0
 * (Cortador de galletas para monstruos de jengibre y humanos de jengibre.)/%
 obj_readable_room1_slash_Other_10_gml_231_0
-* Es un tacho de basura^1.&* De alguna manera^1, emite un agradable aroma a flores./%
+* Es un cubo de basura^1.&* De alguna manera^1, emite un agradable aroma a flores./%
 obj_readable_room1_slash_Other_10_gml_234_0
-* Es un tacho de basura^1.&* De alguna manera^1, su esencia floral ha incrementado./%
+* Es un cubo de basura^1.&* De alguna manera^1, su esencia floral ha incrementado./%
 obj_readable_room1_slash_Other_10_gml_240_0
 * Es un teléfono fijo^1.&* Pero tu ya tienes un teléfono celular./%
 obj_readable_room1_slash_Other_10_gml_245_0
@@ -36858,23 +36858,23 @@ currentspot
 dontthrow
 dontthrowtype
 obj_overworldc_slash_Step_0_gml_34_0_b
-* You bid a quiet farewell to the ~1.
+* Te despides tranquilamente de la ~1.
 obj_overworldc_slash_Step_0_gml_34_0
-* You put the ~1 on the ground and gave it a little pat.
+* Dejas ~1 en el suelo y le das un pequeño toquecito.
 obj_overworldc_slash_Step_0_gml_36_0
-* You threw the ~1 on the ground like the piece of trash it is.
+* Tiras ~1 al suelo como el trozo de basura que es.
 obj_overworldc_slash_Step_0_gml_38_0_b
-* You abandoned the ~1.
+* Abandonas ~1.
 obj_overworldc_slash_Step_0_gml_38_0
-* The ~1 was thrown away.
+* Has tirado ~1.
 obj_overworldc_slash_Step_0_gml_42_0
-* What Egg?/%
+* ¿Qué Huevo?/%
 obj_overworldc_slash_Step_0_gml_61_0
-* (You fumbled and caught them^1. You can't throw these away!)/%
+* (Consigues atraparlo al vuelo^1. ¡No puedes tirar esto!)/%
 obj_overworldc_slash_Step_0_gml_66_0
-* (You didn't quite understand why...)/
+* (No entiendes muy bien por qué...)/
 obj_overworldc_slash_Step_0_gml_67_0
-* (But, the thought of discarding it felt very wrong.)/%
+* (Pero te sientes mal al pensar en deshacerte de ello.)/%
 moveyy
 stat_right
 obj_overworldc_slash_Draw_0_gml_37_0
