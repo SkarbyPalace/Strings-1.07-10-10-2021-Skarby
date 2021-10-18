@@ -58343,3 +58343,15 @@ gml_GlobalScript_0
 gml_GlobalScript_1
 gml_GlobalScript_2
 gml_GlobalScript_3
+owo
+123456789123456789
+-Traductores-
+Skarby, MetTheCarrot, @_FoxCloud, J. Piedrahita, Mallow
+-Traductor Sprites-
+Natalidiota, weacosmica206
+-Testers-
+sergeichonxd, Febriel_
+Skarby, MetTheCarrot
+@_FoxCloud, J. Piedrahita, Mallow
+Natalidiota
+weacosmica206
