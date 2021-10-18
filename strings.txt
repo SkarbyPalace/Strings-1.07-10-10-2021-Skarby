@@ -3252,7 +3252,7 @@ scr_text_slash_scr_text_gml_3207_0
 * (He offered you something.)/
 scr_text_slash_scr_text_gml_3210_0
 scr_text_slash_scr_text_gml_3215_0
-* (Recibistes un Huevo.)/%
+* (Recibiste un Huevo.)/%
 scr_text_slash_scr_text_gml_3221_0
 * (Then he needn't be here.)/%
 scr_text_slash_scr_text_gml_3233_0
@@ -3327,10 +3327,10 @@ scr_text_slash_scr_text_gml_3311_0
 scr_text_slash_scr_text_gml_3313_0
 \E0* (... nadie está viendo.)/
 scr_text_slash_scr_text_gml_3314_0
-* (Abrázas al maniquí?)/
+* (¿Abrazar al maniquí?)/
 scr_text_slash_scr_text_gml_3315_0
 scr_text_slash_scr_text_gml_3321_0
-* Abrazastes al maniquí./
+* Abrazaste al maniquí./
 scr_text_slash_scr_text_gml_3322_0
 * No hay nada de malo con un poco de felpa extra en tu vida./%
 scr_text_slash_scr_text_gml_3327_0
@@ -3708,9 +3708,9 @@ scr_text_slash_scr_text_gml_3706_0
 scr_text_slash_scr_text_gml_3707_0
 \EV* Kris^1, tienes razón./
 scr_text_slash_scr_text_gml_3708_0
-\EW* Oséa^1, dijistes un hecho correcto./
+\EW* Oséa^1, dijiste un hecho correcto./
 scr_text_slash_scr_text_gml_3709_0
-\EV* Pero cometistes un error./
+\EV* Pero cometiste un error./
 scr_text_slash_scr_text_gml_3710_0
 \EX* El error de conocerme./
 scr_text_slash_scr_text_gml_3711_0
@@ -5914,7 +5914,7 @@ Controles
 scr_text_slash_scr_text_gml_7500_0
 No leer
 scr_text_slash_scr_text_gml_7503_0
-* (Es un manual. Lees un tema?)/
+* (Es un manual. ¿Leer un tema?)/
 scr_text_slash_scr_text_gml_7511_0
 * Si PERDONAS o PACIFICAS varios enemigos de el mismo tipo^1, ellos serán RECLUTADOS./
 scr_text_slash_scr_text_gml_7512_0
@@ -5928,13 +5928,13 @@ scr_text_slash_scr_text_gml_7520_0
 scr_text_slash_scr_text_gml_7521_0
 * Sientente libre de poner cosas dentro que puede que no seas capaz de usar aún./%
 scr_text_slash_scr_text_gml_7527_0
-* Ten un recordatorio de los controles. Cambialos en el menu config./
+* Ten un recordatorio de los controles. Cambialos en el menu de configuración./
 scr_text_slash_scr_text_gml_7528_0
 * ~1&* Confirmar e interactuar con cosas./
 scr_text_slash_scr_text_gml_7529_0
 * ~1&* Cancelar. Mantén para CORRER. Muestra el texto de inmediato./
 scr_text_slash_scr_text_gml_7530_0
-* ~1&* Abre el menu. Mantén presionado para pasar los textos rápido./%
+* ~1&* Abre el menú. Mantén presionado para pasar los textos rápido./%
 scr_text_slash_scr_text_gml_7536_0
 * (No hay tiempo para leer libros.)/%
 scr_text_slash_scr_text_gml_7568_0
@@ -8595,7 +8595,7 @@ Es demasiado pesado...
 scr_weaponinfo_slash_scr_weaponinfo_gml_154_0
 (W-wow, qué presencia...)
 scr_weaponinfo_slash_scr_weaponinfo_gml_167_0
-Agallas Superiores
+AgallaSuperior
 scr_weaponinfo_slash_scr_weaponinfo_gml_171_0
 Devilsknife
 scr_weaponinfo_slash_scr_weaponinfo_gml_172_0
@@ -8641,7 +8641,7 @@ scr_weaponinfo_slash_scr_weaponinfo_gml_240_0
 scr_weaponinfo_slash_scr_weaponinfo_gml_242_0
 ¡P-para! ¡dejame cubrirme con ella!
 scr_weaponinfo_slash_scr_weaponinfo_gml_255_0
-Fluffiness UP
+Suavidad+
 scr_weaponinfo_slash_scr_weaponinfo_gml_260_0
 EspRetorcida
 scr_weaponinfo_slash_scr_weaponinfo_gml_261_0
@@ -15031,7 +15031,7 @@ obj_classscene_slash_Step_0_gml_716_0
 obj_classscene_slash_Step_0_gml_739_0
 \E1* Oh^1, um..^1. Kris? Estás..^1. bien?/
 obj_classscene_slash_Step_0_gml_740_0
-\E5* Te quedastes^1, um^1, d-durmiendo toda la clase.../
+\E5* Te quedaste^1, um^1, d-durmiendo toda la clase.../
 obj_classscene_slash_Step_0_gml_741_0
 \E0* N-no te preocupes^1! No estoy enojada^1! S..^1. solo preocupada!/
 obj_classscene_slash_Step_0_gml_742_0
@@ -17735,7 +17735,7 @@ obj_npc_room_animated_slash_Other_10_gml_135_0
 obj_npc_room_animated_slash_Other_10_gml_136_0
 \E5* Tengo levantamiento pesado para hacer!!!/%
 obj_npc_room_animated_slash_Other_10_gml_139_0
-\E5* No me interrumpas mientras estoy elevando!!!/%
+\E5* No me interrumpas mientras hago pesas!!!/%
 obj_npc_room_animated_slash_Other_10_gml_150_0
 * LA SALSA DE LA PIZZA ES ROJA COMO LA SANGRE./
 obj_npc_room_animated_slash_Other_10_gml_151_0
@@ -20494,7 +20494,7 @@ obj_darkcontroller_slash_Draw_0_gml_311_0
 Morado 
 obj_darkcontroller_slash_Draw_0_gml_312_0
 obj_darkcontroller_slash_Draw_0_gml_314_0
-LV~1 Caballero-Oscuro#hace daño#energia oscura.
+LV~1 CaballeroOscuro#hace daño con#energia oscura.
 obj_darkcontroller_slash_Draw_0_gml_315_0
 LV~1 Maestro Sanador#Puede usar la#curación final#
 obj_darkcontroller_slash_Draw_0_gml_316_0
@@ -20979,13 +20979,13 @@ obj_npc_dojo_slash_Step_0_gml_56_0
 obj_npc_dojo_slash_Step_0_gml_65_0
 * You'll just have to try again^1, boss!/%
 obj_npc_dojo_slash_Step_0_gml_51_0
-* (Recibistes ~1!)/%
+* (Recibiste ~1!)/%
 obj_npc_dojo_slash_Step_0_gml_77_0
 * Hey^1! Así no es como \cYPERDONAS\cW a alguien!/
 obj_npc_dojo_slash_Step_0_gml_78_0
 * ..^1. pero supongo que una victoria es una victoria./
 obj_npc_dojo_slash_Step_0_gml_85_0
-* Recibistes los ahorros de Joe ($1)!/%
+* Recibiste los ahorros de Joe ($1)!/%
 obj_npc_dojo_slash_Step_0_gml_99_0
 * Pero ya ganó ese premio^1, así que no tenemos otro!/%
 obj_npc_dojo_slash_Step_0_gml_105_0
@@ -22665,7 +22665,7 @@ spr_checkers_idle_crownless
 collided
 mypower
 obj_ralseithrown_slash_Step_0_gml_23_0
-* Fallastes!/%
+* Fallaste!/%
 obj_ralseithrown_slash_Collision_ac806612_bd9d_43f5_86b2_61306f514c9f_gml_6_0
 * The crown greatly loosened!/%
 obj_ralseithrown_slash_Collision_ac806612_bd9d_43f5_86b2_61306f514c9f_gml_29_0
@@ -22929,7 +22929,7 @@ Vas a necesitar DOS&manzanas para detenerme!
 obj_omawaroid_enemy_slash_Step_0_gml_24_0
 Wee-woo-wee-woo!
 obj_omawaroid_enemy_slash_Step_0_gml_25_0
-Recibistes tus&balas hoy?
+Recibiste tus&balas hoy?
 obj_omawaroid_enemy_slash_Step_0_gml_26_0
 Donde hay un wee,&hay un woo.
 obj_omawaroid_enemy_slash_Step_0_gml_32_0
@@ -29972,11 +29972,11 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_35_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_101_0
 \EQ* ..^1. pues MIREN quien es. El zombie de la escuela./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_102_0
-\E2* Estuvistes durmiendo como un cadáver toda la clase./
+\E2* Estuviste durmiendo como un cadáver toda la clase./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_103_0
 \EA* Heh^1, qué pasa?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_104_0
-\E2* Tuvistes problemas para "mimir" la otra noche?/%
+\E2* Tuviste problemas para "mimir" la otra noche?/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_111_0
 \EQ* Heh.../%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_122_0
@@ -30024,7 +30024,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_231_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_233_0
 \EB* Uhhh..^1. gr..^1. gra..^1. gr..^1. gracias!!/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_291_0
-\E3* Okay^1, Kris. Esto es. Momento de la verdad./
+\E3* Okay^1, Kris. Este es. El momento de la verdad./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_292_0
 \E0* Todo lo que hemos estado esperando está detrás de esto.../
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_293_0
@@ -30103,7 +30103,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_449_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_458_0
 \EB* ..^1. un minuto. UN minuto./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_459_0
-\EC* Kris^1, notastes lo nerviosa que estaba...?/
+\EC* Kris^1, notaste lo nerviosa que estaba...?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_460_0
 \E6* Y como..^1. se sonrojaba y asi?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_461_0
@@ -30160,11 +30160,11 @@ obj_ch2_scene4_slash_Step_0_gml_153_0
 obj_ch2_scene4_slash_Step_0_gml_154_0
 \E3* (Necesito que regreses al mundo de LUZ...)/
 obj_ch2_scene4_slash_Step_0_gml_155_0
-\EI* (Y que vayas al antiguo salón^1, al ESTE de las puertas de el closet.)/
+\EI* (Y que vayas al antiguo salón^1, al ESTE de las puertas del closet.)/
 obj_ch2_scene4_slash_Step_0_gml_156_0
 \E3* (Dentro^1, recoge todo lo que está en el suelo...)/
 obj_ch2_scene4_slash_Step_0_gml_157_0
-\E2* (Y traelo para acá^1. puedes?)/%
+\E2* (Y traelo aqui^1. puedes?)/%
 obj_ch2_scene4_slash_Step_0_gml_216_0
 \EP* A donde diablos vas^1? Intentas comer pastel sin mi?/%
 obj_ch2_scene4_slash_Step_0_gml_218_0
@@ -30251,11 +30251,11 @@ hathy
 rabbick
 blockler
 obj_ch2_scene6_slash_Step_0_gml_543_0
-\E1* ¿¡Adivinen quién regreso^1 payasos!?/
+\E1* ¿¡Adivinen quién regreso payasos!?/
 obj_ch2_scene6_slash_Step_0_gml_545_0
 \E7* Lancer!!!/%
 obj_ch2_scene6_slash_Step_0_gml_566_0
-\E2* Hey^1, Kris^1, no se que hiciste^1, pero, ¡al diablo que si!/%
+\E2* Hey^1, Kris^1, no se que hiciste^1, pero, ¡demonios que si!/%
 obj_ch2_scene6_slash_Step_0_gml_570_0
 \E9* ¡Todos están aquí!/%
 obj_ch2_scene6_slash_Step_0_gml_591_0
@@ -30281,7 +30281,7 @@ obj_ch2_scene6_slash_Step_0_gml_587_0
 obj_ch2_scene6_slash_Step_0_gml_589_0
 \E6* ¿Desapareció?/%
 obj_ch2_scene6_slash_Step_0_gml_598_0
-\EA* Cierto..^1. Cuando Kris sello la fuente^1,/
+\EA* Sí..^1. Cuando Kris sello la fuente^1,/
 obj_ch2_scene6_slash_Step_0_gml_599_0
 \EA* Ese "Mundo Oscuro" desapareció.../
 obj_ch2_scene6_slash_Step_0_gml_600_0
@@ -30355,7 +30355,7 @@ obj_ch2_scene8_slash_Step_0_gml_97_0
 obj_ch2_scene8_slash_Step_0_gml_98_0
 * Es como.../%
 obj_ch2_scene8_slash_Step_0_gml_108_0
-\EC* ..^1. ¿el interior de el closet?/%
+\EC* ..^1. ¿el interior del closet?/%
 obj_ch2_scene8_slash_Step_0_gml_119_0
 \E1* Kris^1, no crees que este pueda ser.../%
 obj_ch2_scene8_slash_Step_0_gml_134_0
@@ -30419,7 +30419,7 @@ obj_ch2_scene9_slash_Step_0_gml_120_0
 \EZ* ¡NOELLE!/%
 queen_intro.ogg
 obj_ch2_scene9_slash_Step_0_gml_151_0
-\E0* Que Infierno De Sesion De Estudio/
+\E0* Que Infierno De Sesión De Estudio/
 obj_ch2_scene9_slash_Step_0_gml_153_0
 \EH* ¿¡Quién diablos eres tú!?/
 obj_ch2_scene9_slash_Step_0_gml_155_0
@@ -30457,7 +30457,7 @@ obj_ch2_scene9_slash_Step_0_gml_258_0
 obj_ch2_scene9_slash_Step_0_gml_264_0
 \E0* Para Que Ella Se Convierta En Mi Peón Dispuesto/%
 obj_ch2_scene9_slash_Step_0_gml_267_0
-\E6* En Mi Mision Para La Dominación Mundial/%
+\E6* En Mi Misión Para La Dominación Mundial/%
 obj_ch2_scene9_slash_Step_0_gml_271_0
 \E9* ¿Debería Convertir Su Cara En Una De Robot?/%
 obj_ch2_scene9_slash_Step_0_gml_278_0
@@ -30560,7 +30560,7 @@ obj_ch2_scene10_slash_Step_0_gml_102_0
 obj_ch2_scene10_slash_Step_0_gml_104_0
 \EE* ¡¡No!^1! ¡¡Es todo lo demás lo que me da miedo!!/
 obj_ch2_scene10_slash_Step_0_gml_106_0
-\ED* Por favor Aborta Tu Protocólo De Tristeza/
+\ED* Por Favor Aborta Tu Protocólo De Tristeza/
 obj_ch2_scene10_slash_Step_0_gml_107_0
 \E1* Te Dije Que Ser Un Peón Sería Genial/%
 obj_ch2_scene10_slash_Step_0_gml_124_0
@@ -30611,7 +30611,7 @@ obj_ch2_scene10_slash_Step_0_gml_416_0
 obj_ch2_scene10_slash_Step_0_gml_427_0
 \E7* No Tendrán Otra Opción Mas Que Servirme/%
 obj_ch2_scene10_slash_Step_0_gml_442_0
-\E5* ¿¡Que carajos!? ¡Nunca he jugado esto antes...!/%
+\E5* ¿¡Qué demonios!? ¡Nunca he jugado esto antes...!/%
 obj_ch2_scene10_slash_Step_0_gml_449_0
 \E2* Pero Kris es hábil en los juegos^1, ¿no es así?/%
 obj_ch2_scene10_slash_Step_0_gml_456_0
@@ -30673,7 +30673,7 @@ obj_ch2_scene10_slash_Step_0_gml_891_0
 obj_ch2_scene10_slash_Step_0_gml_893_0
 * Entendido^1, Preferencia De Ajustes Ajustado A Perecer/%
 obj_ch2_scene10_slash_Step_0_gml_908_0
-\EH* (..^1. por qué diablos dijistes eso con tanto entusiasmo!?)/
+\EH* (..^1. por qué diablos dijiste eso con tanto entusiasmo!?)/
 obj_ch2_scene10_slash_Step_0_gml_910_0
 \E2* Err^1, Queen..^1. no hay alguna otra opción?/%
 obj_ch2_scene10_slash_Step_0_gml_918_0
@@ -35774,7 +35774,7 @@ obj_ch2_room_dungeon_2f_slash_Step_0_gml_28_0
 obj_ch2_room_dungeon_2f_slash_Step_0_gml_29_0
 \M1* Por cierto.../
 obj_ch2_room_dungeon_2f_slash_Step_0_gml_30_0
-\E6\E3* Mi hijo esta..^1. feliz...?/
+\E6\E3* Mi hijo está..^1. feliz...?/
 obj_ch2_room_dungeon_2f_slash_Step_0_gml_32_0
 \ER* Como si te IMPORTARA!/
 obj_ch2_room_dungeon_2f_slash_Step_0_gml_33_0
