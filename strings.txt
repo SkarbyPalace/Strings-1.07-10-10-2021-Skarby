@@ -20412,7 +20412,7 @@ Button
 obj_darkcontroller_slash_Draw_0_gml_114_0
 Tecla
 obj_darkcontroller_slash_Draw_0_gml_115_0
-Gamepad
+Mando
 obj_darkcontroller_slash_Draw_0_gml_117_0
 ABAJO
 my_function
