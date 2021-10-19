@@ -526,7 +526,7 @@ scr_litemdesc_slash_scr_litemdesc_gml_30_0
 scr_litemdesc_slash_scr_litemdesc_gml_33_0
 * "Lapiz Suertudo" - Arma 1 AT&* Cubierto in treboles verdes y arcoiris./%
 scr_litemdesc_slash_scr_litemdesc_gml_36_0
-* "Huevo" - No muy importante^1, no muy poco importante./%
+* "	" - No muy importante^1, no muy poco importante./%
 scr_litemdesc_slash_scr_litemdesc_gml_39_0
 * "Cartas" - El Jack de las Espadas^1, y la Carta de Reglas./%
 scr_litemdesc_slash_scr_litemdesc_gml_42_0
@@ -3189,7 +3189,7 @@ scr_text_slash_scr_text_gml_3098_0
 Castle
 scr_text_slash_scr_text_gml_3101_0
 scr_text_slash_scr_text_gml_3104_0
-* (But nothing happened.)/%
+* (Pero nada paso.)/%
 room_field3
 door_destination
 room_forest_savepoint1
@@ -3197,7 +3197,7 @@ room_forest_savepoint2
 room_forest_fightsusie
 door_location
 scr_text_slash_scr_text_gml_3125_0
-* (Amazingly^1, you are already there.)/%
+* (Sorprendentemente^1, ya estás ahí.)/%
 scr_text_slash_scr_text_gml_3129_0
 * (La puerta se abrio...)/%
 scr_text_slash_scr_text_gml_3138_0
@@ -4192,7 +4192,7 @@ scr_text_slash_scr_text_gml_4221_0
 scr_text_slash_scr_text_gml_4223_0
 \E0* ..^1. Kris.../
 scr_text_slash_scr_text_gml_4224_0
-\EI* ..^1. Te preguntas como está Susie/
+\EI* ..^1. Te preguntas como está Susie?/
 scr_text_slash_scr_text_gml_4225_0
 scr_text_slash_scr_text_gml_4232_0
 \E0* Entonces..^1. por qué no cerramos los ojos.../
@@ -4330,7 +4330,7 @@ scr_text_slash_scr_text_gml_4469_0
 scr_text_slash_scr_text_gml_4470_0
 \E8* (A menos de que sean hechos para mi...)/%
 scr_text_slash_scr_text_gml_4475_0
-* Nunca te volverás más fuerte sin una dosis diaria de zapatos!!~1
+* Nunca te volverás más fuerte sin una dosis diaria de zapatos!!/%
 scr_text_slash_scr_text_gml_4481_0
 scr_text_slash_scr_text_gml_4482_0
  #No Comprar
@@ -4857,7 +4857,7 @@ scr_text_slash_scr_text_gml_5495_0
 \EK* (Rayos^1, ¡Kris sabría qué hacer!)/
 scr_text_slash_scr_text_gml_5496_0
 scr_text_slash_scr_text_gml_5507_0
-\EC* (...En realidad^1, uh^1, ¡Kris sabría qué hacer!)/%
+\EC* (...En realidad^1, uh^1, ¡Kris NO sabría qué hacer!)/%
 scr_text_slash_scr_text_gml_5514_0
 #Hacer algo#loco
 scr_text_slash_scr_text_gml_5515_0
@@ -7455,7 +7455,7 @@ Trato
 scr_monstersetup_slash_scr_monstersetup_gml_1611_0
 SanarTrato
 scr_monstersetup_slash_scr_monstersetup_gml_1612_0
-TRATO &CURA 60
+TRATO#CURA 60
 scr_monstersetup_slash_scr_monstersetup_gml_1591_0
 Spamton NEO
 scr_monstersetup_slash_scr_monstersetup_gml_1614_0
@@ -7475,7 +7475,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1682_0
 scr_monstersetup_slash_scr_monstersetup_gml_1687_0
 Supercarga
 scr_monstersetup_slash_scr_monstersetup_gml_1685_0
-Carga#más#rápido
+Carga másrápido
 scr_monstersetup_slash_scr_monstersetup_gml_1698_0
 scr_monstersetup_slash_scr_monstersetup_gml_1703_0
 GuardiaSuave
@@ -8019,7 +8019,7 @@ El Azulejo de la porquería.#Vuela alto, Azulejo. Vuela alto.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_83_0
 ¿Me perdí algo? Estaba haciendo mi#calistenia. Mantente guapo.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_87_0
-¡Oye, Gracias por la cinta! ¡Tenía hambre!#¡Empuja mi barriga para escuchar una canción genial!
+¡Oye, Gracias por la cinta! ¡Tenía hambre!#¡Empuja mi barriga para escuchar una canción!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_91_0
 ¡Hoho! ¡Soy yo, Lancer! ¡Suéltame y#te liberaré!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_95_0
@@ -17409,7 +17409,7 @@ obj_npc_sign_slash_Other_10_gml_783_0
 obj_npc_sign_slash_Other_10_gml_784_0
 * Tal vez nuestros caminos cibernéticos se crucen una vez más en la Mansión de Queen./
 obj_npc_sign_slash_Other_10_gml_785_0
-* Mientras tanto^1, déjame mostrarte el poder de las marcas de verificación azules.../%
+* Mientras tanto^1, déjame mostrarte el poder de los vistos azules.../%
 obj_npc_sign_slash_Other_10_gml_789_0
 * Solo quería hacer una demoscene cool para ustedes./
 obj_npc_sign_slash_Other_10_gml_790_0
@@ -17581,21 +17581,21 @@ obj_npc_sign_slash_Other_10_gml_1206_0
 \E2* Incluso si no es real^1, aún te puedes divertir^1, cierto?/%
 obj_npc_sign_slash_Other_10_gml_1214_0
 obj_npc_sign_slash_Other_10_gml_1227_0
-* WOAH!!^1! TU, FRESCA Y DIMINUTA [Sponge]!/
+* WOAH!!^1! TU, FRESCA Y DIMINUTA [Esponja]!/
 obj_npc_sign_slash_Other_10_gml_1228_0
 * NO ENTRE CUANDO UN HOMBRE ESTÉ [Camb1ando de f0rma]!/
 obj_npc_sign_slash_Other_10_gml_1229_0
-* ..^1. ESPERA^1! ESPERA [UN 2ndo]^1! ES QUE MI [Estimado Cl13nte]?!/
+* ..^1. ESPERA^1! ESPERA [UN 2ndo]^1! ES ESE MI [Estimado Cl13nte]?!/
 obj_npc_sign_slash_Other_10_gml_1230_0_b
-* ES QUE MI [EstimadoGRACIAS A TI Y A ESE CLIENTE LIL [Hochi Mama]]/
+* GRACIAS A TI Y A ESE CLIENTE LIL [Hochi Mama]]/
 obj_npc_sign_slash_Other_10_gml_1231_0
-* ESTOY VIVIENDO EN [BIG]!/
+* ESTOY VIVIENDO EN [GRANDE]!/
 obj_npc_sign_slash_Other_10_gml_1232_0
 * PRONTO TENDRÉ A [CADA UNO] EN ESTA CIUDAD COMIENDO DE MI [$!$!]!/
 obj_npc_sign_slash_Other_10_gml_1233_0
-* HA HA HA^1! ESPERO QUE NADIE SELLE LA [Fuente] AHORA./
+* JA JA JA^1! ESPERO QUE NADIE SELLE LA [Fuente] AHORA./
 obj_npc_sign_slash_Other_10_gml_1234_0
-* HA HA HA^1! ESPERO QUE SÍ. ESPERO QUE SÍ./%
+* JA JA JA^1! ESPERO QUE NO. ESPERO QUE NO./%
 obj_npc_sign_slash_Other_10_gml_1240_0_b
 * ¡NIÑO^1! ESTOY OCUPADO CONVIRTIÉNDOME EN [Dios]. ¡VE A JUGAR [Minecrap] O ALGO ASÍ!/
 obj_npc_sign_slash_Other_10_gml_1241_0
@@ -20479,7 +20479,7 @@ LV~1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_275_0_b
 LV~1 Buscador de Musgos#Musgo basico-buscando#habilidades.
 obj_darkcontroller_slash_Draw_0_gml_276_0
-LV~1 Comandos#de lider.
+LV~1 Líder#da comandos.
 rude_amount
 obj_darkcontroller_slash_Draw_0_gml_251_0
 Rudeza 
@@ -20529,11 +20529,11 @@ Esponjosidad
 obj_darkcontroller_slash_Draw_0_gml_382_0
 LV1 Snowcaster#Es capaz de hacer#acciones geniales.
 obj_darkcontroller_slash_Draw_0_gml_383_0
-LV~1 ClaseHelada,#Congela el enemigo.
+LV~1 ClaseHelada,#Congela al enemigo.
 obj_darkcontroller_slash_Draw_0_gml_384_0
 LV~1 Ice Trancer#Recibes dolor para#ser fuerte.
 obj_darkcontroller_slash_Draw_0_gml_385_0
-LV~1 Moss Neutral#Ni caótico#ni legal al musgo
+LV~1 Musgo Neutral#Ni caótico#ni legal al musgo
 coldness_amount
 obj_darkcontroller_slash_Draw_0_gml_388_0
 Frialdad: 
@@ -23232,7 +23232,7 @@ obj_poppup_enemy_slash_Step_0_gml_151_0
 obj_poppup_enemy_slash_Step_0_gml_176_0
 * POPPUP - Una mascota gomosa hambienta de atención. Haz click en él y...?/%
 obj_poppup_enemy_slash_Step_0_gml_192_0
-* Seguste clickeando y clickeando en anuncios!!/%
+* Seguiste clickeando y clickeando en anuncios!!/%
 obj_poppup_enemy_slash_Step_0_gml_198_0
 * Inconscientemente clickeaste en un anuncio acerca de "monstruos para humanos en tu área,"/%
 obj_poppup_enemy_slash_Step_0_gml_199_0
@@ -25064,7 +25064,7 @@ Que Estas&Haciendo/%
 obj_queen_enemy_slash_Step_0_gml_1190_0
 Por Que&Mi Cable&Controlador No Sirve/%
 obj_queen_enemy_slash_Step_0_gml_1195_0
-Gracias a...&la amabilidad&de mis camaradas...&su PIEDAD!/%
+Gracias a...&la amabilidad&de mis camara-&das. Su PIEDAD!/%
 obj_queen_enemy_slash_Step_0_gml_1200_0
 Ahora.../%
 obj_queen_enemy_slash_Step_0_gml_1204_0
@@ -29171,9 +29171,9 @@ DEVICE_FAILURE_slash_Step_0_gml_10_0
 AUDIO_DEFEAT.ogg
 voice
 DEVICE_FAILURE_slash_Step_0_gml_39_0
-  Vamos^1,&  eso es todo lo que tienes!?/
+  Vamos, eso es^1,&todo lo que tienes!?/
 DEVICE_FAILURE_slash_Step_0_gml_40_0
-  Kris^1,&  levantate...!/%
+  Kris^1,&  levántate...!/%
 DEVICE_FAILURE_slash_Step_0_gml_47_0
   Este no es&  tu destino...!/
 DEVICE_FAILURE_slash_Step_0_gml_48_0
@@ -29630,47 +29630,47 @@ la_actor
 nl
 nl_actor
 obj_cutscene_test_slash_Step_0_gml_51_0
-\E7* Hey^1, is that... Lancer!?/%
+\E7* Hey^1, es ese... Lancer!?/%
 obj_cutscene_test_slash_Step_0_gml_78_0
-\E2* What are you up to^1, buddy?/%
+\E2* Qué tal^1, amigp?/%
 obj_cutscene_test_slash_Step_0_gml_87_0
 \E1* Lancer?/%
 obj_cutscene_test_slash_Step_0_gml_96_0
 \E2* Ho ho ho!!^1! Susie!!!/%
 obj_cutscene_test_slash_Step_0_gml_107_0
-\E1* Who says I'm Lancer?/
+\E1* Quién dice que soy Lancer?/
 obj_cutscene_test_slash_Step_0_gml_109_0
-\E0* Of course you're Lancer.../
+\E0* Claro que eres Lancer.../
 obj_cutscene_test_slash_Step_0_gml_111_0
-\E3* ..^1. then who's that?/%
+\E3* ..^1. entonces quién es ese?/%
 obj_cutscene_test_slash_Step_0_gml_139_0
 \E1* Hoho!/%
 obj_cutscene_test_slash_Step_0_gml_145_0
-\E0* Alright^1, are you Lancer then!?/
+\E0* Ok^1, entonces tú eres Lancer!?/
 obj_cutscene_test_slash_Step_0_gml_147_0
-\E8* Yes I am!/%
+\E8* Si lo soy!/%
 obj_cutscene_test_slash_Step_0_gml_156_0
-\EL* Which one of you said that!?/%
+\EL* Quién de los dos habló!?/%
 obj_cutscene_test_slash_Step_0_gml_174_0
-\E1* I did!/
+\E1* Yo!/
 obj_cutscene_test_slash_Step_0_gml_176_0
-\E4* That's it^1, I'm taking a closer look!/%
+\E4* Se acabo^1, voy a ver de cerca!/%
 obj_cutscene_test_slash_Step_0_gml_209_0
-\E0* Umm^1, so what did you figure out?/
+\E0* Umm^1, asi que lo averiguaste?/
 obj_cutscene_test_slash_Step_0_gml_211_0
 \E3* Uhhh.../%
 obj_cutscene_test_slash_Step_0_gml_220_0
-\E9* I'll just be friends with both of them!/%
+\E9* Seré amiga de los dos!/%
 obj_cutscene_test_slash_Step_0_gml_231_0
-\E2* That's the attitude!/
+\E2* Esa es la actitud!/
 obj_cutscene_test_slash_Step_0_gml_233_0
-\E1* Hohoho^1! Yeah^1, it is!/%
+\E1* Hohoho^1! Si^1, si la es!/%
 obj_cutscene_test_slash_Step_0_gml_259_0
-\ER* What the!?/
+\ER* Qué demo-!?/
 obj_cutscene_test_slash_Step_0_gml_260_0
 \EZ* L-Lancer!?/%
 obj_cutscene_test_slash_Step_0_gml_274_0
-\E2* That was the fake one./
+\E2* Ese era el falso./
 obj_cutscene_test_slash_Step_0_gml_276_0
 \E2* Oh^1, okay./%
 selected_object
@@ -29774,7 +29774,7 @@ Pan copied!
 spawntype
 keyboard_check_direct
 U- I+ Difficulty: 
-1 , 2 , 3 Enable/Disable Enemy.#Spacebar - Reset Room.
+1 , 2 , 3 Habilitar/Deshabilitar Enemigo.#Barra - Resetear Cuarto.
 4 - neverending@turn
 encountermax
 encountermin
@@ -32066,7 +32066,7 @@ obj_ch2_scene21_loop_slash_Step_0_gml_455_0
 obj_ch2_scene21_loop_slash_Step_0_gml_511_0
 \E3* Qrue talst^1, marinos de agua dulce!/
 obj_ch2_scene21_loop_slash_Step_0_gml_512_0
-\E2* Arrrrrr-t estánst listost para visitarq el Lockre de Davith Jones???/
+\E2* Arrr-t estánt listost para visitarq el Lockre de Davith Jones???/
 obj_ch2_scene21_loop_slash_Step_0_gml_514_0
 \EM* Podrías..^1. Podrías NO hablar con más de un acento?/
 obj_ch2_scene21_loop_slash_Step_0_gml_516_0
@@ -32234,7 +32234,7 @@ obj_ch2_scene23c_slash_Step_0_gml_55_0
 obj_ch2_scene23c_slash_Step_0_gml_57_0
 \E3* Bueno^1, um^1, talvez^1, tengo un poco de miedo^1, pero..^1. yo.../
 obj_ch2_scene23c_slash_Step_0_gml_58_0
-\E8* Para ser honesta^1, En..^1. en realidad me gustan..^1. cosas de miedo./
+\E8* Para ser honesta^1, En..^1. en realidad me gustan..^1. las cosas de miedo./
 obj_ch2_scene23c_slash_Step_0_gml_60_0
 \E6* ..^1. a qué te refieres?/
 obj_ch2_scene23c_slash_Step_0_gml_62_0
@@ -34094,7 +34094,7 @@ obj_ch2_sceneex2_special_slash_Draw_0_gml_23_0
 MANTENER  
 bigcheck
 obj_ch2_sceneex2_special_slash_Draw_0_gml_27_0
-RELEASE 
+SOLTAR 
 obj_ch2_sceneex2_special_slash_Draw_0_gml_39_0
 ~1
 buttontext
@@ -34122,15 +34122,15 @@ obj_ch2_sceneex2a_slash_Step_0_gml_122_0
 obj_ch2_sceneex2a_slash_Step_0_gml_129_0
 * ... Kris...^1?&* Kris!^1?&* KRIS!?!?!?/
 obj_ch2_sceneex2a_slash_Step_0_gml_130_0
-* YOU FILLED YOUR [Inventorium] WITH [Half-Pr1ce Sallamy] JUST TO KEEP ME OUT!?/
+* LLENASTE TU [Inventarium] CON [Salami a mitad de precio] PARA DEJARME FUERA!?/
 obj_ch2_sceneex2a_slash_Step_0_gml_131_0
-* WHAT^2!&* THE^2!&* [^4Fifty Percent Off]!?/
+* PERO^2!&* QUE^2!&* [^4Cincuenta Porciento menos]!?/
 obj_ch2_sceneex2a_slash_Step_0_gml_132_0
-* YOU CAN CARRY LIKE 48 ITEMS!!!/
+* PUEDES LLEVAR COMO 48 OBJETOS!!!/
 obj_ch2_sceneex2a_slash_Step_0_gml_133_0
-* [Why] DID YOU DO THIS!^1?&* WHY!^1? [Y]!^1? [Yellow]!^1? [Gamma]!?/
+* [Por qué] HICISTE ESTO!^1?&* POR QUÉ!^1? [A]!^1? [Amarillo]!^1? [Gamma]!?/
 obj_ch2_sceneex2a_slash_Step_0_gml_134_0
-* NOT [Cool] KRIS^1!&* I'LL BE IN MY [Trailer]!/%
+* NADA [Radical] KRIS^1!&* YO ESTARÉ EN MI [Trailer]!/%
 su_depth
 ral_xpos
 obj_ch2_sceneex3_slash_Step_0_gml_48_0
@@ -34385,7 +34385,7 @@ obj_ch2_cyber01_slash_Step_0_gml_538_0
 obj_ch2_cyber01_slash_Step_0_gml_540_0
 \E2* Hey^1, perdedores!^1! Cálmense!^1! Se acabó la batalla!!/%
 obj_ch2_cyber01_slash_Step_0_gml_566_0
-NOSOTROS SOMOS los buenos!!!
+NOSOTROS YA lo somos!!!
 obj_ch2_cyber01_slash_Step_0_gml_567_0
 Solo sigueles el juego, Susie...
 obj_ch2_cyber01_slash_Step_0_gml_570_0
@@ -34511,36 +34511,36 @@ obj_ch2_city01_slash_Step_0_gml_388_0
 obj_ch2_city01_slash_Step_0_gml_389_0
 \EN* Qué!? QUÉ!? Solo pregunto!^1! Es una pregunta normal!!/%
 obj_ch2_city04_slash_Step_0_gml_38_0
-\E3* Kris^1! Where were you!/
+\E3* Kris^1! Donde estabas!/
 obj_ch2_city04_slash_Step_0_gml_39_0
-\E1* Tut tut..^1. even late for your own truce./
+\E1* Tut tut..^1. tarde hasta para tus treguas./
 obj_ch2_city04_slash_Step_0_gml_40_0
-\E6* Well^1, not as if your presence even matters./
+\E6* Bueno^1, no es como si tu presencia importara./
 obj_ch2_city04_slash_Step_0_gml_41_0
-\E7* Ahead of us is a mind meltingly difficult puzzle./
+\E7* Delante de nosotros hay un acertijo imposible./
 obj_ch2_city04_slash_Step_0_gml_42_0
-\EJ* So just take your nap time^1, Kris.  I'll handle it./%
+\EJ* Así que toma una siesta^1, Kris. Yo lo manejo./%
 obj_ch2_city04_slash_Step_0_gml_48_0
-\ED* (I..^1. only have to figure out how it works...)/%
+\ED* (Yo..^1. solo tengo que entender como funciona...)/%
 obj_ch2_city04_slash_Step_0_gml_112_0
-\E7* Just a moment^1, Kris^1, I.../%
+\E7* Un momento^1, Kris^1, yo.../%
 obj_ch2_city04_slash_Step_0_gml_124_0
-\E3* You..^1. How'd you do that!? I..^1. I.../%
+\E3* Tú..^1. Cómo hiciste eso!? Yo..^1. yo.../%
 obj_ch2_city04_slash_Step_0_gml_134_0
 obj_ch2_city04_slash_Step_0_gml_135_0
-\EB* ..^1. Kris. You c-can't tell anyone about this^1, okay!?/
+\EB* ..^1. Kris. No p-puedes decirle esto a nadie^1, okay!?/
 obj_ch2_city04_slash_Step_0_gml_136_0
-\ED* If anyone asks^1, I solved the puzzle!!/%
+\ED* Si alguien pregunta^1, yo resolví el acertijo!!/%
 obj_ch2_city04_slash_Step_0_gml_144_0
-\EB* Got it? Not a word to ANYONE!!/
+\EB* Entiendes? Ni una palabra a NADIE!!/
 obj_ch2_city04_slash_Step_0_gml_145_0
-\EC* ESPECIALLY!!^1! SUSIE!!!/
+\EC* ESPECIALMENTE!!^1! SUSIE!!!/
 obj_ch2_city04_slash_Step_0_gml_146_0
-\EA* You KNOW she'd just..^1. lord it over me!!!/%
+\EA* Tu SABES que..^1. me lo restregaría!!!/%
 obj_ch2_city04_slash_Step_0_gml_154_0
 \EC* Ugh!!/%
 obj_ch2_city04_slash_Step_0_gml_174_0
-\EN* I'm Going To Tell Susie/%
+\EN* Se Lo Diré A Susie/%
 dumpster
 dumpster_nakami
 play_intro
@@ -36075,21 +36075,21 @@ play_song
 play_power
 play_stop
 obj_ch2_room_city_moss_slash_Step_0_gml_9_0
-\E7* Heck yeah^1, I didn't know there was moss here!/
+\E7* Claro que si^1, no sabía que había musgo aquí!/
 obj_ch2_room_city_moss_slash_Step_0_gml_10_0
-\EA* It's totally uneaten^1, too.../
+\EA* Está sin comer^1, también.../
 obj_ch2_room_city_moss_slash_Step_0_gml_11_0
-\E1* ..^1. wait a sec./
+\E1* ..^1. espera un segundo./
 obj_ch2_room_city_moss_slash_Step_0_gml_12_0
 \E0* ..^1. Kris.../%
 obj_ch2_room_city_moss_slash_Step_0_gml_28_0
-\EK* Were you..^1. saving this for me?/
+\EK* Estabas..^1. guardando esto para mi?/
 obj_ch2_room_city_moss_slash_Step_0_gml_29_0
 \EQ* ..^1. Heh./
 obj_ch2_room_city_moss_slash_Step_0_gml_30_0
-\E2* Guess even you've got your good moments.../%
+\E2* Supongo que también tienes tus buenos momentos.../%
 obj_ch2_room_city_moss_slash_Step_0_gml_43_0
-* (You ate the moss..^1. together.)/%
+* (Comieron el musgo..^1. juntos.)/%
 obj_ch2_room_city_moss_slash_Step_0_gml_56_0
 \EX* (..^1. uh?)/%
 man.ogg
@@ -37794,7 +37794,7 @@ obj_controller_dw_mansion_single_pot_slash_Step_0_gml_18_0
 obj_controller_dw_mansion_single_pot_slash_Step_0_gml_19_0
 * Dos Diviértete/
 obj_controller_dw_mansion_single_pot_slash_Step_0_gml_20_0
-* Tres Respeto A La Cerámica/
+* Tres Respeta La Cerámica/
 obj_controller_dw_mansion_single_pot_slash_Step_0_gml_21_0
 * Cuatro Diviértete/
 obj_controller_dw_mansion_single_pot_slash_Step_0_gml_22_0
@@ -37807,15 +37807,15 @@ knockout
 queen_wall
 bularea
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_29_0
-\E1* Veo Que Has Escapado De: Las Unidades De Sus Habitaciónes/%
+\E1* Veo Que Han Escapado De: Sus Unidades De Habitaciónes/%
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_50_0_b
-\EC* Quien puede culparte Por observar Mi Gloriosa Mansión/
+\EC* Quien Puede Culparlos Por Querer Observar Mi Gloriosa Mansión/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_51_0
 \ED* No Querrás Quitarte Los Ojos De Este Hermoso Arte/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_53_0
 \E5* ¡No estamos aquí para ver tus estúpidas fotos!/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_55_0
-\ED* Oh, No Fue Una Recomendación/
+\ED* Oh No Fue Una Recomendación/
 obj_controller_dw_mansion_fire_paintings_slash_Step_0_gml_56_0
 \EN* Solo Te Estaba Advirtiendo LMAO/%
 alphaer3
