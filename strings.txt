@@ -37743,7 +37743,7 @@ obj_controller_dw_city_big_2_slash_Step_0_gml_572_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_573_0
 \E8* Debiste ver tu cara!!/
 obj_controller_dw_city_big_2_slash_Step_0_gml_574_0
-\E2* (Hey^1, porque se ven tan lastimados...? Dios...)/%
+\E2* (Hey^1, por qué se ve tan lastimado...? Dios...)/%
 obj_controller_dw_city_big_2_slash_Step_0_gml_600_0
 obj_controller_dw_city_big_2_slash_Step_0_gml_622_0
 \E1* Cuando sales del el botón^1, la electricidad regresa.../
@@ -58343,3 +58343,11 @@ gml_GlobalScript_0
 gml_GlobalScript_1
 gml_GlobalScript_2
 gml_GlobalScript_3
+-Traductores Latinos-
+Skarby, MetTheCarrot
+@_FoxCloud, J. Piedrahita, Mallow
+-Traductor Sprites-
+Natalidiota
+weacosmica206
+-Testers-
+sergeichonxd, Febriel_
