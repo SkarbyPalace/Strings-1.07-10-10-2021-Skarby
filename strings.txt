@@ -413,7 +413,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_274_0
 scr_litemuseb_slash_scr_litemuseb_gml_275_0
 \E3* Que? Eres "normal"?/
 scr_litemuseb_slash_scr_litemuseb_gml_276_0
-\E3* Que? Hicistes una "orbe de basura"?/
+\E3* Que? Hiciste una "orbe de basura"?/
 scr_litemuseb_slash_scr_litemuseb_gml_277_0
 \E4* ..^1. Me puedes explicar a que te refieres con eso?/
 alphys
@@ -5832,7 +5832,7 @@ scr_text_slash_scr_text_gml_7320_0
 \E1* Ni idea de para que era eso./
 scr_text_slash_scr_text_gml_7322_0
 scr_text_slash_scr_text_gml_7324_0
-\EK* Así que^1, uh^1, que carajos están haciendo?/
+\EK* Así que^1, uh^1, que demonios están haciendo?/
 F
 scr_text_slash_scr_text_gml_7326_0
 \EF* O-oh^1, u-um^1, n-nada^1, Susie!/
@@ -7399,13 +7399,13 @@ scr_monstersetup_slash_scr_monstersetup_gml_1385_0
 Rouxls
 scr_monstersetup_slash_scr_monstersetup_gml_1405_0
 scr_monstersetup_slash_scr_monstersetup_gml_1408_0
-Tomar la Casa
+Tomar una Casa
 scr_monstersetup_slash_scr_monstersetup_gml_1413_0
-Tomar la Casa 2
+Tomar 2 Casas
 scr_monstersetup_slash_scr_monstersetup_gml_1419_0
-Tomar la Casa 3
+Tomar 3 Casas
 scr_monstersetup_slash_scr_monstersetup_gml_1425_0
-Tomar la Casa 4
+Tomar 4 Casas
 scr_monstersetup_slash_scr_monstersetup_gml_1430_0
 scr_monstersetup_slash_scr_monstersetup_gml_1433_0_b
 Distraer
@@ -17153,7 +17153,7 @@ obj_npc_sign_slash_Other_10_gml_253_0
 obj_npc_sign_slash_Other_10_gml_254_0
 \EB* Así que solo^1, ¡déjame resolver esto!/%
 obj_npc_sign_slash_Other_10_gml_262_0
-\E2* ¿Qué cerebro de pájaro^1, derecha^1, Lancer?/
+\E2* ¿Qué cerebro de pájaro^1, verdad^1, Lancer?/
 obj_npc_sign_slash_Other_10_gml_264_0
 \E1* Hoho^1! Sí^1! ¡Todas las partes de su cuerpo son de pájaro!/
 obj_npc_sign_slash_Other_10_gml_266_0
@@ -17425,7 +17425,7 @@ obj_npc_sign_slash_Other_10_gml_827_0
 obj_npc_sign_slash_Other_10_gml_833_0
 * (Estimados invitados^1, tenga en cuenta que nuestros ratones GIRARÁN en cada cruce.)/
 obj_npc_sign_slash_Other_10_gml_834_0
-* (Nuestras alimañas han sido especialmente recogidas a mano para un giro más alto^1. Disfruten.)/%
+* (Nuestras alimañas han sido recogidas a mano para un giro más alto^1. Disfruten.)/%
 obj_npc_sign_slash_Other_10_gml_849_0
 * (Consideraste lanzar bombas de baño dentro^1, pero no hay tiempo.)/%
 obj_npc_sign_slash_Other_10_gml_858_0
@@ -19398,7 +19398,7 @@ obj_npc_facing_slash_Other_10_gml_55_0
 obj_npc_facing_slash_Other_10_gml_59_0
 * Pregunta en otra parte^1, Kris! Quiero obtener una "A!"/
 obj_npc_facing_slash_Other_10_gml_60_0
-\E2* Si no encuentras a alguien^1, talvez tu mamá te ayudará denuevo!/%
+\E2* Si no encuentras a alguien^1, talvez tu mamá te ayudará de nuevo!/%
 obj_npc_facing_slash_Other_10_gml_67_0
 \E3* Kris^1, no DIJE que llegar tarde era algo malo?/
 obj_npc_facing_slash_Other_10_gml_68_0
@@ -19875,7 +19875,7 @@ something really&important, didn't we...?/
 obj_fountainkris_slash_Step_0_gml_78_0
 .../%
 obj_fountainkris_slash_Step_0_gml_85_0
-Parece que estamos&aquí denuevo, huh.../
+Parece que estamos&aquí de nuevo, huh.../
 obj_fountainkris_slash_Step_0_gml_86_0
 El Caballero Rugiente.../
 obj_fountainkris_slash_Step_0_gml_87_0
@@ -21327,7 +21327,7 @@ obj_room_dw_city_postbaseball_slash_Step_0_gml_404_0
 \E4* (Talvez..^1. por eso no dejaba de verlas...?)/%
 completed
 obj_room_dw_city_postbaseball_slash_Step_0_gml_708_0
-\E5* 20 más!? Carajos^1, estaremos aqui para siempre!/
+\E5* 20 más!? DEMONIOS^1, estaremos aqui para siempre!/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_710_0
 \E2* T..^1. talvez si nosotros..^1. um^1, dividimos el trabajo?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_712_0
@@ -30086,7 +30086,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_412_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_413_0
 \E5* Y NO SE LO DIO A ALPHYS!?!?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_414_0
-\EH* QUE CARAJOS^1, KRIS!?/%
+\EH* QUE DEMONIOS^1, KRIS!?/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_421_0
 \EM* Ten^1, TÚ te quedas con esto./
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_423_0
@@ -30349,7 +30349,7 @@ obj_ch2_scene8_slash_Step_0_gml_63_0
 obj_ch2_scene8_slash_Step_0_gml_71_0
 \E0* Hay algo que no..^1. cuadra./%
 obj_ch2_scene8_slash_Step_0_gml_80_0
-\E5* Al carajo vamos a jugar Pinball Espacial en el laboratorio/%
+\E5* Al demonio vamos a jugar Pinball Espacial en el laboratorio/%
 obj_ch2_scene8_slash_Step_0_gml_97_0
 \E6* E..^1. ¿Ehh...?/
 obj_ch2_scene8_slash_Step_0_gml_98_0
@@ -31201,7 +31201,7 @@ obj_ch2_scene17b_slash_Step_0_gml_134_0
 obj_ch2_scene17b_slash_Step_0_gml_135_0
 \EN* Rápido^1, hay que pensar en una forma para salir!!/
 obj_ch2_scene17b_slash_Step_0_gml_136_0
-\EL* Algo que tragiste de contrabando que ayude!?/%
+\EL* Algo que trajiste de contrabando que ayude!?/%
 obj_ch2_scene17b_slash_Step_0_gml_220_0
 \E6* Hey^1, Kris..^1. escuchas algo...?/
 obj_ch2_scene17b_slash_Step_0_gml_221_0
@@ -31299,7 +31299,7 @@ obj_ch2_scene18_slash_Step_0_gml_143_0
 obj_ch2_scene18_slash_Step_0_gml_144_0
 \E7* Frío.../%
 obj_ch2_scene18_slash_Step_0_gml_166_0
-\EZ* H..^1. hey^1, que carajos!?/
+\EZ* H..^1. hey^1, que demonios!?/
 obj_ch2_scene18_slash_Step_0_gml_168_0
 obj_ch2_scene18_slash_Step_0_gml_170_0
 \EZ* Hey^1, estás bien^1, viejo...? Ten^1, dejame curarte...!/%
@@ -31388,7 +31388,7 @@ obj_ch2_scene19b_slash_Step_0_gml_64_0
 obj_ch2_scene19b_slash_Step_0_gml_65_0
 \EB* No es como si Kris lo pueda resolver de todos modos!!/%
 obj_ch2_scene19b_slash_Step_0_gml_146_0
-\E2* Whoops^1, parece que Kris lo hizo denuevo!/%
+\E2* Whoops^1, parece que Kris lo hizo de nuevo!/%
 obj_ch2_scene19b_slash_Step_0_gml_156_0
 \E3* H-huh!? E..^1. espera!^1! Espera un segundo!!/
 obj_ch2_scene19b_slash_Step_0_gml_157_0
@@ -31776,15 +31776,15 @@ obj_ch2_scene23b_slash_Step_0_gml_187_0
 obj_ch2_scene23b_slash_Step_0_gml_188_0
 \EP* .../%
 obj_ch2_scene23b_slash_Step_0_gml_207_0
-\EK* Buena luna./
+\EK* Bonita luna./
 obj_ch2_scene23b_slash_Step_0_gml_209_0
 \E2* S..^1. si./
 obj_ch2_scene23b_slash_Step_0_gml_210_0
 \E3* ..^1. pero es extraña^1, no es así?/%
 obj_ch2_scene23b_slash_Step_0_gml_217_0
-\E1* Como llegamos a aquí...?/
+\E1* Como llegamos aquí...?/
 obj_ch2_scene23b_slash_Step_0_gml_220_0
-\E3* No^1, que es este lugar si quiera...?/%
+\E3* No^1, qué es este lugar si quiera...?/%
 obj_ch2_scene23b_slash_Step_0_gml_245_0
 \E7* Uhhh..^1. tú estás^1, uh..^1. teniendo un sueño!/%
 obj_ch2_scene23b_slash_Step_0_gml_252_0
@@ -31808,7 +31808,7 @@ obj_ch2_scene23b_slash_Step_0_gml_310_0
 obj_ch2_scene23b_slash_Step_0_gml_312_0
 \EK* Bueno^1, es JUSTO^1, pero.../%
 obj_ch2_scene23b_slash_Step_0_gml_322_0
-\E3* Alguna vez te preguntaste porque Susie nunca..^1. se metió contigo?/
+\E3* Alguna vez pensate porque Susie nunca..^1. se metió contigo?/
 obj_ch2_scene23b_slash_Step_0_gml_324_0
 \E6* (sigh)..^1. Todo el tiempo.../%
 obj_ch2_scene23b_slash_Step_0_gml_333_0
@@ -32265,7 +32265,7 @@ obj_ch2_scene23c_slash_Step_0_gml_80_0
 obj_ch2_scene23c_slash_Step_0_gml_81_0
 \ES* Tú no temes a... romper las reglas^1, sabes?/
 obj_ch2_scene23c_slash_Step_0_gml_82_0
-\E9* ..^1. Desearía hacer cosas locas coo tú./%
+\E9* ..^1. Desearía hacer cosas locas como tú./%
 obj_ch2_scene23c_slash_Step_0_gml_94_0
 \EK* Así que^1, um.../
 obj_ch2_scene23c_slash_Step_0_gml_95_0
@@ -36454,9 +36454,9 @@ obj_shapepuzzle_slash_Draw_0_gml_192_0
 Rotate#Quit
 rotate_text
 obj_shapepuzzle_slash_Draw_0_gml_171_0
-[Arrows]#Move
+[Flechas]#Mover
 obj_shapepuzzle_slash_Draw_0_gml_173_0
-~1 Rotate#~2 Quit
+~1 Girar#~2 Salir
 holdDelayMax
 holdDelay
 pieceColours
