@@ -7475,7 +7475,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1682_0
 scr_monstersetup_slash_scr_monstersetup_gml_1687_0
 Supercarga
 scr_monstersetup_slash_scr_monstersetup_gml_1685_0
-Carga másrápido
+Carga más#rápido
 scr_monstersetup_slash_scr_monstersetup_gml_1698_0
 scr_monstersetup_slash_scr_monstersetup_gml_1703_0
 GuardiaSuave
@@ -8023,7 +8023,7 @@ scr_keyiteminfo_slash_scr_keyiteminfo_gml_87_0
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_91_0
 ¡Hoho! ¡Soy yo, Lancer! ¡Suéltame y#te liberaré!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_95_0
-(Los chicos inocentes duermen rápidamente.)
+(Los chicos inocentes duermen.)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_99_0
 Una estatua de piedra.#Extrañamente, parece Lancer...
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_105_0
@@ -17632,7 +17632,7 @@ obj_npc_dumpster_slash_Step_0_gml_40_0
 \s0* Encontraste el \cG[Musgo]\cW^8! %%
 ateMoss
 obj_npc_dumpster_slash_Step_0_gml_63_0
-* Tu título se ha actualizado a [Buscador de Musgos].~1
+* Tu título se ha actualizado a [Busca musgos].~1
 obj_npc_dumpster_slash_Step_0_gml_78_0
 \E1* (¿Por qué parece tan contento?)/%
 instance_activate_object
@@ -17801,7 +17801,7 @@ obj_npc_room_animated_slash_Other_10_gml_271_0
 obj_npc_room_animated_slash_Other_10_gml_272_0
 \m3		*Debemos hacer dinero&de algún modo!^1! Heheh!!/
 obj_npc_room_animated_slash_Other_10_gml_273_0
-\m1		*Tengo que comprar equipo!^2!&\m3 Tengo que conseguir nuevos bombos!^2!&\m2 Quiero ser un coche^2./
+\m1		*Tengo que comprar equipo!^2!&\m3 Quiero nuevos bombos!^2!&\m2 Quiero ser un coche^2./
 obj_npc_room_animated_slash_Other_10_gml_274_0
 \m1		*¡Buen pensamiento K_K^1! Tienes que moverte por^2!&\m2	Honk^1! Honk^2!/%
 obj_npc_room_animated_slash_Other_10_gml_278_0
@@ -20477,7 +20477,7 @@ LV~1 Tactico,#Comanda la fiesta#con varios ACTs.
 obj_darkcontroller_slash_Draw_0_gml_274_0
 LV~1 Inspector de #camas, Inspecciona#inexplicablemente.
 obj_darkcontroller_slash_Draw_0_gml_275_0_b
-LV~1 Buscador de Musgos#Musgo basico-buscando#habilidades.
+LV~1 Busca Musgos#Habilidades básicas#de musgo.
 obj_darkcontroller_slash_Draw_0_gml_276_0
 LV~1 Líder#da comandos.
 rude_amount
@@ -20512,7 +20512,7 @@ LV1 Príncipe Espinoso#inflige daño con su#robusta bufanda.
 obj_darkcontroller_slash_Draw_0_gml_279_0
 LV1 Príncipe esponjoso#Debil^1, pero cura#muy bien.
 obj_darkcontroller_slash_Draw_0_gml_356_0
-LV~1 Príncipe Oscuro#Ser del Mundo-Oscuro.#Ahora tiene amigos.
+LV~1 Príncipe Oscuro#Ser Oscuro.#Ahora tiene amigos.
 obj_darkcontroller_slash_Draw_0_gml_357_0
 LV~1 Príncipe cariñoso#Recibe y#da abrazos.
 obj_darkcontroller_slash_Draw_0_gml_358_0
@@ -23632,7 +23632,7 @@ obj_tasque_manager_enemy_slash_Step_0_gml_161_0
 obj_tasque_manager_enemy_slash_Step_0_gml_164_0
 * Tasque Manager hace una lista de sus trajes para el próximo año. Sólo tiene un traje.
 obj_tasque_manager_enemy_slash_Step_0_gml_167_0
-* Tasque Manager está escribiendo "administrar tareas" a cada entrada de su planificador diario.
+* Tasque Manager está escribiendo "administrar tareas" a cada entrada de su planificador.
 obj_tasque_manager_enemy_slash_Step_0_gml_170_0
 * Tasque Manager está enderezando su látigo con un alisador de pelo.
 obj_tasque_manager_enemy_slash_Step_0_gml_173_0
