@@ -3615,70 +3615,70 @@ myname
 scr_text_slash_scr_text_gml_3627_0
 \M1* ~1^1!/
 scr_text_slash_scr_text_gml_3628_0
-\M2* I missed you^1, y'hear!? Hahaha!^1! Missed you all day!!/
+\M2* Te extrañe^1, sabes!? Jajaja!^1! Te extrañe todo el día!!/
 scr_text_slash_scr_text_gml_3629_0
-\M0* Didja miss..^1. me?/
+\M0* Me extrañaste?/
 scr_text_slash_scr_text_gml_3630_0
 scr_text_slash_scr_text_gml_3637_0
-\M4* Oh!!^1! I was missed!!!/
+\M4* Oh!!^1! Fui extrañada!!!/
 scr_text_slash_scr_text_gml_3638_0
-* My existence!^1! Being acknowledged!!/
+* Mi existencia!^1! Siendo reconozida!!/
 scr_text_slash_scr_text_gml_3639_0
-* Feels good^1, y'hear!!/
+* Se siente bien^1, sabes!!/
 scr_text_slash_scr_text_gml_3640_0
 scr_text_slash_scr_text_gml_3641_0
-\M1* Y'hear..^1. Y'hear closely for a second./
+\M1* Sabes..^1. escuchame bien por un segundo./
 scr_text_slash_scr_text_gml_3642_0
-\M2* Y'hou're my friend. Right?/
+\M2* Eres mi amigo. Cierto?/
 scr_text_slash_scr_text_gml_3643_0
-\M0* As my friend..^1. Do you wanna..^1. y'hear a secret?/
+\M0* Como mi amigo..^1. Quieres..^1. escuchar un secreto?/
 scr_text_slash_scr_text_gml_3644_0
 scr_text_slash_scr_text_gml_3645_0
-\M5* Sometimes..^1. I hear a song at night./
+\M5* A veces..^1. escucho una canción en las noches./
 scr_text_slash_scr_text_gml_3646_0
-\M0* Just a little piece of a song^1, y'hear./
+\M0* Solo una pequeña pieza^1, sabes./
 scr_text_slash_scr_text_gml_3647_0
-\M2* It sounds like..^1. it's coming from under the water. Deep./
+\M2* Suena como..^1. si viniera debajo del agua. Profundo./
 scr_text_slash_scr_text_gml_3648_0
 scr_text_slash_scr_text_gml_3649_0
-* Do..^1. Do you think..../
+* Tú..^1. tú crees que..../
 scr_text_slash_scr_text_gml_3650_0
-\M0* Someone's auditioning for my band!?/
+\M0* Alguien está audicionando para mi banda!?/
 scr_text_slash_scr_text_gml_3651_0
-\M2* Oh^1, I'm about to make another friend^1! I can feel it^1, y'hear!!/
+\M2* Oh^1, voy a hacer otro amigo^1! Lo puedo sentir^1, sabes!!/
 scr_text_slash_scr_text_gml_3652_0
 scr_text_slash_scr_text_gml_3653_0
-\M5* Do you wanna y'hear another secret...?/
+\M5* Quieres escuchar otro secreto...?/
 scr_text_slash_scr_text_gml_3654_0
 scr_text_slash_scr_text_gml_3655_0
-* ..^1. I think.../
+* ..^1. Creo que.../
 scr_text_slash_scr_text_gml_3656_0
-* Maybe.../
+* Talvez.../
 scr_text_slash_scr_text_gml_3657_0
 scr_text_slash_scr_text_gml_3658_0
-\M2* ..^1. I've heard that song before..^1. coming from the sea./
+\M2* ..^1. He escuchado esa canción antes..^1. viniendo del mar./
 scr_text_slash_scr_text_gml_3659_0
-* The whole thing./
+* Toda la cosa./
 scr_text_slash_scr_text_gml_3660_0
-* It's not a "new" song./
+* No es una "nueva" canción./
 scr_text_slash_scr_text_gml_3661_0
-\M1* But..^1. I can't remember..^1. I can't..^1. Can't remember^1, y'hear!/
+\M1* Pero..^1. No puedo recordar..^1. No puedo..^1. sabes!/
 scr_text_slash_scr_text_gml_3662_0
-\M0* I'm going to investigate^1, y'hear!/
+\M0* Voy a investigar^1, sabes!/
 scr_text_slash_scr_text_gml_3663_0
-* Come back here tomorrow^1, y'hear!/
+* Vuelve aquí mañana^1, sabes!/
 scr_text_slash_scr_text_gml_3664_0
 Onion
 onionname
 scr_text_slash_scr_text_gml_3667_0
-Beauty
+Hermosura
 scr_text_slash_scr_text_gml_3670_0
 scr_text_slash_scr_text_gml_3672_0
-* ~1 is on the case!/
+* ~1 está en el caso!/
 scr_text_slash_scr_text_gml_3673_0
-\M3* (That's my name^1, right?)/
+\M3* (Ese es mi nombre^1, Cierto?)/
 scr_text_slash_scr_text_gml_3674_0
-Mouse!!
+Ratón!!
 scr_text_slash_scr_text_gml_3674_1
 Kiss!
 scr_text_slash_scr_text_gml_3675_0
@@ -3726,7 +3726,7 @@ scr_text_slash_scr_text_gml_3719_0
 scr_text_slash_scr_text_gml_3720_0
 #Susie
 scr_text_slash_scr_text_gml_3721_0
-Atras
+Atrás
 scr_text_slash_scr_text_gml_3722_0
 bratty
 scr_text_slash_scr_text_gml_3733_0
