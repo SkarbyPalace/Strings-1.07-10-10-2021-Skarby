@@ -8153,7 +8153,7 @@ Caramelo de luz
 scr_iteminfo_slash_scr_iteminfo_gml_172_0
 Cura#120HP
 scr_iteminfo_slash_scr_iteminfo_gml_178_0
-ButJuice
+JugoDeNaranja
 scr_iteminfo_slash_scr_iteminfo_gml_179_0
 scr_iteminfo_slash_scr_iteminfo_gml_185_0
 Código Espagueti
@@ -23632,7 +23632,7 @@ obj_tasque_manager_enemy_slash_Step_0_gml_161_0
 obj_tasque_manager_enemy_slash_Step_0_gml_164_0
 * Tasque Manager hace una lista de sus trajes para el próximo año. Sólo tiene un traje.
 obj_tasque_manager_enemy_slash_Step_0_gml_167_0
-* Tasque Manager está escribiendo "administrar tareas" a cada entrada de su planificador diario.
+* Tasque Manager está escribiendo "administrar tareas" en su planificador diario.
 obj_tasque_manager_enemy_slash_Step_0_gml_170_0
 * Tasque Manager está enderezando su látigo con un alisador de pelo.
 obj_tasque_manager_enemy_slash_Step_0_gml_173_0
@@ -24879,7 +24879,7 @@ Cada Día Pasan&Horas Adorando&En Un&Arrebato Resplandeciente/%
 obj_queen_enemy_slash_Step_0_gml_134_0
 Mirando, Tocando,&Para Recibir Alegría/%
 obj_queen_enemy_slash_Step_0_gml_135_0
-... Hasta Hace Poco,&Cuando La Ciudad&Del Internete Desapareció/%
+... Hasta Hace Poco,&Cuando La Ciudad&Del Internet Desapareció/%
 obj_queen_enemy_slash_Step_0_gml_136_0
 Noelle...&Entonces Quién&La Ayudará?/%
 obj_queen_enemy_slash_Step_0_gml_137_0
@@ -26818,11 +26818,11 @@ obj_rouxls_simtown_slash_Draw_0_gml_47_0
 obj_rouxls_simtown_slash_Draw_0_gml_48_0
 * Pulsa las flechas para moverte!
 obj_rouxls_simtown_slash_Draw_0_gml_49_0
-* Demasiado lejos de su propio territorio!
+* Demasiado lejos de tu propio territorio!
 obj_rouxls_simtown_slash_Draw_0_gml_50_0
-* No se puede construir en ácido!
+* No puedes construir en ácido!
 obj_rouxls_simtown_slash_Draw_0_gml_51_0
-* No se puede construir en territorio enemigo.
+* No se puede construir#en territorio enemigo.
 obj_rouxls_simtown_slash_Draw_0_gml_53_0
 * El cisne carece de#soporte estructural
 obj_rouxls_simtown_slash_Draw_0_gml_54_0
@@ -26841,7 +26841,7 @@ obj_rouxls_simtown_slash_Draw_0_gml_103_0
 * Reclamar con
 ＊ 
 obj_rouxls_simtown_slash_Draw_0_gml_80_0
-¡* Reclamar con ~1!
+* Reclama con ~1!
 scalerX
 scalerY
 last_hspeed
@@ -27081,9 +27081,9 @@ o_boxingcontroller_slash_Step_0_gml_178_0
 * (Esquiva sus ataques con ~1, ~2, y ~3!)
 recentphasetransition
 o_boxingcontroller_slash_Step_0_gml_182_0
-* RONDA 2 empieza.&* Los ataques de Queen son más fuertes!
+* La RONDA 2 empieza.&* Los ataques de Queen son más fuertes!
 o_boxingcontroller_slash_Step_0_gml_186_0
-* RONDA 3 empieza.&* Los ataques de Queen son extremos!
+* La RONDA 3 empieza.&* Los ataques de Queen son extremos!
 pacifist_timer
 canpunch
 punch_buffer_amount
@@ -27510,7 +27510,7 @@ topyy
 bottomyy
 _ratio
 o_boxinghud_slash_Draw_0_gml_66_0
-BOSS
+JEFE
 merge_colour
 disable_surface
 draw_timer
@@ -28436,7 +28436,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_616_0
 \m3		*Yo, qué tal eso?&\m1	Acaso rockeastes?!&\m2	Todas nuestras canciones duran& cuatro segundos!!/%
 obj_shop_ch2_music_slash_Draw_0_gml_677_0
 obj_shop_ch2_swatch_slash_Create_0_gml_80_0
-ITEM,#Abreviatura de#ButlerJuice#+100HP
+ITEM,#Abreviatura de#JugoDeButler#+100HP
 obj_shop_ch2_swatch_slash_Create_0_gml_79_0
 ITEM,#Spaghetti#tejido por#Maestros#de codigo +30HP
 obj_shop_ch2_swatch_slash_Create_0_gml_81_0
