@@ -5363,7 +5363,7 @@ scr_text_slash_scr_text_gml_6413_0
 scr_text_slash_scr_text_gml_6414_0
 \E2* O^1, no si. Se siente como una cuestión de tiempo^1, honestamente./
 scr_text_slash_scr_text_gml_6415_0
-\EA* Bueno^1, lo que sea. Siempre y cuando me traiga una manzana^1, también./
+\EA* Bueno^1, lo que sea. Siempre y cuando me traiga una manzana./
 scr_text_slash_scr_text_gml_6416_0
 \E6* .../
 scr_text_slash_scr_text_gml_6417_0
@@ -7633,7 +7633,7 @@ scr_encountersetup_slash_scr_encountersetup_gml_752_0
 kr_actor
 ra_actor
 scr_encountersetup_slash_scr_encountersetup_gml_776_0
-* Thrash Machine lucha a regañadientes contigo!
+* Máquina Basura lucha a regañadientes contigo!
 scr_encountersetup_slash_scr_encountersetup_gml_791_0
 scr_encountersetup_slash_scr_encountersetup_gml_808_0
 * Werewerewire Bloquea fuertemente el camino!
@@ -7834,17 +7834,17 @@ scr_spelltext_slash_scr_spelltext_gml_36_0
 scr_spelltext_slash_scr_spelltext_gml_43_0
 * ~1 uso EMBESTIDA!/%
 scr_spelltext_slash_scr_spelltext_gml_47_0
-* ~1 uso RED BUSTER!/%
+* ~1 uso EMBESTIDA ROJA!/%
 scr_spelltext_slash_scr_spelltext_gml_51_0
-* ~1 lanzo DUAL HEAL!/%
+* ~1 lanzo CURA DOBLE!/%
 scr_spelltext_slash_scr_spelltext_gml_55_0
-* ~1 lanzo SLEEPMIST!/%
+* ~1 lanzo NeblinaSueño!/%
 scr_spelltext_slash_scr_spelltext_gml_59_0
 * ~1 lanzo CHOQUEDEHIELO!/%
 scr_spelltext_slash_scr_spelltext_gml_63_0
 * ~1 lanzo SNOWGRAVE!/%
 scr_spelltext_slash_scr_spelltext_gml_67_0
-* ~1 lanzo ULTIMATEHEAL!/%
+* ~1 lanzo CURAFINAL!/%
 scr_spelltext_slash_scr_spelltext_gml_58_0
 * ¡~1 perdonó a ~2!/%
 scr_spelltext_slash_scr_spelltext_gml_62_0
@@ -7879,9 +7879,9 @@ scr_spelltext_slash_scr_spelltext_gml_109_0
 _j
 * 
 scr_spelltext_slash_scr_spelltext_gml_143_0
- became enraptured!&
+ quedo emebelesado!&
 scr_spelltext_slash_scr_spelltext_gml_122_0
-* ~1 read the MANUAL!/
+* ~1 leyó el MANUAL!/
 scr_spelltext_slash_scr_spelltext_gml_123_0
 scr_spelltext_slash_scr_spelltext_gml_166_0
 (Cansado)
@@ -7912,7 +7912,7 @@ scr_spelltext_slash_scr_spelltext_gml_200_0
 scr_spelltext_slash_scr_spelltext_gml_203_0
 * ~1 uso un HEARTS DONUT!/%
 scr_spelltext_slash_scr_spelltext_gml_206_0
-* ~1 uso un CHOCO DIAMOND!/%
+* ~1 uso un CHOCO DIAMANTE!/%
 scr_spelltext_slash_scr_spelltext_gml_209_0
 * ~1 uso un FAV SANDWICH!/%
 scr_spelltext_slash_scr_spelltext_gml_230_0
@@ -7999,7 +7999,7 @@ Broken Key C
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_43_0
 ¡Hohoho! ¡Soy un chico duro!#¡Trátame como uno de tus ARTÍCULOS!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_46_0
-Jojojo! ROUXLS salto de tu#bolsillo! Que padracrobatico! (Lesser)
+Jojojo! ROUXLS salto de tu#bolsillo! Que padracrobatico! (Menos)
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_50_0
 ¡Hohoho! ¡Ese juego parecía divertido!#Déjame ser el siguiente taburete!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_54_0
@@ -8029,7 +8029,7 @@ Una estatua de piedra.#Extrañamente, parece Lancer...
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_105_0
 ¡Hoho! Qué aventura tan fantástica.#Es hora de arrancarme los pies y relajarme...
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_109_0
-¡Oo la la! ¡Quién es ese guapo niño#mostachudo! ¡Creo que estoy enamorada!
+¡Oo la la! ¡Quién es ese guapo niño#mostachudo! ¡Creo que estoy enamorado!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_114_0
 (Huff, puff) ¡He vuelto a tu#bolsillo! ¡Ahora puedes usar mi poder!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_48_0
@@ -17425,7 +17425,7 @@ obj_npc_sign_slash_Other_10_gml_827_0
 obj_npc_sign_slash_Other_10_gml_833_0
 * (Estimados invitados^1, tenga en cuenta que nuestros ratones GIRARÁN en cada cruce.)/
 obj_npc_sign_slash_Other_10_gml_834_0
-* (Nuestras alimañas han sido recogidas a mano para un giro más alto^1. Disfruten.)/%
+* (Nuestras alimañas han sido recogidas a mano para un giro^1. Disfruten.)/%
 obj_npc_sign_slash_Other_10_gml_849_0
 * (Consideraste lanzar bombas de baño dentro^1, pero no hay tiempo.)/%
 obj_npc_sign_slash_Other_10_gml_858_0
@@ -24879,7 +24879,7 @@ Cada Día Pasan&Horas Adorando&En Un&Arrebato Resplandeciente/%
 obj_queen_enemy_slash_Step_0_gml_134_0
 Mirando, Tocando,&Para Recibir Alegría/%
 obj_queen_enemy_slash_Step_0_gml_135_0
-... Hasta Hace Poco,&Cuando La Ciudad&Del Internete Desapareció/%
+... Hasta Hace Poco,&Cuando La Ciudad&Del Internet Desapareció/%
 obj_queen_enemy_slash_Step_0_gml_136_0
 Noelle...&Entonces Quién&La Ayudará?/%
 obj_queen_enemy_slash_Step_0_gml_137_0
@@ -24895,7 +24895,7 @@ Ahora, Deja De Resistir&Y Da La Bienvenida A&Una Nueva Era De Oscuridad/%
 obj_queen_enemy_slash_Step_0_gml_142_0
 No te dejaremos&controlar a&todos con&tus cables!/%
 obj_queen_enemy_slash_Step_0_gml_143_0
-Uhh, literalmente&estás contrlando&a Berdly&en este momento./%
+Uhh, estás&controlando&a Berdly en&este momento./%
 obj_queen_enemy_slash_Step_0_gml_146_0
 Por Qué&Querías Uno/%
 obj_queen_enemy_slash_Step_0_gml_183_0
@@ -25064,7 +25064,7 @@ Que Estas&Haciendo/%
 obj_queen_enemy_slash_Step_0_gml_1190_0
 Por Que&Mi Cable&Controlador No Sirve/%
 obj_queen_enemy_slash_Step_0_gml_1195_0
-Gracias a...&la amabilidad&de mis camara-&das. Su PIEDAD!/%
+Gracias a...&la amabilidad&de mis camara-&das!/%
 obj_queen_enemy_slash_Step_0_gml_1200_0
 Ahora.../%
 obj_queen_enemy_slash_Step_0_gml_1204_0
@@ -27398,7 +27398,7 @@ kris_save_hp
 kris_save_max_hp
 hprecruit
 obj_gigaqueen_enemy_slash_Create_0_gml_19_0
-Thrash Machine
+Máquina Basura
 haventusedspell
 finalconvcon
 extradamage
@@ -33872,7 +33872,7 @@ obj_ch2_scene32_slash_Step_0_gml_390_0
 obj_ch2_scene32_slash_Step_0_gml_373_0
 \E0* Vaya^1, está lleno de polvo^1. ¿Cuándo usaron esto por última vez?/
 obj_ch2_scene32_slash_Step_0_gml_374_0
-\E9* ..^1. Bueno^1, ¡a quién le importa^1! ¡Vamos a ver la televisión!/%
+\E9* ..^1. Bueno^1, ¡a quién le importa^1! ¡Vamos a ver la tv!/%
 obj_ch2_scene32_slash_Step_0_gml_388_0
 \E2* ¿Entonces de qué sera la maratón esta noche?/
 obj_ch2_scene32_slash_Step_0_gml_389_0
