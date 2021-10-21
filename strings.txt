@@ -5226,7 +5226,7 @@ scr_text_slash_scr_text_gml_6199_0
 scr_text_slash_scr_text_gml_6203_0
 * lo siento^1, chico. el tema del hermano va a tener que esperar./
 scr_text_slash_scr_text_gml_6204_0
-\E2* Cuanto tiempo tomara?/
+\E2* cuanto tiempo tomara?/
 scr_text_slash_scr_text_gml_6205_0
 \E3* quizas un dia..^1. quizas otros 24 meses./
 scr_text_slash_scr_text_gml_6206_0
@@ -17947,23 +17947,23 @@ obj_npc_room_animated_slash_Other_10_gml_612_0
 obj_npc_room_animated_slash_Other_10_gml_631_0
 * Oh boy^1, oh boy^1! Looks like you're almost at the END.../
 obj_npc_room_animated_slash_Other_10_gml_632_0
-* Did you RECRUIT everyone...? You might wanna check!/%
+* RECLUTASTE a todos...? Talvez quieres revisar!/%
 obj_npc_room_animated_slash_Other_10_gml_635_0
-* You didn't RECRUIT me^1.&* But I'll be in your TOWN.../%
+* No me RECLUTASTE a mi^1.&* Pero estaré en tu CIUDAD.../%
 obj_npc_room_animated_slash_Other_10_gml_611_0
-\m1		*This town's great!/
+\m1		*Esta ciudad es genial!/
 obj_npc_room_animated_slash_Other_10_gml_612_0_b
-\m1		*Just^1, wish everyone else was&	here^1, too.../%
+\m1		*Solo^1, desearía que todos estuvieran&	aquí^1, también.../%
 obj_npc_room_animated_slash_Other_10_gml_622_0
-\m3		*Yo^1, chief. If you \cYrecruit\cW&	enough fans for us^1,/
+\m3		*Yo^1, jefe. \cYreclutaste\cW suficientes&fans para nosotros^1,/
 obj_npc_room_animated_slash_Other_10_gml_623_0
-\m3		*We might be able to make our&	music shop again.../
+\m3		*Puede que seamos capazes de&reconstruir nuestra tienda.../
 obj_npc_room_animated_slash_Other_10_gml_624_0
-\m3		*Hey^1, we might even give you a&	\cYdiscount\cW!/%
+\m3		*Hey^1, puede que hasta te demos&un \cYdescuento\cW!/%
 obj_npc_room_animated_slash_Other_10_gml_630_0
-\m3		*Ya hear that^1, chief? Keep up&	the recruiting.../%
+\m3		*Escuchaste eso^1, jefe? Sigue&reclutando.../%
 obj_npc_room_animated_slash_Other_10_gml_639_0
-\m2		*I got to keep my box./%
+\m2		*Debo quedarme mi caja./%
 opened
 screen
 obj_treasure_room_slash_Other_10_gml_18_0
@@ -17988,7 +17988,7 @@ chefl_interact
 sinerx
 sinery
 siner0
-siner_add0
+siner_add
 siner_amplitude0
 siner_direction0
 siner1
@@ -19598,43 +19598,43 @@ obj_npc_facing_slash_Other_10_gml_440_0
 scarecount
 scaredAgainCount
 obj_npc_facing_slash_Other_10_gml_456_0
-\E0* Kris^1, I think you can push those blocks.../
+\E0* Kris^1, creo que puedes empujar esos bloques.../
 obj_npc_facing_slash_Other_10_gml_457_0
-\E3* M-me^1? N-no^1, I couldn't go over there^1, I.../%
+\E3* Y-yo^1? N-no^1, no puedo ir para allá^1, yo.../%
 obj_npc_facing_slash_Other_10_gml_461_0
-\E4* Kris..^1. isn't this room strange^1, though?/
+\E4* Kris..^1. no es este cuarto extraño?/
 obj_npc_facing_slash_Other_10_gml_462_0
-\E2* Those blocks look like something from Dragon Blazers.../
+\E2* Esos bloques parecen ser sacados de Dragon Blazers.../
 obj_npc_facing_slash_Other_10_gml_463_0
-\E8* Maybe if you push them in the mice's way...?/%
+\E8* Talvez si los empujas hacia los ratones...?/%
 obj_npc_facing_slash_Other_10_gml_467_0
-\E2* D-don't let the mice hit the walls^1, Kris!/
+\E2* N-no dejes que los ratones golpeen el muro^1, Kris!/
 obj_npc_facing_slash_Other_10_gml_468_0
-\E3* They'll bounce over here and crawl on me...!/%
+\E3* Rebotarán hacia acá y se subirán a mi...!/%
 obj_npc_facing_slash_Other_10_gml_489_0
-\E2* (Y'know^1, I'm pretty sure I know how to solve this.)/
+\E2* (Sabes^1, creo que se como resolver esto.)/
 obj_npc_facing_slash_Other_10_gml_490_0
-\E3* (Just^1, I d-don't think I can do it myself...)/%
+\E3* (Solo que^1, n-no creo poder hacer esto sola...)/%
 obj_npc_facing_slash_Other_10_gml_500_0
 obj_npc_facing_slash_Other_10_gml_501_0
-\EA* Do Not Worry/
+\EA* No Te Preocupes/
 obj_npc_facing_slash_Other_10_gml_502_0
 obj_npc_facing_slash_Other_10_gml_504_0
-\EQ* Umm^1, I-I'll try my best!/
+\EQ* Umm^1, h-haré lo que pueda!/
 obj_npc_facing_slash_Other_10_gml_506_0
-\E1* Quick Q How Many Breakable Pots Do You Have/
+\E1* Preguntita Cuántos Jarrones Rompibles Tienes/
 obj_npc_facing_slash_Other_10_gml_508_0
-\EM* I..^1. Let me count and get back to you on that.../%
+\EM* Yo..^1. Dejame contar y volvere con eso.../%
 obj_npc_facing_slash_Other_10_gml_512_0
 obj_npc_facing_slash_Other_10_gml_513_0
-\EB* Any Leftover Regards You Can Give To Berdly/%
+\EB* Cualquier Sobrante Se Lo Puedes Dar A Berdly/%
 itemflag
 itemidchest
 extratext
 extraevent
 qualify
 obj_treasure_room_slash_Other_10_gml_14_0
-* (It won't open.)/%
+* (No se abrirá.)/%
 obj_treasure_room_slash_Other_10_gml_65_0
 * (Abriste el cofre del tesoro.^1)&* (Dentro habia \cY~1\cW.)/
 checkscreen
@@ -20938,38 +20938,38 @@ obj_npc_cafe_slash_Other_10_gml_27_0
 obj_npc_cafe_slash_Other_10_gml_32_0
 * (Hathy parece estar bien.)/%
 obj_npc_cafe_slash_Other_10_gml_38_0
-* Sigh..^1. does this guy have to one-up me on everything!?/%
+* Sigh..^1. este chico tiene que encararme cosas todo el tiempo!?/%
 obj_npc_cafe_slash_Other_10_gml_43_0
-* I'll have a double Starfait. No^1, triple. Oh^1, hi^1, boss^1! (Smile)/%
+* Quiero una Doble Starfait. No^1, triple. Oh^1, hola^1, jefe^1! (Sonrie)/%
 obj_npc_cafe_slash_Other_10_gml_50_0
-* (Hathy is letting Head Hathy have a sip of her latte.)/%
+* (Hathy está dejando a Head Hathy tener un sorbo de su latte.)/%
 obj_npc_cafe_slash_Other_10_gml_55_0
-* (Head Hathy doesn't seem so alone...)/%
+* (Head Hathy no se ve tan sola...)/%
 obj_npc_cafe_slash_Other_10_gml_61_0
-* We don't get along..^1. but we can drink together./%
+* No nos llevamos bien..^1. pero podemos tomar juntos./%
 obj_npc_cafe_slash_Other_10_gml_66_0
-* I'll get you next time^1, pipo^1! ..^1. Want some more sugar?/%
+* Te atraparé la próxima^1, pipo^1! ..^1. Quieres mas azúcar?/%
 obj_npc_cafe_slash_Other_10_gml_72_0
 * [Miaouw]/%
 obj_npc_cafe_slash_Other_10_gml_77_0
 * [Brrrrrrrr....]/%
 obj_npc_cafe_slash_Other_10_gml_83_0
-* (..^1. it seems annoyed that its energy drink has been crushed.)/%
+* (..^1. parece molesto por su bebida energizante rota.)/%
 obj_npc_cafe_slash_Other_10_gml_88_0
-* (It's crushing many of the surrounding drinks.)/%
+* (Esta rompiendo varias bebidas alrededor.)/%
 obj_npc_cafe_slash_Other_10_gml_100_0_b
-* (I'm the dust off his shoulder.^1)&* (Sukkiri.)/%
+* (Soy el polvo de su hombro.^1)&* (Sukkiri.)/%
 obj_npc_cafe_slash_Other_10_gml_105_0
-* We'll make sure to clean our plates^1.&* (Sukkiri.)/%
+* Nos aseguraremos de limpiar nuestros platos^1.&* (Sukkiri.)/%
 obj_npc_cafe_slash_Other_10_gml_111_0
-* Boss^1, are you enjoying your \cYButler Cafe\c0?/%
+* Jefe^1, está disfrutando su \cYButler Cafe\c0?/%
 obj_npc_cafe_slash_Other_10_gml_100_0
-* (..^1. it seems relaxed its partner is so quiet.)/%
+* (..^1. parece relajado, su compañero esta callado.)/%
 obj_npc_cafe_slash_Other_10_gml_110_0
 obj_npc_cafe_slash_Other_10_gml_120_0
-* (..^1. looks like it's about to flip its table over.)/%
+* (..^1. parece que va a botar la mesa a un lado.)/%
 obj_npc_cafe_slash_Other_10_gml_124_0
-* (..^1. it's staring at the southern seats and crushing its drink hard.)/%
+* (..^1. está mirando a la silla del este rompiendo su bebida.)/%
 obj_npc_dojo_slash_Step_0_gml_45_0
 * Una batalla asombrosa!/
 obj_npc_dojo_slash_Step_0_gml_46_0
@@ -28141,7 +28141,7 @@ roomstring
 obj_shop1_slash_Draw_0_gml_784_0
 Espacio:~1
 obj_shop1_slash_Draw_0_gml_571_0
-NO SPACE
+SIN ESPACIO
 obj_shop2_slash_Create_0_gml_73_0
 ITEM#Fragrant#sauce#cura 50HP
 obj_shop2_slash_Create_0_gml_74_0
@@ -35393,7 +35393,7 @@ obj_ch2_city_car_b_slash_Step_0_gml_310_0
 obj_ch2_city_car_b_slash_Step_0_gml_317_0
 * (Mixtape de Queen fue lanzado a tus OBJETOS CLAVES.)/%
 obj_ch2_city_car_b_slash_Step_0_gml_324_0
-\E1* Toodles/%
+\E1* Adiosito/%
 obj_ch2_city_car_b_slash_Step_0_gml_340_0
 \EI* Ph..^1. phew.../
 obj_ch2_city_car_b_slash_Step_0_gml_341_0
