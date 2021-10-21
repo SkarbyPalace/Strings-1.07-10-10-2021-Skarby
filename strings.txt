@@ -7069,23 +7069,23 @@ Clover
 scr_monstersetup_slash_scr_monstersetup_gml_201_0
 myact
 scr_monstersetup_slash_scr_monstersetup_gml_207_0
-Politics
+Politicas
 scr_monstersetup_slash_scr_monstersetup_gml_209_0
-Religion
+Religión
 scr_monstersetup_slash_scr_monstersetup_gml_211_0
-Sports
+Deportes
 scr_monstersetup_slash_scr_monstersetup_gml_216_0
-Kindness
+Amabilidad
 scr_monstersetup_slash_scr_monstersetup_gml_218_0
-Cuteboys
+Chicoslindos
 scr_monstersetup_slash_scr_monstersetup_gml_220_0
-GunControl
+ControldeArmas
 scr_monstersetup_slash_scr_monstersetup_gml_225_0
-Trees
+Árboles
 scr_monstersetup_slash_scr_monstersetup_gml_227_0
-Ghosts
+Fantasmas
 scr_monstersetup_slash_scr_monstersetup_gml_229_0
-Games
+Juegos
 scr_monstersetup_slash_scr_monstersetup_gml_235_0
 scr_monstersetup_slash_scr_monstersetup_gml_244_0
 Pippins
@@ -7233,7 +7233,7 @@ Hospitalidad
 scr_monstersetup_slash_scr_monstersetup_gml_797_0
 Acción-S
 scr_monstersetup_slash_scr_monstersetup_gml_801_0
-R-Action
+Acción-R
 canactnoe
 scr_monstersetup_slash_scr_monstersetup_gml_805_0
 Acción-N
@@ -21524,10 +21524,10 @@ __offsetx
 __offsety
 __actnamestring
 __actnamestringwidth
-S-Action - 
-R-Action - 
+Acción-S - 
+Acción-R - 
 Acción-R - Estándar
-N-Action - 
+Acción-N - 
 Acción-N - Estándar
 obj_battlecontroller_slash_Draw_0_gml_653_0
 bardlymercy
@@ -22782,16 +22782,16 @@ right_answer
 clockalpha
 progress
 obj_clubsenemy_slash_Create_0_gml_82_0
-Arbol
+Árbol
 obj_clubsenemy_slash_Create_0_gml_81_0
 Sandwich
 obj_clubsenemy_slash_Create_0_gml_80_0
 NúmeroTres
 obj_clubsenemy_slash_Create_0_gml_79_0
-GiantBed
+CamaGigante
 obj_clubsenemy_slash_Create_0_gml_78_0
 obj_clubsenemy_slash_Create_0_gml_77_0
-Party
+Fiesta
 obj_clubsenemy_slash_Create_0_gml_76_0
 Acertijos
 obj_clubsenemy_slash_Create_0_gml_75_0
@@ -22800,11 +22800,11 @@ obj_clubsenemy_slash_Create_0_gml_73_0
 Familia
 obj_clubsenemy_slash_Create_0_gml_72_0
 obj_clubsenemy_slash_Create_0_gml_71_0
-Celebracion
+Celebración
 obj_clubsenemy_slash_Create_0_gml_70_0
 Felpa
 obj_clubsenemy_slash_Create_0_gml_69_0
-CuteBoys
+ChicosLindos
 likes
 likes_list
 obj_clubsenemy_slash_Create_0_gml_107_0
@@ -22827,7 +22827,7 @@ Basura
 obj_clubsenemy_slash_Create_0_gml_98_0
 Problemas
 obj_clubsenemy_slash_Create_0_gml_97_0
-cuellotortuga
+CuelloTortuga
 obj_clubsenemy_slash_Create_0_gml_96_0
 NúmeroDos
 obj_clubsenemy_slash_Create_0_gml_95_0
@@ -22843,13 +22843,13 @@ SonidoSplat
 dislikes
 dislikes_list
 obj_clubsenemy_slash_Step_0_gml_13_0
-Nice mouth
+Buena Boca
 text1
 obj_clubsenemy_slash_Step_0_gml_14_0
-Anger mouth
+Boca Molesta
 text2
 obj_clubsenemy_slash_Step_0_gml_15_0
-Smart Mouth
+Boca Lista
 text3
 obj_clubsenemy_slash_Step_0_gml_19_0
 Que bueno es&volverte&a ver!
@@ -22905,13 +22905,13 @@ obj_clubsenemy_slash_Step_0_gml_296_0_b
 \m1*		No gracias!&\m2	ERRONEO!&\m3	(Es tan malo?)/%
 obj_clubsenemy_slash_Step_0_gml_256_0
 obj_clubsenemy_slash_Step_0_gml_459_0
-* Susie stood there awkwardly!/%
+* Susie se paró incomodamente!/%
 obj_clubsenemy_slash_Step_0_gml_469_0
-* Ralsei stood there cutely!/%
+* Ralsei se paró tiernamente!/%
 obj_clubsenemy_slash_Draw_0_gml_15_0
 timestring
 obj_clubsenemy_slash_Draw_0_gml_98_0
-TIME: 
+TIEMPO: 
 timetextstring
 totaltimetextstring
 string_height
@@ -23662,7 +23662,7 @@ obj_tasque_manager_enemy_slash_Step_0_gml_301_0
 obj_tasque_manager_enemy_slash_Step_0_gml_302_0
 * ¡La boca de Susie espumea!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_314_0
-* R-Action fallo!/%
+* Acción-R fallo!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_322_0
 * Ralsei cayó en línea!/%
 obj_tasque_manager_enemy_slash_Step_0_gml_323_0
