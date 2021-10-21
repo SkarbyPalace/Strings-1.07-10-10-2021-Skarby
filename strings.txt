@@ -293,7 +293,7 @@ lgold
 sans
 gml_Script_scr_speaker
 scr_litemuseb_slash_scr_litemuseb_gml_107_0
-* que? una caja de chocolates en forma de corazón?/
+* que? una caja de chocolates en forma de corazon?/
 scr_litemuseb_slash_scr_litemuseb_gml_108_0
 \E3* oh^1, entiendo./
 gml_Script_msgnextloc
@@ -306,15 +306,15 @@ scr_litemuseb_slash_scr_litemuseb_gml_111_0
 scr_litemuseb_slash_scr_litemuseb_gml_112_0
 * hm./
 scr_litemuseb_slash_scr_litemuseb_gml_113_0
-\E1* está bien^1, está bien./
+\E1* esta bien^1, esta bien./
 scr_litemuseb_slash_scr_litemuseb_gml_114_0
 \E0* ..^1. okay./
 scr_litemuseb_slash_scr_litemuseb_gml_115_0
 \E3*Quieres regresar a esto^1, verdad?/
 scr_litemuseb_slash_scr_litemuseb_gml_116_0_b
-\E5* okay^1, okay^1, no hay porque romper mi corazón./
+\E5* okay^1, okay^1, no hay porque romper mi corazon./
 scr_litemuseb_slash_scr_litemuseb_gml_117_0_b
-\E0* ten cinco dólares./
+\E0* ten cinco dolares./
 no_name
 gml_Script_scr_anyface_next
 scr_litemuseb_slash_scr_litemuseb_gml_119_0
@@ -33973,13 +33973,13 @@ obj_ch2_sceneex1_slash_Step_0_gml_58_0
 obj_ch2_sceneex1_slash_Step_0_gml_165_0
 * ¡¡Vamos^1, Susie!^1! ¡¡Devuélveme mis gafas!!/
 obj_ch2_sceneex1_slash_Step_0_gml_167_0
-\Ea* ¡¡Oooh^1, mírenme^1, soy una gran tonta al que le encanta hacer tareas!!/%
+\Ea* ¡¡Oooh^1, mírenme^1, soy un gran tonto al que le encanta hacer tareas!!/%
 obj_ch2_sceneex1_slash_Step_0_gml_184_0
 \ES* Va..^1. Vamos.../%
 obj_ch2_sceneex1_slash_Step_0_gml_189_0
 \Ea* .../
 obj_ch2_sceneex1_slash_Step_0_gml_190_0
-\EK* ¡¡Está bien^1, te lo devuelvo!!/%
+\EK* ¡¡Está bien^1, te los devuelvo!!/%
 obj_ch2_sceneex1_slash_Step_0_gml_203_0
 \EP* ¡Gracias!/%
 obj_ch2_sceneex1_slash_Step_0_gml_214_0
@@ -38018,9 +38018,9 @@ mouse1
 desAlpha
 unlocked
 obj_mansion_keygen_lock_slash_Other_10_gml_5_0
-* It has a lock that seems impossible to open./%
+* Tiene un seguro aparentemente imposible de abrir./%
 obj_mansion_keygen_lock_slash_Other_10_gml_9_0
-* (Kris uso un KEYGEN.)/%
+* (Kris uso un LLAVE GEN.)/%
 closed_door
 TILES_Door_Closed
 interactable
