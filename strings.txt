@@ -452,7 +452,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_320_0
 scr_litemuseb_slash_scr_litemuseb_gml_321_0
 \E4* Iré y tiraré una bomba de humo para que puedas escapar./
 scr_litemuseb_slash_scr_litemuseb_gml_322_0
-\E0* ..^1. talvez no. Hee hee hee. Haz lo mejor que puedas^1, cariño./
+\E0* ..^1. tal vez no. Hee hee hee. Haz lo mejor que puedas^1, cariño./
 scr_litemuseb_slash_scr_litemuseb_gml_324_0
 scr_litemuseb_slash_scr_litemuseb_gml_336_0
 scr_litemuseb_slash_scr_litemuseb_gml_338_0
@@ -507,7 +507,7 @@ scr_litemdesc_slash_scr_litemdesc_gml_5_0
 scr_litemdesc_slash_scr_litemdesc_gml_8_0
 * "Chocolate Caliente" -  Cubierto con malvaviscos con forma de conejos hechos en casa./%
 scr_litemdesc_slash_scr_litemdesc_gml_11_0
-* "Lapiz" - Arma 1 AT&* Mas mitica que una espada?&* Talvez son igual de miticas./%
+* "Lapiz" - Arma 1 AT&* Mas mitica que una espada?&* Tal vez son igual de miticas./%
 scr_litemdesc_slash_scr_litemdesc_gml_14_0
 * "Bandage" - Heals 10 HP&* It has cartoon characters on it./%
 scr_litemdesc_slash_scr_litemdesc_gml_17_0
@@ -540,7 +540,7 @@ scr_litemdesc_slash_scr_litemdesc_gml_49_0
 scr_litemdesc_slash_scr_litemdesc_gml_52_0
 * "Lápiz Mecánico" - 1 AT&* Es tentador clickearlo muy rápido./%
 scr_litemdesc_slash_scr_litemdesc_gml_55_0
-* "Reloj de Pulsera" - Defensa 1 DF&* Talvez una antiguidad cara.&* Atascado antes de el mediodía./%
+* "Reloj de Pulsera" - Defensa 1 DF&* Tal vez una antiguidad cara.&* Atascado antes de el mediodía./%
 gml_Script_scr_litemdesc
 scr_litemdesc
 litemname
@@ -3285,7 +3285,7 @@ scr_text_slash_scr_text_gml_3256_0
 scr_text_slash_scr_text_gml_3261_0
 \E3* H..^1. huh? Kris^1, eso es^1, um..^1. bueno? creo?/
 scr_text_slash_scr_text_gml_3262_0
-\E6* Así que talvez solo estabas.../
+\E6* Así que tal vez solo estabas.../
 scr_text_slash_scr_text_gml_3263_0
 \E7* Hablando hasta tarde con Asriel online de nuevo?/
 scr_text_slash_scr_text_gml_3264_0
@@ -3653,7 +3653,7 @@ scr_text_slash_scr_text_gml_3654_0
 scr_text_slash_scr_text_gml_3655_0
 * ..^1. Creo que.../
 scr_text_slash_scr_text_gml_3656_0
-* Talvez.../
+* Tal vez.../
 scr_text_slash_scr_text_gml_3657_0
 scr_text_slash_scr_text_gml_3658_0
 \M2* ..^1. He escuchado esa canción antes..^1. viniendo del mar./
@@ -10787,7 +10787,7 @@ scr_gamestart_slash_scr_gamestart_gml_353_0
 scr_gamestart_slash_scr_gamestart_gml_356_0_b
 scr_gamestart_slash_scr_gamestart_gml_357_0
 scr_gamestart_slash_scr_gamestart_gml_358_0
-Talvez
+Tal vez
 scr_gamestart_slash_scr_gamestart_gml_359_0
 No lo se
 scr_gamestart_slash_scr_gamestart_gml_356_0
@@ -15017,7 +15017,7 @@ obj_classscene_slash_Step_0_gml_644_0
 obj_classscene_slash_Step_0_gml_645_0
 \E3* "Eran los mejores tiempos^1, eran los peores tiempos^1,"/
 obj_classscene_slash_Step_0_gml_646_0
-\E4* "A veces eran buenos. Aveces eran malos."/
+\E4* "A veces eran buenos. A veces eran malos."/
 obj_classscene_slash_Step_0_gml_647_0
 \E2* "Tiempos mediocres. Tiempos dudosos. muchos tiempos..."/%
 obj_classscene_slash_Step_0_gml_653_0
@@ -15156,7 +15156,7 @@ obj_rudy_slash_Step_0_gml_58_0
 obj_rudy_slash_Step_0_gml_60_0
 \E4* ...&* Noelle.../
 obj_rudy_slash_Step_0_gml_61_0
-\E5* Talvez..^1.&* talvez no debas esperar./
+\E5* Tal vez..^1.&* tal vez no debas esperar./
 obj_rudy_slash_Step_0_gml_63_0
 \E7* P..^1. Papá?/
 obj_rudy_slash_Step_0_gml_65_0
@@ -15728,7 +15728,7 @@ obj_npc_room_slash_Other_10_gml_113_0
 obj_npc_room_slash_Other_10_gml_114_0
 * Pondrémos nuestro codo al máximo arreglándolo^1, también./
 obj_npc_room_slash_Other_10_gml_115_0
-* Bueno^1, talvez no con el codo. Eso es asqueroso./
+* Bueno^1, tal vez no con el codo. Eso es asqueroso./
 obj_npc_room_slash_Other_10_gml_116_0
 * La gracia de una fosa nasal?/%
 obj_npc_room_slash_Other_10_gml_123_0
@@ -17536,7 +17536,7 @@ obj_npc_sign_slash_Other_10_gml_1141_0
 obj_npc_sign_slash_Other_10_gml_1142_0
 \E2* Je^1, podemos usarlo y conducir el carro de tu mamá?/%
 obj_npc_sign_slash_Other_10_gml_1146_0
-\EK* Uhh^1, talvez podemos hacer mas genial al carro de tu mamá primero./
+\EK* Uhh^1, tal vez podemos hacer mas genial al carro de tu mamá primero./
 obj_npc_sign_slash_Other_10_gml_1147_0
 \E2* Pienso en^1, como..^1. morado? Con llamas./%
 obj_npc_sign_slash_Other_10_gml_1153_0
@@ -17574,7 +17574,7 @@ obj_npc_sign_slash_Other_10_gml_1199_0
 obj_npc_sign_slash_Other_10_gml_1200_0
 \E1* Y..^1. lo dice?/
 obj_npc_sign_slash_Other_10_gml_1201_0
-\EB* O talvez..^1. es solo el chico musculoso de la tienda./%
+\EB* O tal vez..^1. es solo el chico musculoso de la tienda./%
 obj_npc_sign_slash_Other_10_gml_1205_0
 \EJ* Kris^1, esta parece una palabra extraña^1, pero.../
 obj_npc_sign_slash_Other_10_gml_1206_0
@@ -17945,9 +17945,9 @@ obj_npc_room_animated_slash_Other_10_gml_606_0
 obj_npc_room_animated_slash_Other_10_gml_612_0
 * (Parece que ha completado su migración.)/%
 obj_npc_room_animated_slash_Other_10_gml_631_0
-* Oh boy^1, oh boy^1! Looks like you're almost at the END.../
+* Oh vaya^1, oh vaya^1! Parece que estamos en la recta final.../
 obj_npc_room_animated_slash_Other_10_gml_632_0
-* RECLUTASTE a todos...? Talvez quieres revisar!/%
+* RECLUTASTE a todos...? Tal vez quieres revisar!/%
 obj_npc_room_animated_slash_Other_10_gml_635_0
 * No me RECLUTASTE a mi^1.&* Pero estaré en tu CIUDAD.../%
 obj_npc_room_animated_slash_Other_10_gml_611_0
@@ -19105,7 +19105,7 @@ obj_readable_room1_slash_Other_10_gml_2072_0
 obj_readable_room1_slash_Other_10_gml_2073_0
 \EA* (Y porque no puedo... Solo... Rechazarlo?)/
 obj_readable_room1_slash_Other_10_gml_2074_0
-\E3* (Aveces siento como...)/
+\E3* (A veces siento como...)/
 obj_readable_room1_slash_Other_10_gml_2075_0
 \E8* (Kris y Papá son a los únicos que les puedo decir no...)/%
 obj_readable_room1_slash_Other_10_gml_2093_0
@@ -19350,7 +19350,7 @@ obj_readable_room1_slash_Other_10_gml_2912_0
 obj_readable_room1_slash_Other_10_gml_2913_0
 \ED* Pero solo hay 3 puestos.../
 obj_readable_room1_slash_Other_10_gml_2915_0
-\ER* (T-talvez dos podemos..^1. co-compartir uno?)/
+\ER* (T-tal vez los dos podemos..^1. co-compartir uno?)/
 obj_readable_room1_slash_Other_10_gml_2917_0
 \EK* Rayos^1, creo que tendremos que subir las escaleras./%
 obj_readable_room1_slash_Other_10_gml_2922_0
@@ -19398,7 +19398,7 @@ obj_npc_facing_slash_Other_10_gml_55_0
 obj_npc_facing_slash_Other_10_gml_59_0
 * Pregunta en otra parte^1, Kris! Quiero obtener una "A!"/
 obj_npc_facing_slash_Other_10_gml_60_0
-\E2* Si no encuentras a alguien^1, talvez tu mamá te ayudará de nuevo!/%
+\E2* Si no encuentras a alguien^1, tal vez tu mamá te ayudará de nuevo!/%
 obj_npc_facing_slash_Other_10_gml_67_0
 \E3* Kris^1, no DIJE que llegar tarde era algo malo?/
 obj_npc_facing_slash_Other_10_gml_68_0
@@ -19564,7 +19564,7 @@ obj_npc_facing_slash_Other_10_gml_384_0
 obj_npc_facing_slash_Other_10_gml_385_0
 \E2* Quizás no necesitamos ese maniquí mas!/
 obj_npc_facing_slash_Other_10_gml_386_0
-\E1* (..^1. talvez podrías abrazar la cosa real?)/%
+\E1* (..^1. tal vez podrías abrazar la cosa real?)/%
 obj_npc_facing_slash_Other_10_gml_398_0
 \E2* Lo tenemos^1, Kris. Somos los buenos^1, ¿verdad?/
 obj_npc_facing_slash_Other_10_gml_399_0
@@ -19606,7 +19606,7 @@ obj_npc_facing_slash_Other_10_gml_461_0
 obj_npc_facing_slash_Other_10_gml_462_0
 \E2* Esos bloques parecen ser sacados de Dragon Blazers.../
 obj_npc_facing_slash_Other_10_gml_463_0
-\E8* Talvez si los empujas hacia los ratones...?/%
+\E8* Tal vez si los empujas hacia los ratones...?/%
 obj_npc_facing_slash_Other_10_gml_467_0
 \E2* N-no dejes que los ratones golpeen el muro^1, Kris!/
 obj_npc_facing_slash_Other_10_gml_468_0
@@ -21324,12 +21324,12 @@ obj_room_dw_city_postbaseball_slash_Step_0_gml_401_0
 obj_room_dw_city_postbaseball_slash_Step_0_gml_403_0
 \E3* Uh..^1. umm..^1. Supongo.../
 obj_room_dw_city_postbaseball_slash_Step_0_gml_404_0
-\E4* (Talvez..^1. por eso no dejaba de verlas...?)/%
+\E4* (Tal vez..^1. por eso no dejaba de verlas...?)/%
 completed
 obj_room_dw_city_postbaseball_slash_Step_0_gml_708_0
 \E5* 20 más!? DEMONIOS^1, estaremos aqui para siempre!/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_710_0
-\E2* T..^1. talvez si nosotros..^1. um^1, dividimos el trabajo?/
+\E2* T..^1. tal vez si nosotros..^1. um^1, dividimos el trabajo?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_712_0
 \EK* Huh?/%
 minigametimer
@@ -21358,13 +21358,13 @@ obj_room_dw_city_postbaseball_slash_Step_0_gml_936_0
 obj_room_dw_city_postbaseball_slash_Step_0_gml_944_0
 \E2* Es genial verte disfrutar un acertijo^1, Susie./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_957_0
-\EK* Bueno. Talvez no son horribles si los haces así./%
+\EK* Bueno. Tal vez no son horribles si los haces así./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_966_0
 \EL* ..^1. nada mal^1, Noelle. Eso fue algo inteligente./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_972_0
 \EM* H-Huh? GR..^1. gracias.../%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_977_0
-\EY* Heh^1, talvez la próxima vez te deje hacer mi tarea./%
+\EY* Heh^1, tal vez la próxima vez te deje hacer mi tarea./%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_992_0
 \E6* (Puedo?)/%
 obj_room_dw_city_postbaseball_slash_Step_0_gml_1047_0
@@ -22890,7 +22890,7 @@ obj_clubsenemy_slash_Step_0_gml_147_0
 obj_clubsenemy_slash_Step_0_gml_148_0
 * Clover's harmony was shattered by violence.
 obj_clubsenemy_slash_Step_0_gml_168_0
-* CLOVER - AT 8 DF 2&* Dos cabezas son mejor que una^1!&* Tres..^1. talvez no./%
+* CLOVER - AT 8 DF 2&* Dos cabezas son mejor que una^1!&* Tres..^1. tal vez no./%
 ds_list_shuffle
 choice_amount
 prepend
@@ -25902,7 +25902,7 @@ PERO KRIS, SI TU&RECHAZAS. ESO ES TU&DECISION. NO TE PUEDO&FORZAR./%
 obj_spamton_neo_enemy_slash_Step_0_gml_69_0_b
 KRIS!!! TOMA EL&TRATO!!! TOMALO!!!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_121_0
-O TALVEZ...&TU QUERIAS&SER.../%
+O TAL VEZ...&TU QUERIAS&SER.../%
 obj_spamton_neo_enemy_slash_Step_0_gml_93_0
 KRIS...&NO TE FORZARE.&NO PUEDO.&NO PUEDO FORZARTE./%
 obj_spamton_neo_enemy_slash_Step_0_gml_86_0
@@ -25924,7 +25924,7 @@ ESAS [Pantallas Con Grietas]&EN [Pantallas Con Gritos]/%
 obj_spamton_neo_enemy_slash_Step_0_gml_138_0
 ENTONCES&SEREMOS LOS QUE&[Llamamos], KRIS!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_139_0
-O TALVEZ... TU NECESITAS&Un Pequeño&[Tour Especial]?/%
+O TAL VEZ... TU NECESITAS&Un Pequeño&[Tour Especial]?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_140_0
 MIRA MIS [Ojos]&MIRA MI [Nariz]&MIRA MI [Boca]/%
 obj_spamton_neo_enemy_slash_Step_0_gml_141_0
@@ -26336,9 +26336,9 @@ obj_sweet_enemy_slash_Step_0_gml_190_0
 obj_sweet_enemy_slash_Step_0_gml_280_0
 \EK* Hey, esto esta funcionando!?/
 obj_sweet_enemy_slash_Step_0_gml_198_0
-\EL* Talvez si Kris... um.../
+\EL* Tal vez si Kris... um.../
 obj_sweet_enemy_slash_Step_0_gml_199_0
-\EK* Talvez si intentas un baile de salón?/
+\EK* Tal vez si intentas un baile de salón?/
 obj_sweet_enemy_slash_Step_0_gml_201_0
 \EH* Hey^1, por qué diablos necesitamos que Kris ACTÚE?/
 obj_sweet_enemy_slash_Step_0_gml_204_0
@@ -26487,7 +26487,7 @@ obj_kk_enemy_slash_Step_0_gml_126_0
 obj_kk_enemy_slash_Other_11_gml_29_0
 * Kris, sigue intentando bailar!
 obj_kk_enemy_slash_Other_11_gml_37_0
-* U-umm... Kris, talvez si... sigues bailando?
+* U-umm... Kris, tal vez si... sigues bailando?
 obj_kk_enemy_slash_Draw_0_gml_106_0
 obj_kk_enemy_slash_Draw_0_gml_111_0
 obj_kk_enemy_slash_Draw_0_gml_116_0
@@ -28458,7 +28458,7 @@ obj_shop_ch2_swatch_slash_Draw_0_gml_136_0
 obj_shop_ch2_swatch_slash_Draw_0_gml_139_0
 \E0Tomate tu&tiempo.&Estaremos&esperando.
 obj_shop_ch2_swatch_slash_Draw_0_gml_140_0
-\E0no puedes&pagar esto.&... talvez&la proxima?
+\E0no puedes&pagar esto.&... tal vez&la proxima?
 obj_shop_ch2_swatch_slash_Draw_0_gml_141_0
 \E0Parece que tus&bolsas están&llenas. Te&ayudamos?
 obj_shop_ch2_swatch_slash_Draw_0_gml_142_0
@@ -31059,7 +31059,7 @@ obj_ch2_scene13_slash_Step_0_gml_337_0
 obj_ch2_scene13_slash_Step_0_gml_343_0
 \E5* Pero Kris..^1. Mientras Somos Treguita/
 obj_ch2_scene13_slash_Step_0_gml_344_0
-\ED* Talvez Podemos..^1. Sacar Lo Máximo De Ello/%
+\ED* Tal vez Podemos..^1. Sacar Lo Máximo De Ello/%
 obj_ch2_scene13_slash_Step_0_gml_365_0
 \E1* Podemos Jugar Ese Juego De Nuevo/
 obj_ch2_scene13_slash_Step_0_gml_366_0
@@ -31517,9 +31517,9 @@ obj_ch2_scene19c_slash_Step_0_gml_417_0
 obj_ch2_scene19c_slash_Step_0_gml_423_0
 \EH* Y ahora..^1. Noelle va a sufrir por eso./
 obj_ch2_scene19c_slash_Step_0_gml_424_0
-* Talvez solo me gustaba ser superior./
+* Tal vez solo me gustaba ser superior./
 obj_ch2_scene19c_slash_Step_0_gml_425_0
-\EH* Talvez soy..^1. solo..^1. un idiota./
+\EH* Tal vez soy..^1. solo..^1. un idiota./
 obj_ch2_scene19c_slash_Step_0_gml_427_0
 \E3* No llores^1, hombre piernas de pollo./
 obj_ch2_scene19c_slash_Step_0_gml_428_0
@@ -31812,7 +31812,7 @@ obj_ch2_scene23b_slash_Step_0_gml_322_0
 obj_ch2_scene23b_slash_Step_0_gml_324_0
 \E6* (sigh)..^1. Todo el tiempo.../%
 obj_ch2_scene23b_slash_Step_0_gml_333_0
-\E0* TALVEZ es porque^1, cuando ella vino a clases./
+\E0* TAL VEZ es porque^1, cuando ella vino a clases./
 obj_ch2_scene23b_slash_Step_0_gml_334_0
 \E1* Tú le prestaste uno de tus lápices^1,/%
 obj_ch2_scene23b_slash_Step_0_gml_341_0
@@ -31930,7 +31930,7 @@ right_collider
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_33_0
 \EL* H-huh? Algo está bloqueando el camino.../%
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_50_0
-\EJ* Talvez podemos hayar una manera de sacarlo...?/%
+\EJ* Tal vez podemos hayar una manera de sacarlo...?/%
 TILES_Mansion_Hide_1
 TILES_Mansion_Hide_2
 actor_shadow
@@ -32232,7 +32232,7 @@ obj_ch2_scene23c_slash_Step_0_gml_54_0
 obj_ch2_scene23c_slash_Step_0_gml_55_0
 \E0* Estás^1, uh^1, temblando./
 obj_ch2_scene23c_slash_Step_0_gml_57_0
-\E3* Bueno^1, um^1, talvez^1, tengo un poco de miedo^1, pero..^1. yo.../
+\E3* Bueno^1, um^1, tal vez^1, tengo un poco de miedo^1, pero..^1. yo.../
 obj_ch2_scene23c_slash_Step_0_gml_58_0
 \E8* Para ser honesta^1, En..^1. en realidad me gustan..^1. las cosas de miedo./
 obj_ch2_scene23c_slash_Step_0_gml_60_0
@@ -32354,13 +32354,13 @@ obj_ch2_scene23d_slash_Step_0_gml_71_0
 obj_ch2_scene23d_slash_Step_0_gml_73_0
 \E6* Si tan solo pudiera soñar así todos los dias.../%
 obj_ch2_scene23d_slash_Step_0_gml_83_0
-\E0* Talvez.../
+\E0* Tal vez.../
 obj_ch2_scene23d_slash_Step_0_gml_84_0
 \EK* No..^1. tiene que ser un sueño. sabes?/%
 obj_ch2_scene23d_slash_Step_0_gml_92_0
 \E2* Susie...?/
 obj_ch2_scene23d_slash_Step_0_gml_94_0
-\EK* Talvez..^1. talvez un día podemos.../%
+\EK* Tal vez..^1. tal vez un día podemos.../%
 berdly_descend.ogg
 obj_ch2_scene23d_slash_Step_0_gml_129_0
 \E6* Noelle^1! Mi dama!^1! La Caballería ha llegado para salvarte!!/%
@@ -32574,7 +32574,7 @@ obj_ch2_scene25_slash_Step_0_gml_543_0
 obj_ch2_scene25_slash_Step_0_gml_870_0
 \E9* Queen...!/
 obj_ch2_scene25_slash_Step_0_gml_871_0
-\EA* Talvez puedes contra el número tres.../
+\EA* Tal vez puedes contra el número tres.../
 obj_ch2_scene25_slash_Step_0_gml_872_0
 \EI* Pero podrás contra CUATRO de nosotros!?/
 obj_ch2_scene25_slash_Step_0_gml_874_0
@@ -32965,7 +32965,7 @@ obj_ch2_scene26_slash_Step_0_gml_1388_0
 obj_ch2_scene26_slash_Step_0_gml_1399_0
 \E1* En Serio/%
 obj_ch2_scene26_slash_Step_0_gml_1411_0
-\EK* Uhh^1, talvez?/%
+\EK* Uhh^1, tal vez?/%
 obj_ch2_scene26_slash_Step_0_gml_1424_0
 \EP* Excepción Fatal "Dulce" En Oh Diablos Si.EXE/
 obj_ch2_scene26_slash_Step_0_gml_1425_0
@@ -33422,7 +33422,7 @@ obj_ch2_scene27_slash_Step_0_gml_750_0
 obj_ch2_scene27_slash_Step_0_gml_751_0
 \EC* ..^1. Si ves a la Susie real^1, solo.../%
 obj_ch2_scene27_slash_Step_0_gml_759_0
-\EK* Tienes que saber que talvez^1, ella.../%
+\EK* Tienes que saber que tal vez^1, ella.../%
 obj_ch2_scene27_slash_Step_0_gml_769_0
 \EH* Mira^1, ella no tiene una cola^1, OK!?/%
 obj_ch2_scene27_slash_Step_0_gml_778_0
@@ -35159,7 +35159,7 @@ obj_ch2_city_berdly_slash_Step_0_gml_527_0
 obj_ch2_city_berdly_slash_Step_0_gml_536_0
 \E2* Berdly^1, estás bien...?/
 obj_ch2_city_berdly_slash_Step_0_gml_537_0
-\E3* Kris^1, talvez debimos haber ido mas suave.../%
+\E3* Kris^1, tal vez debimos haber ido mas suave.../%
 obj_ch2_city_berdly_slash_Step_0_gml_550_0
 \E6* Más suave!? Ja^1! Jaja^1! Jajaja!/
 obj_ch2_city_berdly_slash_Step_0_gml_551_0
@@ -35173,9 +35173,9 @@ obj_ch2_city_berdly_slash_Step_0_gml_583_0
 obj_ch2_city_berdly_slash_Step_0_gml_584_0
 \E7* Kris^1! Continua y entrena tus valores de fuerza./
 obj_ch2_city_berdly_slash_Step_0_gml_585_0
-\E1* Intenta fuerte^1 y talvez algun día serás un digno oponente./%
+\E1* Intenta fuerte^1 y tal vez algun día serás un digno oponente./%
 obj_ch2_city_berdly_slash_Step_0_gml_592_0
-\EE* Heh^1! Aveces no puedo creer lo cool que soy.../%
+\EE* Heh^1! A veces no puedo creer lo cool que soy.../%
 obj_ch2_city_berdly_slash_Step_0_gml_612_0
 \EH* (Él me golpeó con un tornado...)/%
 obj_ch2_city_berdly_slash_Step_0_gml_619_0
@@ -37200,7 +37200,7 @@ obj_mouseSpawnSwitch_slash_Step_0_gml_275_0
 obj_mouseSpawnSwitch_slash_Step_0_gml_276_0
 \E2* P..^1. perdón^1, Kris^1, podrías..^1. t-tratar con ellos?/
 obj_mouseSpawnSwitch_slash_Step_0_gml_277_0
-\E4* Talvez^1, hacer un camino sin ratones para que pueda pasar...?/%
+\E4* Tal vez^1, hacer un camino sin ratones para que pueda pasar...?/%
 obj_mouseSpawnSwitch_slash_Step_0_gml_352_0
 \E4* H-hey^1, Kris? No te puedes ir aún^1, sabías!/
 obj_mouseSpawnSwitch_slash_Step_0_gml_353_0
@@ -58350,4 +58350,4 @@ Skarby, MetTheCarrot
 Natalidiota
 weacosmica206
 -Testers-
-sergeichonxd, Febriel_
+sergeichonxd, Febriel_, MutantFM
