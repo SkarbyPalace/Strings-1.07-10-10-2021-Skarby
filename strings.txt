@@ -7719,9 +7719,9 @@ scr_spellinfo_slash_scr_spellinfo_gml_14_0
 scr_spellinfo_slash_scr_spellinfo_gml_18_0
 None
 scr_spellinfo_slash_scr_spellinfo_gml_21_0
-Rude Sword
+Espada Ruda
 scr_spellinfo_slash_scr_spellinfo_gml_22_0
-RudeSword
+EspadaRuda
 scr_spellinfo_slash_scr_spellinfo_gml_23_0
 Golpe#Rudo#
 scr_spellinfo_slash_scr_spellinfo_gml_24_0
@@ -7749,7 +7749,7 @@ scr_spellinfo_slash_scr_spellinfo_gml_64_0
 Embestida Roja
 scr_spellinfo_slash_scr_spellinfo_gml_65_0
 scr_spellinfo_slash_scr_spellinfo_gml_66_0
-Daño#Rojo#
+Daño#Rojo
 scr_spellinfo_slash_scr_spellinfo_gml_67_0
 scr_spellinfo_slash_scr_spellinfo_gml_75_0
 Doble Cura
@@ -14539,7 +14539,7 @@ nofile
 filefound
 mspace
 fadescaled
-Te gustaría empezar desde el Capítulo 1?
+¿Te gustaría empezar desde el Capítulo 1?
 Capítulo 1から始めますか？
 my_stringset
 gameload
@@ -15784,7 +15784,7 @@ obj_npc_room_slash_Other_10_gml_197_0
 obj_npc_room_slash_Other_10_gml_198_0
 \EK* Mientras mas te tardas^1, mas tiempo tendré que estar con ESTE rarito./
 obj_npc_room_slash_Other_10_gml_200_0
-\EH* Si estas aburrida^1, Susie^1, podríamos tejer algunas bufandas para el equipo.../
+\EH* Si estas aburrida Susie^1, podríamos tejer bufandas para el equipo.../
 obj_npc_room_slash_Other_10_gml_202_0
 \E6* Aguanta^1, "te-ger?" Ese no es el^1, uh^1, juego con el martillo?/
 obj_npc_room_slash_Other_10_gml_204_0
@@ -20525,7 +20525,7 @@ obj_darkcontroller_slash_Draw_0_gml_362_0
 Dulzura
 97
 obj_darkcontroller_slash_Draw_0_gml_286_0
-Esponjosidad
+Suavidad
 obj_darkcontroller_slash_Draw_0_gml_382_0
 LV1 Snowcaster#Es capaz de hacer#acciones geniales.
 obj_darkcontroller_slash_Draw_0_gml_383_0
@@ -25216,7 +25216,7 @@ obj_spamton_enemy_slash_Step_0_gml_164_0
 obj_spamton_enemy_slash_Step_0_gml_165_0
 #NO ESTOY INTERESADO
 obj_spamton_enemy_slash_Step_0_gml_172_0
-HEY HEY HEY^1!&NUNCA HE VISTO UN&[ObjectoTexturaCorazon]&ASI ANTES!!/
+HEY HEY HEY^1!&NUNCA HE VISTO UN&[ObjectoTexturaCorazón]&ASI ANTES!!/
 obj_spamton_enemy_slash_Step_0_gml_173_0
 \M2MIS OJOS ESTAN [[Ardientes]]&COMO [[DVDs o Cualquier&peli a Mitad-prec1o!]]/
 obj_spamton_enemy_slash_Step_0_gml_174_0
@@ -28766,7 +28766,7 @@ obj_shop_ch2_spamton_slash_Draw_0_gml_705_0
 obj_shop_ch2_spamton_slash_Draw_0_gml_706_0
 \E3* HAZLO...&* ¡Y TENDRÁS MI [Garantía Especial] DE QUE TE [[Entregaré Todos Mis Ahorros!]]/
 obj_shop_ch2_spamton_slash_Draw_0_gml_707_0
-\E4* TODO MI [Big], TODO MI [Shot], TODO MI [Hyperlink Blocked], TODO SERÁ TUYO, KRIS./
+\E4* TODO MI [Big], TODO MI [Shot], TODO MI [Hyperlink Bloqueado], TODO SERÁ TUYO, KRIS./
 obj_shop_ch2_spamton_slash_Draw_0_gml_708_0
 * ¿ASÍ QUE, QUÉ HARAS?  BIG SHOT.../
 obj_shop_ch2_spamton_slash_Draw_0_gml_709_0
@@ -29998,7 +29998,7 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_143_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_183_0
 \E0* ..^1. y como le va a Kris?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_185_0
-\E0* Le-les va bien^1, Tori!/
+\E0* Le-le va bien^1, Tori!/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_186_0
 \E7* Uno de mis estudiantes favoritos. Una completa estrella!/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_188_0
@@ -34601,7 +34601,7 @@ obj_ch2_city05_slash_Step_0_gml_320_0
 obj_ch2_city05_slash_Step_0_gml_328_0
 * [[Hyperlink Bloqueado]]./%
 obj_ch2_city05_slash_Step_0_gml_347_0
-* TU LO QUIERES.&* QUIERES [[Hyperlink Blocked]]^1, CIERTO?/%
+* TU LO QUIERES.&* QUIERES [[Hyperlink Bloqueado]]^1, CIERTO?/%
 obj_ch2_city05_slash_Step_0_gml_359_0
 * BUENO TENGO UN TRATO PARA TI!!/%
 obj_ch2_city05_slash_Step_0_gml_389_0
@@ -35263,7 +35263,7 @@ obj_ch2_city_car_a_slash_Step_0_gml_188_0
 obj_ch2_city_car_a_slash_Step_0_gml_189_0
 \E0* Hmm..^1. ella no está aquí.../%
 obj_ch2_city_car_a_slash_Step_0_gml_218_0
-\EF* Esto Estuvo Cerca/%
+\EF* Eso Estuvo Cerca/%
 obj_ch2_city_car_a_slash_Step_0_gml_236_0
 \ED* Kris/
 obj_ch2_city_car_a_slash_Step_0_gml_237_0
