@@ -34819,7 +34819,7 @@ obj_ch2_city07_slash_Step_0_gml_1158_0
 obj_ch2_city07_slash_Step_0_gml_1160_0
 \E1* ..^1. hm. Me alegro de que estés bien./
 obj_ch2_city07_slash_Step_0_gml_1161_0
-\E0* Desde que Queen te tomó^1, estaba un poco preocupado.../
+\E0* Desde que Queen te tomó^1, estaba un poco preocupada.../
 obj_ch2_city07_slash_Step_0_gml_1163_0
 \EL* (Golpeo^1, Golpeo...)/%
 obj_ch2_city07_slash_Step_0_gml_1169_0
