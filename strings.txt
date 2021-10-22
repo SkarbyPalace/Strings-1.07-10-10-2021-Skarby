@@ -5475,35 +5475,35 @@ scr_text_slash_scr_text_gml_6618_0
 scr_text_slash_scr_text_gml_6703_0
 #Les gustas
 scr_text_slash_scr_text_gml_6704_0
-#Unknown
+#Desconocido
 scr_text_slash_scr_text_gml_6705_0
 Si
 scr_text_slash_scr_text_gml_6706_0
 scr_text_slash_scr_text_gml_6709_0
-\E3* Wh-why do those mice keep attacking me?!/
+\E3* Po-por qué me siguen atacando esos ratones?!/
 scr_text_slash_scr_text_gml_6710_0
-\E8* What do I look like^1, the girl from the Nutcracker?/
+\E8* A que parezco^1, la chica del Cascanueces?/
 scr_text_slash_scr_text_gml_6711_0
 scr_text_slash_scr_text_gml_6718_0
-\E2* H-huh? No way^1! If that's the case.../
+\E2* H-huh? No hay manera^1! Si ese es el caso.../
 scr_text_slash_scr_text_gml_6719_0
-\E4* Get them to just give me a lunchbox instead!/%
+\E4* Diles que me den una lonchera!/%
 scr_text_slash_scr_text_gml_6725_0
-\E1* (Only Kris would say "unknown"^1, not "I don't know.")/
+\E1* (Solo Kris diría "Desconocido"^1, no "No lo sé.")/
 scr_text_slash_scr_text_gml_6726_0
-\E3* (..^1. then keep standing there like that.)/
+\E3* (..^1. y luego seguir parado ahí.)/
 scr_text_slash_scr_text_gml_6727_0
 \E0* (...)/
 scr_text_slash_scr_text_gml_6728_0
-\E2* (Are they waiting for me to stop mumbling?)/%
+\E2* (Está esperando a que deje de murmurar?)/%
 scr_text_slash_scr_text_gml_6734_0
-\E3* Then^1, Kris..^1. m-maybe you can take your sword.../
+\E3* Entonces^1, Kris..^1. t-talvez puedas tomar tu espada.../
 scr_text_slash_scr_text_gml_6735_0
-\E4* And be the hero that protects me from the mice?/
+\E4* Y ser el héroe que me protege de los ratones?/
 scr_text_slash_scr_text_gml_6736_0
 \E4* (...)/
 scr_text_slash_scr_text_gml_6737_0
-\E2* (Don't just stand there in silence...)/%
+\E2* (No te quedes ahí en silencio...)/%
 scr_text_slash_scr_text_gml_6742_0
 scr_text_slash_scr_text_gml_6743_0
 scr_text_slash_scr_text_gml_6744_0
@@ -25047,7 +25047,7 @@ obj_queen_enemy_slash_Step_0_gml_1074_0
 obj_queen_enemy_slash_Step_0_gml_1108_0
 Pero No Importa&Cuanto Dure&Esta Batalla/%
 obj_queen_enemy_slash_Step_0_gml_1109_0
-Aunque Ustedes Bajen&Los Puntos Deh&Salud (De Mi: Silla)/%
+Aunque Ustedes Bajen&Los Puntos De&Salud (De Mi: Silla)/%
 obj_queen_enemy_slash_Step_0_gml_1114_0
 Simplemente Puedo&Hacer Otra Barrera&Usando Mi: Bebida/%
 obj_queen_enemy_slash_Step_0_gml_1118_0
