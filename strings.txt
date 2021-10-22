@@ -37558,7 +37558,7 @@ obj_event_mouse3_berdlymonologue_slash_Step_0_gml_42_0
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_43_0
 \E5* Ella es mi amiga.\f8 ^1/
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_44_0
-\EE* También^1, mi única oponente digna en los juegos de carreras.\f9 ^1/%
+\EE* También^1, mi única oponente digna en los juegos.\f9 ^1/%
 obj_event_mouse3_berdlymonologue_slash_Step_0_gml_61_0
 \E8* (Es eso realmente lo que vas a terminar!?)/%
 activeDecay
