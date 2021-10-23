@@ -462,7 +462,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_339_0
 scr_litemuseb_slash_scr_litemuseb_gml_340_0
 \E1* ..^1. oh? No lo necesita?/
 scr_litemuseb_slash_scr_litemuseb_gml_341_0
-\E8* Aún estás con pasando con tu amigo...?/
+\E8* Aún estás pasando tiempo con tu amigo...?/
 scr_litemuseb_slash_scr_litemuseb_gml_342_0
 \E4* Oh cielo^1! Dos días seguidos^1, Kris^1! Es esto un récord?/
 scr_litemuseb_slash_scr_litemuseb_gml_343_0
@@ -485,7 +485,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_370_0
 scr_litemuseb_slash_scr_litemuseb_gml_371_0
 \E4* Claro^1, aquí tienes./
 scr_litemuseb_slash_scr_litemuseb_gml_373_0
-\EH* KRIS TERMINA DE LAVARTE LAS MALDTIAS MANOS!!!/%
+\EH* KRIS TERMINA DE LAVARTE LAS MALDITAS MANOS!!!/%
 scr_litemuseb_slash_scr_litemuseb_gml_378_0
 scr_litemuseb_slash_scr_litemuseb_gml_380_0
 \E1* Kris^1, están en la línea./
@@ -494,7 +494,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_381_0
 scr_litemuseb_slash_scr_litemuseb_gml_382_0
 \E8* .../
 scr_litemuseb_slash_scr_litemuseb_gml_383_0
-\E3* Kris? Por qué estas llamando a nuestra casa?/%
+\E3* Kris? Por qué estás llamando a nuestra casa?/%
 scr_litemuseb_slash_scr_litemuseb_gml_389_0
 scr_litemuseb_slash_scr_litemuseb_gml_390_0
 * (Todos parecen estar muy ocupados para responder al teléfono...)/%
@@ -547,7 +547,7 @@ litemname
 scr_litemname_slash_scr_litemname_gml_6_0
 Chocolate Caliente
 scr_litemname_slash_scr_litemname_gml_7_0
-Lapiz
+Lápiz
 scr_litemname_slash_scr_litemname_gml_8_0
 Bandita
 scr_litemname_slash_scr_litemname_gml_9_0
@@ -555,9 +555,9 @@ Ramo
 scr_litemname_slash_scr_litemname_gml_10_0
 Bola de Basura
 scr_litemname_slash_scr_litemname_gml_11_0
-Lapiz Halloween
+Lápiz Halloween
 scr_litemname_slash_scr_litemname_gml_12_0
-Lapiz Suertudo
+Lápiz Suertudo
 scr_litemname_slash_scr_litemname_gml_13_0
 Huevo
 scr_litemname_slash_scr_litemname_gml_14_0
@@ -3237,7 +3237,7 @@ scr_text_slash_scr_text_gml_3181_0
 scr_text_slash_scr_text_gml_3187_0
 * Please take this cake^1! It's worthless^1, my dear friend!/
 scr_text_slash_scr_text_gml_3189_0
-\S0* (Obtuviste un SpinCake.)/%
+\S0* (Obtuviste un Torbellino.)/%
 scr_text_slash_scr_text_gml_3192_0
 * Mama shiba^1! You're carrying too many things that aren't cakes!/%
 scr_text_slash_scr_text_gml_3197_0
@@ -3582,7 +3582,7 @@ scr_text_slash_scr_text_gml_3600_0
 scr_text_slash_scr_text_gml_3601_0
 \E5* Y^1, um..^1. mientras estaban allí.../
 scr_text_slash_scr_text_gml_3602_0
-\E6* Esto no tiene nada que ver conmigo^1, pero en la Teen Zone.../
+\E6* Esto no tiene nada que ver conmigo^1, pero en la Zona de Adolescentes.../
 scr_text_slash_scr_text_gml_3603_0
 \E5* Parece que hay algunas..^1. b-buenas reseñas sobre anime..^1./
 scr_text_slash_scr_text_gml_3604_0
@@ -4550,13 +4550,13 @@ scr_text_slash_scr_text_gml_4997_0
 scr_text_slash_scr_text_gml_4998_0
 * ¡Ese es el poder de los [Brazos de Pastelero]!/
 scr_text_slash_scr_text_gml_4999_0
-* (Obtuviste un Spincake.)/%
+* (Obtuviste un Torbellino.)/%
 scr_text_slash_scr_text_gml_5007_0
 * Would you like to take my cake for a spin?/
 scr_text_slash_scr_text_gml_5008_0
 * Like night and day^1, the cake and the world revolve!/
 scr_text_slash_scr_text_gml_5009_0
-* (Obtuviste un Spincake.)/
+* (Obtuviste un Torbellino.)/
 scr_text_slash_scr_text_gml_5010_0
 * Come again another day^1! Haha hiha!/%
 scr_text_slash_scr_text_gml_5015_0
@@ -4593,7 +4593,7 @@ scr_text_slash_scr_text_gml_5065_0
 * Pero usando mis habilidades^1, puedo FUSIONAR ITEMS y crear NUEVOS./
 scr_text_slash_scr_text_gml_5066_0
 scr_text_slash_scr_text_gml_5070_0
-* Bienvenidos a TOP BAKERY./
+* Bienvenidos a PANADERIA TOP./
 scr_text_slash_scr_text_gml_5071_0
 scr_text_slash_scr_text_gml_5079_0
 scr_text_slash_scr_text_gml_5085_0
@@ -4602,7 +4602,7 @@ scr_text_slash_scr_text_gml_5086_0
 scr_text_slash_scr_text_gml_5093_0
 * PAN...? Cual es esta técnica de la que me hablas?/%
 scr_text_slash_scr_text_gml_5107_0
-* As your journey continues^1, I will learn new RECIPES^1, so please visit again./%
+* Según vayas viajando^1, aprendere nuevas RECETAS^1, asi que no dudes en volver./%
 scr_text_slash_scr_text_gml_5111_0
 * Buen viaje^1, mis amigos./%
 scr_text_slash_scr_text_gml_5117_0
@@ -4633,10 +4633,10 @@ scr_text_slash_scr_text_gml_5157_0
 scr_text_slash_scr_text_gml_5165_0
 \EE* Ahora los nombro..^1. galleta y mujer./
 scr_text_slash_scr_text_gml_5172_0
-\ED* No room^1! Your pockets are full of un-cookie./
+\ED* No tienes espacio^1! Tus bolsillos están llenos de no-galletas./
 P
 scr_text_slash_scr_text_gml_5174_0
-\EP* The hell'd you let that happen^1, Kris?/%
+\EP* ¿Por qué demonios dejaste que eso ocurra^1, Kris?/%
 scr_text_slash_scr_text_gml_5182_0
 \ED* Aunque te hagas mas fuerte^1, las Galletas de Lancer no fallan!/
 scr_text_slash_scr_text_gml_5183_0
@@ -4910,7 +4910,7 @@ scr_text_slash_scr_text_gml_5622_0
 * Hay algo brillando dentro de la vieja máquina..^1. tómarlo?/
 scr_text_slash_scr_text_gml_5623_0
 scr_text_slash_scr_text_gml_5633_0
-* (El EmptyDisk se ha agregado a tus OBJETOS CLAVES.)/%
+* (El DiscoVacío se ha agregado a tus OBJETOS CLAVES.)/%
 scr_text_slash_scr_text_gml_5642_0
 scr_text_slash_scr_text_gml_5647_0
 scr_text_slash_scr_text_gml_5648_0
@@ -5142,7 +5142,7 @@ scr_text_slash_scr_text_gml_6111_0
 scr_text_slash_scr_text_gml_6112_0
 * La fuente de nuestra compasión. El origen de nuestra voluntad./
 scr_text_slash_scr_text_gml_6113_0
-* El contenedor de nuestra "fuerza vital."/
+* El contenedor de nuestra "fuerza de vida."/
 scr_text_slash_scr_text_gml_6114_0
 * Pero incluso a día de hoy^1, su verdadera función es desconocida./%
 scr_text_slash_scr_text_gml_6119_0
@@ -5251,7 +5251,7 @@ scr_text_slash_scr_text_gml_6243_0
 * (Plink...)/
 Y
 scr_text_slash_scr_text_gml_6245_0
-\EY* ¡Jajaja^1! ¡Por un momento pensé que era en serio!/
+\EY* ¡Jajaja^1! ¡Casi pensé que ibas en serio por un segundo!/
 scr_text_slash_scr_text_gml_6246_0
 \EK* (..^1. ¿De qué viene esa mirada asesina?)/%
 scr_text_slash_scr_text_gml_6252_0
@@ -5437,7 +5437,7 @@ scr_text_slash_scr_text_gml_6539_0
 * qué te parece?/
 scr_text_slash_scr_text_gml_6540_0
 scr_text_slash_scr_text_gml_6548_0
-* Obtuviste un Egg./%
+* Obtuviste un Huevo./%
 scr_text_slash_scr_text_gml_6556_0
 * Bueno^1, no había un hombre aquí./%
 scr_text_slash_scr_text_gml_6561_0
@@ -5647,7 +5647,7 @@ scr_text_slash_scr_text_gml_6966_0
 scr_text_slash_scr_text_gml_6993_0
 #Mansión
 scr_text_slash_scr_text_gml_6994_0
-#Cyber Campo
+#Ciber Campo
 scr_text_slash_scr_text_gml_6995_0
 Zona de Basura
 scr_text_slash_scr_text_gml_6996_0
@@ -5732,7 +5732,7 @@ gml_Script_safe_delete
 scr_text_slash_scr_text_gml_7074_0
 \EF* Huh? Yo...?/
 scr_text_slash_scr_text_gml_7075_0
-\E8* Tu..^1. Me estas pidiendo que lo consiguera?/
+\E8* Tu..^1. Me estas pidiendo que lo consiga?/
 scr_text_slash_scr_text_gml_7076_0
 \E9* Vamos, Kris^1, sabes que no podemos permitirnos eso.../
 scr_text_slash_scr_text_gml_7201_0
@@ -5940,7 +5940,7 @@ scr_text_slash_scr_text_gml_7536_0
 scr_text_slash_scr_text_gml_7568_0
 scr_text_slash_scr_text_gml_7569_0
 scr_text_slash_scr_text_gml_7554_0
-* ¡Oh^1 Kris^1! ¡Es una CYBERPEDIA editable^1! Agregaré una entrada...!/
+* ¡Oh^1 Kris^1! ¡Es una CIBERPEDIA editable^1! Agregaré una entrada...!/
 scr_text_slash_scr_text_gml_7556_0
 * (Ralsei escribió un artículo acerca de PERDER RECLUTAS. ¿Leer?)/
 scr_text_slash_scr_text_gml_7582_0
@@ -5973,7 +5973,7 @@ scr_text_slash_scr_text_gml_7658_0
 * (Obtuviste un ShadowCrystal.)/
 remove_shine
 scr_text_slash_scr_text_gml_7674_0
-\EQ* Kris^1, ¿Quieres volver a leer mi entrada editable de CYBERPEDIA?/
+\EQ* Kris^1, ¿Quieres volver a leer mi entrada editable de CIBERPEDIA?/
 scr_text_slash_scr_text_gml_7676_0
 scr_text_slash_scr_text_gml_7680_0
 Si lo hiciste.
@@ -6077,7 +6077,7 @@ smimagespeed
 smsprite
 smcolor
 scr_smallface_reset_slash_scr_smallface_reset_gml_12_0
-* ... what?
+* ... qué?
 smstring
 gml_Script_scr_smallface_reset
 scr_smallface_reset
@@ -6758,7 +6758,7 @@ spelltarget
 gml_Script_scr_spellinfo_all
 scr_spellinfo_all
 scr_talkroom_slash_scr_talkroom_gml_4_0
-* Your voice echoes aimlessly./%
+* Tu voz resuena sin rumbo./%
 talkdg
 atalk
 gml_Script_scr_talkroom
@@ -6859,7 +6859,7 @@ scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_0
 obj_treasure_room_slash_Other_10_gml_76_0
 * (\cY~1\cW fue agregado a tus \cY~2\cW.)
 obj_treasure_room_slash_Other_10_gml_83_0
-* (You have too many \cY~2\cW to take \cY~1\c0.)
+* (Tienes demasiados \cY~2\cW para tomar \cY~1\c0.)
 scr_itemget_anytype_text
 min
 gml_Script_scr_levelup
@@ -7004,19 +7004,19 @@ canact
 scr_monstersetup_slash_scr_monstersetup_gml_19_0
 Revisar
 scr_monstersetup_slash_scr_monstersetup_gml_21_0
-Warning
+Advertencia
 scr_monstersetup_slash_scr_monstersetup_gml_23_0
-Victory
+Victoria
 scr_monstersetup_slash_scr_monstersetup_gml_25_0
 SimuDance
 actsimul
 scr_monstersetup_slash_scr_monstersetup_gml_28_0
-Victory (S)
+Victoria (S)
 scr_monstersetup_slash_scr_monstersetup_gml_30_0
-Lecture
+Lectura
 canactsus
 scr_monstersetup_slash_scr_monstersetup_gml_33_0
-CoolDance
+BaileCool
 actnamesus
 scr_monstersetup_slash_scr_monstersetup_gml_35_0
 actsimulsus
@@ -7039,10 +7039,10 @@ scr_monstersetup_slash_scr_monstersetup_gml_88_0
 scr_monstersetup_slash_scr_monstersetup_gml_90_0
 Abrazar
 scr_monstersetup_slash_scr_monstersetup_gml_92_0
-Hug Ralsei
+Abrazar a Ralsei
 actactor
 scr_monstersetup_slash_scr_monstersetup_gml_96_0
-* The tutorial begins.
+* El tutorial comenzo.
 scr_monstersetup_slash_scr_monstersetup_gml_100_0
 scr_monstersetup_slash_scr_monstersetup_gml_112_0
 scr_monstersetup_slash_scr_monstersetup_gml_114_0
@@ -7260,7 +7260,7 @@ Rugir
 scr_monstersetup_slash_scr_monstersetup_gml_887_0
 VozSuave
 scr_monstersetup_slash_scr_monstersetup_gml_894_0
-AcariciarX
+Acariciar+
 scr_monstersetup_slash_scr_monstersetup_gml_900_0
 scr_monstersetup_slash_scr_monstersetup_gml_904_0
 scr_monstersetup_slash_scr_monstersetup_gml_908_0
@@ -7297,7 +7297,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1019_0
 scr_monstersetup_slash_scr_monstersetup_gml_1022_0
 Cuidar
 scr_monstersetup_slash_scr_monstersetup_gml_1028_0
-CuidarX
+Cuidar+
 scr_monstersetup_slash_scr_monstersetup_gml_1047_0
 scr_monstersetup_slash_scr_monstersetup_gml_1053_0
 scr_monstersetup_slash_scr_monstersetup_gml_1057_0
@@ -7329,7 +7329,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1108_0
 scr_monstersetup_slash_scr_monstersetup_gml_1111_0
 Baila
 scr_monstersetup_slash_scr_monstersetup_gml_1116_0
-Baile X
+Baile+
 scr_monstersetup_slash_scr_monstersetup_gml_1119_0
 scr_monstersetup_slash_scr_monstersetup_gml_1123_0
 K_K
@@ -7365,9 +7365,9 @@ scr_monstersetup_slash_scr_monstersetup_gml_1259_0
 Tasque Manager
 scr_monstersetup_slash_scr_monstersetup_gml_1276_0
 scr_monstersetup_slash_scr_monstersetup_gml_1280_0
-Order
+Ordenar
 scr_monstersetup_slash_scr_monstersetup_gml_1285_0
-OrderX
+Ordenar+
 scr_monstersetup_slash_scr_monstersetup_gml_1289_0_b
 scr_monstersetup_slash_scr_monstersetup_gml_1293_0
 scr_monstersetup_slash_scr_monstersetup_gml_1289_0
@@ -7392,7 +7392,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1367_0
 scr_monstersetup_slash_scr_monstersetup_gml_1362_0
 Atrapar
 scr_monstersetup_slash_scr_monstersetup_gml_1366_0
-AtraparX
+Atrapar+
 scr_monstersetup_slash_scr_monstersetup_gml_1378_0
 scr_monstersetup_slash_scr_monstersetup_gml_1384_0
 scr_monstersetup_slash_scr_monstersetup_gml_1385_0
@@ -7438,7 +7438,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1524_0
 scr_monstersetup_slash_scr_monstersetup_gml_1529_0
 Aflojar
 scr_monstersetup_slash_scr_monstersetup_gml_1534_0
-AflojarGrupo
+Aflojar+
 scr_monstersetup_slash_scr_monstersetup_gml_1540_0
 Tirar
 scr_monstersetup_slash_scr_monstersetup_gml_1552_0
@@ -7460,7 +7460,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_1591_0
 Spamton NEO
 scr_monstersetup_slash_scr_monstersetup_gml_1614_0
 scr_monstersetup_slash_scr_monstersetup_gml_1643_0
-Corte-X
+Corte+
 scr_monstersetup_slash_scr_monstersetup_gml_1644_0
 Daño#Fisico
 scr_monstersetup_slash_scr_monstersetup_gml_1649_0
@@ -7621,31 +7621,31 @@ scr_encountersetup_slash_scr_encountersetup_gml_661_0
 scr_encountersetup_slash_scr_encountersetup_gml_681_0
 * ¡Tasque Manager bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_695_0
-* Berdly entra en combate!
+* ¡Berdly entra en combate!
 scr_encountersetup_slash_scr_encountersetup_gml_708_0
-* Queen bloquea el paso!
+* ¡Queen bloquea el paso!
 scr_encountersetup_slash_scr_encountersetup_gml_720_0
 * ¿NO QUIERES SER UN BIG SHOT?
 scr_encountersetup_slash_scr_encountersetup_gml_732_0
 * ¡Es hora de ser un BIG SHOT!
 scr_encountersetup_slash_scr_encountersetup_gml_752_0
-* Sweet Cap'n Cakes bloquean tu paso!
+* ¡Sweet Cap'n Cakes bloquean tu paso!
 kr_actor
 ra_actor
 scr_encountersetup_slash_scr_encountersetup_gml_776_0
-* Máquina Basura lucha a regañadientes contigo!
+* ¡Máquina Basura lucha a regañadientes contigo!
 scr_encountersetup_slash_scr_encountersetup_gml_791_0
 scr_encountersetup_slash_scr_encountersetup_gml_808_0
-* Werewerewire Bloquea fuertemente el camino!
+* ¡Werewerewire Bloquea fuertemente el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_817_0
-* Maus bloquea el camino!
+* ¡Maus bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_831_0
 * H-huh!? Qué esta pasando!?
 scr_encountersetup_slash_scr_encountersetup_gml_848_0
 * Virovirokun y Ambyu-lance están peleando entre ellos!
 scr_encountersetup_slash_scr_encountersetup_gml_865_0
 scr_encountersetup_slash_scr_encountersetup_gml_882_0
-* casa de animales.
+* Casa de animales.
 scr_encountersetup_slash_scr_encountersetup_gml_892_0
 * Clover se une al escenario!
 scr_encountersetup_slash_scr_encountersetup_gml_901_0
@@ -7662,7 +7662,7 @@ scr_encountersetup_slash_scr_encountersetup_gml_992_0
 scr_encountersetup_slash_scr_encountersetup_gml_1012_0
 * Poppup y caretakers aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1032_0
-* Maice bloqueo el camino!
+* Maice bloquea el camino!
 scr_encountersetup_slash_scr_encountersetup_gml_1052_0
 * Swatchling y vermin aparecieron!
 scr_encountersetup_slash_scr_encountersetup_gml_1066_0
@@ -7765,7 +7765,7 @@ Usa#una acción
 scr_spellinfo_slash_scr_spellinfo_gml_89_0
 Hace todo tipo de cosas.#No es magia.
 scr_spellinfo_slash_scr_spellinfo_gml_96_0
-NieblaSueño
+NieblaDeSueño
 scr_spellinfo_slash_scr_spellinfo_gml_97_0
 Niebla de Sueño
 scr_spellinfo_slash_scr_spellinfo_gml_98_0
@@ -7785,14 +7785,14 @@ scr_spellinfo_slash_scr_spellinfo_gml_122_0
 scr_spellinfo_slash_scr_spellinfo_gml_123_0
 Fatal
 scr_spellinfo_slash_scr_spellinfo_gml_124_0
-Deals the fatal damage to#all of the enemies.
+Hace un daño letal a#todos los enemigos.
 scr_spellinfo_slash_scr_spellinfo_gml_147_0
-UltimatHeal
+CuraSuprema
 scr_spellinfo_slash_scr_spellinfo_gml_148_0
 scr_spellinfo_slash_scr_spellinfo_gml_149_0
 La mejor#Curación
 scr_spellinfo_slash_scr_spellinfo_gml_150_0
-Curas a 1 miembro con#la mejor habilidad de Susie
+Curas a 1 miembro con#la mejor habilidad de Susie.
 scr_spellinfo
 battleat
 automiss
@@ -7822,7 +7822,7 @@ gml_Script_scr_spell
 scr_spell
 scr_spelltext_slash_scr_spelltext_gml_14_0
 charname
-* ~1 lanzo RUDE BUSTER!/%
+* ~1 lanzo Embestida!/%
 scr_spelltext_slash_scr_spelltext_gml_18_0
 * ~1 lanzo ORACIÓN de CURA!/%
 scr_spelltext_slash_scr_spelltext_gml_23_0
@@ -7844,7 +7844,7 @@ scr_spelltext_slash_scr_spelltext_gml_59_0
 scr_spelltext_slash_scr_spelltext_gml_63_0
 * ~1 lanzo SNOWGRAVE!/%
 scr_spelltext_slash_scr_spelltext_gml_67_0
-* ~1 lanzo CURAFINAL!/%
+* ~1 lanzo CURASUPREMA!/%
 scr_spelltext_slash_scr_spelltext_gml_58_0
 * ¡~1 perdonó a ~2!/%
 scr_spelltext_slash_scr_spelltext_gml_62_0
@@ -7856,10 +7856,10 @@ scr_spelltext_slash_scr_spelltext_gml_70_0
 * (Intenta usando \cBPACIFICAR\cW!)/%
 scr_spelltext_slash_scr_spelltext_gml_94_0
 scr_spelltext_slash_scr_spelltext_gml_95_0
-* (Intenta que Noelle use \cBSLEEPMIST\cW!)/%
+* (Intenta que Noelle use \cBNieblaDeSueño\cW!)/%
 scr_spelltext_slash_scr_spelltext_gml_99_0
 scr_spelltext_slash_scr_spelltext_gml_100_0_b
-* (Intenta usar \cBACTs\cW!)/%
+* (Intenta \cBActuar\cW!)/%
 scr_spelltext_slash_scr_spelltext_gml_73_0
 * ~1 perdonó a!/%
 scr_spelltext_slash_scr_spelltext_gml_78_0
@@ -7867,7 +7867,7 @@ scr_spelltext_slash_scr_spelltext_gml_78_0
 scr_spelltext_slash_scr_spelltext_gml_100_0
 * ~1 usaste la REVIVEMENTA!/%
 scr_spelltext_slash_scr_spelltext_gml_86_0
-* ~1 uso el GLOWSHARD!/
+* ~1 uso un FragBrillante!/
 scr_spelltext_slash_scr_spelltext_gml_87_0
 * Pero no sucedio nada.../%
 spec_shard
@@ -7875,7 +7875,7 @@ _en
 shardtest
 scr_spelltext_slash_scr_spelltext_gml_126_0
 scr_spelltext_slash_scr_spelltext_gml_109_0
-* El GLOWSHARD desaparecio!/%
+* El FragBrillante desaparecio!/%
 _j
 * 
 scr_spelltext_slash_scr_spelltext_gml_143_0
@@ -7890,27 +7890,27 @@ battlecancel
 manual
 scr_spelltext_slash_scr_spelltext_gml_182_0
 scr_spelltext_slash_scr_spelltext_gml_199_0
- was \cBbored to tears\cW!&
+ está \cBaburrida hasta las lagrimas\cW!&
 scr_spelltext_slash_scr_spelltext_gml_200_0_b
- listened politely!&
+ escucha educadamente!&
 scr_spelltext_slash_scr_spelltext_gml_201_0
- became sentimental!&
+ se pone sentimental!&
 scr_spelltext_slash_scr_spelltext_gml_179_0
-* ~1 uso una BROKEN CAKE!/%
+* ~1 uso una TARTA ROTA!/%
 scr_spelltext_slash_scr_spelltext_gml_183_0
-* ~1 uso un TOPCAKE!/%
+* ~1 uso una TARTASUPERIOR!/%
 scr_spelltext_slash_scr_spelltext_gml_187_0
-* ~1 uso un SPINCAKE!/%
+* ~1 uso un Torbellino!/%
 scr_spelltext_slash_scr_spelltext_gml_191_0
 * ~1 usaste la HAMBURGUESAOSC!/%
 scr_spelltext_slash_scr_spelltext_gml_194_0
-* ~1 uso una LANCERCOOKIE!/%
+* ~1 uso una GALLETADELANCER!/%
 scr_spelltext_slash_scr_spelltext_gml_197_0
 * ~1 uso una GIGASALAD!/%
 scr_spelltext_slash_scr_spelltext_gml_200_0
 * ~1 uso un CLUBS SANDWICH!/%
 scr_spelltext_slash_scr_spelltext_gml_203_0
-* ~1 uso un HEARTS DONUT!/%
+* ~1 uso un CorazónDonut!/%
 scr_spelltext_slash_scr_spelltext_gml_206_0
 * ~1 uso un CHOCO DIAMANTE!/%
 scr_spelltext_slash_scr_spelltext_gml_209_0
@@ -7924,31 +7924,31 @@ scr_spelltext_slash_scr_spelltext_gml_236_0
 scr_spelltext_slash_scr_spelltext_gml_237_0
 * ... pero no sucedió nada!/%
 scr_spelltext_slash_scr_spelltext_gml_240_0
-* ~1 uso un KRIS TEA!/%
+* ~1 uso un TE DE KRIS!/%
 scr_spelltext_slash_scr_spelltext_gml_243_0
-* ~1 uso un NOELLE TEA!/%
+* ~1 uso un TE DE NOELLE!/%
 scr_spelltext_slash_scr_spelltext_gml_246_0
-* ~1 uso un RALSEI TEA!/%
+* ~1 uso un TE DE RALSEI!/%
 scr_spelltext_slash_scr_spelltext_gml_249_0
-* ~1 uso un SUSIE TEA!/%
+* ~1 uso un TE DE SUSIE!/%
 scr_spelltext_slash_scr_spelltext_gml_252_0
 * ~1 uso un DD-BURGER!/%
 scr_spelltext_slash_scr_spelltext_gml_255_0
-* ~1 uso un LIGHTCANDY!/%
+* ~1 uso un CARAMELODELUZ!/%
 scr_spelltext_slash_scr_spelltext_gml_258_0
-* ~1 uso un BUTJUICE!/%
+* ~1 uso un JUGODENARANJA!/%
 scr_spelltext_slash_scr_spelltext_gml_261_0
 * ~1 uso un SPAGHETTICODE!/%
 scr_spelltext_slash_scr_spelltext_gml_264_0
 * ~1 uso un JAVACOOKIE!/%
 scr_spelltext_slash_scr_spelltext_gml_267_0
-* ~1 uso el TrozoTenso!&* La tensión aumento recientemente./%
+* ~1 uso el TrozoTenso!&* El TP aumento recientemente./%
 scr_spelltext_slash_scr_spelltext_gml_270_0
 * ~1 uso un TENSIONGEM!/%
 scr_spelltext_slash_scr_spelltext_gml_273_0
 * ~1 uso un TENSIONMAX!/%
 scr_spelltext_slash_scr_spelltext_gml_276_0
-* ~1 uso un REVIVEDUST!/%
+* ~1 uso un REVIVIRPOLVO!/%
 scr_spelltext_slash_scr_spelltext_gml_279_0
 * ~1 uso un REVIVEBRIGHT!/%
 scr_spelltext_slash_scr_spelltext_gml_282_0
@@ -7983,19 +7983,19 @@ BrokenCake
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_27_0
 Es la parte superior de una clave.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_28_0
-Broken Key A
+Llave Rota A
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_31_0
 La llave de una celda misteriosa.#Algo se siente extraño al respecto.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_32_0
-Door Key
+Llave De La Puerta
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_35_0
 Es la parte central de un key.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_36_0
-Broken Key B
+Llave Rota B
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_39_0
 Es la parte inferior de una llave.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_40_0
-Broken Key C
+Llave Rota C
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_43_0
 ¡Hohoho! ¡Soy un chico duro!#¡Trátame como uno de tus ARTÍCULOS!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_46_0
@@ -8042,7 +8042,7 @@ Oh, mi señor! Soy yoh, tu humilde sirvienteh,#juste aquih dondekh nunkah salih!
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_56_0
 Un disco de datos de una máquina extraña.#¿Alguien quería esto?
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_57_0
-EmptyDisk
+DiscoVacío
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_60_0
 Un disco extraño. Puedes sentirlo#sonriendo en tu mano.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_61_0
@@ -8098,7 +8098,7 @@ HamburgesaOsc
 scr_iteminfo_slash_scr_iteminfo_gml_66_0
 Cura#70HP
 scr_iteminfo_slash_scr_iteminfo_gml_72_0
-LancerCookie
+GalletaDeLancer
 scr_iteminfo_slash_scr_iteminfo_gml_73_0
 Cura#50HP
 scr_iteminfo_slash_scr_iteminfo_gml_79_0
@@ -8149,7 +8149,7 @@ DD-Burguer
 scr_iteminfo_slash_scr_iteminfo_gml_164_0
 Cura#60HP 2x
 scr_iteminfo_slash_scr_iteminfo_gml_171_0
-Caramelo de luz
+CarameloDeLuz
 scr_iteminfo_slash_scr_iteminfo_gml_172_0
 Cura#120HP
 scr_iteminfo_slash_scr_iteminfo_gml_178_0
@@ -8214,7 +8214,7 @@ Una misteriosa hamburguesa negra hecha de...#Hey, ¡esto está quemado! +70HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_33_0
 Una galleta con forma de cara de Lancer.#Tal vez no sea una galleta. Cura 1 HP?
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_36_0
-An enormous salad... but, it's just#lettuce, so it's worthless. +4HP
+Una ensalada enorme... pero solo#lleva lechuga, no vale la pena. +4HP
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_39_0
 Un sanduche que se puede partir en 3.#Cura 70 HP al equipo.
 scr_itemdesc_single_slash_scr_itemdesc_single_gml_42_0
@@ -8270,7 +8270,7 @@ scr_itemnamelist_slash_scr_itemnamelist_gml_17_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_20_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_23_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_26_0
-SpinCake
+Torbellino
 scr_itemnamelist_slash_scr_itemnamelist_gml_29_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_32_0
 scr_itemnamelist_slash_scr_itemnamelist_gml_35_0
@@ -10812,23 +10812,23 @@ scr_roomname_slash_scr_roomname_gml_5_0
 scr_roomname_slash_scr_roomname_gml_6_0
 Mi Castillo
 scr_roomname_slash_scr_roomname_gml_7_0
-Cyber City - Entrada
+Ciber Ciudad - Entrada
 scr_roomname_slash_scr_roomname_gml_8_0
-Cyber City - Máquina Arcade
+Ciber Ciudad - Máquina Arcade
 scr_roomname_slash_scr_roomname_gml_9_0
-Cyber City - Tienda de Música
+Ciber Ciudad - Tienda de Música
 scr_roomname_slash_scr_roomname_gml_10_0
-Cyber City - Entrada
+Ciber Ciudad - Entrada
 scr_roomname_slash_scr_roomname_gml_11_0
-Cyber City - Primer Pasillo
+Ciber Ciudad - Primer Pasillo
 scr_roomname_slash_scr_roomname_gml_12_0_b
-Cyber City - Callejón del ratón
+Ciber Ciudad - Callejón del ratón
 scr_roomname_slash_scr_roomname_gml_12_0
-Cyber City - Tienda de Música
+Ciber Ciudad - Tienda de Música
 scr_roomname_slash_scr_roomname_gml_13_0
-Cyber City - Segundo Pasillo
+Ciber Ciudad - Segundo Pasillo
 scr_roomname_slash_scr_roomname_gml_16_0_b
-Cyber City - La Estatua
+Ciber Ciudad - La Estatua
 scr_roomname_slash_scr_roomname_gml_14_0
 Mansión de Queen - Sala de invitados
 scr_roomname_slash_scr_roomname_gml_15_0
@@ -15375,7 +15375,7 @@ obj_npc_hammerguy_slash_Step_0_gml_109_0
 obj_npc_hammerguy_slash_Step_0_gml_153_0
 * (El Pastel Roto fue reparado mas allá del conocimiento.)/
 obj_npc_hammerguy_slash_Step_0_gml_154_0
-* (El Pastel Roto se transformó en TOPCAKE.)/
+* (El Pastel Roto se transformó en TartaSuperior.)/
 obj_npc_hammerguy_slash_Step_0_gml_155_0
 * Este es en realidad un pastel tremendo^1.&* Usa su poder sabiamente.../%
 obj_npc_hammerguy_slash_Step_0_gml_184_0
@@ -16266,7 +16266,7 @@ obj_npc_room_slash_Other_10_gml_1122_0
 obj_npc_room_slash_Other_10_gml_1123_0
 * Y se queda parada delante de él^1, ensimismada./
 obj_npc_room_slash_Other_10_gml_1124_0
-* Parece que le gusta mucho el frío. O los gofres./%
+* Parece que le gusta mucho el frío. O los waffles./%
 obj_npc_room_slash_Other_10_gml_1106_0
 \E9* ¡¡Lancer!^1! ¡¡Oye^1, Lancer!^1! ¿¡Cómo te sientes!?/
 obj_npc_room_slash_Other_10_gml_1108_0
@@ -16752,7 +16752,7 @@ obj_npc_room_slash_Other_10_gml_2210_0
 obj_npc_room_slash_Other_10_gml_2211_0
 * Donde el CABALLERO crea la Fuente por su propia mano.../
 obj_npc_room_slash_Other_10_gml_2212_0
-* Bueno^1, es eso y los videos caseros más divertidos de Cyber City./%
+* Bueno^1, es eso y los videos caseros más divertidos de la Ciber Ciudad./%
 obj_npc_room_slash_Other_10_gml_2216_0
 * A menudo nos vemos obligados a protagonizar esos videos./%
 obj_npc_room_slash_Other_10_gml_2225_0
@@ -16849,7 +16849,7 @@ obj_npc_room_slash_Other_10_gml_2401_0
 obj_npc_room_slash_Other_10_gml_2412_0
 * Quiero volver a la ciudad^1, pero el camino está bloqueado.../
 obj_npc_room_slash_Other_10_gml_2413_0
-* No soy un extranjero^1! Sáquenme de Cyber-campo!/%
+* No soy un extranjero^1! Sáquenme de Ciber-campo!/%
 obj_npc_room_slash_Other_10_gml_2417_0
 * La cocina es tan poco refinada aquí en los palillos (de memoria)./%
 obj_npc_room_slash_Other_10_gml_2426_0
@@ -17389,11 +17389,11 @@ total_checkmarks
 obj_npc_sign_slash_Other_10_gml_762_0
 * Soy el Hacker. Estoy tras los vistos azules./
 obj_npc_sign_slash_Other_10_gml_763_0
-* Encuentra 3 en el Cyber-campo^1, y me uniré a tu [Ciudad]./
+* Encuentra 3 en el Ciber-campo^1, y me uniré a tu [Ciudad]./
 obj_npc_sign_slash_Other_10_gml_764_0
 * Ustedes parecen el tipo de personas que tienen una [Ciudad Cool]./%
 obj_npc_sign_slash_Other_10_gml_770_0
-* De acuerdo con Cyber^1, has encontrado ~1 vistos azules de 3./
+* De acuerdo con Ciber^1, has encontrado ~1 vistos azules de 3./
 obj_npc_sign_slash_Other_10_gml_772_0
 * 0^1, nada mal para novatos. Tu "Mision de Vistos" recién empieza./%
 obj_npc_sign_slash_Other_10_gml_773_0
@@ -18089,7 +18089,7 @@ obj_savepoint_slash_Other_10_gml_42_0
 obj_savepoint_slash_Other_10_gml_59_0
 * (Tocaste la luz...)/
 obj_savepoint_slash_Other_10_gml_60_0_b
-* (Pensaste en cómo no puedes \cRvolver más al Cyber World\cW ahora.)/
+* (Pensaste en cómo no puedes \cRvolver más al Ciber Mundo\cW ahora.)/
 obj_savepoint_slash_Other_10_gml_61_0_b
 * (Usted consideró esto cuidadosamente!)/%
 obj_savepoint_slash_Other_10_gml_50_0
@@ -18677,7 +18677,7 @@ obj_readable_room1_slash_Other_10_gml_933_0
 obj_readable_room1_slash_Other_10_gml_1193_0
 * (Kris^1, podríamos ir a literalmente cualquier otro sitio.)/
 obj_readable_room1_slash_Other_10_gml_1194_0
-\E1* (Y me traes a la Teen Zone.)/%
+\E1* (Y me traes a la Zona De Adolescentes.)/%
 obj_readable_room1_slash_Other_10_gml_1198_0
 * (Es una reseña semanal de series de dibujos.)/
 obj_readable_room1_slash_Other_10_gml_1199_0
@@ -19319,7 +19319,7 @@ obj_readable_room1_slash_Other_10_gml_2783_0
 obj_readable_room1_slash_Other_10_gml_2792_0
 * (Parece un atasco de tráfico inducido por el ratón.)/%
 obj_readable_room1_slash_Other_10_gml_2837_0
-* Bienvenido a Cyber City^1! Los peatones necesitan presionar el botón para cruzar!/%
+* Bienvenido a la Ciber Ciudad^1! Los peatones necesitan presionar el botón para cruzar!/%
 obj_readable_room1_slash_Other_10_gml_2862_0
 * (Es un juego de lanzamiento de pelota. Los premios estan debajo del mostrador.)/%
 obj_readable_room1_slash_Other_10_gml_2865_0
