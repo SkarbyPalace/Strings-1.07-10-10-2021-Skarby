@@ -5847,7 +5847,7 @@ scr_text_slash_scr_text_gml_7336_0
 \E9* Si ella supiera que todo fue real^1, huh^1, Kris?/
 scr_text_slash_scr_text_gml_7337_0
 scr_text_slash_scr_text_gml_7338_0
-\EK* Vámos^1, intenta ser un poco más entusiasta. Heh./%
+\EK* Vamos^1, intenta ser un poco más entusiasta. Heh./%
 scr_text_slash_scr_text_gml_7344_0
 #Tomar
 scr_text_slash_scr_text_gml_7345_0
@@ -21348,7 +21348,7 @@ obj_room_dw_city_postbaseball_slash_Step_0_gml_783_0
 obj_room_dw_city_postbaseball_slash_Step_0_gml_784_0
 \E0* Listos...?/
 obj_room_dw_city_postbaseball_slash_Step_0_gml_785_0
-\E4* Vámos!/%
+\E4* Vamos!/%
 boxing_game.ogg
 failstate
 howmanymice
@@ -32820,7 +32820,7 @@ obj_ch2_scene26_slash_Step_0_gml_682_0
 obj_ch2_scene26_slash_Step_0_gml_683_0
 \E5* Nosotros también tenemos una!!/%
 obj_ch2_scene26_slash_Step_0_gml_700_0
-\EN* Kris^1, Ralsei^1, vámos!!/%
+\EN* Kris^1, Ralsei^1, vamos!!/%
 obj_ch2_scene26_slash_Step_0_gml_740_0
 \EK* Qu..^1. qué están haciendo!?/
 obj_ch2_scene26_slash_Step_0_gml_742_0
@@ -34605,15 +34605,15 @@ obj_ch2_city05_slash_Step_0_gml_347_0
 obj_ch2_city05_slash_Step_0_gml_359_0
 * BUENO TENGO UN TRATO PARA TI!!/%
 obj_ch2_city05_slash_Step_0_gml_389_0
-* LO UNICO QUE TIENES QUE HACER ES ENSEÑARME TU./%
+* LO ÚNICO QUE TIENES QUE HACER ES ENSEÑARME TU./%
 obj_ch2_city05_slash_Step_0_gml_397_0
 * TU [[ObjetoConFormaDeCorazón]]./%
 obj_ch2_city05_slash_Step_0_gml_413_0
 * ERES UN  LIGHT neR< CIERTO?/%
 obj_ch2_city05_slash_Step_0_gml_419_0
-* TU TIENES LA [[LUZ.]^1]&* PORQUE NO ME LO^1&* [[Muestras?]]/%
+* TU TIENES LA [[LUZ.]^1]&* PORQUE NO ME LA^1&* [[Muestras?]]/%
 obj_ch2_city05_slash_Step_0_gml_443_0
-* HAEAHAEAHAEAHAEAH!!/%
+* JAEJAEJAEJAEJAEJA!!/%
 spamton_marker
 spamton_battle.ogg
 obj_ch2_city05_slash_Step_0_gml_551_0
@@ -34625,9 +34625,9 @@ obj_ch2_city05_slash_Step_0_gml_554_0
 obj_ch2_city05_slash_Step_0_gml_564_0
 * VEN..^1. SOLO./%
 obj_ch2_city05_slash_Step_0_gml_574_0
-* Y Y NO LO..^1. OLVIDES!/%
+* Y NO..^1. OLVIDES!/%
 obj_ch2_city05_slash_Step_0_gml_582_0
-* DE [[Darle like y Suscribirse a Skarby]] Para mas [[Hyperlink Bloqueado.]]/%
+* DE [[Darle like y Suscribirse a Skarby]] Para más [[Hyperlink Bloqueado.]]/%
 obj_ch2_city05_slash_Step_0_gml_591_0
 obj_ch2_city05_slash_Step_0_gml_612_0
 * HEY!!^1! NUNCA ESCUCHASTE LA FRASE^1, &* [Haz dinero^1, No Guerra]!/
@@ -34638,7 +34638,7 @@ obj_ch2_city05_slash_Step_0_gml_615_0
 obj_ch2_city05_slash_Step_0_gml_621_0
 * [Escupir] EN SUS OJOS^1, ARROJANDO ARENA EN SU [CARA],/
 obj_ch2_city05_slash_Step_0_gml_623_0
-* [Pisar] EN LOS DEDOS DE LOS PIES^1, SACUDIENDO SUS [NARICES]/
+* [Pisando] SUS DEDOS DE LOS PIES^1, SACUDIENDO SUS [NARICES]/
 obj_ch2_city05_slash_Step_0_gml_625_0
 * Y NI SIQUIERA DARLES UN SOLO CENTAVO POR ELLO!?/
 obj_ch2_city05_slash_Step_0_gml_629_0
@@ -34646,11 +34646,11 @@ obj_ch2_city05_slash_Step_0_gml_629_0
 obj_ch2_city05_slash_Step_0_gml_630_0
 * SOLO PORQUE COMPRASTE MI [Anillo conmemorativo]!/
 obj_ch2_city05_slash_Step_0_gml_631_0
-* AL MENOS COMPRAR [2]!/
+* AL MENOS COMPRA [2]!/
 obj_ch2_city05_slash_Step_0_gml_634_0
 * ¡DEBERÍAS HABER HECHO TODO ESO ANTES!/
 obj_ch2_city05_slash_Step_0_gml_635_0
-* Y FUE EL PRIMERO EN POSEER MI [Anillo conmemorativo]/
+* Y SER EL PRIMERO EN POSEER MI [Anillo conmemorativo]/
 obj_ch2_city05_slash_Step_0_gml_638_0
 * LÁSTIMA^1! ¡NOS VEMOS CHICO!/%
 dumpster_npc
@@ -34681,9 +34681,9 @@ obj_ch2_city07_slash_Step_0_gml_91_0
 obj_ch2_city07_slash_Step_0_gml_92_0
 \EE* ¡Me esconderé en ese puesto!/%
 obj_ch2_city07_slash_Step_0_gml_139_0
-\E9* Oye Echa Un Vistazo A Esto/%
+\E9* Oye Echale Un Vistazo A Esto/%
 obj_ch2_city07_slash_Step_0_gml_200_0
-\EQ* Bien Cariño/%
+\EQ* Dulce Verdad/%
 obj_ch2_city07_slash_Step_0_gml_209_0
 \E9* Donde Esta Mi Premio/%
 obj_ch2_city07_slash_Step_0_gml_217_0
@@ -34713,9 +34713,9 @@ obj_ch2_city07_slash_Step_0_gml_419_0
 obj_ch2_city07_slash_Step_0_gml_427_0
 \EK* Dios^1, enseñarte sarcasmo fue un error./
 obj_ch2_city07_slash_Step_0_gml_429_0
-\EH* Hahahahaha!/%
+\EH* Jajajaja!/%
 obj_ch2_city07_slash_Step_0_gml_466_0
-\ED * H..^1. huh!? Se lo estás dando a..^1. mi...?/%
+\ED * H..^1. huh!? Me lo estás dando a..^1. mi...?/%
 obj_ch2_city07_slash_Step_0_gml_472_0
 obj_ch2_city07_slash_Step_0_gml_473_0
 \E1* Yo..^1. Nunca antes había recibido un regalo como este./
@@ -34748,7 +34748,7 @@ obj_ch2_city07_slash_Step_0_gml_680_0
 \E2* Wow^1, deben haber querido realmente dártelo!/%
 obj_ch2_city07_slash_Step_0_gml_689_0
 obj_ch2_city07_slash_Step_0_gml_701_0
-\EK* Well^1, se necesitan agallas para hacer algo estúpido como eso./%
+\EK* Bueno^1, se necesitan agallas para hacer algo estúpido como eso./%
 obj_ch2_city07_slash_Step_0_gml_727_0
 \E2* ..^1. ¡No creas que voy a dejarte salir!/%
 obj_ch2_city07_slash_Step_0_gml_731_0
@@ -34769,7 +34769,7 @@ obj_ch2_city07_slash_Step_0_gml_873_0
 obj_ch2_city07_slash_Step_0_gml_874_0
 \E9* (Desde que éramos niños pequeños.)/
 obj_ch2_city07_slash_Step_0_gml_875_0
-\E6* (Están diciendo que quieren que las cosas vuelvan a...)/
+\E6* (Esta diciendo que quieren que las cosas vuelvan a...)/
 obj_ch2_city07_slash_Step_0_gml_876_0
 \E8* E-espera^1, No es que el peluche que le acabo de dar a Queen!?/
 obj_ch2_city07_slash_Step_0_gml_877_0
@@ -34885,7 +34885,7 @@ obj_ch2_city07_slash_Step_0_gml_1427_0
 \EH* (NADIE PREGUNTABA!)/%
 starXPos
 obj_ch2_city07_slash_Step_0_gml_1439_0
-* YO también            me unire/%
+* YO también            me uniré/%
 walkerpos
 obj_ch2_city07_slash_Step_0_gml_1499_0
 \EQ* ¿No es de ahí de donde venimos?/
@@ -35269,11 +35269,11 @@ obj_ch2_city_car_a_slash_Step_0_gml_236_0
 obj_ch2_city_car_a_slash_Step_0_gml_237_0
 \EB* Quien Es Tu Amiga/
 obj_ch2_city_car_a_slash_Step_0_gml_238_0
-\E9* Mi Software De Reconocimiento Facial No Lo Reconoce/%
+\E9* Mi Software De Reconocimiento Facial No La Reconoce/%
 obj_ch2_city_car_a_slash_Step_0_gml_254_0
 \EA* ...^1. Sin Embargo/
 obj_ch2_city_car_a_slash_Step_0_gml_255_0
-\E5* Algo Sobre Ellos Pareces/%
+\E5* Algo Sobre Ella Parece/%
 obj_ch2_city_car_a_slash_Step_0_gml_267_0
 \ED* Cool/
 obj_ch2_city_car_a_slash_Step_0_gml_268_0
@@ -35289,7 +35289,7 @@ obj_ch2_city_car_a_slash_Step_0_gml_389_0
 obj_ch2_city_car_a_slash_Step_0_gml_390_0
 \EF* Un Perro Debe Haber Vagado Por El Camino De Nuevo/
 obj_ch2_city_car_a_slash_Step_0_gml_391_0
-\ED* Kris Sé Un Querido Y Presiona El Botón De Caminar/
+\ED* Kris Sé Bueno Y Presiona El Botón De Caminar/
 obj_ch2_city_car_a_slash_Step_0_gml_392_0
 \E9* Está Justo Al Otro Lado De La Carretera/%
 obj_ch2_city_car_a_slash_Step_0_gml_404_0
@@ -35350,7 +35350,7 @@ obj_ch2_city_car_b_slash_Step_0_gml_150_0
 obj_ch2_city_car_b_slash_Step_0_gml_151_0
 \EB* Imagina A Noelle Clavándose En Una Pared En Algún Lugar/
 obj_ch2_city_car_b_slash_Step_0_gml_152_0
-\ED* Sufriendo De Deficiencia De Potaxio/
+\ED* Sufriendo De Deficiencia De Potasio/
 obj_ch2_city_car_b_slash_Step_0_gml_154_0
 \E2* E..^1. En realidad estás preocupada por ella?/
 obj_ch2_city_car_b_slash_Step_0_gml_156_0
@@ -35361,7 +35361,7 @@ obj_ch2_city_car_b_slash_Step_0_gml_159_0
 obj_ch2_city_car_b_slash_Step_0_gml_160_0
 \E3* Espera^1, déjame adivinar..^1. es porque.../
 obj_ch2_city_car_b_slash_Step_0_gml_161_0
-\E9* Ella es lo suficientemente débil para hacer en su peón?/
+\E9* Ella es lo suficientemente débil para ser tu peón?/
 obj_ch2_city_car_b_slash_Step_0_gml_163_0
 \E1* Jaja No/
 obj_ch2_city_car_b_slash_Step_0_gml_164_0
@@ -35377,15 +35377,15 @@ obj_ch2_city_car_b_slash_Step_0_gml_263_0
 obj_ch2_city_car_b_slash_Step_0_gml_284_0
 \EB* Phew/
 obj_ch2_city_car_b_slash_Step_0_gml_285_0
-\E9* Solo Estaba Preocupado Porque Aún No Había Explotado./%
+\E9* Solo Estaba Preocupada Porque Aún No Había Explotado./%
 obj_ch2_city_car_b_slash_Step_0_gml_293_0
-\EA* Parece Que Tendremos Que Separarnos A Pie/%
+\EA* Parece Que Tendremos Que Ir A Pie/%
 obj_ch2_city_car_b_slash_Step_0_gml_300_0
 \E5* .../%
 obj_ch2_city_car_b_slash_Step_0_gml_307_0
 \E9* Kris Si Ves a Noelle/
 obj_ch2_city_car_b_slash_Step_0_gml_308_0
-\EA* Dígale Que Mi Conocimiento De Sus Preferencias Es Absoluto/
+\EA* Dile Que Mi Conocimiento De Sus Preferencias Es Absoluto/
 obj_ch2_city_car_b_slash_Step_0_gml_309_0
 \ED* Y Si Necesita Pruebas/
 obj_ch2_city_car_b_slash_Step_0_gml_310_0
@@ -35877,7 +35877,7 @@ obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_368_0
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_378_0
 \EN* No Puedo Calcular A Alguien Menos Que Tú/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_390_0
-\EA* LARGATE!!!!/
+\EA* LÁRGATE!!!!/
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_392_0
 \E0* Adiosito Kingy Wingy/%
 obj_ch2_room_dungeon_2f_ee_slash_Step_0_gml_413_0
@@ -36163,13 +36163,13 @@ obj_ch2_room_castle_area_1_slash_Step_0_gml_254_0
 obj_ch2_room_castle_area_1_slash_Step_0_gml_255_0
 \EB* "Ir a mi habitación"/
 obj_ch2_room_castle_area_1_slash_Step_0_gml_256_0
-\E5* Ha Ha/%
+\E5* Ja Ja/%
 obj_ch2_room_castle_area_1_slash_Step_0_gml_298_0
 \E0* Hey Kris^1, uh^1, enserio vas a caminar lento por todas partes?/
 obj_ch2_room_castle_area_1_slash_Step_0_gml_299_0
 \EK* Sé que estás un poco^1, uh^1, tomándolo en^1, pero puedes correr^1, ¿sabes?/
 obj_ch2_room_castle_area_1_slash_Step_0_gml_301_0
-* (Recordastes algo acerca de el botón ~1.)/%
+* (Recordaste algo acerca de el botón ~1.)/%
 dojo_npc
 puzzle_master_npc
 desk_collider
@@ -36195,7 +36195,7 @@ book_pillar
 obj_ch2_room_castle_transformed_slash_Step_0_gml_17_0
 * (Kris... estoy seguro de que quieres hablar con todo el mundo.)/
 obj_ch2_room_castle_transformed_slash_Step_0_gml_18_0
-* (Pero no tienes que hacerlo \cYtodo a la vez\c0.)/
+* (Pero no tienes que hacer \cYtodo a la vez\c0.)/
 obj_ch2_room_castle_transformed_slash_Step_0_gml_19_0
 * (\cYGUARDA\c0 y tómate un descanso cuando quieras, ¿vale?)/%
 obj_ch2_room_town_south_slash_Step_0_gml_17_0
@@ -36235,9 +36235,9 @@ arm_l
 arm_r
 leg_l
 leg_r
-Kris is the head
-I'll be tha arms
-I'll be the legs
+Kris será la cabeza
+Yo los brazos
+Yo las piernas
 movetime
 transformstate
 effect
@@ -37409,7 +37409,7 @@ obj_controller_city_mice3_slash_Step_0_gml_53_0
 obj_controller_city_mice3_slash_Step_0_gml_74_0_b
 * ¿No es algo bueno?/
 obj_controller_city_mice3_slash_Step_0_gml_75_0_b
-* Estoy resolviendo las cosas por mí misma. Tomando cosas nuevas. Derrotar enemigos por mí misma./
+* Estoy resolviendo las cosas por mí misma. Tomando cosas nuevas. Derroto enemigos por mí misma./
 obj_controller_city_mice3_slash_Step_0_gml_76_0_b
 * Y cada vez que lo hago.../
 obj_controller_city_mice3_slash_Step_0_gml_77_0
@@ -37598,7 +37598,7 @@ botright
 above
 below
 obj_controller_dining3_slash_Step_0_gml_246_0
-\E6* Oye^1, ¡aqui hay algo debajo!/%
+\E6* Oye^1, ¡aquí hay algo debajo!/%
 draw_mode
 toss
 tossdir
@@ -37608,7 +37608,7 @@ raspr
 obj_controller_dining3_slash_Step_0_gml_539_0
 \EJ* ¡¡¡Ahí está la llave!!^1! Ahora sólo tenemos que--/%
 obj_controller_dining3_slash_Step_0_gml_603_0
-\EL* ¡¿LA ROMPIO?!/%
+\EL* ¡¿LA ROMPIÓ?!/%
 TILES_Doorway_FG
 dogIndex
 raise
@@ -37845,7 +37845,7 @@ obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_28_0
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_29_0
 * Tal vez podría interesarte en un AnilloCongelado?/%
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_44_0
-\E2* Huh...? Un aniño...?/
+\E2* Huh...? Un anillo...?/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_46_0
 \E8* Faha, lo siento, no creo que NECESITEMOS algo así!/
 obj_weirdEvent_addison_city_big_2_slash_Step_0_gml_47_0
