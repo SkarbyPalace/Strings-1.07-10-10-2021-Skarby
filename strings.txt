@@ -26838,10 +26838,10 @@ obj_rouxls_simtown_slash_Draw_0_gml_72_0
 * Turno de Rouxls. TurnCon:
 button_offset
 obj_rouxls_simtown_slash_Draw_0_gml_103_0
-* Reclamar con
+* Pulsa
 ＊ 
 obj_rouxls_simtown_slash_Draw_0_gml_80_0
-* Reclama con ~1!
+* Pulsa ~1 para reclamar!
 scalerX
 scalerY
 last_hspeed
