@@ -36037,7 +36037,7 @@ Tiles_ExitBlock
 exit_collider
 icon_npc
 obj_ch2_room_mansion_3f_slash_Step_0_gml_50_0
-\EE* Kris^1, Susan..^1. Me alegro de que llegen sanos sin heridas./
+\EE* Kris^1, Susan..^1. Me alegro de que lleguen sanos sin heridas./
 obj_ch2_room_mansion_3f_slash_Step_0_gml_51_0
 \E6* Ahora^1, démonos prisa!/%
 obj_ch2_room_mansion_3f_slash_Step_0_gml_77_0
