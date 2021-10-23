@@ -30972,7 +30972,7 @@ obj_ch2_scene11b_slash_Step_0_gml_416_0
 obj_ch2_scene11b_slash_Step_0_gml_434_0
 \E1* (Ya vámonos^1, Kris...)/%
 obj_ch2_scene11b_slash_Step_0_gml_483_0
-\E0* por cierto Kris^1, acabo de recordar!/
+\E0* Por cierto Kris^1, acabo de recordar!/
 obj_ch2_scene11b_slash_Step_0_gml_484_0
 \E0* Aunque puedas cargar solo 12 ITEMS.../
 obj_ch2_scene11b_slash_Step_0_gml_485_0
