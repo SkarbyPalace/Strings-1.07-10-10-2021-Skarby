@@ -20975,9 +20975,9 @@ obj_npc_dojo_slash_Step_0_gml_45_0
 obj_npc_dojo_slash_Step_0_gml_46_0
 * Como lo prometí^1, aquí está su premio!/
 obj_npc_dojo_slash_Step_0_gml_56_0
-* Boss!^1 Your inventory is full!!/
+* Jefe!^1 Su inventario está lleno!!/
 obj_npc_dojo_slash_Step_0_gml_65_0
-* You'll just have to try again^1, boss!/%
+* Solo tiene que intentar denuevo^1, jefe!/%
 obj_npc_dojo_slash_Step_0_gml_51_0
 * (Recibiste ~1!)/%
 obj_npc_dojo_slash_Step_0_gml_77_0
@@ -20993,7 +20993,7 @@ obj_npc_dojo_slash_Step_0_gml_105_0
 obj_npc_dojo_slash_Step_0_gml_115_0
 * Jefe^1! Para las balas dirigidas a usted^1, intente moverse \cYa una direccion poco a poco\cW...!/%
 obj_npc_dojo_slash_Step_0_gml_120_0
-* Boss^1! Try to remember your ABCs...!/%
+* Jefe^1! Intente recordar sus ABCs...!/%
 obj_npc_dojo_slash_Step_0_gml_61_0
 * Lo reforzó! Suerte para la próxima^1, jefe!/%
 ball
@@ -25071,7 +25071,7 @@ obj_queen_enemy_slash_Step_0_gml_1204_0
 Es tiempo...&para mi de&tomar mi&libertad!!/%
 savey
 whiteall
-Queen difficulty = 
+Dificultad Queen = 
 obj_queen_enemy_slash_Other_11_gml_10_0
 obj_queen_enemy_slash_Other_11_gml_11_0
 obj_queen_enemy_slash_Other_11_gml_15_0
@@ -25083,7 +25083,7 @@ obj_queen_enemy_slash_Other_11_gml_26_0
 obj_queen_enemy_slash_Other_11_gml_32_0
 obj_queen_enemy_slash_Other_11_gml_36_0
 Escudo Destruido
-Queen health = 
+Vida Queen = 
 ctimer
 wineadded
 wineadd
@@ -28842,7 +28842,7 @@ ESPACIO ALMAC:
 roomstring2
 momentum
 DEVICE_CHOICE_slash_Create_0_gml_7_0
-EGG
+HUEVO
 NAMESTRING
 STRINGMAX
 DEVICE_CHOICE_slash_Create_0_gml_28_0
@@ -28852,17 +28852,17 @@ SI
 IDEALX
 IDEALY
 DEVICE_CHOICE_slash_Create_0_gml_64_0
-GRAINS
+GRANOS
 DEVICE_CHOICE_slash_Create_0_gml_65_0
-MEAT
+CARNE
 DEVICE_CHOICE_slash_Create_0_gml_66_0
-DAIRY
+DIARIO
 DEVICE_CHOICE_slash_Create_0_gml_67_0
-SWEETS
+DULCES
 DEVICE_CHOICE_slash_Create_0_gml_68_0
-FRUIT
+FRUTA
 DEVICE_CHOICE_slash_Create_0_gml_69_0
-VEGETABLE
+VEGETALES
 DEVICE_CHOICE_slash_Create_0_gml_70_0
 DRAWHEART
 ONEBUFFER
@@ -29632,7 +29632,7 @@ nl_actor
 obj_cutscene_test_slash_Step_0_gml_51_0
 \E7* Hey^1, es ese... Lancer!?/%
 obj_cutscene_test_slash_Step_0_gml_78_0
-\E2* Qué tal^1, amigp?/%
+\E2* Qué tal^1, amigo?/%
 obj_cutscene_test_slash_Step_0_gml_87_0
 \E1* Lancer?/%
 obj_cutscene_test_slash_Step_0_gml_96_0
