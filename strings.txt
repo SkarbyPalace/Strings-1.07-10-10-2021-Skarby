@@ -19031,7 +19031,7 @@ obj_readable_room1_slash_Other_10_gml_1910_0
 obj_readable_room1_slash_Other_10_gml_1913_0
 \E5* Hey Kris^1, deja de comerte mis snacks con la vista./%
 obj_readable_room1_slash_Other_10_gml_1921_0
-\E0* Susie^1, tu no alcanzastes a leer el manual.../
+\E0* Susie^1, tu no alcanzaste a leer el manual.../
 obj_readable_room1_slash_Other_10_gml_1922_0
 \E2* Así que lo puse aquí para ti./
 obj_readable_room1_slash_Other_10_gml_1924_0
@@ -19086,13 +19086,13 @@ obj_readable_room1_slash_Other_10_gml_2025_0
 obj_readable_room1_slash_Other_10_gml_2030_0
 \EE* (Salgámos de acá!)/%
 obj_readable_room1_slash_Other_10_gml_2043_0
-\EA* ..^1. hey Kris^1, ever think about using these cones?/
+\EA* ..^1. oye Kris^1, ¿has pensado alguna vez en usar estos conos?/
 obj_readable_room1_slash_Other_10_gml_2045_0
-\EK* ..^1. using them?/
+\EK* ..^1. ¿usarlos?/
 obj_readable_room1_slash_Other_10_gml_2047_0
-\EA* For ice cream./%
+\EA* Para comer helado./%
 obj_readable_room1_slash_Other_10_gml_2051_0
-* (Just some cones of the non-ice-cream persuasion.)/%
+* (Sólo son conos con ideología anti-helado.)/%
 obj_readable_room1_slash_Other_10_gml_2087_0
 * (Es un poster para la marca de limpieza de Queen.)/
 obj_readable_room1_slash_Other_10_gml_2088_0
@@ -19123,7 +19123,7 @@ obj_readable_room1_slash_Other_10_gml_2109_0
 obj_readable_room1_slash_Other_10_gml_2110_0
 \Ed* (Al mismo tiempo^1, es un poco nostálgico...)/%
 obj_readable_room1_slash_Other_10_gml_2124_0
-* Mama Miba^1! Bienvenido a TOP BAKERY!/
+* Mama Miba^1! Bienvenido a PANADERIA TOP!/
 obj_readable_room1_slash_Other_10_gml_2125_0
 * Nuestro chef especial cocino productos a la ALTURA de su clase!/%
 obj_readable_room1_slash_Other_10_gml_2160_0
@@ -19228,7 +19228,7 @@ obj_readable_room1_slash_Other_10_gml_2523_0
 obj_readable_room1_slash_Other_10_gml_2529_0
 \Ec* (¿Por qué no encienden el interruptor...?)/%
 obj_readable_room1_slash_Other_10_gml_2545_0
-* Izquierda: Acceso directo a 1F/%
+* Izquierda: Acceso directo al 1P/%
 obj_readable_room1_slash_Other_10_gml_2553_0
 * (Es un video de alguien que crea un extraña columna de humo.)/
 obj_readable_room1_slash_Other_10_gml_2554_0
@@ -19294,7 +19294,7 @@ obj_readable_room1_slash_Other_10_gml_2718_0
 obj_readable_room1_slash_Other_10_gml_2724_0
 * (La mesa suprema.)/
 obj_readable_room1_slash_Other_10_gml_2725_0
-* (No podrá usar esto sin el \cYTrono de los Dioses\cW...)/%
+* (No podrás usar esto sin el \cYTrono de los Dioses\cW...)/%
 obj_readable_room1_slash_Other_10_gml_2734_0
 * (Hay todo tipo de ropa dentro.)/
 obj_readable_room1_slash_Other_10_gml_2736_0
@@ -19311,7 +19311,7 @@ inspected_all
 obj_readable_room1_slash_Other_10_gml_2768_0
 * (Cama de Noelle.)/
 obj_readable_room1_slash_Other_10_gml_2769_0
-* (Ha conservado el título de inspector de camas.)/
+* (Has conservado el título de inspector de camas.)/
 obj_readable_room1_slash_Other_10_gml_2771_0
 \EK* (Qué diablos haces?)/%
 obj_readable_room1_slash_Other_10_gml_2783_0
@@ -19337,7 +19337,7 @@ obj_readable_room1_slash_Other_10_gml_2877_0
 obj_readable_room1_slash_Other_10_gml_2879_0
 \EM* ..^1. um..^1. o-okay^1, bien!/%
 obj_readable_room1_slash_Other_10_gml_2843_0
-* (This castle looks like it has worn many seiges...)/%
+* (Parece que este castillo ha sufrido muchos asedios...)/%
 obj_readable_room1_slash_Other_10_gml_2890_0
 * (Parece que la paz ha vuelto al castillo...)/%
 obj_readable_room1_slash_Other_10_gml_2897_0
@@ -19408,7 +19408,7 @@ obj_npc_facing_slash_Other_10_gml_69_0
 obj_npc_facing_slash_Other_10_gml_73_0
 \E0* Alas^1, Kris^1.&* Intenté ayudarte.../%
 obj_npc_facing_slash_Other_10_gml_83_0
-* Compañere^1?&* Apenas la conozce!!/
+* Compañere^1?&* Apenas le conozce!!/
 obj_npc_facing_slash_Other_10_gml_84_0
 * Ja ja ja!^1!&* Qué piensas de esa!^1?&* Divertida^1, verdad???/
 obj_npc_facing_slash_Other_10_gml_85_0
@@ -23033,7 +23033,7 @@ Feliz año&nuevo 1997!
 obj_virovirokun_enemy_slash_Step_0_gml_27_0
 Tengo una carta&de amor para ti.
 obj_virovirokun_enemy_slash_Step_0_gml_30_0
-Got your nose!
+Tengo tu nariz!
 obj_virovirokun_enemy_slash_Step_0_gml_40_0
 Este psiquiatra esta&fuera de control!
 obj_virovirokun_enemy_slash_Step_0_gml_46_0
@@ -23257,11 +23257,11 @@ obj_poppup_enemy_slash_Step_0_gml_415_0
 obj_poppup_enemy_slash_Step_0_gml_438_0
 * Los enemigos se arrugaron y CANSARON por la falta de atención!/%
 obj_poppup_enemy_slash_Step_0_gml_449_0
-* Susie accidentally clicked on an ad featuring a flaming eggplant holding a chainsaw!!/%
+* ¡¡Susie hace click sin querer en un anuncio sobre una berenjena en llamas con una motosierra!!/%
 obj_poppup_enemy_slash_Step_0_gml_453_0
-* Susie accidentally clicked on a picture of a steak./
+* Susie hace click sin querer en una imagen de un filete./
 obj_poppup_enemy_slash_Step_0_gml_454_0
-* It wasn't actually an ad, just a static image of a steak.../%
+* En realidad no era un anuncio, sólo una imagen estática de un filete.../%
 obj_poppup_enemy_slash_Step_0_gml_458_0
 * Susie no hizo clic en un anuncio y terminó haciendo clic en el procesador de texto../
 obj_poppup_enemy_slash_Step_0_gml_459_0
@@ -23366,7 +23366,7 @@ Vamos a hacer su cama&con sabanas rojo sangre.
 obj_swatchling_enemy_slash_Step_0_gml_168_0
 Haremos dulces amarillos&para ti, solo intenta y no lastimarte el diente.
 obj_swatchling_enemy_slash_Step_0_gml_174_0
-¿Qué? ¿La lasana&tiene algun&tipo de explosivo?
+¿Qué? ¿La lasaña&tiene algun&tipo de explosivo?
 obj_swatchling_enemy_slash_Step_0_gml_174_1
 Disfrute de este&corporal de cortesia.
 blueText
@@ -23429,7 +23429,7 @@ un poco
 obj_swatchling_enemy_slash_Step_0_gml_404_1
 mucho
 obj_swatchling_enemy_slash_Step_0_gml_419_0
-* El color de Swatchling es ~1 más cálido... Es ahora ~2!/%
+* El color de Swatchling es volvió ~1 más cálido... Es ahora ~2!/%
 obj_swatchling_enemy_slash_Step_0_gml_422_0
 * El color de Swatchling se volvió ~1 más frío...! Es ahora ~2!/%
 newly_coordinated
@@ -28770,7 +28770,7 @@ obj_shop_ch2_spamton_slash_Draw_0_gml_707_0
 obj_shop_ch2_spamton_slash_Draw_0_gml_708_0
 * ¿ASÍ QUE, QUÉ HARAS?  BIG SHOT.../
 obj_shop_ch2_spamton_slash_Draw_0_gml_709_0
-\E0* [[Advertencia^1! Si aceptas los terminos y acuerdos^1,]]&* [[NUESTRA TIENDA ESTARA CERRADA PERMANENTEMENTE!!]]/%
+\E0* [[Advertencia^1! Si aceptas los terminos y acuerdos^1,]]&* [[NUESTRA TIENDA ESTARA CERRARA PERMANENTEMENTE!!]]/%
 ynchoicebuffer
 obj_shop_ch2_spamton_slash_Draw_0_gml_719_0
 \E2* SOLÍA SER NADA MÁS QUE EL CHICO DEL CORREO ELECTRÓNICO^1, AHORA SOY EL [[¡Quema! ¡Ay!^1! Ow^1! Para^1! Ayudáme^1! Arde!]] CHICO!/
