@@ -30813,7 +30813,7 @@ obj_ch2_scene11a_slash_Step_0_gml_258_0
 obj_ch2_scene11a_slash_Step_0_gml_259_0
 \E6* Suelten Las Capsulas De Captura/%
 obj_ch2_scene11a_slash_Step_0_gml_298_0
-\EM* ..^1. err^1, fallastes./
+\EM* ..^1. err^1, fallaste./
 obj_ch2_scene11a_slash_Step_0_gml_300_0
 \E1* Ese No Fue Un Fallo Fue Una Calibración Táctica/
 obj_ch2_scene11a_slash_Step_0_gml_302_0
