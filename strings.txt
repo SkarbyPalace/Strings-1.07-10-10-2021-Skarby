@@ -31974,51 +31974,51 @@ obj_ch2_scene21_loop_slash_Step_0_gml_177_0
 obj_ch2_scene21_loop_slash_Step_0_gml_178_0
 \EQ* Jaja^1, lo siento!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_193_0
-\E2* Ah^1, just as I expected^1, haha./
+\E2* Ah^1, justo como los esperaba^1, jaja./
 obj_ch2_scene21_loop_slash_Step_0_gml_194_0
-\E1* I feel warm..^1. thinking about how you care about her./%
+\E1* Me siento cálido..^1. pensando en como te preocupas por ella./%
 obj_ch2_scene21_loop_slash_Step_0_gml_201_0
-\E2* Kris^1, you can tell me anything anytime^1, OK?/
+\E2* Kris^1, puedes decirme lo que sea^1, OK?/
 obj_ch2_scene21_loop_slash_Step_0_gml_202_0
 \E2* (...)/
 obj_ch2_scene21_loop_slash_Step_0_gml_203_0
-\E2* (..^1. and they stopped talking...)/%
+\E2* (..^1. y dejaron de hablar...)/%
 obj_ch2_scene21_loop_slash_Step_0_gml_210_0
 obj_ch2_scene21_loop_slash_Step_0_gml_211_0
-\E3* She's a nice girl^1, isn't she?/%
+\E3* Ella es una buena chica^1, no es así?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_219_0
-\EI* Even though she doesn't understand it^1,/
+\EI* Incluso si no lo entiende^1,/
 obj_ch2_scene21_loop_slash_Step_0_gml_220_0
-\E0* It seems she's already strong at this world's magic./
+\E0* Parece que ella controla muy bien la magia de acá./
 obj_ch2_scene21_loop_slash_Step_0_gml_221_0
-\E2* I believe she can control the "Ice" element./
+\E2* Creo que ella controla el elemento de "Hielo"./
 obj_ch2_scene21_loop_slash_Step_0_gml_222_0
-\E0* ..^1. Kris^1, if you ask her nicely^1,/
+\E0* ..^1. Kris^1, si se lo preguntas bien^1,/
 obj_ch2_scene21_loop_slash_Step_0_gml_223_0
-\EJ* Maybe she'll make you a popsicle^1! Haha!/%
+\EJ* Talvez ella te hará un granizado^1! Jaja!/%
 obj_ch2_scene21_loop_slash_Step_0_gml_240_0
-\EQ* That's^1, um...^1. That's right./
+\EQ* Eso es^1, um...^1. Eso es correcto./
 obj_ch2_scene21_loop_slash_Step_0_gml_241_0
-\EM* This ride^1, um..^1. it sort of looks like.../
+\EM* Este paseo^1, um..^1. es un poco.../
 obj_ch2_scene21_loop_slash_Step_0_gml_242_0
-\EJ* A bit bird-like?/
+\EJ* Pajaresco?/
 obj_ch2_scene21_loop_slash_Step_0_gml_243_0
-\EK* ... umm^1, what part of him are you thinking about?/
+\EK* ... umm^1, qué parte de él estás pensando?/
 obj_ch2_scene21_loop_slash_Step_0_gml_244_0
 obj_ch2_scene21_loop_slash_Step_0_gml_245_0
-\EK* (I suppose I don't mind no answer^, either...)/%
+\EK* (Supongo que no necesito respuesto^, tampoco...)/%
 obj_ch2_scene21_loop_slash_Step_0_gml_255_0
 \ED* H..^1. huh!?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_261_0
-\E1* Osea^1, I'm thinking of you too^1, of course.../%
+\E1* Osea^1, pienso en ti también^1, por supuesto.../%
 obj_ch2_scene21_loop_slash_Step_0_gml_267_0
-\ED* I mean^1, er -- you're right in front of me^1, but.../%
+\ED* Digo^1, er -- estás enfrente de mi^1, pero.../%
 obj_ch2_scene21_loop_slash_Step_0_gml_278_0
-\E1* Oh^1, err^1, sorry^1! Did I say something strange?/%
+\E1* Oh^1, err^1, perdón^1! Dije algo extraño?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_285_0
-\E2* I'm happy you and Susie are friends^1, Kris./
+\E2* Me alegra que tú y Susie sean amigos^1, Kris./
 obj_ch2_scene21_loop_slash_Step_0_gml_286_0
-\E3* She's a nice girl^1, isn't she...?/%
+\E3* Ella es una buena chica^1, no es así...?/%
 obj_ch2_scene21_loop_slash_Step_0_gml_299_0
 \EB* Cuando nos conocimos^1, yo.../
 obj_ch2_scene21_loop_slash_Step_0_gml_300_0
@@ -32316,7 +32316,7 @@ obj_ch2_scene23c_slash_Step_0_gml_150_0
 obj_ch2_scene23c_slash_Step_0_gml_152_0
 \E4* Oh^1, cierto. P..^1. perdón./
 obj_ch2_scene23c_slash_Step_0_gml_153_0
-\ER* Supongo que lo revisare en la vida real^1, también./
+\ER* Supongo que lo revisaré en la vida real^1, también./
 obj_ch2_scene23c_slash_Step_0_gml_155_0
 \EH* H-Hey!!^1! No lo hagas!!!/
 obj_ch2_scene23c_slash_Step_0_gml_157_0
@@ -32536,7 +32536,7 @@ obj_ch2_scene25_slash_Step_0_gml_687_0
 obj_ch2_scene25_slash_Step_0_gml_688_0
 \E7* Si Hay Algo/%
 obj_ch2_scene25_slash_Step_0_gml_740_0
-\E1* Mr. Pajarin Aun Tiene Máximo HP/
+\E1* Sr. Pajarin Aun Tiene Máximo HP/
 obj_ch2_scene25_slash_Step_0_gml_741_0
 \EA* Asi Que A Menos Que Quieran Lastimarlo/
 obj_ch2_scene25_slash_Step_0_gml_742_0
