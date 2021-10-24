@@ -8426,7 +8426,7 @@ scr_itemuse_slash_scr_itemuse_gml_340_0
 scr_itemuse_slash_scr_itemuse_gml_345_0
 Es suave y dulce.
 scr_itemuse_slash_scr_itemuse_gml_349_0
-... ¡esto es sólo agua! Me estás tomando el pelo, ¿verdad?
+... ¡esto es sólo agua! Estás bromeando, ¿cierto?
 scr_itemuse_slash_scr_itemuse_gml_361_0
 scr_itemuse_slash_scr_itemuse_gml_362_0
 (¡Estoy feliz!)
@@ -9015,7 +9015,7 @@ Un broche grabado con la cara de la Reina.#Cuidado con la parte afilada.
 scr_armorinfo_slash_scr_armorinfo_gml_518_0
 ¿CUCARACHA? Oh, broche. Je.
 scr_armorinfo_slash_scr_armorinfo_gml_519_0
-¡Soy un lindo y pequeño tablero de corcho!
+¡Soy un lindo tablero de corcho!
 scr_armorinfo_slash_scr_armorinfo_gml_520_0
 Queen... me dio esto a mi
 scr_armorinfo
@@ -20514,7 +20514,7 @@ LV1 Príncipe esponjoso#Debil^1, pero cura#muy bien.
 obj_darkcontroller_slash_Draw_0_gml_356_0
 LV~1 Príncipe Oscuro#Ser Oscuro.#Ahora tiene amigos.
 obj_darkcontroller_slash_Draw_0_gml_357_0
-LV~1 Príncipe cariñoso#Recibe y#da abrazos.
+LV~1 Príncipe #cariñoso#Recibe y da abrazos.
 obj_darkcontroller_slash_Draw_0_gml_358_0
 LV~1 Príncipe posador#Posa para fotos#a veces.
 obj_darkcontroller_slash_Draw_0_gml_359_0
@@ -24081,7 +24081,7 @@ Mira, Susie! Lo mas&cercano de que&obtengas una "A"!/%
 obj_berdlyb_enemy_slash_Step_0_gml_42_0
 Que? Mi carro se&esta rompiendo!?/%
 obj_berdlyb_enemy_slash_Step_0_gml_36_0
-Ja! Adelante, "choquenme",& choquones!/%
+Ja! Adelante, "choquenme",& chocones!/%
 obj_berdlyb_enemy_slash_Step_0_gml_48_0
 Kris, entiendo porque&estas en mi camino!& Estas celoso,&verdad!?/%
 obj_berdlyb_enemy_slash_Step_0_gml_49_0
@@ -24103,7 +24103,7 @@ SpearBlast
 obj_berdlyb_enemy_slash_Step_0_gml_158_0
 * Berdly pide ayuda a Queen!&* Pero Queen pretende estar al teléfono!
 obj_berdlyb_enemy_slash_Step_0_gml_159_0
-* Berdly pregunta a Reina que snacks tienen en casa!&* Tiene puestos auriculares!
+* Berdly pregunta a Queen que snacks tienen en casa!&* Tiene puestos auriculares!
 obj_berdlyb_enemy_slash_Step_0_gml_160_0
 * Berdly da la señal secreta!&* Pero Queen esta ocupada con un libro para colorear!
 obj_berdlyb_enemy_slash_Step_0_gml_161_0
@@ -28362,7 +28362,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_357_0
 obj_shop_ch2_music_slash_Draw_0_gml_394_0
 obj_shop_ch2_music_slash_Draw_0_gml_395_0
 obj_shop_ch2_music_slash_Draw_0_gml_399_0
-\m1		*Lo&	tendr-&emos	por &ti!
+\m1		*Lo&	tendr-& emos	por & ti!
 obj_shop_ch2_music_slash_Draw_0_gml_400_0
 \m2		*Eso es&	todo lo&	que tienes?
 obj_shop_ch2_music_slash_Draw_0_gml_401_0
@@ -35431,7 +35431,7 @@ wait_ready
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_348_0
 \E6* (Suspira...)/%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_352_0
-\E4* (Kris es el único que sabe lo raro que soy.)/
+\E4* (Kris es el único que sabe lo rara que soy.)/
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_353_0
 \E8* (No es justo^1, ¿sabes!)/%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_360_0
@@ -35461,7 +35461,7 @@ obj_ch2_city_noelle_monologue_slash_Step_0_gml_518_0
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_519_0
 * Sobre todo recuerdo... Llorando porque tenía miedo./%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_533_0
-* Pero por alguna razón me siento..^1. nostálgico pensando en ello./
+* Pero por alguna razón me siento..^1. nostálgica pensando en ello./
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_534_0
 * Dess secándome las lágrimas con la chaqueta de Azzy.../
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_535_0
