@@ -31449,7 +31449,7 @@ obj_ch2_scene19c_slash_Step_0_gml_168_0
 obj_ch2_scene19c_slash_Step_0_gml_169_0
 \EB* Eso es un bug!^1! Un glitch!!/
 obj_ch2_scene19c_slash_Step_0_gml_170_0
-\ED* Haces trampa!^1! C..^1. como cuando hacers w-wavedash!/%
+\ED* Haces trampa!^1! C..^1. como cuando haces w-wavedash!/%
 obj_ch2_scene19c_slash_Step_0_gml_190_0
 \E9* JAJAJA!^1! A que sabe^1, idiota!?/%
 obj_ch2_scene19c_slash_Step_0_gml_203_0
