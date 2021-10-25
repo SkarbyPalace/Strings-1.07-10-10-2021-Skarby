@@ -262,26 +262,26 @@ scr_litemcheck
 gml_Script_scr_phoneadd
 scr_phoneadd
 scr_litemuseb_slash_scr_litemuseb_gml_6_0
-* No agarrastes nada./%%
+* No agarraste nada./%%
 scr_litemuseb_slash_scr_litemuseb_gml_9_0
-* Tomastes el chocolate caliente^1.&* Tenia un sabor espectacular^1.&* Tu garganta se apreto.../%
+* Tomaste el chocolate caliente^1.&* Tenia un sabor espectacular^1.&* Tu garganta se apretó.../%
 gml_Script_snd_play
 scr_litemuseb_slash_scr_litemuseb_gml_18_0
-* Te equipastes el Lápiz./%
+* Te equipaste el Lápiz./%
 scr_litemuseb_slash_scr_litemuseb_gml_26_0
-* Re-aplicastes la bandita.
+* Re-aplicaste la bandita.
 scr_litemuseb_slash_scr_litemuseb_gml_34_0
-* Sostuvistes las flores^1.&* Una esencia floral llena el aire ^1.&* Nada paso./%
+* Sostuviste las flores^1.&* Una esencia floral llena el aire ^1.&* Nada paso./%
 scr_litemuseb_slash_scr_litemuseb_gml_42_0
-* Mirastes la bola de basura con admiración^1.&* Nada paso./%
+* Miraste la bola de basura con admiración^1.&* Nada paso./%
 scr_litemuseb_slash_scr_litemuseb_gml_48_0
-* Equipastes el Lápiz Halloween./%
+* Equipaste el Lápiz Halloween./%
 scr_litemuseb_slash_scr_litemuseb_gml_56_0
-* Equipastes el Lápiz Suertudo./%
+* Equipaste el Lápiz Suertudo./%
 scr_litemuseb_slash_scr_litemuseb_gml_63_0
-* Usastes el huevo./%
+* Usaste el huevo./%
 scr_litemuseb_slash_scr_litemuseb_gml_69_0
-* Sostuvistes las cartas^1.&* Se sentian débiles entre tus dedos./%
+* Sostuviste las cartas^1.&* Se sentian débiles entre tus dedos./%
 gml_Script_msgsetloc
 consume_item
 gml_Script_scr_havechar
@@ -293,7 +293,7 @@ lgold
 sans
 gml_Script_scr_speaker
 scr_litemuseb_slash_scr_litemuseb_gml_107_0
-* que? una caja de chocolates en forma de corazon?/
+* que? una caja de chocolates en forma de corazón?/
 scr_litemuseb_slash_scr_litemuseb_gml_108_0
 \E3* oh^1, entiendo./
 gml_Script_msgnextloc
@@ -310,7 +310,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_113_0
 scr_litemuseb_slash_scr_litemuseb_gml_114_0
 \E0* ..^1. okay./
 scr_litemuseb_slash_scr_litemuseb_gml_115_0
-\E3*Quieres regresar a esto^1, verdad?/
+\E3*quieres regresar a esto^1, verdad?/
 scr_litemuseb_slash_scr_litemuseb_gml_116_0_b
 \E5* okay^1, okay^1, no hay porque romper mi corazon./
 scr_litemuseb_slash_scr_litemuseb_gml_117_0_b
@@ -318,7 +318,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_117_0_b
 no_name
 gml_Script_scr_anyface_next
 scr_litemuseb_slash_scr_litemuseb_gml_119_0
-* (Intercambiastes los chocolates por 5 dólares.)/%
+* (Intercambiaste los chocolates por 5 dólares.)/%
 scr_litemuseb_slash_scr_litemuseb_gml_123_0
 * (Puedes darle los chocolates a Alphys si le hablas.)/%
 scr_litemuseb_slash_scr_litemuseb_gml_131_0
@@ -326,7 +326,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_131_0
 scr_litemuseb_slash_scr_litemuseb_gml_132_0
 \E6* ..^1. alguien te los dio?/
 scr_litemuseb_slash_scr_litemuseb_gml_133_0
-\EY* JAJAJA!^1! SI CLARO!!^1! Lo robastes^1, verdad!?/
+\EY* JAJAJA!^1! SI CLARO!!^1! Los robaste^1, verdad!?/
 scr_litemuseb_slash_scr_litemuseb_gml_134_0
 \E2* Bueno^1, vamos!^1! Vamos a comerlo y ocultar las evidencias!!/
 scr_litemuseb_slash_scr_litemuseb_gml_136_0_b
@@ -338,18 +338,18 @@ scr_litemuseb_slash_scr_litemuseb_gml_139_0
 scr_litemuseb_slash_scr_litemuseb_gml_141_0
 * (..^1. no debieron comerse todo eso.)/%
 scr_litemuseb_slash_scr_litemuseb_gml_149_0
-* (Devorastes sin pensar la caja de dulces con forma de corazón.)/
+* (Devoraste sin pensar la caja de dulces con forma de corazón.)/
 scr_litemuseb_slash_scr_litemuseb_gml_150_0
 * (Tus agallas fueron destruidas.)/
 scr_litemuseb_slash_scr_litemuseb_gml_151_0
-* (Aceptastes esta destrucción como parte de la vida...)/%
+* (Aceptaste esta destrucción como parte de la vida...)/%
 gml_Script_d_make
 scr_litemuseb_slash_scr_litemuseb_gml_168_0_b
-* Mirastes a traves de el vidrio./
+* Miraste a traves de el vidrio./
 scr_litemuseb_slash_scr_litemuseb_gml_169_0
 * Por alguna rara razón^1, solo por un momento breve.../
 scr_litemuseb_slash_scr_litemuseb_gml_170_0_b
-* Pensastes que vistes a Susie observandote^1, friamente.../
+* Pensaste que vistes a Susie observándote^1, friamente.../
 scr_litemuseb_slash_scr_litemuseb_gml_171_0_b
 * Pero cuando apartastes el vidrio^1,/
 scr_litemuseb_slash_scr_litemuseb_gml_172_0_b
@@ -360,7 +360,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_178_0
 scr_litemuseb_slash_scr_litemuseb_gml_179_0
 * ..^1. pero nada paso./%
 scr_litemuseb_slash_scr_litemuseb_gml_182_0
-* No parece ser algo util./%
+* No parece ser algo útil./%
 tempsaid
 scr_litemuseb_slash_scr_litemuseb_gml_116_0
 * Ring.../
@@ -388,16 +388,16 @@ scr_litemuseb_slash_scr_litemuseb_gml_156_0
 scr_litemuseb_slash_scr_litemuseb_gml_158_0
 * Kris^1, cariño^1, qué pasa?/
 scr_litemuseb_slash_scr_litemuseb_gml_159_0
-\E3* Que^1? No^1, no te voy a llevar a la casa./
+\E3* Qué^1? No^1, no te voy a llevar a la casa./
 scr_litemuseb_slash_scr_litemuseb_gml_160_0
 \E1* Nuestra casa no está lejos^1. Está solo en el tope de la ciudad./
 scr_litemuseb_slash_scr_litemuseb_gml_161_0
-\E4* Intenta ir caminando^1. Te hace tener caracter^1, cariño./
+\E4* Intenta ir caminando^1. Te hace tener carácter^1, cariño./
 scr_litemuseb_slash_scr_litemuseb_gml_163_0
 * (Click...)/%
 scr_litemuseb_slash_scr_litemuseb_gml_168_0
 scr_litemuseb_slash_scr_litemuseb_gml_170_0
-* Kris^1, Estoy calificando trabajos./
+* Kris^1, estoy calificando trabajos./
 scr_litemuseb_slash_scr_litemuseb_gml_171_0
 \E0* Puedo hablarte cuando vuelvas^1, okay?/
 scr_litemuseb_slash_scr_litemuseb_gml_172_0
@@ -5950,7 +5950,7 @@ scr_text_slash_scr_text_gml_7583_0
 scr_text_slash_scr_text_gml_7584_0
 * Pero^1, los lazos que rompas puede que te hagan mas fuerte.../%
 scr_text_slash_scr_text_gml_7590_0
-* (Quien tiene tiempo de leer un libro en el Mundo Cibernético?)/%
+* (Quien tiene tiempo de leer un libro en el Ciber Mundo?)/%
 scr_text_slash_scr_text_gml_7595_0
 scr_text_slash_scr_text_gml_7596_0
 scr_text_slash_scr_text_gml_7599_0
@@ -8426,7 +8426,7 @@ scr_itemuse_slash_scr_itemuse_gml_340_0
 scr_itemuse_slash_scr_itemuse_gml_345_0
 Es suave y dulce.
 scr_itemuse_slash_scr_itemuse_gml_349_0
-... ¡esto es sólo agua! Me estás tomando el pelo, ¿verdad?
+... ¡esto es sólo agua! Estás bromeando, ¿cierto?
 scr_itemuse_slash_scr_itemuse_gml_361_0
 scr_itemuse_slash_scr_itemuse_gml_362_0
 (¡Estoy feliz!)
@@ -9015,7 +9015,7 @@ Un broche grabado con la cara de la Reina.#Cuidado con la parte afilada.
 scr_armorinfo_slash_scr_armorinfo_gml_518_0
 ¿CUCARACHA? Oh, broche. Je.
 scr_armorinfo_slash_scr_armorinfo_gml_519_0
-¡Soy un lindo y pequeño tablero de corcho!
+¡Soy un lindo tablero de corcho!
 scr_armorinfo_slash_scr_armorinfo_gml_520_0
 Queen... me dio esto a mi
 scr_armorinfo
@@ -14503,7 +14503,7 @@ latestAvailableChapter
  - - 
 chapname
 El Comienzo
-Mundo Cibernético
+Un Ciber Mundo
 text_font
 roominit
 spr_aftereffect
@@ -17536,7 +17536,7 @@ obj_npc_sign_slash_Other_10_gml_1141_0
 obj_npc_sign_slash_Other_10_gml_1142_0
 \E2* Je^1, podemos usarlo y conducir el carro de tu mamá?/%
 obj_npc_sign_slash_Other_10_gml_1146_0
-\EK* Uhh^1, tal vez podemos hacer mas genial al carro de tu mamá primero./
+\EK* Uhh^1, tal vez podemos hacer mas genial al carro de tu mamá./
 obj_npc_sign_slash_Other_10_gml_1147_0
 \E2* Pienso en^1, como..^1. morado? Con llamas./%
 obj_npc_sign_slash_Other_10_gml_1153_0
@@ -17548,9 +17548,9 @@ obj_npc_sign_slash_Other_10_gml_1157_0
 obj_npc_sign_slash_Other_10_gml_1159_0
 \E0* Oh./
 obj_npc_sign_slash_Other_10_gml_1160_0
-\E7* ..^1. espera^1, lo intentastes? \f1 /%
+\E7* ..^1. espera^1, lo intentaste? \f1 /%
 obj_npc_sign_slash_Other_10_gml_1184_0
-Umm, Kris, tu puedes hacerlo!
+Umm, Kris, tú puedes hacerlo!
 obj_npc_sign_slash_Other_10_gml_1165_0
 \E2* Kris^1, por favor deletrea palabras bonitas!/%
 obj_npc_sign_slash_Other_10_gml_1175_0
@@ -17558,7 +17558,7 @@ obj_npc_sign_slash_Other_10_gml_1175_0
 obj_npc_sign_slash_Other_10_gml_1176_0
 \E2* Le faltará una letra de las que necesitas./
 obj_npc_sign_slash_Other_10_gml_1180_0
-\EK* Hey^1, stop pretending to write down what I say./%
+\EK* Hey^1, deja de pretender que escribes lo que digo./%
 obj_npc_sign_slash_Other_10_gml_1182_0
 \EY* Heh^1, me gustaría ver a Berdly intentar resolverlo.../%
 obj_npc_sign_slash_Other_10_gml_1187_0
@@ -17576,14 +17576,14 @@ obj_npc_sign_slash_Other_10_gml_1200_0
 obj_npc_sign_slash_Other_10_gml_1201_0
 \EB* O tal vez..^1. es solo el chico musculoso de la tienda./%
 obj_npc_sign_slash_Other_10_gml_1205_0
-\EJ* Kris^1, esta parece una palabra extraña^1, pero.../
+\EJ* Kris^1, está parece una palabra extraña^1, pero.../
 obj_npc_sign_slash_Other_10_gml_1206_0
 \E2* Incluso si no es real^1, aún te puedes divertir^1, cierto?/%
 obj_npc_sign_slash_Other_10_gml_1214_0
 obj_npc_sign_slash_Other_10_gml_1227_0
 * WOAH!!^1! TU, FRESCA Y DIMINUTA [Esponja]!/
 obj_npc_sign_slash_Other_10_gml_1228_0
-* NO ENTRE CUANDO UN HOMBRE ESTÉ [Camb1ando de f0rma]!/
+* NO ENTRES CUANDO UN HOMBRE SE ESTÁ [Camb1ando de f0rma]!/
 obj_npc_sign_slash_Other_10_gml_1229_0
 * ..^1. ESPERA^1! ESPERA [UN 2ndo]^1! ES ESE MI [Estimado Cl13nte]?!/
 obj_npc_sign_slash_Other_10_gml_1230_0_b
@@ -17649,34 +17649,34 @@ base_colors
 extTrig
 postSweet
 obj_npc_room_animated_slash_Other_10_gml_8_0
-* The pain itself is reason why./%
+* El dolor mismo es una razón./%
 * [NO TEXT] (obj_npc_room_animated)/%
 obj_npc_room_animated_slash_Other_10_gml_15_0
-* Would you be interested in trying some of our many 24 Pezza Flavors?/
+* Te puedo interesar en probar nuestros 24 sabores de PEZZA?/
 obj_npc_room_animated_slash_Other_10_gml_16_0
-* We've got Normal,/
+* Tenemos Normal,/
 obj_npc_room_animated_slash_Other_10_gml_17_0
-* Cheese,/
+* Queso,/
 obj_npc_room_animated_slash_Other_10_gml_18_0
-* Ice,/
+* Hielo,/
 obj_npc_room_animated_slash_Other_10_gml_19_0
-* Gravy,/
+* Salsera,/
 obj_npc_room_animated_slash_Other_10_gml_20_0
-* Double Ice,/
+* Doble Hielo,/
 obj_npc_room_animated_slash_Other_10_gml_21_0
-* Peeperoniss,/
+* Peperonis,/
 obj_npc_room_animated_slash_Other_10_gml_22_0
-* And more^1!&* Stop on down at ICE-E's PEZZA!/%
+* Y más^1!&* Ven a las PEZZAS DE ICE-E!/%
 obj_npc_room_animated_slash_Other_10_gml_26_0
-* Psst^1, can I tell you a mascot secret^1? I only started working here because.../
+* Psst^1, te puedo decir un secreto de mascota^1? solo trabajo aquí porque.../
 obj_npc_room_animated_slash_Other_10_gml_27_0
-* The logo made me think it was an ice-cream shop.../
+* El logo me hico pensar que era una tienda de helados.../
 obj_npc_room_animated_slash_Other_10_gml_28_0
-* But I ended up really loving my job^1! And my co-workers^1, too^1! Heehee!/%
+* Pero terminé amando mi trabajo^1! Y mis trabajadores^1! Jiji!/%
 obj_npc_room_animated_slash_Other_10_gml_35_0
-* ICE ME UP^1!&* ICE ME UP^1, BOSS!!!/%
+* CONGELEME^1!&* CONGELEME^1, JEFE!!!/%
 obj_npc_room_animated_slash_Other_10_gml_40_0
-* (Oh^1, God^1, someone's actually here...)&* Uhhhh.../
+* (Oh^1, Dios^1, alguien enserio está aquí...)&* Uhhhh.../
 obj_npc_room_animated_slash_Other_10_gml_41_0
 * Ice E's P"E"ZZA^1, ven a devorar una ardiente pie"E"za de PEZZA./
 obj_npc_room_animated_slash_Other_10_gml_42_0
@@ -17781,13 +17781,13 @@ obj_npc_room_animated_slash_Other_10_gml_226_0
 obj_npc_room_animated_slash_Other_10_gml_232_0
 * (Es un libro potenciado por una aspiradora.)/
 obj_npc_room_animated_slash_Other_10_gml_233_0
-* (Por la búsqueda: TONTOS!!!^1! ESTÁ LIBRERIA SE LA TRAGA!!!!)/%
+* (Por la búsqueda: TONTOS!!!^1! ESTA LIBRERIA SE LA TRAGA!!!!)/%
 obj_npc_room_animated_slash_Other_10_gml_239_0
 * (Parece ser un holograma glitcheado.)/
 obj_npc_room_animated_slash_Other_10_gml_240_0
 * (Por la búsqueda: ASIUDYTRADIUOPAS87DTDASO1)/%
 obj_npc_room_animated_slash_Other_10_gml_257_0
-* Para que estamos limpiando, te preguntaras?/
+* Para que estamos limpiando, te preguntarás?/
 obj_npc_room_animated_slash_Other_10_gml_258_0
 * No sabemos. Un desfile, quizás?/%
 obj_npc_room_animated_slash_Other_10_gml_249_0
@@ -20514,7 +20514,7 @@ LV1 Príncipe esponjoso#Debil^1, pero cura#muy bien.
 obj_darkcontroller_slash_Draw_0_gml_356_0
 LV~1 Príncipe Oscuro#Ser Oscuro.#Ahora tiene amigos.
 obj_darkcontroller_slash_Draw_0_gml_357_0
-LV~1 Príncipe cariñoso#Recibe y#da abrazos.
+LV~1 Príncipe #cariñoso#Recibe y da abrazos.
 obj_darkcontroller_slash_Draw_0_gml_358_0
 LV~1 Príncipe posador#Posa para fotos#a veces.
 obj_darkcontroller_slash_Draw_0_gml_359_0
@@ -23527,7 +23527,7 @@ obj_tasque_enemy_slash_Step_0_gml_89_0
 obj_tasque_enemy_slash_Step_0_gml_92_0
 * Tasque está emitiendo un ronroneo pixelado.
 obj_tasque_enemy_slash_Step_0_gml_96_0
-* Tasque is batting a ball of low-poly yarn.
+* Tasque está golpeando una bola de estambre.
 obj_tasque_enemy_slash_Step_0_gml_99_0
 minimized
 obj_tasque_enemy_slash_Step_0_gml_99_1
@@ -24081,7 +24081,7 @@ Mira, Susie! Lo mas&cercano de que&obtengas una "A"!/%
 obj_berdlyb_enemy_slash_Step_0_gml_42_0
 Que? Mi carro se&esta rompiendo!?/%
 obj_berdlyb_enemy_slash_Step_0_gml_36_0
-Ja! Adelante, "choquenme",& choquones!/%
+Ja! Adelante, "choquenme",& chocones!/%
 obj_berdlyb_enemy_slash_Step_0_gml_48_0
 Kris, entiendo porque&estas en mi camino!& Estas celoso,&verdad!?/%
 obj_berdlyb_enemy_slash_Step_0_gml_49_0
@@ -24103,7 +24103,7 @@ SpearBlast
 obj_berdlyb_enemy_slash_Step_0_gml_158_0
 * Berdly pide ayuda a Queen!&* Pero Queen pretende estar al teléfono!
 obj_berdlyb_enemy_slash_Step_0_gml_159_0
-* Berdly pregunta a Reina que snacks tienen en casa!&* Tiene puestos auriculares!
+* Berdly pregunta a Queen que snacks tienen en casa!&* Tiene puestos auriculares!
 obj_berdlyb_enemy_slash_Step_0_gml_160_0
 * Berdly da la señal secreta!&* Pero Queen esta ocupada con un libro para colorear!
 obj_berdlyb_enemy_slash_Step_0_gml_161_0
@@ -28362,7 +28362,7 @@ obj_shop_ch2_music_slash_Draw_0_gml_357_0
 obj_shop_ch2_music_slash_Draw_0_gml_394_0
 obj_shop_ch2_music_slash_Draw_0_gml_395_0
 obj_shop_ch2_music_slash_Draw_0_gml_399_0
-\m1		*Lo&	tendr-&emos	por &ti!
+\m1		*Lo&	tendr-& emos	por & ti!
 obj_shop_ch2_music_slash_Draw_0_gml_400_0
 \m2		*Eso es&	todo lo&	que tienes?
 obj_shop_ch2_music_slash_Draw_0_gml_401_0
@@ -31449,7 +31449,7 @@ obj_ch2_scene19c_slash_Step_0_gml_168_0
 obj_ch2_scene19c_slash_Step_0_gml_169_0
 \EB* Eso es un bug!^1! Un glitch!!/
 obj_ch2_scene19c_slash_Step_0_gml_170_0
-\ED* Haces trampa!^1! C..^1. como cuando hacers w-wavedash!/%
+\ED* Haces trampa!^1! C..^1. como cuando haces w-wavedash!/%
 obj_ch2_scene19c_slash_Step_0_gml_190_0
 \E9* JAJAJA!^1! A que sabe^1, idiota!?/%
 obj_ch2_scene19c_slash_Step_0_gml_203_0
@@ -35431,7 +35431,7 @@ wait_ready
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_348_0
 \E6* (Suspira...)/%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_352_0
-\E4* (Kris es el único que sabe lo raro que soy.)/
+\E4* (Kris es el único que sabe lo rara que soy.)/
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_353_0
 \E8* (No es justo^1, ¿sabes!)/%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_360_0
@@ -35461,7 +35461,7 @@ obj_ch2_city_noelle_monologue_slash_Step_0_gml_518_0
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_519_0
 * Sobre todo recuerdo... Llorando porque tenía miedo./%
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_533_0
-* Pero por alguna razón me siento..^1. nostálgico pensando en ello./
+* Pero por alguna razón me siento..^1. nostálgica pensando en ello./
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_534_0
 * Dess secándome las lágrimas con la chaqueta de Azzy.../
 obj_ch2_city_noelle_monologue_slash_Step_0_gml_535_0
