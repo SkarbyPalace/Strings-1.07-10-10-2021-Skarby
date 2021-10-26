@@ -540,7 +540,7 @@ scr_litemdesc_slash_scr_litemdesc_gml_49_0
 scr_litemdesc_slash_scr_litemdesc_gml_52_0
 * "Lápiz Mecánico" - 1 AT&* Es tentador clickearlo muy rápido./%
 scr_litemdesc_slash_scr_litemdesc_gml_55_0
-* "Reloj de Pulsera" - Defensa 1 DF&* Tal vez una antigüedad cara.&* Atascado antes de el mediodía./%
+* "Reloj" - Defensa 1 DF&* Tal vez una antigüedad cara.&* Atascado antes de el mediodía./%
 gml_Script_scr_litemdesc
 scr_litemdesc
 litemname
@@ -571,7 +571,7 @@ Borrador
 scr_litemname_slash_scr_litemname_gml_18_0
 Lápiz Mec.
 scr_litemname_slash_scr_litemname_gml_19_0
-Reloj de pulsera
+Reloj
 scr_litemname
 msgno
 gml_Script_msgset
