@@ -6869,7 +6869,7 @@ acttype
 actspell
 actor
 actname
-Compliment
+Halago
 DualBuster
 gml_Script_scr_actinfo
 scr_actinfo
@@ -7098,7 +7098,7 @@ scr_monstersetup_slash_scr_monstersetup_gml_269_0
 C.Round
 scr_monstersetup_slash_scr_monstersetup_gml_280_0
 scr_monstersetup_slash_scr_monstersetup_gml_288_0
-X-Compliment
+X-Halago
 scr_monstersetup_slash_scr_monstersetup_gml_291_0
 scr_monstersetup_slash_scr_monstersetup_gml_300_0
 K.Round
