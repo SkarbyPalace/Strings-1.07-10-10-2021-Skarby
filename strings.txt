@@ -14732,7 +14732,7 @@ track3_x
 rand
 obj_ch2_fountain_sideb_slash_Step_0_gml_7_0
 obj_ch2_fountain_sideb_slash_Step_0_gml_112_0
-* SANTA [[Cachucha]] SE SIENTE INCREIBLE .../%
+* SANTA [[Cachucha]] SE SIENTE INCREÍBLE .../%
 animsiner
 total_width
 custom_box_sprite
