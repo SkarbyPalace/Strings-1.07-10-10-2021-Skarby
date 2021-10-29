@@ -17326,7 +17326,7 @@ obj_npc_sign_slash_Other_10_gml_594_0
 obj_npc_sign_slash_Other_10_gml_595_0
 * BUENO [Cierra la boca] PORQUE ERES [Débil!]/
 obj_npc_sign_slash_Other_10_gml_596_0
-* PRUEBE UN POCO [De Viernes noche de ejercicio].../
+* PRUEBE UN POCO [De Trabajos En Los Viernes De La Jungla].../
 obj_npc_sign_slash_Other_10_gml_597_0
 * ENTONCES TE MOSTRARÉ MI/
 obj_npc_sign_slash_Other_10_gml_598_0
