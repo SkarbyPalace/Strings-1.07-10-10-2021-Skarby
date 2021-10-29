@@ -322,13 +322,13 @@ scr_litemuseb_slash_scr_litemuseb_gml_119_0
 scr_litemuseb_slash_scr_litemuseb_gml_123_0
 * (Puedes darle los chocolates a Alphys si le hablas.)/%
 scr_litemuseb_slash_scr_litemuseb_gml_131_0
-\E7* Woah^1, Kris^1, de donde diablos sacaste eso?/
+\E7* Woah^1, Kris^1 ¿de donde diablos sacaste eso?/
 scr_litemuseb_slash_scr_litemuseb_gml_132_0
-\E6* ..^1. alguien te los dio?/
+\E6* ..^1. ¿alguien te los dio?/
 scr_litemuseb_slash_scr_litemuseb_gml_133_0
-\EY* JAJAJA!^1! SI CLARO!!^1! Los robaste^1, verdad!?/
+\EY* ¡JAJAJA!^1! ¡¡SI CLARO!!^1! ¿¡Los robaste^1, verdad!?/
 scr_litemuseb_slash_scr_litemuseb_gml_134_0
-\E2* Bueno^1, vamos!^1! Vamos a comerlo y ocultar las evidencias!!/
+\E2* Bueno^1, ¡vamos!^1! ¡Vamos a comerlo y ocultar las evidencias!!/
 scr_litemuseb_slash_scr_litemuseb_gml_136_0_b
 * (Tu y Susie compartieron la caja de dulces con forma de corazón.)/
 scr_litemuseb_slash_scr_litemuseb_gml_137_0_b
@@ -369,9 +369,9 @@ scr_litemuseb_slash_scr_litemuseb_gml_117_0
 room
 gml_Script_scr_torface
 scr_litemuseb_slash_scr_litemuseb_gml_126_0
-\E0* Hola?&* Residencia Dreemurr...&* Con quien hablo...?/
+\E0* ¿Hola?&* Residencia Dreemurr...&* Con quien hablo...?/
 scr_litemuseb_slash_scr_litemuseb_gml_127_0
-\E3* ... Kris?/
+\E3* ... ¿Kris?/
 scr_litemuseb_slash_scr_litemuseb_gml_128_0
 \E5* Ash... No me hagas ir para allá./
 gml_Script_scr_noface
@@ -386,9 +386,9 @@ gml_Script_scr_text
 scr_litemuseb_slash_scr_litemuseb_gml_156_0
 * (Ring^1, ring...)/
 scr_litemuseb_slash_scr_litemuseb_gml_158_0
-* Kris^1, cariño^1, qué pasa?/
+* Kris^1, cariño^1 ¿qué pasa?/
 scr_litemuseb_slash_scr_litemuseb_gml_159_0
-\E3* Qué^1? No^1, no te voy a llevar a la casa./
+\E3* ¿Qué^1? No^1, no te voy a llevar a la casa./
 scr_litemuseb_slash_scr_litemuseb_gml_160_0
 \E1* Nuestra casa no está lejos^1. Está solo en el tope de la ciudad./
 scr_litemuseb_slash_scr_litemuseb_gml_161_0
@@ -399,7 +399,7 @@ scr_litemuseb_slash_scr_litemuseb_gml_168_0
 scr_litemuseb_slash_scr_litemuseb_gml_170_0
 * Kris^1, estoy calificando trabajos./
 scr_litemuseb_slash_scr_litemuseb_gml_171_0
-\E0* Puedo hablarte cuando vuelvas^1, okay?/
+\E0* Puedo hablarte cuando vuelvas^1 ¿okay?/
 scr_litemuseb_slash_scr_litemuseb_gml_172_0
 \E0* Nuestra casa solo está en el tope de la ciudad^1, ya sabes./
 scr_litemuseb_slash_scr_litemuseb_gml_174_0
@@ -409,20 +409,20 @@ toriel
 scr_litemuseb_slash_scr_litemuseb_gml_273_0
 \M1\E1* Oh^1, disculpa^1, parece que estoy recibiendo una llamada./
 scr_litemuseb_slash_scr_litemuseb_gml_274_0
-\E0* Kris...? Qué pasa^1, cariño?/
+\E0* ¿Kris...? ¿Qué pasa^1, cariño?/
 scr_litemuseb_slash_scr_litemuseb_gml_275_0
-\E3* Que? Eres "normal"?/
+\E3* ¿Qué? ¿Eres "normal"?/
 scr_litemuseb_slash_scr_litemuseb_gml_276_0
-\E3* Que? Hiciste una "orbe de basura"?/
+\E3* ¿Que? ¿Hiciste una "orbe de basura"?/
 scr_litemuseb_slash_scr_litemuseb_gml_277_0
-\E4* ..^1. Me puedes explicar a que te refieres con eso?/
+\E4* ..^1. ¿Me puedes explicar a que te refieres con eso?/
 alphys
 scr_litemuseb_slash_scr_litemuseb_gml_279_0
 \E6* (Kris^1, n-no me pases el teléfono a mi!!!)/
 scr_litemuseb_slash_scr_litemuseb_gml_281_0
-\E1* Oh^1, vas a ir luego a la librería?/
+\E1* Oh^1 ¿vas a ir luego a la librería?/
 scr_litemuseb_slash_scr_litemuseb_gml_282_0
-\E0* Bueno^1, gracias por decírmelo está vez^1! Ten un buen día!/
+\E0* Bueno^1 ¡gracias por decírmelo está vez^1! ¡Ten un buen día!/
 none
 scr_litemuseb_slash_scr_litemuseb_gml_284_0
 \M0* (Click...)/%
@@ -432,17 +432,17 @@ scr_litemuseb_slash_scr_litemuseb_gml_291_0
 scr_litemuseb_slash_scr_litemuseb_gml_293_0
 scr_litemuseb_slash_scr_litemuseb_gml_302_0
 scr_litemuseb_slash_scr_litemuseb_gml_304_0
-\E0* Ah^1, Kris^1! Vas a hacer tu proyecto...?/
+\E0* ¡Ah^1, Kris^1! ¿Vas a hacer tu proyecto...?/
 scr_litemuseb_slash_scr_litemuseb_gml_305_0
-\E1* Oh^1, me estas llamando para pedirme que te ayude!?/
+\E1* Oh^1 ¿me estas llamando para pedirme que te ayude!?/
 scr_litemuseb_slash_scr_litemuseb_gml_306_0
-\E4* Iré a buscar nuestras barras de pegamento aromáticas caseras!/
+\E4* ¡Iré a buscar nuestras barras de pegamento aromáticas caseras!/
 scr_litemuseb_slash_scr_litemuseb_gml_307_0
-\E8* ..^1. Oh? Tienes un amigo esta vez?/
+\E8* ..^1. ¿Oh? ¿Tienes un amigo esta vez?/
 scr_litemuseb_slash_scr_litemuseb_gml_308_0
-\E9* Kris!^1! Eso es increíble!!/
+\E9* ¡¡Kris!^1! ¡¡Eso es increíble!!/
 scr_litemuseb_slash_scr_litemuseb_gml_309_0
-\E4* Espero que le guste las barras de pegamento con aroma a caramelo!/
+\E4* ¡Espero que le guste las barras de pegamento con aroma a caramelo!/
 scr_litemuseb_slash_scr_litemuseb_gml_311_0
 scr_litemuseb_slash_scr_litemuseb_gml_317_0
 scr_litemuseb_slash_scr_litemuseb_gml_319_0
@@ -456,15 +456,15 @@ scr_litemuseb_slash_scr_litemuseb_gml_322_0
 scr_litemuseb_slash_scr_litemuseb_gml_324_0
 scr_litemuseb_slash_scr_litemuseb_gml_336_0
 scr_litemuseb_slash_scr_litemuseb_gml_338_0
-\E0* Hola cariño^1! Que tal te fue en to proyecto de grupo?/
+\E0* ¡Hola cariño^1! ¿Qué tal te fue en to proyecto de grupo?/
 scr_litemuseb_slash_scr_litemuseb_gml_339_0
 \E0* Puedo llevarte a la casa en un momento^1, Solo estoy.../
 scr_litemuseb_slash_scr_litemuseb_gml_340_0
-\E1* ..^1. oh? No lo necesita?/
+\E1* ..^1. ¿oh? ¿No lo necesitas?/
 scr_litemuseb_slash_scr_litemuseb_gml_341_0
-\E8* Aún estás pasando tiempo con tu amigo...?/
+\E8* ¿Aún estás pasando tiempo con tu amigo...?/
 scr_litemuseb_slash_scr_litemuseb_gml_342_0
-\E4* Oh cielo^1! Dos días seguidos^1, Kris^1! Es esto un récord?/
+\E4* ¡Oh cielo^1! ¡Dos días seguidos^1, Kris^1! ¿Es esto un récord?/
 scr_litemuseb_slash_scr_litemuseb_gml_343_0
 \E0* Diviértete^1, cariño^1! Vuelve antes de que se ponga el sol!/
 scr_litemuseb_slash_scr_litemuseb_gml_345_0
