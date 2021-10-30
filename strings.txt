@@ -189,7 +189,7 @@ larmor
 ladef
 gml_Script_scr_become_light
 scr_become_light
-capítulo
+chapter
 clamp
 flag
 _i
@@ -7989,7 +7989,7 @@ La llave de una celda misteriosa.#Algo se siente extraño al respecto.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_32_0
 Llave De La Puerta
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_35_0
-Es la parte central de un key.#Un herrero podría arreglar las tres partes.
+Es la parte central de una llave.#Un herrero podría arreglar las tres partes.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_36_0
 Llave Rota B
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_39_0
