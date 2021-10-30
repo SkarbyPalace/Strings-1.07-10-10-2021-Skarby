@@ -30004,9 +30004,9 @@ obj_ch2_lw_cutscenes_short_slash_Step_0_gml_186_0
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_188_0
 \E9* Oh^1, que maravilloso!/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_189_0
-\E1* ..^1. No han estado haciendo nada raro?/
+\E1* ..^1. No ha estado haciendo nada raro?/
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_191_0
-\E7* Jaja^1, no^1, ellos han estado.../%
+\E7* Jaja^1, no^1, él ha estado.../%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_199_0
 * (No puedes dejar que mamá te vea balanceando una orbe gigante de basura!)/%
 obj_ch2_lw_cutscenes_short_slash_Step_0_gml_222_0
