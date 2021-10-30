@@ -29381,11 +29381,11 @@ DEVICE_MENU_slash_Draw_0_gml_129_1
 DEVICE_MENU_slash_Draw_0_gml_131_0
 DEVICE_MENU_slash_Draw_0_gml_131_1
 DEVICE_MENU_slash_Draw_0_gml_131_2
-Reescribir este archivo?
+¿Reescribir este archivo?
 DEVICE_MENU_slash_Draw_0_gml_132_0
 DEVICE_MENU_slash_Draw_0_gml_132_1
 DEVICE_MENU_slash_Draw_0_gml_132_2
-Borrar este archivo?
+¿Borrar este archivo?
 DEVICE_MENU_slash_Draw_0_gml_133_0
 ¡Si!
 DEVICE_MENU_slash_Draw_0_gml_133_1
