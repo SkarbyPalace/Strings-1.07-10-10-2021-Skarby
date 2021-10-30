@@ -20285,7 +20285,7 @@ obj_darkcontroller_slash_Draw_0_gml_94_0
 Correr-Auto.
 autorun_text
 obj_darkcontroller_slash_Draw_0_gml_96_0
-Atrás
+Volver
 back_text
 gamepad_controls
 obj_darkcontroller_slash_Create_0_gml_153_2
@@ -20431,7 +20431,7 @@ MENÚ
 obj_darkcontroller_slash_Draw_0_gml_124_0
 Resetear por defecto
 obj_darkcontroller_slash_Draw_0_gml_125_0
-Terminar
+Finalizar
 voff
 _heartYPos
 _heartHeight
@@ -20454,7 +20454,7 @@ Defensa:
 obj_darkcontroller_slash_Draw_0_gml_209_0
 Magia: 
 obj_darkcontroller_slash_Draw_0_gml_212_0
-Agallas: 
+Valor: 
 obj_darkcontroller_slash_Draw_0_gml_214_0
 NV1 
 char_desc
@@ -25298,9 +25298,9 @@ obj_spamton_enemy_slash_Step_0_gml_323_0
 obj_spamton_enemy_slash_Step_0_gml_324_0
 \M3TIENES&MAS?/%
 obj_spamton_enemy_slash_Step_0_gml_346_0
-\M4ESO ES DE&LO QUE H4BL0 DE TI!&TIENES [Agallas] AMIGO!!/
+\M4ESO ES DE&LO QUE H4BL0 DE TI!&TIENES [Valor] AMIGO!!/
 obj_spamton_enemy_slash_Step_0_gml_348_0
-\M2ESO ES [[Malestar&y dolor&Abismal]] EN MIS&[[Agallas]]!!/%
+\M2ESO ES [[Malestar&y dolor&Abismal]] EN MI&[[Valor]]!!/%
 obj_spamton_enemy_slash_Step_0_gml_353_0
 \M0TRATO O NO TRATO^1,&ESE ES EL PROGRAMA DE TELEVISIÓN/
 obj_spamton_enemy_slash_Step_0_gml_354_0
@@ -25970,7 +25970,7 @@ BUENTO, NO QUISIERAS?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_209_0
 NO QUIERES SER&UN [Big Shot]!?/%
 obj_spamton_neo_enemy_slash_Step_0_gml_211_0
-ADMITO QUE&TIENES [Agallas]&NIÑO!/%
+ADMITO QUE&TIENES [Valor]&NIÑO!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_212_0
 PERO EN UNA BATALLA&[1 contra 1], NEO&NUNCA PERDERA!!!/%
 obj_spamton_neo_enemy_slash_Step_0_gml_213_0
