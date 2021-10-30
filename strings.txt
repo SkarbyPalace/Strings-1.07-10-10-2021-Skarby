@@ -5193,7 +5193,7 @@ scr_text_slash_scr_text_gml_6171_0
 scr_text_slash_scr_text_gml_6172_0
 \E2* si^1, es un problema de que las cosas no salgan como quieres./
 scr_text_slash_scr_text_gml_6173_0
-\E0* se siente./
+\E0* perdón por eso./
 scr_text_slash_scr_text_gml_6174_0
 \E2* seguro que podrás conocerlo algún día./
 scr_text_slash_scr_text_gml_6175_0
@@ -5222,21 +5222,21 @@ scr_text_slash_scr_text_gml_6197_0
 scr_text_slash_scr_text_gml_6198_0
 \E5* intenta tener un poco de autoconciencia^1, vale?/
 scr_text_slash_scr_text_gml_6199_0
-\E2* entre tanto^1, le preguntare a mi hermano que hace cuando no miro./%
+\E2* entre tanto^1, le preguntaré a mi hermano cuál es su horario./%
 scr_text_slash_scr_text_gml_6203_0
 * lo siento^1, chico. el tema del hermano va a tener que esperar./
 scr_text_slash_scr_text_gml_6204_0
-\E2* cuanto tiempo tomara?/
+\E2* cuanto tiempo tomará?/
 scr_text_slash_scr_text_gml_6205_0
-\E3* quizás un día..^1. quizás otros 24 meses./
+\E3* quizás un día..^1. quizás otros 2 años./
 scr_text_slash_scr_text_gml_6206_0
-\E5* acaso alguno llevara la cuenta a estas alturas/%
+\E5* quién lleva la cuenta a este punto?/%
 scr_text_slash_scr_text_gml_6214_0
 \E2* hey. bienvenido al supermercado./
 scr_text_slash_scr_text_gml_6215_0
 * si quieres comprar algo^1, ponlo en una \cYcesta\c0 y tráemelo./
 scr_text_slash_scr_text_gml_6216_0
-\E5* por si no sabes como funciona una tienda./%
+\E5* por si no sabías como funcionaba una tienda./%
 scr_text_slash_scr_text_gml_6222_0
 \E5* tomatelo con calma./%
 scr_text_slash_scr_text_gml_6227_0
