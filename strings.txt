@@ -526,7 +526,7 @@ scr_litemdesc_slash_scr_litemdesc_gml_30_0
 scr_litemdesc_slash_scr_litemdesc_gml_33_0
 * "Tapiz Suertudo" - Arma 1 AT&* Cubierto in tréboles verdes y arcoíris./%
 scr_litemdesc_slash_scr_litemdesc_gml_36_0
-* "	" - No muy importante^1, no muy poco importante./%
+* "	" - No muy importante^1, no tan inimportante./%
 scr_litemdesc_slash_scr_litemdesc_gml_39_0
 * "Cartas" - El Jack de las Espadas^1, y la Carta de Reglas./%
 scr_litemdesc_slash_scr_litemdesc_gml_42_0
@@ -7974,7 +7974,7 @@ Puede ser usado para hacer llamadas.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_14_0
 Celular
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_18_0
-No demasiado importante, no demasiado poco importante.
+No muy importante, no tan inimportante.
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_19_0
 scr_keyiteminfo_slash_scr_keyiteminfo_gml_23_0
 Aunque está roto, se llena de poder.#Un herrero maestro podría arreglarlo.
