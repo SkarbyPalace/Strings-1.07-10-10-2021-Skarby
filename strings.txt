@@ -13481,7 +13481,7 @@ gml_Script_scr_ds_list_write_ch1
 gml_Script_ossafe_file_text_write_real_ch1
 scr_saveprocess_ch1
 scr_roomname_slash_scr_roomname_gml_18_0
-Field - Maze of Death
+Campo - Laberinto de la Muerte
 平原 - 死の迷路
 gml_Script_scr_roomname_ch1
 scr_roomname_ch1
