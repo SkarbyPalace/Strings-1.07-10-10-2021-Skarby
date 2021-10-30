@@ -21157,11 +21157,11 @@ timerthreshold
 obj_cybercity_trashcan_slash_Other_10_gml_5_0
 * (Cavaste a través de la basura...)/
 obj_cybercity_trashcan_slash_Other_10_gml_16_0
-* (Y encontraste $~1!)/
+* (¡Y encontraste $~1!)/
 obj_cybercity_trashcan_slash_Other_10_gml_23_0
-* (Y encontraste un ~1!)/
+* (¡Y encontraste un ~1!)/
 obj_cybercity_trashcan_slash_Other_10_gml_35_0
-* (Y encontraste basura!)/%
+* (¡Y encontraste basura!)/%
 flip_timer
 remcameray
 breakable
