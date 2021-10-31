@@ -4872,7 +4872,7 @@ scr_text_slash_scr_text_gml_5533_0
 scr_text_slash_scr_text_gml_5539_0
 #Decir algo#romántico
 scr_text_slash_scr_text_gml_5540_0
-#Decir algo#cool
+#Decir algo#guay
 scr_text_slash_scr_text_gml_5541_0
 scr_text_slash_scr_text_gml_5542_0
 scr_text_slash_scr_text_gml_5545_0
@@ -16158,7 +16158,7 @@ obj_npc_room_slash_Other_10_gml_876_0
 obj_npc_room_slash_Other_10_gml_895_0
 * No soy Jerry. Soy Terry./
 obj_npc_room_slash_Other_10_gml_896_0
-* Soy súper cool./
+* Soy súper guay./
 obj_npc_room_slash_Other_10_gml_897_0
 * Literalmente NO necesito ir al baño./%
 obj_npc_room_slash_Other_10_gml_903_0
@@ -17411,7 +17411,7 @@ obj_npc_sign_slash_Other_10_gml_784_0
 obj_npc_sign_slash_Other_10_gml_785_0
 * Mientras tanto^1, déjame mostrarte el poder de los vistos azules.../%
 obj_npc_sign_slash_Other_10_gml_789_0
-* Solo quería hacer una demoscene cool para ustedes./
+* Solo quería hacer una demoscene guay para ustedes./
 obj_npc_sign_slash_Other_10_gml_790_0
 * Ahora que he terminado esto, puedo aparecer en todo tipo de lugares./%
 obj_npc_sign_slash_Other_10_gml_813_0
@@ -17773,11 +17773,11 @@ obj_npc_room_animated_slash_Other_10_gml_209_0
 obj_npc_room_animated_slash_Other_10_gml_218_0
 * (Es una copia de un juego de patinaje online.)/
 obj_npc_room_animated_slash_Other_10_gml_219_0
-* (Por la búsqueda: juego de patinaje cool)/%
+* (Por la búsqueda: juego de patinaje guay)/%
 obj_npc_room_animated_slash_Other_10_gml_225_0
 * (Es un juego de patinaje pero la IA hace trampa. Es imposible ganar.)/
 obj_npc_room_animated_slash_Other_10_gml_226_0
-* (Por la búsqueda: juego cool patinaje online TRAMPA)/%
+* (Por la búsqueda: juego guay patinaje online TRAMPA)/%
 obj_npc_room_animated_slash_Other_10_gml_232_0
 * (Es un libro potenciado por una aspiradora.)/
 obj_npc_room_animated_slash_Other_10_gml_233_0
@@ -26694,7 +26694,7 @@ city_word
 obj_rouxls_enemy_slash_Step_0_gml_142_0
 * A tu ciudad le falta ~1.
 obj_rouxls_enemy_slash_Step_0_gml_230_0
-cool
+guay
 shipStatus
 obj_rouxls_enemy_slash_Step_0_gml_235_0
 elegante
@@ -28145,9 +28145,9 @@ SIN ESPACIO
 obj_shop2_slash_Create_0_gml_73_0
 ITEM#Fragrant#sauce#cura 50HP
 obj_shop2_slash_Create_0_gml_74_0
-WEAPON#Heroic &#Cool
+ARMA#Heroico y&#guay
 obj_shop2_slash_Create_0_gml_75_0
-WEAPON#Homemade#Healing up
+ARMA#Sanación#Casera
 obj_shop2_slash_Create_0_gml_76_0
 friendly
 worm_max
@@ -33890,7 +33890,7 @@ obj_ch2_scene32_slash_Step_0_gml_417_0
 obj_ch2_scene32_slash_Step_0_gml_418_0
 \EQ* Tú^1, Ralsei^1, Lancer^1 y los demás.../
 obj_ch2_scene32_slash_Step_0_gml_419_0
-\EA* Está..^1. bastante cool pasar el rato con ellos^1, ¿verdad?/
+\EA* Está..^1. bastante guay pasar el rato con ellos^1, ¿verdad?/
 obj_ch2_scene32_slash_Step_0_gml_420_0
 \EQ* ..^1. por eso^1, No crees..^1. ¿No crees que deberíamos.../%
 obj_ch2_scene32_slash_Step_0_gml_426_0
@@ -34401,7 +34401,7 @@ obj_ch2_cyber01_slash_Step_0_gml_574_0
 obj_ch2_cyber01_slash_Step_0_gml_575_0
 \m2		*Nuestro baile los derrotó^2.&\m1	Los derrotó...^2?&\m3	Si^1, lo creo./
 obj_ch2_cyber01_slash_Step_0_gml_576_0
-\m3		*Ves^1, cuando bailábamos^1, demostramos que somos cool^2.&\m1	Ahora están de nuestro lado?/
+\m3		*Ves^1, cuando bailábamos^1, demostramos que somos guay^2.&\m1	Ahora están de nuestro lado?/
 obj_ch2_cyber01_slash_Step_0_gml_577_0
 \m2		*Si./
 obj_ch2_cyber01_slash_Step_0_gml_578_0
@@ -35175,7 +35175,7 @@ obj_ch2_city_berdly_slash_Step_0_gml_584_0
 obj_ch2_city_berdly_slash_Step_0_gml_585_0
 \E1* Intenta fuerte^1 y tal vez algún día serás un digno oponente./%
 obj_ch2_city_berdly_slash_Step_0_gml_592_0
-\EE* Heh^1! A veces no puedo creer lo cool que soy.../%
+\EE* Heh^1! A veces no puedo creer lo guay que soy.../%
 obj_ch2_city_berdly_slash_Step_0_gml_612_0
 \EH* (Él me golpeó con un tornado...)/%
 obj_ch2_city_berdly_slash_Step_0_gml_619_0
