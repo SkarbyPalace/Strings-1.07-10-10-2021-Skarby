@@ -7727,10 +7727,10 @@ Golpe#Rudo#
 scr_spellinfo_slash_scr_spellinfo_gml_24_0
 Reparte daño elemental moderado a#un enemigo. Depende del Ataque & Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_31_0
-OraciónDeCura
+Curación
 scr_spellinfo_slash_scr_spellinfo_gml_32_0
 scr_spellinfo_slash_scr_spellinfo_gml_33_0
-Cura#Aliados
+Cura#Aliado
 scr_spellinfo_slash_scr_spellinfo_gml_34_0
 La luz celestial restaura una#pequeña HP a un miembro. Depende de la Magia.
 scr_spellinfo_slash_scr_spellinfo_gml_42_0
