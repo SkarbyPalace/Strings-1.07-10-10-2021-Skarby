@@ -1,0 +1,46 @@
+Primero que todo, ¡Muchas gracias por descargar el parche en español!
+
+Te agradecimientos bastante si nos dieras créditos en caso de que subas un video con el parche puesto.
+
+Origen del parche: https://youtu.be/CALB4q4Bs_U
+
+Créditos:
+
+Traductores del parche:
+
+- Skarby (https://twitter.com/SkarbyP)
+- MetTheCarrot (https://twitter.com/metartz)
+- RoxasXII (https://twitter.com/fatalancho)
+- MutantFM (https://twitter.com/MutantYouIdiot)
+- @_FoxCloud (https://twitter.com/_FoxCloud)
+- Maxter Games (https://www.youtube.com/channel/UCci9yUCkmshSYGCM2MgyJ0A)
+
+Traductores Sprites:
+
+- Natalidiota (https://twitter.com/natalidiota)
+- weacosmica206 (https://www.instagram.com/weaastralcosmica/)
+
+En un caso de que quieras reportar un error de traducción podrás reportar o sugerir ideas acerca de la traducción a través de Discord: https://discord.gg/QHfGb36Z8g
+
+Instalación del parche: (WINDOWS - ITCH.IO)
+
+- Debes descargar el juego a su ultima versión actual (1.07) en https://tobyfox.itch.io/deltarune.
+- Una vez hecho, deberás descomprimir el juego con WinRAR
+- Una vez hecho debes entrar a la carpeta "DELTARUNE Chapter 1&2 Data" ahí debes pegar el contenido de la carpeta "Parche Deltarune 1&2 1.07 - WINDOWS".
+- Y así lograste instalar el parche de Deltarune Capítulo 1&2, ¡Muchas gracias! :D
+
+Instalación del parche: (WINDOWS - Steam)
+
+- Debes localizar el punto donde descargaste el juego en Steam, este puede variar si lo descargaste en un sitio diferente a lo predeterminado
+- En dado caso que lo hayas instalado en un Disco Local D, debes buscar la carpeta SteamLibrary, abres "steamapps", abres "common".
+- Ahí se localizaran los juegos que hayas instalado mediante Steam, debes buscar "DELTARUNEdemo".
+- Una vez hecho, deberás pegar el contenido de la carpeta "Parche Deltarune 1&2 1.07 - WINDOWS" reemplazando todo.
+- Y así lograste instalar el parche de Deltarune Capítulo 1&2, ¡Muchas gracias! :D
+
+Instalación del parche: (Mac - ITCH.IO)
+
+- Debes descargar el juego a su ultima versión actual (1.07) en https://tobyfox.itch.io/deltarune.
+- Una vez hecho, deberás descomprimir el juego con WinRAR
+- Una vez hecho debes entrar a la carpeta "DELTARUNE Chapter 1&2.app", luego "Contents", luego "Resources" 
+- Una vez hecho deberás pegar el contenido de la carpeta "Parche Deltarune 1&2 1.07 - MAC" reemplazando todo.
+- Y así lograste instalar el parche de Deltarune Capítulo 1&2, ¡Muchas gracias! :D
