@@ -248,7 +248,7 @@ objeto
  &
 scr_lrecoitem_slash_scr_lrecoitem_gml_14_0
 string
-* Recuperaste ~1 HP!/%
+* ¡Recuperaste ~1 HP!/%
 gml_Script_stringsetsubloc
 scr_lrecoitem_slash_scr_lrecoitem_gml_16_0
 * Tu HP está al máximo./%
@@ -269,7 +269,7 @@ gml_Script_snd_play
 scr_litemuseb_slash_scr_litemuseb_gml_18_0
 * Te equipaste el Lápiz./%
 scr_litemuseb_slash_scr_litemuseb_gml_26_0
-* Re-aplicaste la bandita.
+* Te re-aplicaste la bandita.
 scr_litemuseb_slash_scr_litemuseb_gml_34_0
 * Sostuviste las flores^1.&* Una esencia floral llena el aire ^1.&* Nada paso./%
 scr_litemuseb_slash_scr_litemuseb_gml_42_0
@@ -509,24 +509,24 @@ scr_litemdesc_slash_scr_litemdesc_gml_8_0
 scr_litemdesc_slash_scr_litemdesc_gml_11_0
 * "Lapiz" - Arma 1 AT&* Mas mitica que una espada?&* Tal vez son igual de míticas./%
 scr_litemdesc_slash_scr_litemdesc_gml_14_0
-* "Bandage" - Heals 10 HP&* It has cartoon characters on it./%
+* "Vendaje" - Cura 10 HP&* Tiene personajes de caricaturas./%
 scr_litemdesc_slash_scr_litemdesc_gml_17_0
-* "Bouquet" - A bouquet of beautiful flowers in many colors./
+* "Ramo" - Un ramo de bellas flores de muchos colores./
 scr_litemdesc_slash_scr_litemdesc_gml_18_0
-* Quizas puede ser ofrecido a alguien./%
+* Podría ser ofrecido a alguien./%
 scr_litemdesc_slash_scr_litemdesc_gml_21_0
 * "Bola de basura" - Una bola de cosas acumuladas en tu bolsillo./%
 gml_Script_scr_itemcheck
 scr_litemdesc_slash_scr_litemdesc_gml_25_0
 * "Bola de basura" - Una bola de cosas acumuladas en tu bolsillo./
 scr_litemdesc_slash_scr_litemdesc_gml_26_0
-* Huelen como stickers de malvaviscos de scratch'n'sniff./%
+* Huelen a pegatines de malvaviscos de rasca-y-huele./%
 scr_litemdesc_slash_scr_litemdesc_gml_30_0
-* "Tapiz Haloween" - Arma 1 AT&* Naranja con murciélagos negros./%
+* "Lapiz de Haloween" - Arma 1 AT&* Naranja con murciélagos negros./%
 scr_litemdesc_slash_scr_litemdesc_gml_33_0
-* "Tapiz Suertudo" - Arma 1 AT&* Cubierto in tréboles verdes y arcoíris./%
+* "Lapiz de la Suerte" - Arma 1 AT&* Cubierto con tréboles verdes y arcoíris./%
 scr_litemdesc_slash_scr_litemdesc_gml_36_0
-* "	" - No muy importante^1, no tan inimportante./%
+* "	" - No tan importante^1, no tan inimportante./%
 scr_litemdesc_slash_scr_litemdesc_gml_39_0
 * "Cartas" - El Jack de las Espadas^1, y la Carta de Reglas./%
 scr_litemdesc_slash_scr_litemdesc_gml_42_0
@@ -549,15 +549,15 @@ Chocolate Caliente
 scr_litemname_slash_scr_litemname_gml_7_0
 Lápiz
 scr_litemname_slash_scr_litemname_gml_8_0
-Bandita
+Vendaje
 scr_litemname_slash_scr_litemname_gml_9_0
 Ramo
 scr_litemname_slash_scr_litemname_gml_10_0
 Bola de Basura
 scr_litemname_slash_scr_litemname_gml_11_0
-Lápiz Halloween
+Lápiz de Halloween
 scr_litemname_slash_scr_litemname_gml_12_0
-Lápiz Suertudo
+Lápiz de la Suerte
 scr_litemname_slash_scr_litemname_gml_13_0
 Huevo
 scr_litemname_slash_scr_litemname_gml_14_0
@@ -656,9 +656,9 @@ scr_text_slash_scr_text_gml_9_0
 scr_text_slash_scr_text_gml_12_0_b
 scr_text_slash_scr_text_gml_13_0_b
 scr_text_slash_scr_text_gml_12_0
-* Realmente no quieres tirarlo./
+* Realmente no querías tirarlo./
 scr_text_slash_scr_text_gml_13_0
-* Lo tiras de todos modos?/
+* ¿Arrojarlo de todos modos?/
 scr_text_slash_scr_text_gml_14_0
 \C2 
 scr_text_slash_scr_text_gml_19_0
@@ -667,49 +667,49 @@ choice
 scr_text_slash_scr_text_gml_20_0
 * Te tiembla la mano^1, tiraste la bola de basura al suelo./
 scr_text_slash_scr_text_gml_21_0
-* Se rompió en pedazos./
+* Se hizo pedazos./
 scr_text_slash_scr_text_gml_22_0
-* Te sientes amargado./%
+* Te sentiste amargado./%
 menucoord
 armadura
 arma
 scr_text_slash_scr_text_gml_34_0
 * Sientes un aura de alivio./%
 scr_text_slash_scr_text_gml_39_0
-* Hey, Kris^1! Qué pasa^1?&* Perdiste tu lápiz de nuevo?/
+* ¡Hey, Kris^1! ¿Qué pasa^1?&* ¿Perdiste tu lápiz otra vez?/
 scr_text_slash_scr_text_gml_40_0
-\E4* Ten^1, quieres el de bastón de dulce o el que tiene luces?/
+\E4* Ten^1, quieres el de bastón de caramelo o el que tiene luces?/
 scr_text_slash_scr_text_gml_41_0
-\E1* Huh^1?&* Quieres que seamos amigos?/
+\E1* Huh^1?&* Quieres ser pareja?/
 scr_text_slash_scr_text_gml_42_0
-\E4* Ummm..^1. Disculpa..^1.&* Berdly ya me pidió que trabaje con el.../
+\E4* Ummm..^1. Lo siento..^1.&* Berdly ya me pregunto.../
 scr_text_slash_scr_text_gml_43_0
-\E0* Pero puedes preguntarle a la Miss Alphys si podemos hacer un grupo de 3!/
+\E0* Pero puedes preguntarle a la Srta. Alphys si podemos ser de 3!/
 scr_text_slash_scr_text_gml_44_0
-\E4* Yo le preguntaré si no estas seguro!& &Aún no     Si.  Pregúntale.\C1 
+\E4* Le pregunto si quieres!& &Aún no     Ok.  Pregúntale.\C1 
 scr_text_slash_scr_text_gml_47_0
 scr_text_slash_scr_text_gml_51_0
-\E0* OK^1, le voy a preguntar!/
+\E0* Está bien^1, preguntare!/
 scr_text_slash_scr_text_gml_52_0
-* Maestra Alphys^1!&* Umm^1, está BIEN si hacemos un grupo de 3?/%
+* Srta. Alphys^1!&* Umm^1, está BIEN si hacemos un grupo de 3?/%
 con
 scr_text_slash_scr_text_gml_57_0
-\E4* Sí^1, estoy seguro de que hay alguien más a quien puedes preguntar!/%
+\E4* Sí^1, estoy segura de que hay alguien más a quien puedes preguntar!/%
 scr_text_slash_scr_text_gml_62_0
-\E0* ¿Quieres ser socios??&Todavía no     Si\C1 
+\E0* ¿Le pregunto ahora?&Todavía no     Si\C1 
 scr_text_slash_scr_text_gml_65_0
 scr_text_slash_scr_text_gml_69_0
 scr_text_slash_scr_text_gml_70_0
 scr_text_slash_scr_text_gml_75_0
-\E4* Umm^1, OK^1.&* Sigue haciendo lo tuyo^1 Kris./%
+\E4* Umm^1, OK^1.&* Sigue con lo tuyo^1 Kris./%
 scr_text_slash_scr_text_gml_80_0
-\E0* Muy bien^1.&* Terminemos con esto./
+\E0* Bueno^1.&* Terminemos con esto./
 scr_text_slash_scr_text_gml_81_0
-* Obtendremos más tiza^1.&* Mosey de vuelta a clase^1.&* Y luego^1, Kris.../
+* Obtendremos más tiza^1.&* Volveremos a clase^1.&* Y luego^1, Kris.../
 scr_text_slash_scr_text_gml_82_0
 \E2* TÚ harás nuestro proyecto./
 scr_text_slash_scr_text_gml_83_0
-* ¿Qué te parece?& &Bien        No\C1 
+* ¿Qué te parece?& &Bien        Mal\C1 
 scr_text_slash_scr_text_gml_86_0
 scr_text_slash_scr_text_gml_90_0
  %%
@@ -718,37 +718,37 @@ scr_text_slash_scr_text_gml_93_0
 scr_text_slash_scr_text_gml_96_0
 scr_text_slash_scr_text_gml_97_0
 scr_text_slash_scr_text_gml_98_0
-* (Hay algo que brilla por dentro.)/
+* (Hay algo brillando dentro.)/
 scr_text_slash_scr_text_gml_99_0
-* (Lo tomas?)/ 
+* (¿Lo tomas?)/ 
 scr_text_slash_scr_text_gml_100_0
  \C2
 scr_text_slash_scr_text_gml_104_0
 * (Está oscuro por dentro.)/%
 scr_text_slash_scr_text_gml_112_0
-* (Obtuviste un Glowshard.)/%
+* (Obtuviste el fragmento brillante.)/%
 gml_Script_scr_itemget
 shine
 instance_destroy
 scr_text_slash_scr_text_gml_119_0
-* (te quedaste.)/%
+* (Se queda.)/%
 scr_text_slash_scr_text_gml_125_0
 #Escuchar
 scr_text_slash_scr_text_gml_126_0
 scr_text_slash_scr_text_gml_129_0_b
 scr_text_slash_scr_text_gml_130_0_b
 scr_text_slash_scr_text_gml_129_0
-* Bienvenido^1.&* Yo soy el \cYPrincipe\cW de este \cYReino\cW.../
+* Bienvenidos^1.&* Yo soy el \cYPrincipe\cW de este \cYReino\cW.../
 scr_text_slash_scr_text_gml_130_0
-* El \cYREINO DE LAS TINIEBLAS\cW./
+* El \cYREINO DE LA OSCURIDAD\cW./
 scr_text_slash_scr_text_gml_131_0
-* Kris^1, Susie..^1.&* Hay un \cYLEGENDA\cW en esta tierra./
+* Kris^1, Susie..^1.&* Hay un \cYLEGENDA\cW en está tierra./
 scr_text_slash_scr_text_gml_132_0
-* Una LEYENDA de que un día^1, dos \cYHEROES de LUZ\cW llegará,/
+* Una LEYENDA de que un día^1, dos \cYHÉROES de LUZ\cW llegarían,/
 scr_text_slash_scr_text_gml_133_0
-* Y cumplir la antigua profecía^1, predicha por el tiempo y el espacio./
+* Y cumplirían la antigua profecía^1, predicha por el tiempo y el espacio./
 scr_text_slash_scr_text_gml_134_0
-* Por favor^1, Héroes..^1.&* Escucha mi historia.../
+* Por favor^1, Héroes..^1.&* Escuchen mi historia.../
 scr_text_slash_scr_text_gml_135_0
  \C2 
 scr_text_slash_scr_text_gml_138_0
@@ -762,20 +762,20 @@ scr_text_slash_scr_text_gml_146_0
 scr_text_slash_scr_text_gml_150_0
 * .../
 scr_text_slash_scr_text_gml_151_0
-\E1* Umm, e-en serio^1?&* Estás seguro^1?&* Es lo suficientemente importante./
+\E1* Umm, e-en serio^1?&* Están seguro^1?&* Es muy importante./
 scr_text_slash_scr_text_gml_152_0
 * Y... um^1, en mi opinión^1, es una \cYPROFECIA\cW muy bonita!/
 scr_text_slash_scr_text_gml_153_0
-* Creo que te gustaría mucho!/
+* Creo que les gustaría mucho!/
 scr_text_slash_scr_text_gml_154_0
 scr_text_slash_scr_text_gml_157_0
 scr_text_slash_scr_text_gml_163_0
 \E0* Phew^1!&* Um^1, muy bien entonces.../%
 obj_darkcastle_event
 scr_text_slash_scr_text_gml_169_0
-* ... realmente^1?&* ¿Ya lo has escuchado?/
+* ... realmente^1?&* ¿Ya lo han escuchado?/
 scr_text_slash_scr_text_gml_170_0
-* Oh..^1. Tal vez no debería haberlo ensayado tanto.../
+* Oh..^1. Quizá no debería haber ensayado tanto.../
 gml_Script_scr_susface
 scr_text_slash_scr_text_gml_172_0
 * Mira^1, amigo^1, no vinimos aquí por una historia para dormir./
@@ -783,15 +783,15 @@ scr_text_slash_scr_text_gml_173_0
 * Sólo dinos cómo llegar a casa./
 gml_Script_scr_ralface
 scr_text_slash_scr_text_gml_175_0
-* Ummm^1, la manera más fácil sería sellar la \cYFUENTE ORIENTAL\cW./
+* Ummm^1, la manera más fácil sería sellar la \cYFUENTE del ESTE\cW./
 scr_text_slash_scr_text_gml_177_0
 * Fuente?/
 scr_text_slash_scr_text_gml_178_0
-\E1* Te refieres^1, uh^1, ¿Como la burbuja de agua o algo así?/
+\E1* Te refieres^1, uh^1, ¿Como la fuente de agua o algo así?/
 scr_text_slash_scr_text_gml_180_0
-* LA fuente^1.&* Lo que da el \cYMUNDO OSCURO\cW una forma./
+* LA fuente^1.&* Lo que da forma al \cYMUNDO OSCURO\cW./
 scr_text_slash_scr_text_gml_181_0
-\E1* ... umm^1, ¿Estás seguro de que realmente conoces la leyenda?/
+\E1* ... umm^1, ¿Estás seguro de qué conocen la leyenda?/
 scr_text_slash_scr_text_gml_183_0
 * Mira./
 scr_text_slash_scr_text_gml_184_0
@@ -812,11 +812,11 @@ scr_text_slash_scr_text_gml_199_0
 scr_text_slash_scr_text_gml_200_0
 * Esta es la CIUDAD CASTILLO^2, donde residen mis sujetos.../
 scr_text_slash_scr_text_gml_201_0
-\E1* Err, well, lo harían si tuviera alguna.../
+\E1* Err, bueno, estarían si encontrara alguno.../
 scr_text_slash_scr_text_gml_202_0_b
 \E8* Oh, no te preocupes por mi Kris!/
 scr_text_slash_scr_text_gml_203_0
-\E0* Estoy seguro de que algún día encontraré un tema.../
+\E0* Estoy seguro que algún día encontrare a alguien.../
 scr_text_slash_scr_text_gml_202_0
 scr_text_slash_scr_text_gml_205_0
 fe
@@ -827,11 +827,11 @@ scr_text_slash_scr_text_gml_214_0
 scr_text_slash_scr_text_gml_215_0
 \E1* ... pero^1, si tu insistes.../
 scr_text_slash_scr_text_gml_216_0
-\E0* Kris, como tu Príncipe y autoridad, te ordeno que...!/
+\E0* Kris, como tu Príncipe y autoridad, te ordeno...!/
 scr_text_slash_scr_text_gml_217_0
-\E8* ¡Por favor, háganme saber qué hacer!/%
+\E8* ¡Por favor, hazme saber qué hacer!/%
 scr_text_slash_scr_text_gml_224_0
-* Oh^1, gracias^1 Kris^2!&* ¡Lo hare!/%
+* Oh^1, gracias^1 Kris^2!&* ¡Lo haré!/%
 scr_text_slash_scr_text_gml_227_0
 #lo sé
 scr_text_slash_scr_text_gml_228_0
@@ -841,21 +841,21 @@ scr_text_slash_scr_text_gml_232_0_b
 gml_Script_scr_get_input_name
 input_name
 scr_text_slash_scr_text_gml_232_0
-* Er^1, Kris^1, usted sabe que puede mantener [~1] para correr...?/
+* Er^1, Kris^1, ¿sabes qué puedes mantener [~1] para correr...?/
 scr_text_slash_scr_text_gml_233_0
 scr_text_slash_scr_text_gml_236_0
 scr_text_slash_scr_text_gml_242_0
-* en serio^1?&* Y sin embargo, eliges no...?/
+* En serio^1?&* ¿Y aun no has querido...?/
 scr_text_slash_scr_text_gml_243_0
-\E6* Correcto^1, quién sabe cuánto durarán estos días de descanso.../
+\E6* Está bien^1, quién sabe cuánto durarán estos pausados días.../
 scr_text_slash_scr_text_gml_244_0
 \E0* No hay nada malo en tomarse su tiempo^1 Kris./%
 scr_text_slash_scr_text_gml_250_0
-* Correcto^1!&* Te moverás más rápido sosteniendo [~1]!/
+* Sí^1!&* Te moverás más rápido sosteniendo [~1]!/
 scr_text_slash_scr_text_gml_251_0
 \E8* Y estaré justo detrás de ti^1, así que no te preocupes!/
 scr_text_slash_scr_text_gml_252_0
-\E6* ... A menos que quieras escapar^1, en cuyo caso^1, lo siento./%
+\E6* ... A menos que quieras huir^1, en cuyo caso^1, lo siento./%
 scr_text_slash_scr_text_gml_258_0
 scr_text_slash_scr_text_gml_259_0
 scr_text_slash_scr_text_gml_262_0_b
@@ -863,17 +863,17 @@ scr_text_slash_scr_text_gml_263_0
 scr_text_slash_scr_text_gml_262_0
 * Umm^1, Kris^1, sabías.../
 scr_text_slash_scr_text_gml_265_0
-* ... Puede omitir texto presionando [~1]?/
+* ... Puedes omitir texto presionando [~1]?/
 scr_text_slash_scr_text_gml_264_0
 scr_text_slash_scr_text_gml_267_0
 scr_text_slash_scr_text_gml_273_0
-* ... en serio^1?&* Así que acabas de ser.../
+* ... en serio^1?&* Así que tu has estado.../
 scr_text_slash_scr_text_gml_274_0
-\E2* Escuchándome hablar^1, ¿porque querías?/
+\E2* Escuchándome hablar^1, ¿solo por qué querías?/
 scr_text_slash_scr_text_gml_275_0
 \E6* Intentaré que valga la pena Kris!/%
 scr_text_slash_scr_text_gml_280_0
-* Correcto^1! En el caso de que leas muy rápido./
+* Si^1! En el caso de que leas muy rápido./
 scr_text_slash_scr_text_gml_281_0
 \E1* O estás cansado de lo que se está diciendo./
 scr_text_slash_scr_text_gml_282_0
@@ -886,22 +886,22 @@ scr_text_slash_scr_text_gml_294_0_b
 scr_text_slash_scr_text_gml_293_0
 \E3* Oh^1, Kris^1!&* ¡Es el maniquí de entrenamiento que hice!/
 scr_text_slash_scr_text_gml_294_0
-\E8* Ahora parece una gran oportunidad para prepararse para el enemigo./
+\E8* Ahora parece ser una buena oportunidad para prepararse./
 scr_text_slash_scr_text_gml_295_0
-\E0* ¿Quieres que te enseñe a pelear?/
+\E0* ¿Te gustaría qué te enseñe en como luchar?/
 scr_text_slash_scr_text_gml_296_0
 scr_text_slash_scr_text_gml_299_0
 scr_text_slash_scr_text_gml_303_0
-\E0* OK^1!&* prepárate Kris!/%
+\E0* Bien^1!&* ¡Prepárate Kris!/%
 obj_tutorialbattleevent
 scr_text_slash_scr_text_gml_308_0
-\E3* Bien^1, ya luchaste contra Lancer^1, ¿no...?/
+\E3* Cierto^1, ya lucharon contra Lancer^1, ¿no es así...?/
 scr_text_slash_scr_text_gml_309_0
-\E1* Estaba tan emocionado de enseñarte^1, ¡estoy completamente vacía!!/
+\E1* Estaba tan emocionado de enseñarte^1, ¡que me quede en blanco!/
 scr_text_slash_scr_text_gml_310_0
-\E2* ... P-pero^1, um..^1.&* Por si olvidaste algo.../
+\E2* ... P-pero^1, um..^1.&* Solo en caso de que olvides algo.../
 scr_text_slash_scr_text_gml_311_0
-\E6* Mira^1!&* ¡Hice un manual para ti y Susie!/
+\E6* Toma^1!&* ¡Hice un manual para ti y Susie!/
 scr_text_slash_scr_text_gml_314_0_b
 \E0* Presiona [~1] para abrir el menú y usarlo en tus ITEMS./
 scr_text_slash_scr_text_gml_314_0
@@ -913,9 +913,9 @@ scr_text_slash_scr_text_gml_320_0
 scr_text_slash_scr_text_gml_323_0_b
 scr_text_slash_scr_text_gml_324_0_b
 scr_text_slash_scr_text_gml_323_0
-\E3* Oh dios^2!&* ¿La Gran Puerta está abierta?!/
+\E3* Oh dios^2!&* ¿¡La Gran Puerta está abierta?!/
 scr_text_slash_scr_text_gml_324_0
-* No es de extrañar que Lancer fuera capaz de pasar.../
+* No me pregunto entonces como Lancer pudo entrar.../
 scr_text_slash_scr_text_gml_325_0
 \E1* .../
 scr_text_slash_scr_text_gml_326_0
@@ -923,25 +923,25 @@ scr_text_slash_scr_text_gml_326_0
 scr_text_slash_scr_text_gml_327_0
 * Nuestra aventura realmente comenzará./
 scr_text_slash_scr_text_gml_328_0
-* Un viaje predicho exactamente por la profecía.../
+* Un viaje predicho por la profecía.../
 scr_text_slash_scr_text_gml_329_0
-\E6* Pero Kris^1, Creo que TUS elecciones son importantes también./
+\E6* Pero Kris^1, creo que TUS elecciones son importantes también./
 scr_text_slash_scr_text_gml_330_0
-\E0* Este mundo está lleno de todo tipo de personas^1, Kris./
+\E0* Este mundo está lleno de todo tipo de gente^1, Kris./
 scr_text_slash_scr_text_gml_331_0
-\E6* Al final^1, cómo los tratamos hace toda la diferencia./
+\E6* Al final^1, cómo los tratemos hará toda la diferencia./
 scr_text_slash_scr_text_gml_332_0
-\E8* Así que vamos a intentar lo mejor para salir sin PELEar./
+\E8* Así que intentemos pasar sin LUCHAR./
 scr_text_slash_scr_text_gml_333_0
 \E1* Si logramos hacer eso.../
 scr_text_slash_scr_text_gml_334_0
 \E0* Creo que esta historia puede tener un final feliz./
 scr_text_slash_scr_text_gml_335_0
-\E6*De lo contrario^1, me temo que.../
+\E6* De lo contrario^1, temo que.../
 scr_text_slash_scr_text_gml_336_0
-\E1* ... no puede que..^1. encontremos el resultado favorable./
+\E1* ... Quizás no..^1. encuentres el mejor resultado./
 scr_text_slash_scr_text_gml_337_0
-\E3* ... Oh^1, Lo siento^1! ¿Es demasiado pedir?/
+\E3* ... Oh^1, Lo siento^1! ¿Es mucho pedir?/
 scr_text_slash_scr_text_gml_338_0
 scr_text_slash_scr_text_gml_341_0
 scr_text_slash_scr_text_gml_343_0
@@ -953,38 +953,38 @@ scr_text_slash_scr_text_gml_348_0
 scr_text_slash_scr_text_gml_349_0
 \E6* Kris^1, al final^1, lo que elijas depende de ti./
 scr_text_slash_scr_text_gml_350_0
-\E8* Mientras estés feliz con eso^1, también estoy feliz./
+\E8* Mientras estés feliz con eso^1, también lo seré yo./
 scr_text_slash_scr_text_gml_351_0
-\E0* Así que haz tu mejor esfuerzo^1, y no te preocupes!/%
+\E0* ¡Así que solo hagamos lo mas que podamos^1, y no te preocupes!/%
 scr_text_slash_scr_text_gml_358_0
 scr_text_slash_scr_text_gml_359_0
 scr_text_slash_scr_text_gml_362_0
 scr_text_slash_scr_text_gml_363_0
 scr_text_slash_scr_text_gml_364_0
-* (Hay dos objetos colgando del árbol.)/
+* (Hay dos items colgando del árbol.)/
 scr_text_slash_scr_text_gml_365_0
-* (Tomar uno?)/ 
+* (¿Tomar uno?)/ 
 scr_text_slash_scr_text_gml_366_0
 \C2
 scr_text_slash_scr_text_gml_370_0
-* (Hay un caramelo colgando del árbol.)/
+* (Hay un dulce colgando del árbol.)/
 scr_text_slash_scr_text_gml_371_0
 scr_text_slash_scr_text_gml_372_0
 scr_text_slash_scr_text_gml_377_0
-* (No hay nada lo suficientemente bajo como para llevar.)/%
+* (No hay nada colgando lo suficientemente bajo como para tomarlo.)/%
 scr_text_slash_scr_text_gml_388_0
 * (Obtuviste el Dulce Oscuro)/%
 scr_text_slash_scr_text_gml_393_0
-* (No puedes llevarte más.)/%
+* (No puedes llevar más.)/%
 scr_text_slash_scr_text_gml_399_0
-* (Decidiste dejar que el árbol se lo quedara.)/%
+* (Decides que el árbol se lo quede.)/%
 scr_text_slash_scr_text_gml_404_0
 scr_text_slash_scr_text_gml_405_0
 scr_text_slash_scr_text_gml_408_0
 scr_text_slash_scr_text_gml_409_0
 scr_text_slash_scr_text_gml_410_0
 scr_text_slash_scr_text_gml_411_0
-* (Tomar uno?)/
+* (¿Tomar uno?)/
 scr_text_slash_scr_text_gml_412_0
 scr_text_slash_scr_text_gml_416_0
 scr_text_slash_scr_text_gml_417_0
@@ -998,15 +998,15 @@ scr_text_slash_scr_text_gml_451_0
 scr_text_slash_scr_text_gml_454_0
 scr_text_slash_scr_text_gml_455_0
 scr_text_slash_scr_text_gml_456_0
-* (Los restos de la tarta siguen ardiendo...)/
+* (Los restos del pastel aun están moldeándose...)/
 scr_text_slash_scr_text_gml_457_0
-* (¿Tomar una pieza?)/
+* (¿Tomar un trozo?)/
 scr_text_slash_scr_text_gml_458_0
 scr_text_slash_scr_text_gml_462_0
-* (Los restos de la tarta siguen ardiendo...)/%
+* (Los restos de la tarta aun están moldeándose...)/%
 gml_Script_scr_keyitemget
 scr_text_slash_scr_text_gml_473_0
-* (Un Broken Cake ha sido añadido a tus \cYOBJETOS CLAVES\cW.)/%
+* (El Pastel Roto se agrego a tus \cYOBJETOS CLAVES\cW.)/%
 scr_text_slash_scr_text_gml_478_0
 scr_text_slash_scr_text_gml_484_0
 * (Decidiste que poner pastel en tus bolsillos es una mala idea.)/%
@@ -1018,57 +1018,57 @@ scr_text_slash_scr_text_gml_494_0
 Papel limpio
 scr_text_slash_scr_text_gml_497_0_b
 scr_text_slash_scr_text_gml_496_0
-* Muy bien^1, ¡todos han puesto sus entradas!/
+* Muy bien^1, ¡Todos todos pongan sus papeles!/
 scr_text_slash_scr_text_gml_497_0
-\E2* Persona azul^1, puedes elegir./
+\E2* Azulito^1, puedes elegir./
 scr_text_slash_scr_text_gml_498_0
 \E1* Ya que parece que no te importa./
 scr_text_slash_scr_text_gml_499_0
 \C3 
 scr_text_slash_scr_text_gml_502_0
 scr_text_slash_scr_text_gml_508_0
-* (Tomas el pedazo de papel arrugado.)/
+* (Tomaste el papel arrugado.)/
 scr_text_slash_scr_text_gml_509_0
-* (Lo abres.)/
+* (Lo abriste.)/
 gml_Script_scr_lanface
 scr_text_slash_scr_text_gml_511_0
 * OK!!&* Y su nombre es...!/
 scr_text_slash_scr_text_gml_512_0
 \E6* ... Hmm./
 scr_text_slash_scr_text_gml_513_0
-\E7* No creo que se me permita decir esto./
+\E7* Creo que no tengo permitido decir esto./
 scr_text_slash_scr_text_gml_517_0_b
-* Es PRONUNCIADO^1, "El escuadrón $!?#."/
+* Se PRONUNCIA^1, "El escuadrón de $!?#."/
 scr_text_slash_scr_text_gml_517_0
-* Woah^1, ¡No se me permite decir palabras de juramento de nivel dos!/
+* Woah^1, ¡No tengo permitido decir groserías de nivel DOS!/
 scr_text_slash_scr_text_gml_518_0
 \E3* Wow^1. El padre colectivo de ustedes tres debe ser genial./
 scr_text_slash_scr_text_gml_520_0
-* Er^1, ¿Podríamos QUIZÁS considerar un nombre DIFERENTE??/
+* Er^1, ¿Podríamos QUIZÁS considerar un nombre DIFERENTE?/
 scr_text_slash_scr_text_gml_522_0
 * Ralsei^1, no TIENES que estar en nuestro escuadrón./
 scr_text_slash_scr_text_gml_524_0
-* Si! ¿Qué tal si yo estoy en el Escuadrón y TÚ eres el malo?/
+* Si! ¿Qué tal si YO estoy en el Escuadrón y TÚ eres el tipo malo?/
 scr_text_slash_scr_text_gml_525_0
-\E1* Aquí^1.&* Llama a mi papá./
+\E1* Toma^1.&* Llama a mi padre./
 scr_text_slash_scr_text_gml_526_0
-* Dígale que tiene un nuevo hijo./
+* Dile que tiene un nuevo hijo./
 scr_text_slash_scr_text_gml_527_0
-\E3* Uno que tiene que ducharse cada vez que lee una palabrota./
+\E3* Uno que debe tomar una ducha cada vez que lee una grosería./
 A
 scr_text_slash_scr_text_gml_529_0
-* De acuerdo^1!&* ¡Podemos mantener el nombre^1!&* Simplemente no lo diré./
+* Bueno^1, vale!&* ¡Podemos mantener el nombre^1!&* Solo no lo diré./
 scr_text_slash_scr_text_gml_531_0
 * Haha^1, también!/
 scr_text_slash_scr_text_gml_532_0
-\E1* Nos vemos^1, perdedores^1!&* Es hora de la ducha!/%
+\E1* Nos vemos^1, perdedores^1!&* Es hora de una ducha!/%
 scr_text_slash_scr_text_gml_540_0
-* (Tomas el papel con "LANCER" escrito en el exterior.)/
+* (Tomas el papel que tenia escrito "LANCER" por fuera.)/
 scr_text_slash_scr_text_gml_541_0
 scr_text_slash_scr_text_gml_542_0
-* (En el interior...) &* (También dice "LANCER.")/
+* (Por dentro...) &* (También dice "LANCER.")/
 scr_text_slash_scr_text_gml_544_0
-* Wow^1, ¿Quién hizo ese^1?&* ¡Es realmente bueno!/
+* Wow^1, ¿Quién hizo ese^1?&* ¡Es muy bueno!/
 scr_text_slash_scr_text_gml_546_0
 * Espera^1, ¿por qué TÚ puedes elegir el nombre?/
 scr_text_slash_scr_text_gml_548_0
@@ -1076,9 +1076,9 @@ scr_text_slash_scr_text_gml_548_0
 scr_text_slash_scr_text_gml_550_0
 * Si^1!&* ¡No importa quién LO haya escrito!/
 scr_text_slash_scr_text_gml_551_0
-\E1* Independientemente^1, ¡LANCER se encontrará con la condena absoluta!/
+\E1* De todos modos^1, ¡LANCER está perdido!/
 scr_text_slash_scr_text_gml_552_0
-\E6* ... este nombre se siente raro^1, en realidad./
+\E6* ... en realidad^1, el nombre se siente muy raro./
 scr_text_slash_scr_text_gml_553_0
 \E4* Hmmm..../
 scr_text_slash_scr_text_gml_554_0
@@ -1086,42 +1086,42 @@ scr_text_slash_scr_text_gml_554_0
 scr_text_slash_scr_text_gml_555_0
 \E3* ¡Nos vemos más tarde^1, yo!/%
 scr_text_slash_scr_text_gml_563_0
-* (Tomas el pedazo de papel cuidadosamente doblado.)/
+* (Tomaste el papel doblado ordenadamente.)/
 scr_text_slash_scr_text_gml_564_0
 scr_text_slash_scr_text_gml_566_0
 * "Los Héroes Legendarios: El Heraldo de la Diversión y la Amistad"/
 scr_text_slash_scr_text_gml_568_0
-* Oh^1, oh!&* ¡Es mío!/
+* Oh^1, oh!&* ¡Ese es mío!/
 scr_text_slash_scr_text_gml_569_0
-\E0* Mira^1, creo que es el nombre perfecto.../
+\E0* Ves^1, creo que es el nombre perfecto.../
 scr_text_slash_scr_text_gml_570_0
-\E6* Porque todos somos amigos^1: A eso les gusta divertirse mucho./
+\E6* Porque todos somos amigos^1: Y nos gusta divertirnos./
 scr_text_slash_scr_text_gml_572_0
-* Okay^1, primero..^1. jeez^1, eso es un bocado^1 amigo./
+* Vale^1, primero..^1. Dios^1, es larguísimo./
 scr_text_slash_scr_text_gml_573_0
-* Segundo^1, ¿Qué van a pensar nuestros enemigos?/
+* Segundo^1, ¿qué pensaran nuestros enemigos?/
 scr_text_slash_scr_text_gml_574_0
-\E2* ¿Que vamos a ser AMIGOS con ellos?/
+\E2* ¿Que seremos AMIGOS con ellos?/
 scr_text_slash_scr_text_gml_575_0
 * ¡Cambiémoslo a algo CORTO^1! ¡INTIMIDANTE!/
 scr_text_slash_scr_text_gml_576_0
-\E4* Algo CONTUNDENTE^1! ¡Algo MALO!/
+\E4* Algo FUERTE^1! ¡Algo ATERRADOR!/
 scr_text_slash_scr_text_gml_578_0
 * ... como que?/
 scr_text_slash_scr_text_gml_580_0
-* Bueno^1, uh..^1.&* tu sabes^1, para empezar.../
+* Bueno^1, uh..^1.&* tu sabes^1, para principiantes.../
 scr_text_slash_scr_text_gml_581_0
 \E0* Qué tal..^1.&* SOLO^1, uh..^1./
 scr_text_slash_scr_text_gml_582_0
-\E6* "La pandilla divertida."/
+\E6* "La Pandilla Divertida."/
 scr_text_slash_scr_text_gml_583_0
-\E6* Ya sabes^1, solo^1, uh^1, concentrándose en la parte de "Diversión"./
+\E6* Ya sabes^1, solo^1, uh^1, concentrándose en la parte de "Divertida"./
 scr_text_slash_scr_text_gml_585_0
 * Es perfecto!!!/
 scr_text_slash_scr_text_gml_586_0
 * Bueno^1, nos vemos^1, Pandilla Divertida!/
 scr_text_slash_scr_text_gml_587_0
-* Tengo que ósmosizar mi leche de la tarde!/%
+* Tengo que hacer mi leche de la tarde!/%
 scr_text_slash_scr_text_gml_596_0
  #Si
 scr_text_slash_scr_text_gml_597_0
@@ -1129,11 +1129,11 @@ scr_text_slash_scr_text_gml_597_0
 scr_text_slash_scr_text_gml_600_0_b
 scr_text_slash_scr_text_gml_601_0_b
 scr_text_slash_scr_text_gml_600_0
-\E2* ¡Bien jingle mis campanas de goshdarn^1! ¡Parece que Krismas llegó temprano!/
+\E2* Bueno, ¡sonaron los cascabeles^1! ¡La Krisvidad llego antes!/
 scr_text_slash_scr_text_gml_601_0
-\E1* Muy bien^1, Kris^1. Sólo dame el tiro directo./
+\E1* Vale^1, Kris^1. Háblame directamente./
 scr_text_slash_scr_text_gml_602_0
-\E2* ¿Por qué estás aquí^1?&* ¿Tu mamá te hizo venir aquí?/
+\E2* ¿Por qué viniste aquí^1?&* ¿Tu madre te hizo venir?/
 scr_text_slash_scr_text_gml_603_0
 scr_text_slash_scr_text_gml_606_0
 scr_text_slash_scr_text_gml_608_0
@@ -1147,29 +1147,29 @@ Nada
 scr_text_slash_scr_text_gml_612_0
 \E0* Hey^1, Kris^1, ¿quieres hablar o algo?/
 scr_text_slash_scr_text_gml_613_0
-\E2* No te preocupes^1, ¡no hay forma de que puedas aburrirme ahora mismo!/
+\E2* No te preocupes^1, ¡no hay forma de que me aburras ahora!/
 scr_text_slash_scr_text_gml_614_0
 \C4 
 scr_text_slash_scr_text_gml_619_0
-\E2* Jajaja^1, Eso es lo que pensé^1!&* Ella es un melocotón, ¿eh...?/
+\E2* Jajaja^1, ¡eso pensé^1!&* ¿Es tan DULCE^1, huh...?/
 scr_text_slash_scr_text_gml_620_0
-\E7* Fuzzy n' sweet en el exterior^1, UNA TUERCA total en el interior!/
+\E7* Rizada y dulce por fuera^1, ¡una total CHIFLADA por dentro!/
 scr_text_slash_scr_text_gml_621_0
-\E0* Oh^1, tu papá^1? Sí^1, él también es una verdadera fruta./
+\E0* Oh^1, tu padre^1? Sí^1, él también es dulce como una fruta./
 scr_text_slash_scr_text_gml_622_0
-\E7* ¿Cuál^1? No sé, probablemente uno peludo...^1 como un kiwi./
+\E7* ¿Cuál^1? No sé, probablemente una peludo...^1 como un kiwi./
 scr_text_slash_scr_text_gml_625_0
 \E7* Jajajaja!!!/
 scr_text_slash_scr_text_gml_626_0
-\E0* Okay^1, okay^1, en serio^1, ¿Quieres chatear o algo así?/
+\E0* Vale^1, vale^1, en serio^1, ¿Quieres hablar o algo?/
 scr_text_slash_scr_text_gml_630_0
 \E1* ¿En serio^1?&* Has crecido mucho^1, Kris./
 scr_text_slash_scr_text_gml_631_0
-\E4* Estoy orgulloso de ti/
+\E4* Estoy orgulloso de ti./
 scr_text_slash_scr_text_gml_632_0
-\E5* No fue hace mucho cuando tu eras solo el chico raro cercano./
+\E5* No hace mucho eras el chico aterrador del lado./
 scr_text_slash_scr_text_gml_633_0
-\E7* ¡Ahora eres el chico espeluznante delante de mí!/
+\E7* ¡Ahora eres el chico aterrador frente a mi!/
 scr_text_slash_scr_text_gml_634_0
 * Jajajaja!!!/
 scr_text_slash_scr_text_gml_635_0
@@ -1183,29 +1183,29 @@ scr_text_slash_scr_text_gml_647_0
 scr_text_slash_scr_text_gml_648_0
 \E5* Solo desearía que ella no fuera tan..^1. indefensa./
 scr_text_slash_scr_text_gml_649_0
-\E1* Películas de miedo^1, errores^1, Santa Claus..^1. todo la asusta./
+\E1* Películas de miedo^1, bichos^1, Santa Claus..^1. todo la asusta./
 scr_text_slash_scr_text_gml_650_0
-\E5* Y cuando sucede^1, se congela como un ciervo en los faros./
+\E5* Y cuando sucede^1, se congela como un reno en faros./
 scr_text_slash_scr_text_gml_651_0
-\E0* Recuerda que incluso solía tener miedo de los humanos debajo de la cama?/
+\E0* ¿Recuerdas cuando se asustaba hasta de humanos bajo su cama?/
 scr_text_slash_scr_text_gml_652_0
-\E7* (Kris^1, NO fue agradable de tu parte esconderte debajo de allí)/
+\E7* (Kris^1, ¡no fue BUENO de tu parte esconderte ahí^1, por cierto!)/
 scr_text_slash_scr_text_gml_653_0
-\E1* ... de todos modos^1, eso es lo difícil de estar aquí Kris./
+\E1* ... de todos modos^1, eso es lo que es duro de estar aquí^1, Kris./
 scr_text_slash_scr_text_gml_654_0
-\E4* No es lo que me pasa./
+\E4* No lo que pasa conmigo./
 scr_text_slash_scr_text_gml_655_0
-\E5* Sólo eso..^1. mientras tanto^1, no puedo estar allí para protegerla./
+\E5* Solo que..^1. mientras tanto^1, no puedo estar ahí para protegerla./
 scr_text_slash_scr_text_gml_656_0
-\E3* Mantenga un ojo a ella^1, ¿de acuerdo?/%
+\E3* Mantén el ojo abierto en ella por mi^1, ¿vale?/%
 scr_text_slash_scr_text_gml_660_0
-\E3* Kris^1, aunque nos hayamos separado^1, todavía amamos a tu familia./
+\E3* Kris^1, incluso si hemos crecido separados^1, aun amamos a tu familia./
 scr_text_slash_scr_text_gml_661_0
-\E4* Después de todo^1, Asgore y yo éramos amigos de la universidad^1, ¿verdad?/
+\E4* Después de todo^1, yo y Asgore fuimos amigos en la universidad^1, ¿verdad?/
 scr_text_slash_scr_text_gml_662_0
-\E1* Hola..^1. ahora que Asriel se va a la universidad.../
+\E1* Oh hey..^1. ahora que Asriel fue a la universidad.../
 scr_text_slash_scr_text_gml_663_0
-\E2* ¿Crees que está haciendo alguna fiesta de locos^1, como tu padre y yo?/
+\E2* ¿Crees qué organice fiestas LOCAS^1, como yo y tu papá?/
 scr_text_slash_scr_text_gml_664_0
 \E3* Heh^1, Solo estoy bromeando^1. Tu papá no era un animal de fiesta./
 scr_text_slash_scr_text_gml_665_0
