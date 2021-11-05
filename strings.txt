@@ -15027,7 +15027,7 @@ conwait
 obj_classscene_slash_Step_0_gml_715_0
 \E7* Que tengan un^1 buen día!/
 obj_classscene_slash_Step_0_gml_716_0
-\E9* Y P-PORFAVOR^1! Recuerden sus proyectos grupales!/%
+\E9* Y P-POR FAVOR^1! Recuerden sus proyectos grupales!/%
 obj_classscene_slash_Step_0_gml_739_0
 \E1* Oh^1, um..^1. Kris? Estás..^1. bien?/
 obj_classscene_slash_Step_0_gml_740_0
@@ -31184,7 +31184,7 @@ obj_ch2_scene17b_slash_Step_0_gml_81_0
 obj_ch2_scene17b_slash_Step_0_gml_82_0
 \E0* Parece que hay una forma para comunicarse entre cuartos./%
 obj_ch2_scene17b_slash_Step_0_gml_93_0
-\E1* Conveniente Verdad en serio Pensé En Todo/%
+\E1* Conveniente Verdad En Serio Pensé En Todo/%
 obj_ch2_scene17b_slash_Step_0_gml_103_0
 \EH* Cállate!!/
 obj_ch2_scene17b_slash_Step_0_gml_104_0
@@ -31928,9 +31928,9 @@ bottom_collider
 left_collider
 right_collider
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_33_0
-\EL* H-huh? Algo está bloqueando el camino.../%
+\EL* ¿H-huh? Algo está bloqueando el camino.../%
 obj_ch2_scene21_puzzle_entrance_slash_Step_0_gml_50_0
-\EJ* Tal vez podemos hallar una manera de sacarlo...?/%
+\EJ* ¿Tal vez podemos hallar una manera de sacarlo...?/%
 TILES_Mansion_Hide_1
 TILES_Mansion_Hide_2
 actor_shadow
@@ -33289,7 +33289,7 @@ obj_ch2_scene27_slash_Step_0_gml_205_0
 obj_ch2_scene27_slash_Step_0_gml_206_0
 \Ed* ..^1. Digo.../%
 obj_ch2_scene27_slash_Step_0_gml_221_0
-\EI* Así que hay alguna razón para no hacerlo...?/
+\EI* ¿Así que hay alguna razón para no hacerlo...?/
 obj_ch2_scene27_slash_Step_0_gml_223_0
 \E4* No ahora que lo pienso./
 obj_ch2_scene27_slash_Step_0_gml_225_0
@@ -33301,9 +33301,9 @@ obj_ch2_scene27_slash_Step_0_gml_244_0
 obj_ch2_scene27_slash_Step_0_gml_245_0
 \EI* Crearé una nueva Fuente.../
 obj_ch2_scene27_slash_Step_0_gml_246_0
-\E4* Y desataré un brillante futuro!/
+\E4* ¡Y desataré un brillante futuro!/
 obj_ch2_scene27_slash_Step_0_gml_378_0
-* Un futuro que brille para nosotros!/
+* ¡Un futuro que brille para nosotros!/
 obj_ch2_scene27_slash_Step_0_gml_247_0
 * Un futuro donde la luz... nace de la OSCURIDAD!/%
 obj_ch2_scene27_slash_Step_0_gml_403_0
@@ -33492,9 +33492,9 @@ obj_ch2_scene28b_slash_Step_0_gml_155_0
 obj_ch2_scene28b_slash_Step_0_gml_157_0
 \E7* Qué paso?/%
 obj_ch2_scene28b_slash_Step_0_gml_168_0
-\EM* HAHA^1, b-bueno^1, umm ---/%
+\EM* JAJA^1, b-bueno^1, umm ---/%
 obj_ch2_scene28b_slash_Step_0_gml_175_0
-\EO* HAHA HEY^1, Berdly es hora de levantarte y salir!/%
+\EO* JAJA HEY^1, Berdly es hora de levantarte y salir!/%
 obj_ch2_scene28b_slash_Step_0_gml_184_0
 \E5* ..^1. Berdly?/%
 obj_ch2_scene28b_slash_Step_0_gml_208_0
@@ -33610,7 +33610,7 @@ obj_ch2_scene29_slash_Step_0_gml_56_0
 obj_ch2_scene29_slash_Step_0_gml_64_0
 obj_ch2_scene29_slash_Step_0_gml_71_0
 obj_ch2_scene29_slash_Step_0_gml_85_0
-\E2* Vamos alla./%
+\E2* Vamos allá./%
 cantrigger
 torieldoor
 housetop
@@ -33631,7 +33631,7 @@ obj_ch2_scene30a_slash_Step_0_gml_119_0
 obj_ch2_scene30a_slash_Step_0_gml_130_0
 \EK* (Kris^1, debería^1, um^1, probablemente irme^1, y....)/%
 obj_ch2_scene30a_slash_Step_0_gml_138_0
-\E4* Iba a hornear un pastel..^1. ¿Quieres un pedazo?/%
+\E4* Iba a hornear un pay..^1. ¿Quieres un pedazo?/%
 obj_ch2_scene30a_slash_Step_0_gml_146_0
 obj_ch2_scene30a_slash_Step_0_gml_154_0
 \EK* (Supongo que puedo quedarme un rato.)/%
@@ -33660,7 +33660,7 @@ obj_ch2_scene30b_slash_Step_0_gml_93_0
 obj_ch2_scene30b_slash_Step_0_gml_102_0
 \E1* Susie^1, por qué no te lavas las manos allí.../%
 obj_ch2_scene30b_slash_Step_0_gml_117_0
-\E4* Entonces podemos hacer el pastel juntos?/%
+\E4* Entonces podemos hacer el pay juntos?/%
 obj_ch2_scene30b_slash_Step_0_gml_121_0
 \E6* Hacerlo..^1. juntos?/
 obj_ch2_scene30b_slash_Step_0_gml_122_0
@@ -33688,7 +33688,7 @@ obj_ch2_scene30b_slash_Step_0_gml_196_0
 obj_ch2_scene30b_slash_Step_0_gml_205_0
 \E4* Oh^1, Kris^1! ¿Qué tal si LE muestras a Susie cómo hornearlo?/
 obj_ch2_scene30b_slash_Step_0_gml_207_0
-\E6* Kris!? Sabes cómo hacer una tarta!?/%
+\E6* Kris!? Sabes cómo hacer una pay!?/%
 obj_ch2_scene30b_slash_Step_0_gml_224_0
 \EH* ¿No ME has dicho nada entonces^1, tonto!!/
 obj_ch2_scene30b_slash_Step_0_gml_225_0
@@ -33704,7 +33704,7 @@ obj_ch2_scene30b_slash_Step_0_gml_281_0
 obj_ch2_scene30b_slash_Step_0_gml_282_0
 \E1* Entonces^1, supongo que le enseñaré a Susie por ahora./
 obj_ch2_scene30b_slash_Step_0_gml_283_0
-\E0* Susie y yo empezaremos a prepararnos para hacer el pastel!/%
+\E0* Susie y yo empezaremos a prepararnos para hacer el pay!/%
 obj_ch2_scene30b_slash_Step_0_gml_294_0
 \E6* Uhhh^1, lo haremos? Espera--!/%
 obj_ch2_scene30b_slash_Step_0_gml_373_0
@@ -33818,7 +33818,7 @@ obj_ch2_scene32_slash_Step_0_gml_148_0
 obj_ch2_scene32_slash_Step_0_gml_157_0
 \E7* ¿Y ahora qué?/%
 obj_ch2_scene32_slash_Step_0_gml_165_0
-\E1* Oh^1, err^1, el pie.../%
+\E1* Oh^1, err^1, el pay.../%
 obj_ch2_scene32_slash_Step_0_gml_172_0
 \E0* Ya hemos trabajado muy duro^1, ¿no lo creen?/
 obj_ch2_scene32_slash_Step_0_gml_173_0
@@ -34995,7 +34995,7 @@ obj_ch2_city08_slash_Step_0_gml_318_0
 obj_ch2_city08_slash_Step_0_gml_320_0
 \EB* Berdly/
 obj_ch2_city08_slash_Step_0_gml_321_0
-\E6* Solo Juego Free Fire/%
+\E6* Solo Juego Payaso Esponja Horror Horripilante Abuelita miedo/%
 obj_ch2_city08_slash_Step_0_gml_333_0
 \E3* NOOOOOOOO!!!!!!/
 obj_ch2_city08_slash_Step_0_gml_335_0
@@ -35078,50 +35078,50 @@ obj_ch2_city_berdly_slash_Step_0_gml_131_0
 obj_ch2_city_berdly_slash_Step_0_gml_132_0
 \EG* Es por eso que no estas con Queen./%
 obj_ch2_city_berdly_slash_Step_0_gml_141_0
-\E2* Berdly..^1. lo entiendes?/%
+\E2* Berdly..^1. ¿lo entiendes?/%
 obj_ch2_city_berdly_slash_Step_0_gml_149_0
-\E5* Si!^1! Lo entiendo!!/%
+\E5* ¡¡Si!^1! ¡¡Lo entiendo!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_163_0
-\E6* Kris te está FORZANDO a ti para que estes en SU lado!!/
+\E6* ¡¡Kris te está FORZANDO a ti para que estes en SU lado!!/
 obj_ch2_city_berdly_slash_Step_0_gml_164_0
-\E2* Secuestrador!^1! Kris^1, nuestra tregua..^1. se ACABÓ!!!/%
+\E2* ¡¡Secuestrador!^1! Kris^1, nuestra tregua..^1. ¡¡¡se ACABÓ!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_179_0
-\E6* Noelle!^1! Puede que esto duela^1, pero es para ayudarte!!/
+\E6* ¡Noelle!^1! ¡Puede que esto duela^1, pero es para ayudarte!!/
 obj_ch2_city_berdly_slash_Step_0_gml_181_0
-\EE* E-espera^1, solo escúchame---!!!/%
+\EE* E-espera^1, ¡¡¡solo escúchame---!!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_234_0
-\E5* Noelle^1! Ahí estas!/
+\E5* ¡Noelle^1! ¡Ahí estas!/
 obj_ch2_city_berdly_slash_Step_0_gml_235_0
 \E4* ¡Justo a tiempo^1! Ambos podemos volver a Queen y--/%
 obj_ch2_city_berdly_slash_Step_0_gml_221_0
 obj_ch2_city_berdly_slash_Step_0_gml_222_0
-\E3* Noelle?/
+\E3* ¿Noelle?/
 obj_ch2_city_berdly_slash_Step_0_gml_251_0
 \Ee* Kris^1, parece otro enemigo./
 obj_ch2_city_berdly_slash_Step_0_gml_252_0
 \Ed* ¿Debo congelarlo?/
 obj_ch2_city_berdly_slash_Step_0_gml_254_0
-\EN* N..^1. Noelle?/
+\EN* N..^1. ¿Noelle?/
 obj_ch2_city_berdly_slash_Step_0_gml_255_0_b
-\EN* Noelle^1, soy yo^1, no me reconoces!?/%
+\EN* Noelle^1, soy yo^1, ¿¡no me reconoces!?/%
 d.ogg
 obj_ch2_city_berdly_slash_Step_0_gml_268_0
-\EB* ...!?!?/
+\EB* ¿¡¿¡...!?!?/
 obj_ch2_city_berdly_slash_Step_0_gml_269_0
 \EB* B..^1. Berdly!?/
 obj_ch2_city_berdly_slash_Step_0_gml_271_0
-\EN* Noelle^1, Estás bien...?/
+\EN* Noelle^1 ¿Estás bien...?/
 obj_ch2_city_berdly_slash_Step_0_gml_272_0
-\EN* Qué..^1. Qué estás haciendo con Kris?/%
+\EN* Qué..^1. ¿Qué estás haciendo con Kris?/%
 obj_ch2_city_berdly_slash_Step_0_gml_283_0
 \ED* Sólo estoy, sólo estamos.../
 obj_ch2_city_berdly_slash_Step_0_gml_279_0
 obj_ch2_city_berdly_slash_Step_0_gml_280_0
 \EZ* Fortaleciéndome.../%
 obj_ch2_city_berdly_slash_Step_0_gml_285_0
-\EN* Qu..^1. que? Proceder..^1. ¿Dónde?/
+\EN* Qu..^1. ¿qué? Proceder..^1. ¿Dónde?/
 obj_ch2_city_berdly_slash_Step_0_gml_286_0
-\EN* Noelle^1, De qué están hablando!?/
+\EN* Noelle^1, ¿De qué está hablando!?/
 obj_ch2_city_berdly_slash_Step_0_gml_302_0
 \EZ* .../
 obj_ch2_city_berdly_slash_Step_0_gml_304_0
@@ -35131,13 +35131,13 @@ obj_ch2_city_berdly_slash_Step_0_gml_305_0
 obj_ch2_city_berdly_slash_Step_0_gml_318_0
 \EB* Entonces no tengo más remedio que detenerte por la fuerza!/%
 obj_ch2_city_berdly_slash_Step_0_gml_315_0
-\EA* Kris^1, prepárate!!/%
+\EA* ¡¡Kris^1, prepárate!!/%
 obj_ch2_city_berdly_slash_Step_0_gml_338_0
-\EX* E-espera^1, Berdly^1, para!/
+\EX* E-espera^1, Berdly^1, ¡para!/
 obj_ch2_city_berdly_slash_Step_0_gml_339_0
-\EY* Huye!/%
+\EY* ¡Huye!/%
 obj_ch2_city_berdly_slash_Step_0_gml_345_0
-\E3* De mí!?/%
+\E3* ¿¡De mí!?/%
 obj_ch2_city_berdly_slash_Step_0_gml_353_0
 \E2* (A..^1. así es^1, qué estaba pensando ahora?)/
 obj_ch2_city_berdly_slash_Step_0_gml_354_0
@@ -35161,13 +35161,13 @@ obj_ch2_city_berdly_slash_Step_0_gml_536_0
 obj_ch2_city_berdly_slash_Step_0_gml_537_0
 \E3* Kris^1, tal vez debimos haber ido mas suave.../%
 obj_ch2_city_berdly_slash_Step_0_gml_550_0
-\E6* Más suave!? Ja^1! Jaja^1! Jajaja!/
+\E6* ¿Más suave!? ¡Ja^1! ¡Jaja^1! ¡Jajaja!/
 obj_ch2_city_berdly_slash_Step_0_gml_551_0
-\ED* El único que iba suave^1, era yo!/%
+\ED* ¡El único que iba suave^1, era yo!/%
 obj_ch2_city_berdly_slash_Step_0_gml_563_0
 \E2* Te ves..^1. Exhausto./%
 obj_ch2_city_berdly_slash_Step_0_gml_573_0
-\ED* Estoy cansado por RETENER MI FUERZA VERDADERA!/%
+\ED* ¡Estoy cansado por RETENER MI FUERZA VERDADERA!/%
 obj_ch2_city_berdly_slash_Step_0_gml_583_0
 \EE* Ah^1, Noelle. Sería muy fácil salvarte ahora./
 obj_ch2_city_berdly_slash_Step_0_gml_584_0
@@ -35182,7 +35182,7 @@ obj_ch2_city_berdly_slash_Step_0_gml_619_0
 \E4* (Si tan solo me hubiera escuchado...)/%
 obj_ch2_city_berdly_slash_Step_0_gml_636_0
 obj_ch2_city_berdly_slash_Step_0_gml_637_0
-\E2* Kris...?/
+\E2* ¿Kris...?/
 obj_ch2_city_berdly_slash_Step_0_gml_638_0
 obj_ch2_city_berdly_slash_Step_0_gml_639_0
 \E2* Umm^1, justo a tiempo.../
@@ -35194,9 +35194,9 @@ obj_ch2_city_berdly_slash_Step_0_gml_642_0
 obj_ch2_city_berdly_slash_Step_0_gml_643_0
 \Ee* (Procede...)/
 obj_ch2_city_berdly_slash_Step_0_gml_644_0
-\Ec* (Por qué..^1. siguen diciendo eso...?)/
+\Ec* (¿Por qué..^1. siguen diciendo eso...?)/
 obj_ch2_city_berdly_slash_Step_0_gml_645_0
-\E4* ..^1. e-espera^1, lo entiendo!/
+\E4* ..^1. e-espera^1, ¡lo entiendo!/
 obj_ch2_city_berdly_slash_Step_0_gml_646_0
 \ES* Solo estabas intentando molestar a Berdly^1, verdad!?/
 obj_ch2_city_berdly_slash_Step_0_gml_647_0
@@ -35209,7 +35209,7 @@ obj_ch2_city_berdly_slash_Step_0_gml_650_0
 \E8* Supongo que los dos nos dejamos llevar...!/
 obj_ch2_city_berdly_slash_Step_0_gml_651_0
 obj_ch2_city_berdly_slash_Step_0_gml_652_0
-\Ed* (Pero en serio^1, en..^1. en que estaba pensando?)/%
+\Ed* (Pero en serio^1, en..^1. ¿en que estaba pensando?)/%
 release_timer
 traffic_car
 carnpc
@@ -35743,7 +35743,7 @@ obj_ch2_room_castle_susie_slash_Step_0_gml_74_0
 obj_ch2_room_castle_susie_slash_Step_0_gml_75_0
 \ED* ..^1. Mi propio cuarto^1, huh./%
 obj_ch2_room_castle_susie_slash_Step_0_gml_82_0
-\EA* Yo..^1. creo que eso es genial?/
+\EA* Yo..^1. ¿creo que eso es genial?/
 obj_ch2_room_castle_susie_slash_Step_0_gml_83_0
 \EA* Mi propio cuarto..^1. de esta forma./%
 obj_ch2_room_castle_susie_slash_Step_0_gml_89_0
@@ -36447,11 +36447,11 @@ _currentState
 _easedLerp
 sprite_pos_left
 obj_shapepuzzle_slash_Draw_0_gml_181_0
-#Move
+#Mover
 move_text
 sprite_pos
 obj_shapepuzzle_slash_Draw_0_gml_192_0
-Rotate#Quit
+Rotar#Salir
 rotate_text
 obj_shapepuzzle_slash_Draw_0_gml_171_0
 [Flechas]#Mover
@@ -41925,13 +41925,13 @@ line_height_ja
 select_padding
 confirming
 visit_shop
-This program is intended for players#who are already familiar with UNDERTALE.
+Este programa es intencionado#para quien ya este familiarizado con UNDERTALE.
 played_text_en
 このプログラムは、
 played_text_ja_1
 すでに「UNDERTALE」をプレイした方向けです。
 played_text_ja_2
-Would you like to check out UNDERTALE first?
+Te gustaría ver UNDERTALE primero?
 check_text_en
 まだプレイしたことのない方は、
 check_text_ja_1
