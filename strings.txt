@@ -1213,27 +1213,27 @@ scr_text_slash_scr_text_gml_665_0
 scr_text_slash_scr_text_gml_666_0
 \E4* Ella siempre se preocupaba por ir^1, pero una vez que comenzó la fiesta.../
 scr_text_slash_scr_text_gml_667_0
-\E7* Yikes^1, man!/
+\E7* Demonios^1, amigo!/
 scr_text_slash_scr_text_gml_668_0
 \E7* ¡Una vez me golpeó a través de la habitación con un pastel de lima!/
 scr_text_slash_scr_text_gml_669_0
 \E2* ¡Me estrellé contra la mesa de bocadillos y derribé todo!/
 scr_text_slash_scr_text_gml_670_0
-\E7* Pastel sabroso aunque^1. No me puedo quejar./%
+\E7* Pastel sabroso^1. Aunque no me puedo quejar./%
 scr_text_slash_scr_text_gml_674_0
 \E1* ... Entonces^1, ¿por qué estoy aquí...?/
 scr_text_slash_scr_text_gml_675_0
-\E4* Bueno^1, encontraron algo de mierda^1, así que son solo algunas pruebas./
+\E4* Bueno^1, encontraron alguna tontería^1, así que son solo algunas pruebas./
 scr_text_slash_scr_text_gml_676_0
 \E3* Sí, no es problema^1. Nada que las vacaciones no puedan manejar./
 scr_text_slash_scr_text_gml_677_0
 \E4* Voy a salir de aquí en un momentito, entonces puedo volver a, no sé.../
 scr_text_slash_scr_text_gml_678_0
-\E2* Gritándole por enredarse en nuestra pantalla de luz./%
+\E2* Gritándote por enredarte en nuestra pantalla de luces./%
 scr_text_slash_scr_text_gml_683_0
 \E2* Entonces, ¿para qué demonios estás aquí Kris!^1? ¿¡sorprendido!?/
 scr_text_slash_scr_text_gml_684_0
-\E7* ¡Pensaste que este era el zoológico o algo así!^1? ¡No!/%
+\E7* ¡Pensaste que esto era el zoológico o algo!^1? ¡No!/%
 scr_text_slash_scr_text_gml_690_0
 No No No#No No No#No No No
 scr_text_slash_scr_text_gml_691_0
@@ -16841,7 +16841,7 @@ obj_npc_room_slash_Other_10_gml_2393_0
 obj_npc_room_slash_Other_10_gml_2394_0
 * Hasta ahora todo lo que he encontrado son bagels sobrevalorados.../%
 obj_npc_room_slash_Other_10_gml_2399_0
-* Bagels^1, doughnuts .../
+* Bagels^1, donas .../
 obj_npc_room_slash_Other_10_gml_2400_0
 * Por qué la masa redonda está siempre sobrevalorada?/
 obj_npc_room_slash_Other_10_gml_2401_0
@@ -16912,7 +16912,7 @@ obj_npc_room_slash_Other_10_gml_2525_0
 obj_npc_room_slash_Other_10_gml_2526_0
 * No había nada más que ruido de basura./%
 obj_npc_room_slash_Other_10_gml_2532_0
-* aun así^1, sólo tuvo más y más éxito./
+* Aun así^1, sólo tuvo más y más éxito./
 obj_npc_room_slash_Other_10_gml_2533_0
 * Se mudó a una lujosa habitación en la mansión de la Reina.../
 obj_npc_room_slash_Other_10_gml_2534_0
