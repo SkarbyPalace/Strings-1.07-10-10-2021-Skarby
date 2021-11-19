@@ -4166,7 +4166,7 @@ scr_text_slash_scr_text_gml_4179_0
 scr_text_slash_scr_text_gml_4180_0
 \EI* Sería ventajoso si nos dividimos./
 scr_text_slash_scr_text_gml_4181_0
-\E2* Con quieres ir?/
+\E2* Con quien quieres ir?/
 scr_text_slash_scr_text_gml_4182_0
 scr_text_slash_scr_text_gml_4186_0
 scr_text_slash_scr_text_gml_4191_0
@@ -5514,7 +5514,7 @@ scr_text_slash_scr_text_gml_6749_0
 scr_text_slash_scr_text_gml_6756_0
 * (Pusiste tu cabeza y soplaste.)/
 scr_text_slash_scr_text_gml_6758_0
-\EH* Kris!? Que diablos estás haciendo!?/
+\EH* Kris!? ¿¡Qué diablos estás haciendo!?/
 scr_text_slash_scr_text_gml_6759_0
 \E7* Huh? Intentas meter tu cabeza dentro? Si^1, yo t-/
 scr_text_slash_scr_text_gml_6760_0
@@ -17189,7 +17189,7 @@ obj_npc_sign_slash_Other_10_gml_305_0
 obj_npc_sign_slash_Other_10_gml_308_0
 \E7* Vamos Kris^1! ¡Solo cubre todo el cuadrado!/
 obj_npc_sign_slash_Other_10_gml_310_0
-\ED* ¡SILENCIO!^1! ¡No hay PISTAS!^1! ¡Esto es PÁJARO a HUMANO!/
+\ED* ¡¡SILENCIO!^1! ¡¡No hay PISTAS!^1! ¡Esto es PÁJARO a HUMANO!/
 obj_npc_sign_slash_Other_10_gml_311_0
 \EC* Eso significa QUE NO hay SUSIES^1, Y NO --/
 obj_npc_sign_slash_Other_10_gml_312_0
@@ -19214,7 +19214,7 @@ obj_readable_room1_slash_Other_10_gml_2492_0
 obj_readable_room1_slash_Other_10_gml_2494_0
 \E1* (Susie está pensando seguramente en su viaje con Noelle...)/
 obj_readable_room1_slash_Other_10_gml_2496_0
-\EK* (Que diablos es una ruleta^1, de todas formas?)/
+\EK* (Qué diablos es una ruleta^1, de todas formas?)/
 obj_readable_room1_slash_Other_10_gml_2497_0
 \EC* (¿Algún tipo de tanque con ruedas gigantes?)/%
 obj_readable_room1_slash_Other_10_gml_2512_0
@@ -31428,7 +31428,7 @@ obj_ch2_scene19c_slash_Step_0_gml_68_0
 \E2* El cual PROBABLEMENTE no tenga nada!/%
 obj_ch2_scene19c_slash_Step_0_gml_74_0
 obj_ch2_scene19c_slash_Step_0_gml_75_0
-\EC* Solo necesito entender..^1. por que.../
+\EC* Solo necesito entender..^1. por qué.../
 obj_ch2_scene19c_slash_Step_0_gml_76_0
 * Las formas no van juntas.../%
 obj_ch2_scene19c_slash_Step_0_gml_88_0
@@ -31637,7 +31637,7 @@ obj_ch2_scene20_slash_Step_0_gml_131_0
 obj_ch2_scene20_slash_Step_0_gml_204_0
 \EH* O-oh!^1! Kris^1, Susie!^1! Umm^1, cómo les puedo servir...?/
 obj_ch2_scene20_slash_Step_0_gml_206_0
-\E5* Que diablos estás haciendo!?/
+\E5* ¿¡Qué diablos estás haciendo!?/
 obj_ch2_scene20_slash_Step_0_gml_208_0
 \E2* Umm^1, Queen no tenía un cuarto para mi^1, así que..^1. err.../%
 obj_ch2_scene20_slash_Step_0_gml_215_0
@@ -34565,11 +34565,11 @@ spamton_meeting.ogg
 obj_ch2_city05_slash_Step_0_gml_149_0
 * LIGHT nER^1! HEY-HE Y HEY!!!/%
 obj_ch2_city05_slash_Step_0_gml_158_0
-* PARECE QUE ESTAMOS [[Solo esta noche?]]/%
+* PARECE QUE ESTAMOS [[¿Solos esta noche?]]/%
 obj_ch2_city05_slash_Step_0_gml_165_0
 * TODOS TUS AMIGOS^1, [[Te abandonaron por tan tonto]] QUE ERES?/%
 obj_ch2_city05_slash_Step_0_gml_172_0
-* LAS VENTAS^1, SE HAN IDO POR EL [[Desagüe]] [[Desagüe]]??/%
+* LAS VENTAS^1, SE HAN IDO POR EL [[Desague]] [[Desague]]??/%
 obj_ch2_city05_slash_Step_0_gml_180_0
 * VIVIENDO EN UN MALDITO GARAJE???/%
 obj_ch2_city05_slash_Step_0_gml_228_0
