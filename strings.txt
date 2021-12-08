@@ -34995,7 +34995,7 @@ obj_ch2_city08_slash_Step_0_gml_318_0
 obj_ch2_city08_slash_Step_0_gml_320_0
 \EB* Berdly/
 obj_ch2_city08_slash_Step_0_gml_321_0
-\E6* Solo Juego Payaso Esponja Horror Horripilante Abuelita miedo/%
+\E6* Solo Juego Juegos De Mobile/%
 obj_ch2_city08_slash_Step_0_gml_333_0
 \E3* NOOOOOOOO!!!!!!/
 obj_ch2_city08_slash_Step_0_gml_335_0
@@ -35007,7 +35007,7 @@ obj_ch2_city08_slash_Step_0_gml_337_0
 obj_ch2_city08_slash_Step_0_gml_338_0
 \EC* Vayan A Sus Habitaciones/%
 obj_ch2_city08_slash_Step_0_gml_382_0
-\EC* Qu..^1. Qué vas a hacer conmigo?/%
+\EC* Qu..^1. ¿Qué vas a hacer conmigo?/%
 obj_ch2_city08_slash_Step_0_gml_403_0
 \EI* Oh Rayos/
 obj_ch2_city08_slash_Step_0_gml_404_0
@@ -35019,7 +35019,7 @@ obj_ch2_city08_slash_Step_0_gml_406_0
 obj_ch2_city08_slash_Step_0_gml_528_0
 \E0* Parece que al fin encontramos la fuente.../
 obj_ch2_city08_slash_Step_0_gml_530_0
-\E0* Sí^1, ¿pero dónde se habrá metido Kris...?/%
+\E0* Sí^1, ¿Pero dónde se habrá metido Kris...?/%
 obj_ch2_city08_slash_Step_0_gml_541_0
 \E7* ¡Kris!/%
 obj_ch2_city08_slash_Step_0_gml_551_0
